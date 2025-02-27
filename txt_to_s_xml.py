@@ -1,4 +1,5 @@
 import os
+import sys
 import xml.etree.ElementTree as ET
 import re
 
@@ -15,12 +16,16 @@ def split_into_sentences(text):
     sentences = re.split(r'(?<!\.)\.(?!\.)', text)
     return [sentence.strip() for sentence in sentences if sentence.strip()]
 
-def create_xml_from_text_file(input_file, output_file):
-    """Converts a text file into an XML file with sentences enclosed in <s> elements."""
-    # Create the root elements
+def create_xml_from_text_file(input_file):
+    """Converts a single text file into an XML file with sentences enclosed in <s> elements."""
+    if not os.path.exists(input_file):
+        print(f"Error: File {input_file} not found.")
+        sys.exit(1)
+
+    output_file = input_file.replace(".txt", ".xml")
+
     text = ET.Element("text")
     body = ET.SubElement(text, "body")
-
     current_column = None
 
     with open(input_file, "r", encoding="utf-8") as file:
@@ -29,40 +34,33 @@ def create_xml_from_text_file(input_file, output_file):
             if not line:
                 continue
 
-            # Parse the line
-            siglum, column, line_number, content = parse_line(line)
+            try:
+                siglum, column, line_number, content = parse_line(line)
+            except ValueError:
+                print(f"Skipping invalid line in {input_file}: {line}")
+                continue
 
-            # Add a new column break if column changes
             if column != current_column:
                 ET.SubElement(body, "cb", n=column)
                 current_column = column
 
-            # Add a line break
             lb = ET.SubElement(body, "lb", n=line_number)
 
-            # Split content into sentences and add <s> elements
             sentences = split_into_sentences(content)
             for sentence in sentences:
                 s = ET.SubElement(body, "s")
                 s.text = sentence.replace("<", "&lt;").replace(">", "&gt;")
 
-    # Write the XML to the output file
     tree = ET.ElementTree(text)
     with open(output_file, "wb") as f:
         tree.write(f, encoding="utf-8", xml_declaration=True)
 
-def convert_folder_to_xml(input_folder, output_folder):
-    """Converts all text files in a folder to XML files."""
-    if not os.path.exists(output_folder):
-        os.makedirs(output_folder)
+    print(f"Converted {input_file} → {output_file}")
 
-    for filename in os.listdir(input_folder):
-        if filename.endswith(".txt"):
-            input_file = os.path.join(input_folder, filename)
-            output_file = os.path.join(output_folder, f"{os.path.splitext(filename)[0]}.xml")
-            create_xml_from_text_file(input_file, output_file)
+if __name__ == "__main__":
+    if len(sys.argv) < 2:
+        print("Usage: python txt_to_s_xml.py <input_file>")
+        sys.exit(1)
 
-# Example usage
-input_folder = "C:\\Users\\kmpen\\OneDrive\\Research\\Logos\\DSS\\output_files"  # Replace with the path to your folder with text files
-output_folder = input_folder  # Replace with the path to your desired output folder
-convert_folder_to_xml(input_folder, output_folder)
+    input_txt_file = sys.argv[1]
+    create_xml_from_text_file(input_txt_file)
