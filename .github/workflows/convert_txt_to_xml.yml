@@ -1,0 +1,43 @@
+name: Convert TXT to XML
+
+on:
+  push:
+    paths:
+      - "original/scroll/*.txt"  # Trigger when any .txt file in original/scroll changes
+
+jobs:
+  convert-txt-to-xml:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set Up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Required Python Libraries
+        run: |
+          python3 -m pip install --upgrade pip
+          python3 -m pip install lxml  # Install any necessary dependencies (not needed if already built-in)
+
+      - name: Run Script to Convert TXT to XML
+        run: |
+          python3 txt_to_s_xml.py
+
+      - name: Commit and Push XML Files
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'actions@github.com'
+
+          # Ensure only new or modified XML files are added
+          if [[ -n $(git status --porcelain original/scroll/*.xml) ]]; then
+            git add original/scroll/*.xml
+            git commit -m 'Auto-converted TXT files to XML'
+            git push
+          else
+            echo "No changes detected in XML files, skipping commit."
+          fi
+        continue-on-error: true  # Prevent errors if no new changes exist
