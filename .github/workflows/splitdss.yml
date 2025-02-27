@@ -3,7 +3,7 @@ name: Split DSS File
 on:
   push:
     paths:
-      - "dss.txt"  # Trigger workflow only when dss.txt changes
+      - "original/dss.txt"  # Trigger workflow only when dss.txt changes
 
 jobs:
   split-dss:
@@ -53,7 +53,7 @@ def split_file(input_file):
 
     print(f'Split completed. Output files are saved in the {output_dir} directory.')
 
-split_file('dss.txt')
+split_file('original/dss.txt')
 "
 
       - name: Commit and Push Output Files
@@ -62,11 +62,11 @@ split_file('dss.txt')
           git config --global user.email 'actions@github.com'
           
           # Add only if changes exist
-          if [[ -n $(git status --porcelain scroll/) ]]; then
-            git add scroll/
+          if [[ -n $(git status --porcelain original/scroll/) ]]; then
+            git add original/scroll/
             git commit -m 'Auto-split dss.txt into separate files'
             git push
           else
-            echo "No changes detected in scroll/, skipping commit."
+            echo "No changes detected in original/scroll/, skipping commit."
           fi
         continue-on-error: true  # Prevent errors if no changes are detected
