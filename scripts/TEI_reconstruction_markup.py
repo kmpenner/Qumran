@@ -7,22 +7,22 @@ def process_text(text):
     text = re.sub(r'\[\s*--\s*\]', '<gap reason="illegible" extent="unknown"/>', text)
 
     # Convert partially illegible words: [ -- word] -> <gap reason="illegible" extent="unknown"/> <supplied>word</supplied>
-    text = re.sub(r'\[\s*--\s*(.*?)\]', r'<gap reason="illegible" extent="unknown"/><supplied>\1</supplied>', text)
+    text = re.sub(r'\[\s*--\s*(.*?)\]', r'<gap reason="illegible" extent="unknown"/> <supplied>\1</supplied>', text)
 
     # Convert partially illegible words: [word -- ] -> <supplied>word</supplied> <gap reason="illegible" extent="unknown"/>
-    text = re.sub(r'\[(.*?)\s*--\s*\]', r'<supplied>\1</supplied><gap reason="illegible" extent="unknown"/>', text)
+    text = re.sub(r'\[(.*?)\s*--\s*\]', r'<supplied>\1</supplied> <gap reason="illegible" extent="unknown"/>', text)
 
     # Convert reconstructed text: [word] -> <supplied>word</supplied>
     text = re.sub(r'\[(.*?)\]', r'<supplied>\1</supplied>', text)
 
-    # Convert probable letters: letteṙ -> <unclear cert="high">letter</unclear>
-    text = re.sub(r'(\w)̇', r'<unclear cert="high">\1</unclear>', text)
+    # Convert probable letters: single or multiple letters with dots above
+    text = re.sub(r'((\ẇ)+)', lambda m: f'<unclear cert="high">{m.group(1).replace("̇", "")}</unclear>', text)
 
-    # Convert possible letters: ה֯ -> <unclear cert="low">ה</unclear>
-    text = re.sub(r'(\w)֯', r'<unclear cert="low">\1</unclear>', text)
+    # Convert possible letters: single or multiple letters with circles above
+    text = re.sub(r'((\w֯)+)', lambda m: f'<unclear cert="low">{m.group(1).replace("֯", "")}</unclear>', text)
 
-    # Convert unreadable letters: ◌ -> <gap reason="unreadable" extent="1 letter"/>
-    text = re.sub(r'◌+', '<gap reason="unreadable" extent="1 letter"/>', text)
+    # Convert unreadable letters: ◌ -> <gap reason="unreadable" extent="unknown"/>
+    text = re.sub(r'◌+', '<gap reason="unreadable" extent="unknown"/>', text)
 
     return text
 
@@ -48,7 +48,7 @@ def add_tei_markup(input_xml):
 
 # Sample input XML
 test_xml = """<?xml version='1.0' encoding='utf-8'?>
-<text><body><cb n="f1_5" /><lb n="1" /><s>[ -- י]ה֯ו̇ה [אדני יהי]ה בכם</s></body></text>"""
+<text><body><cb n="f1_5" /><lb n="3" /><s>[ -- ]י֯ם צר֯ב֯ ◌[ -- ]</s></body></text>"""
 
 # Process XML with TEI markup
 tei_output = add_tei_markup(test_xml)
