@@ -66,10 +66,6 @@ python3 scripts/sync_dss.py from-dss   # dss.txt wins
 python3 scripts/sync_dss.py to-dss     # scroll files win
 ```
 
-`convert_txt_to_xml.yml` is the older, shallower converter — it emits `<cb>`,
-`<lb>` and `<s>` only, and drops the reconstruction markup. `build_tei.py`
-supersedes it; retire it once nothing depends on its output.
-
 All the workflows that commit share the `commit-to-main` concurrency group, so
 they queue instead of racing each other to push.
 
