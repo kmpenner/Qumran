@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q424</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q424.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="high">ם</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="high">כ</unclear><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">ך</unclear>.   <del rend="erasure"> </del> עם פור<unclear cert="low">ס</unclear> <unclear cert="low">א</unclear><supplied reason="lost">ל</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/> חיץ <unclear cert="high">י</unclear>בחר לבנ<unclear cert="high">י</unclear>תה ותפל טח קירו.   גם הי<unclear cert="low">א</unclear> <gap reason="lost" extent="unknown"/>
+      <lb n="4"/><supplied reason="lost">מ</supplied><unclear cert="low">ס</unclear>תר מפני זרם.   <del rend="erasure"> </del> עם נעלם אל תקח חוק.   <del rend="erasure"> </del> ועם מת<unclear cert="low">מ</unclear><supplied reason="lost">ו</supplied><unclear cert="high">ט</unclear>ט אל
+      <lb n="5"/>תבוא בכור כי כעופרת כן ינתך ולא יעמוד לפני אש.   <del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="6"/>ביד עצל אל תפקד אט כי לא יצניע מלאכתך ואל תשלח דב<unclear cert="low">ר</unclear><supplied reason="lost"> </supplied>
+      <lb n="7"/>לקח כי לא יפלס כל ארחותיך.   <del rend="erasure"> </del> איש תלונה אל תא<unclear cert="low">מ</unclear><supplied reason="lost">ר ממנו</supplied>
+      <lb n="8"/>לקחת הון למחסורך.   <del rend="erasure"> </del> איש לוז שפתים אל תא<unclear cert="low">מ</unclear><supplied reason="lost">ין</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="9"/>משפט ך הלוז ילוז בשפתיו אחר אמת לא ירצה <gap reason="lost" extent="unknown"/>
+      <lb n="10"/>בפרי שפתו.   <del rend="erasure"> </del> איש רע עין אל תמשל ב<unclear cert="high">ה</unclear><unclear cert="low">ו</unclear><supplied reason="lost">נך</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="11"/><unclear cert="high">י</unclear>תכן שארכה לחפצך <gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="1"/> <gap reason="illegible" unit="character" quantity="1"/><unclear cert="low">טר</unclear> למותיר<unclear cert="low">י</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="12"/>ובעת קבץ ימצא חנף.   <del rend="erasure"> </del> קצר אפ<unclear cert="low">י</unclear><supplied reason="lost">ם אל</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="13"/>פתיים כי בלע יבלעם.   <del rend="erasure"> </del> איש<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/> <gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ט</supplied><unclear cert="low">ה</unclear><unclear cert="high">ר</unclear>הו מעוון משפט א<supplied reason="lost">ל</supplied> ומת<unclear cert="high">ו</unclear><supplied reason="lost">עבות</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">חנ</supplied>ף אל תערבהו בתוך ענו<supplied reason="lost">י</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><unclear cert="high">ן</unclear> ובן יונה י<unclear cert="low">ח</unclear><supplied reason="lost">י</supplied>דו<supplied reason="lost"> </supplied>איש א<gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><supplied reason="lost">אב</supplied><unclear cert="low">י</unclear>ונים אל ת<unclear cert="low">מ</unclear><supplied reason="lost">שי</supplied>ל<unclear cert="low">הו</unclear> <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/><unclear cert="low">ל</unclear><supplied reason="lost">א </supplied>יעשה <gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f3">
+      <lb n="1"/>ובמשקל<supplied reason="lost"> </supplied><unclear cert="high">ל</unclear>א <unclear cert="high">יע</unclear>שה פעלתו.   איש שופט בטרם ידרוש ומאמין בטרם <gap reason="lost" extent="unknown"/>
+      <lb n="2"/>אל תמשילהו ברודפי דעת כי לא יבין משפטם להצדיק צדיק ולהרשיע <unclear cert="low">ר</unclear><supplied reason="lost">שע</supplied>
+      <lb n="3"/>גם הוא יהיה לבוז.   <del rend="erasure"> </del> איש שוע עינים אל תשלח לחזות לישרים כ<unclear cert="low">י</unclear><gap reason="lost" extent="unknown"/><supplied reason="lost">.   </supplied>
+      <lb n="4"/>כבד אזן אל תשלח לדרוש משפט כי ריב אנשים לא יפלס כזורה לרו<unclear cert="low">ח</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="5"/>אשר לא תבר.   כן דובר לאזן אשר איננה שומעת ומספר לנם נרדם ברוח <unclear cert="low">ש</unclear><gap reason="lost" extent="unknown"/>.
+      <lb n="6"/>איש שמן לב אל תשלח לכרות מחשבות כי נסתרה חכמת לבו ולוא ימשול ב<supplied reason="lost">ה</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="7"/>חכמת ידיו לא ימצא.   <del rend="erasure"> </del> איש שכל יקבל <unclear cert="low">מ</unclear>וס<supplied reason="lost">ר</supplied>.   <del rend="erasure"> </del> איש ידע יפ<unclear cert="low">י</unclear>ק חכמה <gap reason="lost" extent="unknown"/>.
+      <lb n="8"/>איש ישר ירצה במשפט.   <del rend="erasure"> </del> איש אמת יש<supplied reason="lost">מח במש</supplied><unclear cert="high">ל</unclear>.   <del rend="erasure"> </del> איש חיל יקנא ל<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="9"/><supplied reason="lost">וה</supplied><unclear cert="low">ו</unclear>א בעל ריב לכול מסיגי גבול <supplied reason="lost"> </supplied>.   איש רח<unclear cert="low">מ</unclear><supplied reason="lost">ים יעש</supplied><unclear cert="low">ה</unclear><supplied reason="lost"> </supplied><unclear cert="high">צ</unclear>דקה לאביו<unclear cert="low">נ</unclear><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="10"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><unclear cert="high">ד</unclear>אג ל<unclear cert="low">כ</unclear><supplied reason="lost">ו</supplied>ל חסרי הון בני צדק<gap reason="lost" extent="unknown"/>
+      <lb n="11"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/>ר בכול הון<gap reason="lost" extent="unknown"/>
+      <lb n="12"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f4">
+      <lb n="1"/><unclear cert="low">ת</unclear><unclear cert="high">ש</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/>כלי<gap reason="lost" extent="unknown"/>
+      <lb n="3"/>אל<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="fA">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/> <unclear cert="low">י</unclear><unclear cert="high">א</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>ל<gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

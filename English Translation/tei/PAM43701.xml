@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>PAM43701</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of PAM43701.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f5">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="high">א</unclear>ין כ<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f103">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="high">נ</unclear>דע <gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f119">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>ת <unclear cert="high">ה</unclear>אלה <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -6,6 +6,10 @@ on:
       - "English Translation/original/scroll/*.txt"
   workflow_dispatch:        # allow a manual full run
 
+concurrency:
+  group: commit-to-main
+  cancel-in-progress: false
+
 jobs:
   convert-txt-to-xml:
     runs-on: ubuntu-latest

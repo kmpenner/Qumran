@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q351</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q351.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1i">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">י</supplied>הוחנ<gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> ? </supplied>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>חנטין ק 4.
+      </div>
+      <div type="column" n="f1ii">
+      <lb n="3"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="4"/>ק 2 <gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

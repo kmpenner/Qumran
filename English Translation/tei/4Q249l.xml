@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q249l</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q249l.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><supplied reason="lost">בגוים והריקתי אחריכם חרב ו</supplied><unclear cert="low">ה</unclear>י<unclear cert="low">ת</unclear><supplied reason="lost">ה ארצכם שממה ועריכם יהיו חרבה</supplied>.
+      <lb n="2"/><supplied reason="lost">אז תרצה הארץ את שבתתיה כ</supplied><unclear cert="low">ל</unclear> י<unclear cert="high">מ</unclear><unclear cert="low">י</unclear><supplied reason="lost"> השמה ואתם בארץ איביכם</supplied>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">אז תשבת ה</supplied>אר<unclear cert="low">ץ</unclear><supplied reason="lost"> והרצת את שבתתיה.</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/>ש<unclear cert="high">בת</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/>וא<unclear cert="high">ת</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/><supplied reason="lost">יש</supplied>ראל <gap reason="lost" extent="unknown"/>
+      <lb n="7"/><gap reason="lost" extent="unknown"/>ש<unclear cert="low">כ</unclear> <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

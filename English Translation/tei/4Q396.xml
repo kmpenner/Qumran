@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q396</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q396.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1_2i">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">אי</supplied><unclear cert="low">נ</unclear>ם שוחטים במ<unclear cert="high">ק</unclear><unclear cert="low">ד</unclear><unclear cert="high">ש</unclear>.
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">אנחנו חושבים שאין לזבוח א</supplied><unclear cert="high">ת</unclear> האם ואת ה<unclear cert="high">ו</unclear>לד ביום אחד.
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ועל האוכל אנח</supplied><unclear cert="low">נ</unclear>ו חושבים <unclear cert="high">ש</unclear>איאכל את ה<unclear cert="high">ו</unclear>לד
+      <lb n="4"/><gap reason="lost" extent="unknown"/><unclear cert="low">א</unclear> כ<unclear cert="high">ן</unclear> <unclear cert="high">וה</unclear>דבר כתוב עברה.   <del rend="erasure"> </del>
+      <lb n="5"/><supplied reason="lost">ועל העמוני והמואבי והממזר ופצוע הדכה וכרו</supplied>ת השפכת שהם באים
+      <lb n="6"/><supplied reason="lost">בקהל <gap reason="lost" extent="unknown"/> ונשים </supplied><unclear cert="high">ל</unclear><supplied reason="lost">ו</supplied><unclear cert="high">ק</unclear><unclear cert="low">ח</unclear><supplied reason="lost">ים להיו</supplied>ת<unclear cert="high">ם</unclear> עצ<unclear cert="high">ם</unclear>.
+      </div>
+      <div type="column" n="f1_2ii">
+      <lb n="1"/>ולהיות יראים מהמ<unclear cert="high">ק</unclear>ד<unclear cert="high">ש</unclear><supplied reason="lost">.   ואף על הסומים</supplied> <unclear cert="high">ש</unclear>אינם
+      <lb n="2"/>רואים להזהר מכל תער<unclear cert="low">ו</unclear><supplied reason="lost">בת ותערובת א</supplied><unclear cert="low">ש</unclear><unclear cert="high">ם</unclear> אינם
+      <lb n="3"/><unclear cert="high">ר</unclear><unclear cert="low">ו</unclear><unclear cert="high">א</unclear><unclear cert="low">י</unclear><unclear cert="high">ם</unclear>.   <unclear cert="low">ו</unclear>אפ על החר<supplied reason="lost">שים שלוא </supplied><unclear cert="high">ש</unclear>מעו חוק
+      <lb n="4"/>ומש<unclear cert="low">פ</unclear><unclear cert="high">ט</unclear> וטהרה ולא ש<unclear cert="high">מע</unclear>ו מ<unclear cert="high">ש</unclear><supplied reason="lost">פטי</supplied> <unclear cert="low">י</unclear>שראל
+      <lb n="5"/>כי שלוא ראה ולוא שמע לוא י<supplied reason="lost">דע </supplied><unclear cert="low">ל</unclear>עשות והמה
+      <lb n="6"/>באים לטהרת המקדש.   וא<unclear cert="low">פ</unclear><supplied reason="lost"> על המוצק</supplied><unclear cert="high">ו</unclear><supplied reason="lost">ת אנחנו</supplied>
+      <lb n="7"/>אומרים שהם שאין בהם <supplied reason="lost">טהרה.   ואף המוצקות</supplied>
+      <lb n="8"/>אינם מבדילות בין הטמא לט<supplied reason="lost">הור.   כי לחת המוצקות</supplied>
+      <lb n="9"/><unclear cert="high">ו</unclear><unclear cert="low">ה</unclear><unclear cert="high">מ</unclear>קבל מהמה כהם ל<supplied reason="lost">חה אחת.   ואין להבי למחני הקודש</supplied>
+      <lb n="10"/>כל<unclear cert="high">ב</unclear>ים שהם או<unclear cert="high">כל</unclear><supplied reason="lost">ים מקצת עצמות המקדש והבשר</supplied>
+      <lb n="11"/><supplied reason="lost">עלי</supplied><unclear cert="low">ה</unclear>ם כי ירו<supplied reason="lost">ש</supplied><unclear cert="high">ל</unclear><supplied reason="lost">ים היאה מחנה הקודש היא המקום</supplied>
+      </div>
+      <div type="column" n="f1_2iii">
+      <lb n="1"/><unclear cert="high">ש</unclear>בחר בו מכל שבטי <unclear cert="high">י</unclear><supplied reason="lost">שראל כי יר</supplied><unclear cert="high">ו</unclear>שלים היא ראש
+      <lb n="2"/><supplied reason="lost">מ</supplied><unclear cert="low">ח</unclear><unclear cert="high">נו</unclear>ת ישראל.   <unclear cert="high">וא</unclear>פ <unclear cert="high">ע</unclear><supplied reason="lost">ל מ</supplied><unclear cert="high">ט</unclear>ע<unclear cert="high">ת</unclear> <unclear cert="high">עצ</unclear><supplied reason="lost">י </supplied><unclear cert="low">ה</unclear><unclear cert="high">מ</unclear>אכל הנטע
+      <lb n="3"/><unclear cert="high">ב</unclear><unclear cert="low">א</unclear>רצ ישראל כראשית הוא לכוהנים ומעשר הבקר
+      <lb n="4"/>והצון לכו<unclear cert="low">ה</unclear>נ<unclear cert="high">י</unclear><unclear cert="low">ם</unclear> הוא.   ואפ על הצרועים <unclear cert="low">אנ</unclear><unclear cert="high">ח</unclear>נו
+      <lb n="5"/>א<supplied reason="lost">ומרים שלוא י</supplied>בואו <del rend="dots">{לט</del>} עם טהרת ה<unclear cert="high">ק</unclear>ו<unclear cert="high">ד</unclear><supplied reason="lost">ש</supplied> כי בדד
+      <lb n="6"/><supplied reason="lost">יהיו מחוץ לבית.   ו</supplied><unclear cert="high">א</unclear>ף כתוב ש<del rend="dots">{ב</del>}<add place="above">מ</add>עת <unclear cert="high">ש</unclear>יגלח וכבס <supplied reason="lost">י</supplied>שב מח<unclear cert="high">וץ</unclear>
+      <lb n="7"/><supplied reason="lost">לאוהלו שבעת י</supplied>מ<unclear cert="high">ים</unclear>.   ועתה בהיות טמאתם <unclear cert="high">ע</unclear>מהם
+      <lb n="8"/><supplied reason="lost">הצרועים באים ע</supplied><unclear cert="low">ם</unclear> <unclear cert="high">ט</unclear>הרת <unclear cert="high">ה</unclear>קודש לבית.   ואתם יודעים
+      <lb n="9"/><supplied reason="lost">שעל השוגג שלוא יעשה את המצוה</supplied> ונעלה ממנו להביא <del rend="dots">{ח</del>}
+      <lb n="10"/><supplied reason="lost">חטאת.   ועל העושה ביד רמה כת</supplied><unclear cert="high">ו</unclear>ב שהואה בוזה ומג<supplied reason="lost">ד</supplied><unclear cert="high">ף</unclear>.
+      <lb n="11"/><supplied reason="lost">ואף בהיות להמה טמאות נגע</supplied> אין להאכילם מהקו<supplied reason="lost">ד</supplied>שים
+      </div>
+      <div type="column" n="f1_2iv">
+      <lb n="1"/>עד בוא ה<unclear cert="high">ש</unclear>מש ביום השמיני.   וע<unclear cert="high">ל</unclear> <supplied reason="lost">טמאת נפש</supplied>
+      <lb n="2"/>האדם אנחנו אומרים שכול עצם ש<supplied reason="lost">היא חסרה</supplied>
+      <lb n="3"/><unclear cert="high">ו</unclear>שלמה כמשפ<unclear cert="high">ט</unclear> המת או החלל ה<unclear cert="low">וא</unclear>.   <supplied reason="lost"> <del rend="erasure"> </del> </supplied>
+      <lb n="4"/>ועל הזונות הנעסה בתוך העם והמה ב<supplied reason="lost">ני זרע</supplied>
+      <lb n="5"/>קדש משכתוב קודש ישראל.   ועל ב<unclear cert="high">ה</unclear><supplied reason="lost">מתו הטהורה</supplied>
+      <lb n="6"/>כתוב שלוא לרבעה כלאים.   ועל לבו<unclear cert="high">ש</unclear><supplied reason="lost">ו כתוב שלוא</supplied>
+      <lb n="7"/>יהיה שעטנז ושלוא לזרו<unclear cert="high">ע</unclear> שדו ו<unclear cert="low">כ</unclear><supplied reason="lost">רמו כלאים</supplied>
+      <lb n="8"/><supplied reason="lost">ב</supplied>גלל שהמה קדושים ובני אהרון ק<supplied reason="lost">דושי קדושים</supplied>.
+      <lb n="9"/><supplied reason="lost">וא</supplied><unclear cert="low">ת</unclear><unclear cert="high">ם</unclear> יודעים שמקצת <unclear cert="low">ה</unclear>כ<unclear cert="high">ה</unclear>נים <unclear cert="high">ו</unclear><unclear cert="low">ה</unclear><supplied reason="lost">עם מתערבים</supplied>.
+      <lb n="10"/><supplied reason="lost">והם </supplied><unclear cert="high">מ</unclear>תוככים ומטמא<unclear cert="low">י</unclear><supplied reason="lost">ם </supplied>את זר<unclear cert="low">ע</unclear><supplied reason="lost"> הקודש ואף</supplied>
+      <lb n="11"/>את <supplied reason="lost">זרע</supplied><unclear cert="high">ם</unclear> <unclear cert="high">עם</unclear> הזו<unclear cert="high">נו</unclear>ת <unclear cert="high">כ</unclear><supplied reason="lost">י לבני אהרון</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

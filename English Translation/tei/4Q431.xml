@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q431</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q431.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><unclear cert="low">ק</unclear>ודש <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">נב</unclear>זה כמו<unclear cert="low">נ</unclear><supplied reason="lost">י</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/>כמוני <unclear cert="low">ו</unclear>חדל <supplied reason="lost">ה</supplied>רע ידמה <unclear cert="low">ב</unclear><supplied reason="lost">י</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="3"/>תדמה בהריתי <supplied reason="lost">ו</supplied><unclear cert="low">מי</unclear> <unclear cert="high">י</unclear>ש<unclear cert="low">ו</unclear><supplied reason="lost">ה לי</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><unclear cert="low">מי</unclear> כמוני <unclear cert="low">ב</unclear>אלים <unclear cert="low">ל</unclear><gap reason="lost" extent="unknown"/><supplied reason="lost">מזל</supplied>
+      <lb n="5"/>ש<unclear cert="high">פ</unclear>תי מי יכיל מ<unclear cert="low">י</unclear><supplied reason="lost"> בלשון יעודני <gap reason="lost" extent="unknown"/>.   </supplied>
+      <lb n="6"/>ידיד המלכ רע לק<unclear cert="low">ד</unclear><supplied reason="lost">ושים ולוא יבוא <gap reason="lost" extent="unknown"/> ולכבודי</supplied>
+      <lb n="7"/>לוא ידמה <unclear cert="low">כי</unclear> <unclear cert="low">א</unclear><supplied reason="lost">ני עם אלים מעמדי וכבוד <gap reason="lost" extent="unknown"/> לוא</supplied>
+      <lb n="8"/>בפז כ<gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">לי וכתם אופירים לוא <gap reason="lost" extent="unknown"/> בי <gap reason="lost" extent="unknown"/> לוא</supplied>
+      <lb n="9"/><unclear cert="low">י</unclear><supplied reason="lost">חשב בי</supplied>.   זמרו<supplied reason="lost"> ידידים שירו למלך הכבוד שמחו בעדת</supplied>.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><supplied reason="lost"> </supplied> ותמה רשעה <gap reason="lost" extent="unknown"/><supplied reason="lost">שבתה</supplied>
+      <lb n="2"/><supplied reason="lost">מדה</supplied>בה שבת נוגש בז<unclear cert="low">עם</unclear> <gap reason="lost" extent="unknown"/><supplied reason="lost">כלתה רמיה</supplied>
+      <lb n="3"/><supplied reason="lost">ואין נ</supplied><unclear cert="high">ע</unclear>וות בלוא דעת.   הופיע אור ושמחה <unclear cert="high">ת</unclear><unclear cert="low">ביע</unclear>.   <supplied reason="lost">אבד</supplied> <unclear cert="low">אבל</unclear>
+      <lb n="4"/><supplied reason="lost">ונס יגון ה</supplied>ופיע שלום שבת פחד נפתח מקור לברכת עד
+      <lb n="5"/><supplied reason="lost">ומרפא בכו</supplied><unclear cert="low">ל</unclear> <supplied reason="lost">קצי</supplied> עולם.   כלה עוון שבת נגע לאין מחלה נאס<unclear cert="low">פ</unclear><supplied reason="lost">ה</supplied>
+      <lb n="6"/><supplied reason="lost">עולה ואשמה לוא ת</supplied><unclear cert="low">ה</unclear>יה עוד.   השמיעו <add place="above">ו</add>אמורו גדול אל עושה
+      <lb n="7"/><supplied reason="lost">פלא.   כי השפיל גבהות </supplied>רום לאין שרית.   וירם מעפר אביון
+      <lb n="8"/><supplied reason="lost"><del rend="erasure"> </del> לרום עולם ועד ש</supplied><unclear cert="low">ח</unclear>קים יגביה בקומה.   ועם אלים בעדת
+      <lb n="9"/><supplied reason="lost"><del rend="erasure"> </del> יחד <gap reason="lost" extent="unknown"/> אף </supplied><unclear cert="high">ל</unclear><supplied reason="lost">כ</supplied><unclear cert="high">ל</unclear><supplied reason="lost">ו</supplied>ת עולם וכושלי ארץ.
+      </div>
+    </body>
+  </text>
+</TEI>

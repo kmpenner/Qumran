@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>PAM43697</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of PAM43697.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f24">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="3"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/> חרו <unclear cert="low">מ</unclear>א<unclear cert="low">ד</unclear><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f75">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>ם שכל <gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>בם <del rend="erasure"> </del> ואתן<gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="low">ו</unclear>לא תמצא ו<add place="above">א</add><unclear cert="high">ל</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f76">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">? י</supplied><unclear cert="high">ש</unclear>כון
+      <lb n="2"/><gap reason="lost" extent="unknown"/>ומש<unclear cert="high">פ</unclear>טיו.
+      </div>
+      <div type="column" n="f85">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">ר</unclear>ו טהר<unclear cert="high">ת</unclear><gap reason="lost" extent="unknown"/>.
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f86">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="high">ת</unclear> <unclear cert="high">ק</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>צא תב<gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/> מים <gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>עיל<supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f91">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> בנת <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>ל כל מי<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f93">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>בו ע<gap reason="illegible" unit="character" quantity="3"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/> היא הי<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="high">ל</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f94">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">ם</unclear> הגדו<unclear cert="high">ל</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>זה כ<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f95">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="high">ם</unclear> עם <del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="low">ב</unclear>רקים<gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q318</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q318.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="4">
+      <lb n="5"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ב</supplied>13 וב<supplied reason="lost">4</supplied>1
+      <lb n="6"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ב</supplied>9<supplied reason="lost">1</supplied> וב20 וב<supplied reason="lost">1</supplied>2
+      <lb n="7"/><gap reason="lost" extent="unknown"/><unclear cert="low">ב</unclear>27 וב28
+      <lb n="8"/><supplied reason="lost">בתולתא ב29 וב30 מוזניא.   </supplied><del rend="erasure"> </del>
+      <lb n="9"/><supplied reason="lost">תשרי ב1 וב2 עקרבא ב3 וב4 קשתא וב5 וב6 וב7</supplied> גדיא ב8.
+      </div>
+      <div type="column" n="7">
+      <lb n="1"/>וב13 וב<supplied reason="lost">4</supplied>1 <unclear cert="high">ס</unclear>רטנא ב15 וב16 א<unclear cert="low">ריא</unclear> ב17 וב<supplied reason="lost">8</supplied>1
+      <lb n="2"/>ב<unclear cert="low">תו</unclear>לתא ב<supplied reason="lost">9</supplied>1 וב20 וב21 מוזניא ב22 <unclear cert="low">וב</unclear><supplied reason="lost">3</supplied>2 עקרבא ב24
+      <lb n="3"/>וב25 קש<supplied reason="lost">תא</supplied> ב<supplied reason="lost">6</supplied>2 וב27 וב<supplied reason="lost">8</supplied>2<supplied reason="lost"> גדי</supplied><unclear cert="low">א</unclear> ב<supplied reason="lost">9</supplied>2
+      <lb n="4"/>וב30 דול<supplied reason="lost">א.   </supplied><del rend="erasure"> </del> שבט ב1 וב2<supplied reason="lost"> נוני</supplied>א ב<supplied reason="lost">3 ו</supplied><unclear cert="low">ב</unclear>4
+      <lb n="5"/><supplied reason="lost">דכר</supplied><unclear cert="low">א</unclear> ב5 וב<supplied reason="lost">6 וב</supplied>7 תורא ב<supplied reason="lost">8 וב9 תאומיא</supplied> ב10
+      <lb n="6"/><supplied reason="lost">וב11</supplied> סרטנא ב12<supplied reason="lost"> וב</supplied>13 וב14 אריא <supplied reason="lost">ב15 וב16 בתולתא</supplied>
+      <lb n="7"/>ב17 וב18 מוזניא ב19 ב<supplied reason="lost">20 וב21 ע</supplied><unclear cert="low">ק</unclear>רבא ב22
+      <lb n="8"/><unclear cert="high">ו</unclear>ב23 <unclear cert="high">קש</unclear>תא ב24 וב25 גדיא <unclear cert="low">ב</unclear><supplied reason="lost">6</supplied>2<supplied reason="lost"> ב</supplied>27 וב28
+      <lb n="9"/>דולא ב<supplied reason="lost">9</supplied>2 וב30 נוניא.   <del rend="erasure"> </del>
+      </div>
+      <div type="column" n="8">
+      <lb n="1"/>אדר ב1 וב2 דכרא ב3 וב4 תורא ב<supplied reason="lost">5 וב6 וב7 תאומיא</supplied>
+      <lb n="2"/>ב8 ב9 <unclear cert="high">ס</unclear><unclear cert="low">רטנא</unclear> <supplied reason="lost">ב10 וב11 א</supplied>ריא ב12 ו<supplied reason="lost">ב13 וב14</supplied>
+      <lb n="3"/>בתול<supplied reason="lost">ת</supplied>א ב15 וב<supplied reason="lost">16 מוזניא ב</supplied>7<supplied reason="lost">1</supplied> ב<supplied reason="lost">8</supplied>1<supplied reason="lost"> עקרבא</supplied>
+      <lb n="4"/><unclear cert="low">ב</unclear>9<supplied reason="lost">1</supplied> וב20 <corr>וב21</corr> קש<unclear cert="low">ת</unclear><supplied reason="lost">א ב22 וב23 ג</supplied>דיא <supplied reason="lost">ב24 וב25</supplied>
+      <lb n="5"/>דול<unclear cert="low">א</unclear> ב26 וב<supplied reason="lost">7</supplied>2<supplied reason="lost"> וב28</supplied> נו<supplied reason="lost">ניא ב29 וב30</supplied>
+      <lb n="6"/>דכרא.   <del rend="erasure"> </del><supplied reason="lost"> אם בתורא</supplied> ירעם מסבת על<gap reason="lost" extent="unknown"/>
+      <lb n="7"/><supplied reason="lost">ו</supplied><unclear cert="low">ע</unclear>מל למדינתא וחר<unclear cert="low">ב</unclear> <supplied reason="lost">בד</supplied>רת מלכא ובמדינתא ב<gap reason="lost" extent="unknown"/>
+      <lb n="8"/>להוא.   ולערביא <supplied reason="lost"> </supplied>א כפן ולהוון בזזין אלן בא<supplied reason="lost">לן.   </supplied><del rend="erasure"> </del>
+      <lb n="9"/>אם בתאומיא <unclear cert="low">י</unclear>רעם דחלה ומר<unclear cert="low">ע</unclear> מנכריא ומ<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ב9</supplied> וב<supplied reason="lost">10</supplied><gap reason="lost" extent="unknown"/>
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">2</supplied> וב<supplied reason="lost">3</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>ל<gap reason="lost" extent="unknown"/>
+      </div>
+      <div type="column" n="f3">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>7<gap reason="lost" extent="unknown"/>
+      </div>
+      <div type="column" n="f4">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>ב20<gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>ב23<gap reason="lost" extent="unknown"/>
+      </div>
+      <div type="column" n="f5">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>2<supplied reason="lost"> </supplied> וב<supplied reason="lost">2</supplied>2<gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/> <gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

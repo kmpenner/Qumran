@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q344</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q344.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="high">סף</unclear> <unclear cert="high">לש</unclear> ה<unclear cert="low">וי</unclear><unclear cert="high">מ</unclear><gap reason="illegible" unit="character" quantity="4"/><unclear cert="high">אלפי</unclear> <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>עמי אנה אלעזר בר <unclear cert="high">ה</unclear>סף<gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/><unclear cert="high">ן</unclear> <unclear cert="high">שב</unclear>עה <unclear cert="low">ו</unclear><unclear cert="high">מ</unclear><gap reason="illegible" unit="character" quantity="3"/><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/> <gap reason="illegible" unit="character" quantity="1"/><unclear cert="high">קתה</unclear> <unclear cert="high">מה</unclear> <gap reason="illegible" unit="character" quantity="2"/>ל <gap reason="illegible" unit="character" quantity="5"/><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><supplied reason="lost">תשלמתא מן נ</supplied><unclear cert="high">כ</unclear>סי ודי אקנה לקבל<corr>ד</corr>ך.
+      <lb n="6"/>אלעזר בר יהוסף על נפשה <unclear cert="high">כתב</unclear><supplied reason="lost">ה</supplied>
+      <lb n="7"/><gap reason="lost" extent="unknown"/><unclear cert="high">יהוס</unclear><supplied reason="lost">ף</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="8"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="4"/><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

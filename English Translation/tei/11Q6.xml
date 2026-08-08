@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>11Q6</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 11Q6.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f4_5">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>ודל אנוכי כי <gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">כי</supplied> לוא רמה תודה ל<unclear cert="low">כ</unclear><supplied reason="lost">ה</supplied>
+      <lb n="4"/><supplied reason="lost">ולוא תספר חסדכה תולעת.   ח</supplied><unclear cert="low">י</unclear> חי יודכה לכה יודו<supplied reason="lost"> לכה</supplied>
+      <lb n="5"/><supplied reason="lost">כול מוטטי רגל.   בהודיעכה</supplied> חסדכה להם וצדקתכ<supplied reason="lost">ה</supplied>
+      <lb n="6"/><supplied reason="lost">תשכילם.   כי בידכה נפש כול ח</supplied>י נשמת כול בשר אתה <supplied reason="lost">נתתה.   עשה</supplied>
+      <lb n="7"/><supplied reason="lost">עמנו יהוה כטובכה כרוב רחמ</supplied>יכה וכרוב צדקותיכ<supplied reason="lost">ה.   שמע</supplied>
+      <lb n="8"/><supplied reason="lost">יהוה בקול אוהבי שמו ולוא ע</supplied><unclear cert="low">ז</unclear>ב חסדו מהם.   בר<supplied reason="lost">וך יהוה</supplied>
+      <lb n="9"/><supplied reason="lost">עושה צדקות מעטר חסידיו </supplied>חסד ורחמים.   שאג<supplied reason="lost">ה</supplied>
+      <lb n="10"/><supplied reason="lost">נפשי להלל את שמכה להודות </supplied>ברנה חסדיכה לה<supplied reason="lost">גיד</supplied>
+      <lb n="11"/><supplied reason="lost">אמונתכה לתהלתכה אין חקר.   למות הייתי בחטאי ועוונותי</supplied>
+      <lb n="12"/><supplied reason="lost">לשאול מכרוני ותצילני יהוה כרוב רחמיכה וכרוב צדקותיכה</supplied>.
+      <lb n="13"/><supplied reason="lost">גם אני את שמכה אהבתי ובצלכה </supplied><unclear cert="low">ח</unclear>סיתי.   בזו<unclear cert="low">כ</unclear><supplied reason="lost">רי עוזכה יתקף</supplied>
+      <lb n="14"/><supplied reason="lost">לבי ועל חסדיכה אני נסמכת</supplied>י.   סלחה יהוה ל<unclear cert="low">ח</unclear><supplied reason="lost">טאתי וטהרני</supplied>
+      <lb n="15"/><supplied reason="lost">מעווני.   רוח אמונה ודעת ח</supplied><unclear cert="low">וננ</unclear>י אל אתקלה בע<supplied reason="lost">ויה.   אל</supplied>
+      <lb n="16"/><supplied reason="lost">תשלט בי שטן ורוח טמאה </supplied><unclear cert="low">מכא</unclear><supplied reason="lost">וב ויצר רע אל ירשו</supplied>.
+      </div>
+      <div type="column" n="f6">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">המ</supplied>תאוים
+      <lb n="2"/><supplied reason="lost">ליום ישעך וישישו ברוב כבודך זיז כבודך י</supplied><unclear cert="low">י</unclear>נקו.
+      </div>
+    </body>
+  </text>
+</TEI>

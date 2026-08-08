@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q446</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q446.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/><unclear cert="high">מ</unclear><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ולו</supplied><unclear cert="low">א</unclear> עוד יכריתנה מ<unclear cert="high">י</unclear><gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="high">מ</unclear>עשי כבודו ומשמי<unclear cert="high">ע</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/> ובלשוני מנות הוד<unclear cert="low">ו</unclear><supplied reason="lost">ת</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><unclear cert="high">ע</unclear>ת ^<gap reason="lost" extent="unknown"/><unclear cert="high">ו</unclear>כ<unclear cert="high">ו</unclear>^ אביוני פדו<unclear cert="low">תו</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/> <unclear cert="low">כבוד</unclear><supplied reason="lost"> </supplied>ל<unclear cert="high">ו</unclear><unclear cert="low">א</unclear> ת<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="5"/>ני א<unclear cert="low">ל</unclear><supplied reason="lost">ו</supplied>הים<gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ובוז </supplied><unclear cert="low">מבו</unclear>ז ושד משד וג<unclear cert="low">ב</unclear><gap reason="illegible" unit="character" quantity="1"/>ר<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">מש</supplied><unclear cert="low">כי</unclear>ל<unclear cert="low">י</unclear> <unclear cert="low">ת</unclear>ב<unclear cert="low">ו</unclear>נה המה רואים<gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/><unclear cert="low">ר</unclear><unclear cert="high">י</unclear> כבודו <unclear cert="low">ויפ</unclear><unclear cert="high">ח</unclear><unclear cert="low">ד</unclear><unclear cert="high">ו</unclear> מ<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><unclear cert="low">בכה</unclear> בל יש<unclear cert="low">אלו</unclear> על <unclear cert="low">פ</unclear><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="4"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f3">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>ל<supplied reason="lost"> </supplied><unclear cert="low">ר</unclear> תש<unclear cert="low">ו</unclear>קתנו <unclear cert="low">ע</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/><supplied reason="lost"> </supplied>פ<unclear cert="high">ד</unclear>ות<unclear cert="low">יך</unclear> <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

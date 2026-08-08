@@ -1,0 +1,59 @@
+name: Publish reading edition
+
+# Requires Pages to be enabled once, by hand:
+#   repo Settings -> Pages -> Build and deployment -> Source: GitHub Actions
+# Until that is done this workflow will fail at the "Configure Pages" step.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "English Translation/original/scroll/*.txt"
+      - "English Translation/scripts/build_site.py"
+      - "English Translation/scripts/build_tei.py"
+      - ".github/workflows/pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      # Build from source rather than trusting the committed TEI, so the site
+      # can never be a revision behind the transcriptions.
+      - name: Build TEI
+        run: python3 "English Translation/scripts/build_tei.py"
+
+      - name: Corpus statistics
+        run: python3 "English Translation/scripts/corpus_stats.py"
+
+      - name: Build site
+        run: python3 "English Translation/scripts/build_site.py" --out site
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

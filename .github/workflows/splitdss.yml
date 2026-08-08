@@ -6,6 +6,10 @@ on:
       - "English Translation/original/dss.txt"
   workflow_dispatch:
 
+concurrency:
+  group: commit-to-main
+  cancel-in-progress: false
+
 jobs:
   split-dss:
     runs-on: ubuntu-latest

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q321a</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q321a.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">השנה הראשונה בארבעה בגמול באחד בראשון.   בחמשה</supplied>
+      <lb n="3"/><supplied reason="lost">בידעיה בשלושים בוא השנית ודוקו בששה במעוזיה בשבעה עשר בוא</supplied>.
+      <lb n="4"/><supplied reason="lost">שבת בקוץ בשלושים בשני ודוקו באחד במלכיה בשבעה עשר</supplied> בוא.
+      <lb n="5"/><supplied reason="lost">באחד באלישיב בתשעה ועשרים בשלישי ודוקו</supplied> בשנים בישוע <unclear cert="low">ב</unclear><supplied reason="lost">ששה</supplied>
+      <lb n="6"/><supplied reason="lost">עשר בוא.   <del rend="erasure"> </del> בשלושה בבלגא בשמו</supplied>נה <unclear cert="low">וע</unclear>שרים <unclear cert="low">בר</unclear><unclear cert="high">ב</unclear>יעי
+      <lb n="7"/><supplied reason="lost">ודוקו בארבעה בחופה בחמשה עשר בוא</supplied>.   <del rend="erasure"> </del>
+      <lb n="8"/><supplied reason="lost">בארבעה בפתחיה בשבעה ועשרים בחמישי ודוקו בחמשה בחזי</supplied><unclear cert="low">ר</unclear>
+      <lb n="9"/><supplied reason="lost">בארבעה עשר בוא.   <del rend="erasure"> </del> בששה בדליה בשבעה ועשרים בששי</supplied>
+      <lb n="10"/><supplied reason="lost">ודוקו שבת בגמול בארבעה עשר בוא.   <del rend="erasure"> </del></supplied>
+      <lb n="11"/><supplied reason="lost">שבת בשעורים בחמשה ועשרים בשביעי ודוקו באחד בידעיה בשנים</supplied>
+      <lb n="12"/><supplied reason="lost">עשר בוא.   <del rend="erasure"> </del> בשנים באביה בחמשה ועשרים בשמיני ודוקו</supplied>
+      <lb n="13"/><supplied reason="lost">בשלושה במימין בשנים עשר בוא.   <del rend="erasure"> </del> בשלושה ביקים</supplied>
+      </div>
+      <div type="column" n="2">
+      <lb n="1"/>באר<unclear cert="low">ב</unclear><supplied reason="lost">עה ועשרים בתשיעי ודוקו בארבעה בשכניה</supplied>
+      <lb n="2"/>באחד עשר <supplied reason="lost">בוא.   <del rend="erasure"> </del> בחמשה באמר בשלושה ועשרים</supplied>
+      <lb n="3"/>בעשירי <unclear cert="low">ו</unclear><supplied reason="lost">דוקו בששה בישבאב בעשרה בוא.   <del rend="erasure"> </del></supplied>
+      <lb n="4"/>בששה <unclear cert="high">ב</unclear><supplied reason="lost">יחזקאל בשנים ועשרים בעשתי עשר החודש ודוקו</supplied>
+      <lb n="5"/>שבת בפתחיה <supplied reason="lost">בתשעה בוא.   <del rend="erasure"> </del> באחד ביויריב בשנים</supplied>
+      <lb n="6"/>ועשרים בשנים ע<unclear cert="high">ש</unclear><supplied reason="lost">ר החודש ודוקו בשנים בדליה בתשעה</supplied>
+      <lb n="7"/>בוא.   <del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="8"/>השנ<unclear cert="high">י</unclear><supplied reason="lost">ת החודש הראשון בשנים במלכיה בעשרים בוא ודוקו</supplied>
+      <lb n="9"/><supplied reason="lost">בשלושה בחרים בשבעה בוא.   <del rend="erasure"> </del> בארבעה בישוע בעשרים</supplied>
+      <lb n="10"/><supplied reason="lost">בשני ודוקו בחמשה בקוץ בשבעה בוא.   <del rend="erasure"> </del> בחמשה</supplied>
+      <lb n="11"/><supplied reason="lost">בחופה בתשעה עשר בשלישי ודוקו בששה באלישיב בששה בוא</supplied>.
+      <lb n="12"/><supplied reason="lost">שבת בפצץ בשמונה עשר ברביעי ודוקו באחד באמר בחמשה</supplied>
+      <lb n="13"/><supplied reason="lost">בוא.   <del rend="erasure"> </del> באחד בגמול בשבעה עשר בחמישי ודוקו בשנים</supplied>.
+      </div>
+      <div type="column" n="3">
+      <lb n="1"/><supplied reason="lost">בעשרה בשני ודוקו בשלושה בישבאב בששה ועשרים בוא</supplied>.
+      <lb n="2"/><supplied reason="lost">בשנים באמר בתשעה בשלישי ודוקו בחמשה בפצץ בששה וע</supplied>שרים
+      <lb n="3"/><supplied reason="lost">בוא.   <del rend="erasure"> </del> בארבעה ביחזקאל בשמונה ברביעי ודוקו בששה ב</supplied><unclear cert="high">ג</unclear>מול
+      <lb n="4"/><supplied reason="lost">ב</supplied>ארבעה <unclear cert="low">ו</unclear><supplied reason="lost">עשרים בוא.   <del rend="erasure"> </del> בחמשה במעוזיה בשבעה</supplied> <unclear cert="high">ב</unclear>חמישי
+      <lb n="5"/><supplied reason="lost">ודו</supplied><unclear cert="low">ק</unclear>ה בא<unclear cert="high">ח</unclear><supplied reason="lost">ד בחרים בארבעה ועשרים בוא.   <del rend="erasure"> </del> ש</supplied>בת במלכיה בשב<unclear cert="low">ע</unclear><supplied reason="lost">ה</supplied>
+      <lb n="6"/><supplied reason="lost">בששי <del rend="erasure"> </del> ודוקו בשנים בקוץ בשלושה ועשרים בו</supplied><unclear cert="low">א</unclear>.   <del rend="erasure"> </del>
+      <lb n="7"/><supplied reason="lost">באחד בישוע <del rend="erasure"> </del> בחמש</supplied><unclear cert="low">ה</unclear> ב<unclear cert="low">ש</unclear><supplied reason="lost">ביעי ודוקו בארבעה בא</supplied><unclear cert="low">ל</unclear><supplied reason="lost">ישי</supplied><unclear cert="high">ב</unclear> בשנים ועש<unclear cert="high">ר</unclear><supplied reason="lost">ים</supplied>
+      <lb n="8"/><supplied reason="lost">בוא.   <del rend="erasure"> </del> בשלושה בחופ</supplied><unclear cert="low">ה</unclear> <unclear cert="low">ב</unclear>חמ<unclear cert="low">ש</unclear><supplied reason="lost">ה בשמיני ודוקו בחמשה ב</supplied><unclear cert="high">ב</unclear>לגא
+      <lb n="9"/><supplied reason="lost">באחד ועשרים בוא.   בארב</supplied><unclear cert="low">ע</unclear>ה בחזי<supplied reason="lost">ר בארבעה בתשיעי ודוקו</supplied>
+      <lb n="10"/><supplied reason="lost">שבת ביחזקאל באחד ועשרים בוא.   <del rend="erasure"> </del> בששה ביכין בשלושה בעשירי</supplied>
+      <lb n="11"/><supplied reason="lost">ודוקו באחד במעוזיה בתשעה עשר בוא.   <del rend="erasure"> </del> שבת בידעיה בשנים</supplied>
+      <lb n="12"/><supplied reason="lost">בעשתי עשר החודש ודוקו בשלושה בשעורים בתשעה עשר בוא.   </supplied>
+      <lb n="13"/><supplied reason="lost">בשנים במימין בשנים בשנים עשר החודש ודוקו בארבעה באביה בשמונה</supplied>.
+      </div>
+      <div type="column" n="4">
+      <lb n="1"/><supplied reason="lost">עשר בוא.   <del rend="erasure"> </del> בחמשה בשעורים בשלושה ועשרים בעשירי</supplied>
+      <lb n="2"/><supplied reason="lost">ודוקו בששה בידעיה בעשרה בוא.   <del rend="erasure"> </del> בששה באביה בשנים</supplied>
+      <lb n="3"/><supplied reason="lost">ועשרים בעשתי עשר החודש ודוקו שבת בקוץ בתשעה בוא</supplied>.
+      <lb n="4"/><supplied reason="lost">באחד בחופה בשנים ועשרים בשנים עשר החודש ודוקו בשנים</supplied>
+      <lb n="5"/><supplied reason="lost">באלישיב בתשעה בוא.   <del rend="erasure"> </del></supplied>
+      <lb n="6"/><unclear cert="high">ה</unclear><supplied reason="lost">חמישית בשנים בחזיר בעשרים בראשון ודוקו בשלושה בבלגא</supplied>
+      <lb n="7"/>בש<unclear cert="high">ב</unclear><supplied reason="lost">עה בוא.   </supplied><del rend="erasure"> </del><supplied reason="lost"> בארבעה ביכין</supplied>
+      <lb n="8"/>ב<supplied reason="lost">עשרים בש</supplied><unclear cert="high">נ</unclear>י וד<unclear cert="high">וק</unclear>ו <unclear cert="high">ב</unclear><supplied reason="lost">חמשה בפתחיה בשבעה בוא.   <del rend="erasure"> </del></supplied>
+      <lb n="9"/><supplied reason="lost">בחמשה ביויר</supplied><unclear cert="low">י</unclear>ב <supplied reason="lost">בתשעה עשר בשלישי ודוקו בששה בדליה</supplied>
+      <lb n="10"/><supplied reason="lost">בששה בו</supplied><unclear cert="low">א</unclear>.   ש<supplied reason="lost">בת במימין בשמונה עשר ברביעי ודוקו באחד</supplied>
+      <lb n="11"/><supplied reason="lost">בשעו</supplied><unclear cert="low">ר</unclear><supplied reason="lost">ים בחמשה בוא.   <del rend="erasure"> </del> באחד בשכניה בשבעה עשר</supplied>
+      <lb n="12"/><supplied reason="lost">בחמישי ודוקו בשנים באביה בארבעה בוא.   <del rend="erasure"> </del></supplied>
+      <lb n="13"/><supplied reason="lost">בשלושה בישבאב בשבעה עשר בששי ודוקו בארבעה ביקים בארבעה</supplied>
+      </div>
+      <div type="column" n="5">
+      <lb n="1"/><supplied reason="lost">בוא.   <del rend="erasure"> </del> בארבעה בפ</supplied><unclear cert="low">צ</unclear>ץ <unclear cert="low">ב</unclear><supplied reason="lost">חמשה עשר בשביעי ודוקו</supplied>
+      <lb n="2"/><supplied reason="lost">בחמשה באמר בש</supplied><unclear cert="low">נ</unclear>ים בוא.   <del rend="erasure"> </del><supplied reason="lost"> בש</supplied><unclear cert="high">ש</unclear>ה בגמו<supplied reason="lost">ל בחמשה עשר בשמיני ודוקו</supplied>
+      <lb n="3"/><supplied reason="lost">שבת ביכי</supplied><unclear cert="low">ן</unclear> בשנים בוא.   שבת <unclear cert="low">ב</unclear><supplied reason="lost">חרי</supplied>ם בארבעה <unclear cert="low">ע</unclear><supplied reason="lost">שר בתשיעי ודוקו באחד</supplied>
+      <lb n="4"/><supplied reason="lost">ביוירי</supplied>ב באחד בוא.   <del rend="erasure"> </del> בשלושה במלכיה ב<unclear cert="low">ש</unclear><supplied reason="lost">לושים ואחד בוא דוקו שנית</supplied>
+      <lb n="5"/>בשנים בקוץ בשלושה עשר בעשירי ודוקו<unclear cert="high">ה</unclear><supplied reason="lost"> בארבעה בישוע בתשעה</supplied>
+      <lb n="6"/>ועשרים בוא.   <del rend="erasure"> </del> בשלושה באלישיב <unclear cert="low">ב</unclear><supplied reason="lost">שנים עשר בעשתי עשר החודש ודוקו</supplied>
+      <lb n="7"/>בששה בחופהא בתשעה <add place="above">ועשרים</add> <del rend="dots">{עשר</del>} בוא.   <del rend="erasure"> </del><supplied reason="lost"> בחמשה בבלגא בשנים עשר</supplied>
+      <lb n="8"/>בשנ<unclear cert="high">ים</unclear> <unclear cert="high">ע</unclear>שר החודש ודוקו שבת <supplied reason="lost">בפצץ בשמונה ועשרים בוא.   <del rend="erasure"> </del></supplied>
+      <lb n="9"/>ה<unclear cert="low">ש</unclear><supplied reason="lost">שי</supplied><unclear cert="low">ת</unclear> <unclear cert="low">ב</unclear><supplied reason="lost">ש</supplied><unclear cert="low">ש</unclear>ה בפתחיה בעשרי<unclear cert="high">ם</unclear><supplied reason="lost"> בראשון ודוקו בשנים בגמול בשבעה</supplied>
+      <lb n="10"/><supplied reason="lost">ועשרים בוא.   <del rend="erasure"> </del> </supplied><unclear cert="high">ב</unclear>אחד <unclear cert="high">ב</unclear><supplied reason="lost">מעוזיה בעשרה בשני ודוקו בשלושה בידעיה</supplied>
+      <lb n="11"/><supplied reason="lost">בששה ועשרים בוא.   <del rend="erasure"> </del> בשנים בשעורים בתשעה בשלישי ודוקו בחמשה</supplied>
+      <lb n="12"/><supplied reason="lost">במימין בששה ועשרים בוא.   <del rend="erasure"> </del> בארבעה באביה בשמונה ברביעי ודוקו</supplied>
+      <lb n="13"/><supplied reason="lost">בששה בשכניה בארבעה ועשרים בוא.   בחמשה ביקים בשבעה בחמישי</supplied>.
+      </div>
+    </body>
+  </text>
+</TEI>

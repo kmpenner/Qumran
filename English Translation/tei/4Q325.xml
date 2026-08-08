@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q325</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q325.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><supplied reason="lost">הפסח יום שלי</supplied><unclear cert="low">ש</unclear>י.   בשמונה עשר בו שבת <unclear cert="high">ע</unclear><supplied reason="lost">ל יויריב</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="high">ב</unclear>ערב.   בעשרים וחמשה בו שבת על ידעיה ועלו<gap reason="lost" extent="unknown"/>
+      <lb n="3"/><supplied reason="lost">מוע</supplied><unclear cert="low">ד</unclear> שעורים בעשרים וששה בו אחר שבת.   רוש החודש ה<unclear cert="low">ש</unclear><supplied reason="lost">ני</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><supplied reason="lost">בששה בשבת</supplied> על <unclear cert="low">יד</unclear>עיה.   בשנים בו שבת חרים.   בתשעה בו שב<unclear cert="low">ת</unclear>
+      <lb n="5"/><supplied reason="lost">שעורים.   </supplied>בששה עשר בו שבת מלכיה.   בעשרים ושלושה <unclear cert="high">ב</unclear><supplied reason="lost">ו</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><supplied reason="lost">שבת מי</supplied>מין.   ב<unclear cert="low">ש</unclear>לושים בו שבת הקוץ.   <del rend="erasure"> </del> רוש החודש
+      <lb n="7"/><supplied reason="lost">〚 </supplied> <supplied reason="lost"> 〛</supplied> השלישי אחר שבת.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><supplied reason="lost">בששה בשבת על בלגה.   בשנים בו שבת על א</supplied><unclear cert="low">מ</unclear>ר.   ב<unclear cert="low">ש</unclear><supplied reason="lost">ל</supplied>ושה ב<supplied reason="lost">ו</supplied>
+      <lb n="2"/><supplied reason="lost">מועד היין אחר שבת על אמר.   <del rend="erasure"> </del> ב</supplied>תשעה בו שבת חזיר.
+      <lb n="3"/><supplied reason="lost">בששה עשר בו שבת הפצץ.   <del rend="erasure"> </del> בעשרי</supplied><unclear cert="low">ם</unclear> ושלושה בו שבת
+      <lb n="4"/><supplied reason="lost">פתחיה.   בשלושים בו שבת על יחזקאל.   רוש ה</supplied><unclear cert="low">חודש</unclear> הששי
+      <lb n="5"/><supplied reason="lost">אחר שבת על יחזקאל.   בשבעה בו שבת יכין.   בארב</supplied><unclear cert="low">ע</unclear>ה ע<unclear cert="high">ש</unclear>ר
+      <lb n="6"/><supplied reason="lost">בו שבת גמול.   בעשרים ואחד בו שבת דליה.   בעשרים ו</supplied>שנים
+      <lb n="7"/><supplied reason="lost">בו מועד השמן אחר שבת על דליה.   אחריו מועד ? קרבן הע</supplied>צים.
+      </div>
+      <div type="column" n="f3">
+      <lb n="0"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> <unclear cert="low">ב</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ש</supplied>בת <unclear cert="high">ב</unclear><supplied reason="lost">לגה</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">רו</supplied>ש <unclear cert="high">ה</unclear>חו<unclear cert="low">ד</unclear><supplied reason="lost">ש</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/>אלה מ<unclear cert="low">ו</unclear><supplied reason="lost">עדי יהוה מקראי קודש</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><supplied reason="lost">א</supplied><unclear cert="high">ש</unclear><unclear cert="low">ר</unclear> <supplied reason="lost">תקראו אותם במועדם</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q339</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q339.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><unclear cert="high">נב</unclear>י<unclear cert="high">א</unclear>י <supplied reason="lost">ש</supplied>קרא <unclear cert="high">ד</unclear>י קמו <unclear cert="high">ב</unclear><supplied reason="lost">ישראל</supplied>
+      <lb n="2"/><unclear cert="high">ב</unclear>לעם <supplied reason="lost">בן</supplied> בעור
+      <lb n="3"/><supplied reason="lost">ה</supplied><unclear cert="low">ז</unclear>קן <unclear cert="high">מ</unclear>ביתאל
+      <lb n="4"/><supplied reason="lost">צד</supplied><unclear cert="high">ק</unclear>יה בן <unclear cert="high">כ</unclear><supplied reason="lost">נ</supplied><unclear cert="low">ע</unclear><unclear cert="high">נ</unclear>ה
+      <lb n="5"/><supplied reason="lost">אחא</supplied><unclear cert="high">ב</unclear> בן ק<supplied reason="lost">ול</supplied><unclear cert="low">י</unclear><unclear cert="high">ה</unclear>
+      <lb n="6"/><supplied reason="lost">צד</supplied>קי<unclear cert="high">ה</unclear> בן <unclear cert="low">מ</unclear><supplied reason="lost">ע</supplied>שי<unclear cert="high">ה</unclear>
+      <lb n="7"/><supplied reason="lost">שמעיה הנ</supplied><unclear cert="high">חלמ</unclear>י
+      <lb n="8"/><supplied reason="lost">חנניה בן עז</supplied><unclear cert="high">ו</unclear>ר
+      <lb n="9"/><supplied reason="lost">נביאה די מן גב</supplied>עון.
+      </div>
+    </body>
+  </text>
+</TEI>

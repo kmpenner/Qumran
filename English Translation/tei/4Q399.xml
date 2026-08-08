@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q399</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q399.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1i">
+      <lb n="9"/><supplied reason="lost">זכור את דויד שהיא איש חסדים ואף היא</supplied> <unclear cert="low">מ</unclear><unclear cert="high">צו</unclear>ל
+      <lb n="10"/><supplied reason="lost">מצרות רבות ונסלוח לו.   ואף כתב</supplied><unclear cert="low">נו</unclear> אנחנו אל<unclear cert="high">י</unclear>ך
+      <lb n="11"/><supplied reason="lost">מקצת מעשי התורה שחשבנו לטו</supplied><unclear cert="low">ב</unclear> לך שראינו
+      </div>
+      <div type="column" n="f1ii">
+      <lb n="1"/><supplied reason="lost">עמך ערמה ומדע תורה.  הבן באלה ובקש</supplied> מלפניו
+      <lb n="2"/><supplied reason="lost">שיתקן את עצתך והרחיק ממך</supplied> <unclear cert="low">מ</unclear><unclear cert="high">ח</unclear>שבת רע
+      <lb n="3"/><supplied reason="lost">בשל שתשמח באחרית העת</supplied> <unclear cert="high">ב</unclear>מצאך מדברינו
+      <lb n="4"/><supplied reason="lost">כן. ונחשבה לך לצדקה בע</supplied><unclear cert="low">ש</unclear><unclear cert="high">ו</unclear>תך הישר לפניו
+      <lb n="5"/><supplied reason="lost">לטוב לך ול</supplied><unclear cert="low">י</unclear>שראל.   <del rend="erasure"> </del>
+      </div>
+    </body>
+  </text>
+</TEI>

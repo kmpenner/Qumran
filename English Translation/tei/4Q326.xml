@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q326</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q326.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/>באחד ברבי<unclear cert="high">ע</unclear><supplied reason="lost">י בו שבת.   בשמיני בו מועד המלואים</supplied>.
+      <lb n="2"/>בא11 בו <unclear cert="high">שב</unclear><supplied reason="lost">ת.   ב14 בו הפסח יום שלישי.   ב15 בו</supplied>
+      <lb n="3"/>ח<unclear cert="high">ג</unclear> המצות יום רבי<unclear cert="low">ע</unclear><supplied reason="lost">י.   ב18 בו שבת.   ב25 בו</supplied>
+      <lb n="4"/>שבת.   ב26 בו מועד <unclear cert="high">ש</unclear><supplied reason="lost">עורים אחר השבת.   החדש הראשון</supplied>
+      <lb n="5"/><supplied reason="lost">ב</supplied><unclear cert="low">ו</unclear> 30.   <del rend="erasure"> </del> בשני ב<unclear cert="high">וא</unclear><supplied reason="lost"> שבת.   בתשיעי בוא שבת.   ב16</supplied>.
+      </div>
+    </body>
+  </text>
+</TEI>

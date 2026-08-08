@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>2Q21</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 2Q21.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">נדב ו</supplied>אב<supplied reason="lost">י</supplied>הוא אל<unclear cert="low">ע</unclear><supplied reason="lost">זר ואיתמר</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">לעשות</supplied> לך משפט באמת ולהוכיח באמו<supplied reason="lost">נ</supplied>ה <gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">.   </supplied><del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ויצא מושה אל מחו</supplied>ץ למחנה ויתפלל לפני יהוה ויתנ<unclear cert="low">פ</unclear><supplied reason="lost">ל לפני</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ויואמר יהוה אלוהי</supplied><unclear cert="high">ם</unclear> מה אביט אליך ואיך אש<supplied reason="lost">א] פני [אליך</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/>ל<supplied reason="lost">עשו</supplied><unclear cert="low">ת</unclear> עם אחד <unclear cert="low">ב</unclear><supplied reason="lost">מ</supplied><unclear cert="low">עש</unclear>יך<supplied reason="lost"> הגדולים</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="7"/><gap reason="lost" extent="unknown"/>ל<unclear cert="low">ה</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="high">י</unclear> לבך <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

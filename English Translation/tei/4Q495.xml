@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q495</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q495.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><supplied reason="lost">ומיא כעמכה </supplied><unclear cert="low">י</unclear>שר<supplied reason="lost">אל אשר בחרתה לכה מכול עמי הארצות עם</supplied>
+      <lb n="2"/><supplied reason="lost">קדושי</supplied> ברית ו<unclear cert="low">מ</unclear><supplied reason="lost">לומדי חוק</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><supplied reason="lost">אתה </supplied><unclear cert="low">אל</unclear> ברתנו ל<unclear cert="high">כ</unclear><supplied reason="lost">ה עם עולמים ובגורל אור הפלתנו לאמתכה.   ושר מאור מאז</supplied>
+      <lb n="2"/><unclear cert="high">פ</unclear>קדתה לע<unclear cert="high">ז</unclear>רנו <supplied reason="lost">ובגורלו מלאכי צדק וכול רוחי אמת בממשלתו.   <del rend="erasure"> ? </del> </supplied>
+      <lb n="3"/>ואתה עשית<unclear cert="low">ה</unclear><supplied reason="lost"> בליעל לשחת מלאך משטמה ובחושך ממשלתו וכול רוחי גורלו</supplied>
+      <lb n="4"/><unclear cert="high">מ</unclear>לאכי <unclear cert="low">ח</unclear><supplied reason="lost">בל בחוקי חושך יתהלכו ואליו תשוקתמה יחד</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

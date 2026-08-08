@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q581</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q581.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1_2">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">ל</unclear><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>יה <unclear cert="low">ל</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ומ</supplied>תקף <unclear cert="low">בי</unclear><unclear cert="high">ת</unclear>ה רב<unclear cert="high">א</unclear> <gap reason="lost" extent="unknown"/><unclear cert="low">י</unclear>ר<unclear cert="low">ת</unclear>ון
+      <lb n="3"/>ו<unclear cert="high">מתק</unclear>ף לק<unclear cert="low">ד</unclear>מין ל<unclear cert="low">ה</unclear><supplied reason="lost">ון</supplied><gap reason="lost" extent="unknown"/><unclear cert="low">ו</unclear>מתקנן
+      <lb n="4"/>וירפון <unclear cert="low">ל</unclear><supplied reason="lost">ה </supplied>ויהכון<gap reason="lost" extent="unknown"/>בה ולא
+      <lb n="5"/>ישתארון עמה <unclear cert="high">וא</unclear><gap reason="lost" extent="unknown"/><supplied reason="lost">ו</supplied>מ<del rend="dots">{ה</del>}<corr>&lt;ן</corr>&gt; <unclear cert="high">ה</unclear><unclear cert="low">ו</unclear><supplied reason="lost">א?</supplied>
+      <lb n="6"/>עלוהי למהך באת<unclear cert="high">ר</unclear><gap reason="lost" extent="unknown"/>לא<unclear cert="low">ג</unclear><supplied reason="lost">ר<supplied reason="omitted">ה+תא</supplied>?</supplied>
+      <lb n="7"/><gap reason="lost" extent="unknown"/><supplied reason="lost">מ</supplied>נהון ומתקף להו<unclear cert="high">ן</unclear><gap reason="lost" extent="unknown"/><supplied reason="lost">על </supplied> ד<unclear cert="high">פ</unclear><supplied reason="lost">א?</supplied>
+      <lb n="8"/><gap reason="lost" extent="unknown"/><supplied reason="lost">לח</supplied>לפה כרגי <unclear cert="low">גבר</unclear><supplied reason="lost">ין+א</supplied><gap reason="lost" extent="unknown"/><unclear cert="low">ת</unclear><supplied reason="lost"> </supplied>
+      <lb n="9"/>ותהך<supplied reason="lost"> ות</supplied>תטשא בל<unclear cert="low">ב</unclear><supplied reason="lost"><supplied reason="omitted">ב</supplied> <gap reason="lost" extent="unknown"/> וכל<supplied reason="omitted">?</supplied></supplied>
+      <lb n="10"/><gap reason="lost" extent="unknown"/><supplied reason="lost">נ</supplied><unclear cert="high">ה</unclear>רי<unclear cert="high">ן</unclear><supplied reason="lost"> י</supplied>שפכון <unclear cert="low">מ</unclear><unclear cert="high">י</unclear>ה<unclear cert="low">ו</unclear><supplied reason="lost">ן</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="11"/><gap reason="lost" extent="unknown"/><supplied reason="lost">וה</supplied>שכ<unclear cert="high">ח</unclear><unclear cert="low">ת</unclear>ה עדנא תמ<supplied reason="lost">ה+ן</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="12"/><unclear cert="low">ו</unclear><unclear cert="high">יכל</unclear><supplied reason="lost"> למ</supplied>דברין ויחז<unclear cert="high">א</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="13"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> בערימן ור<unclear cert="low">מ</unclear><supplied reason="lost">ה<supplied reason="omitted">?</supplied> לה<supplied reason="omitted">+ון</supplied> עדב<supplied reason="omitted">ין+א</supplied> <gap reason="lost" extent="unknown"/> וישאול<supplied reason="omitted">?</supplied></supplied>
+      <lb n="14"/><gap reason="lost" extent="unknown"/><supplied reason="lost">שאי</supplied>לה למאל<supplied reason="lost">ף </supplied><unclear cert="low">ו</unclear>רשמ<supplied reason="lost">ין<supplied reason="omitted">?</supplied> יכתוב+ירשום <gap reason="lost" extent="unknown"/> לכל<supplied reason="omitted">?</supplied></supplied><gap reason="lost" extent="unknown"/>
+      <lb n="15"/><gap reason="lost" extent="unknown"/><supplied reason="lost">דרי </supplied><unclear cert="low">ע</unclear>למא <gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f3">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">יש</supplied><unclear cert="high">ת</unclear>לח <unclear cert="low">ק</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ו</supplied><unclear cert="high">ה</unclear>י ק<unclear cert="low">מ</unclear><supplied reason="lost">ו</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/>די<gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

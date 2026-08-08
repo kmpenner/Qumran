@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q385</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q385.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>די
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="low">ת</unclear>שובו
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="low">ע</unclear>ליהם.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><supplied reason="lost">כי אני יהוה</supplied> הגוא<unclear cert="high">ל</unclear> עמי לתת להם הברית.   <del rend="erasure"> </del>
+      <lb n="2"/><supplied reason="lost">ואמרה יהוה</supplied> ראיתי רבים מישראל אשר אהבו את שמך וילכו
+      <lb n="3"/><unclear cert="low">ב</unclear>דרכי<supplied reason="lost"> לבך.   וא</supplied>לה מתי יהי<unclear cert="high">ו</unclear> <unclear cert="high">ו</unclear>הי<unclear cert="high">ככה</unclear> ישתלמו חסדם.   ויאמר יהוה
+      <lb n="4"/>אלי אני אראה<supplied reason="lost"> </supplied>את ב<unclear cert="high">ני</unclear> ישראל וידעו כי אני יהוה.   <del rend="erasure"> </del>
+      <lb n="5"/><supplied reason="lost">ויאמר </supplied>בן אדם הנבה על העצמות ואמרת וי<unclear cert="low">ק</unclear><gap reason="illegible" unit="character" quantity="1"/><unclear cert="low">בו</unclear> עצם אל עצםו ופרק
+      <lb n="6"/><supplied reason="lost">אל פרקו ויה</supplied>י כ<unclear cert="low">ן</unclear>.   ויאמר שנית הנבא ויעלו עליהם גדים ויקרמו עור
+      <lb n="7"/><supplied reason="lost">מלמעלה ויהי כן</supplied>.   ויא<unclear cert="low">מ</unclear>ר שוב אנבא על ארבע רוחות השמים.   ויפחו רו<unclear cert="low">ח</unclear>
+      <lb n="8"/><supplied reason="lost">בהרוגים ויהי כן</supplied>.   <unclear cert="high">וי</unclear><supplied reason="lost">ח</supplied><unclear cert="low">י</unclear><unclear cert="high">ו</unclear> עם רב אנשים ויברכו את יהוה צבאות אש<supplied reason="lost">ר</supplied>
+      <lb n="9"/><supplied reason="lost">חים.   <del rend="erasure"> </del> ו</supplied>אמרה יהוה מתי יהיו אלה ויאמר יהוה אל<supplied reason="lost">י עד</supplied>
+      <lb n="10"/><supplied reason="lost">אשר <gap reason="lost" extent="unknown"/> ומקץ י</supplied><unclear cert="high">מ</unclear>ים יכף עץ ויזקף<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f3">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><unclear cert="low">ת</unclear> <unclear cert="low">ו</unclear><unclear cert="high">א</unclear><gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> </supplied> <gap reason="illegible" unit="character" quantity="3"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/> יהוה ויקומו כל העם וי<unclear cert="low">ע</unclear><supplied reason="lost">מד</supplied><unclear cert="high">ו</unclear> על<supplied reason="lost"> רגליהם להודות</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><supplied reason="lost">ולהל</supplied>ל את יהוה צבאות ואף אני מ<supplied reason="lost">לל</supplied>תי עמהם<gap reason="lost" extent="unknown"/>
+      <lb n="4"/><supplied reason="lost">.   </supplied><del rend="erasure"> </del> ויאמר יהוה אלי בן<supplied reason="lost"> אדם אמ</supplied><unclear cert="low">ור</unclear> לה<unclear cert="high">ם</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><supplied reason="lost">במקום קבו</supplied><unclear cert="low">ר</unclear>תם ישכבו עד אש<unclear cert="low">ר</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/><supplied reason="lost">מקב</supplied><unclear cert="low">ר</unclear>יכם ומן הארץ <gap reason="lost" extent="unknown"/>
+      <lb n="7"/><gap reason="lost" extent="unknown"/><unclear cert="high">ל</unclear> <supplied reason="lost"> ^</supplied>אש<unclear cert="high">ר</unclear>^ <supplied reason="lost">ע</supplied><unclear cert="high">ו</unclear>ל מצ<unclear cert="low">ר</unclear><supplied reason="lost">ים</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f4">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>תחת דוני
+      <lb n="2"/><unclear cert="high">ש</unclear>מח את נפשי ויתבהלו <unclear cert="high">ה</unclear>ימים מהר עד אשר יאמרו
+      <lb n="3"/>האדם הלא ממהרים הימים למען יירשו בני ישראל.
+      <lb n="4"/>ויאמר יהוה אלי לא אש<supplied reason="lost">י</supplied>ב פניך יחזקאל ה<unclear cert="high">נ</unclear><supplied reason="lost">נ</supplied><unclear cert="high">י</unclear> ג<unclear cert="low">ו</unclear>דד
+      <lb n="5"/>את הימים ואת השני<supplied reason="lost">ם</supplied><gap reason="lost" extent="unknown"/>ל<gap reason="lost" extent="unknown"/>
+      <lb n="6"/>מצער כאשר אמרת ל<gap reason="lost" extent="unknown"/>
+      <lb n="7"/><supplied reason="lost">כי </supplied>פי יהוה דבר אלה <del rend="erasure"> </del><supplied reason="lost"> </supplied>.
+      </div>
+      <div type="column" n="f5">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>אמפ<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>בס<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f6">
+      <lb n="1"/>והיו עמי ה<gap reason="lost" extent="unknown"/>
+      <lb n="2"/>בלב טוב וב<unclear cert="low">נ</unclear><supplied reason="lost">פש חפצה</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="3"/>וחבא כמעט ק<supplied reason="lost">ט <gap reason="lost" extent="unknown"/>.   </supplied>
+      <lb n="4"/>ומבקיעים <unclear cert="high">י</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="5"/>המראה אשר ראה יח<unclear cert="high">זק</unclear><supplied reason="lost">אל</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="6"/>נגה מרכבה וארבע חיות חית<gap reason="lost" extent="unknown"/><supplied reason="lost">ובלכתן לא יסבו</supplied>
+      <lb n="7"/>אחור על שתים תלך החיה האחת ושתי <unclear cert="high">רגל</unclear><supplied reason="lost">יה</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="8"/><supplied reason="lost">ע</supplied>ל<supplied reason="lost"> </supplied>ל<supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="2"/> <unclear cert="low">ב</unclear><supplied reason="lost">אח</supplied>ת היה נשמה ופניהם זה בעקר ז<supplied reason="lost">ה.   ודמות</supplied>
+      <lb n="9"/>הפ<supplied reason="lost">נים אחד ארי אח</supplied><unclear cert="high">ד</unclear> נשר ואחד עגל ואחד של אדם.   והית<supplied reason="lost">ה יד</supplied>
+      <lb n="10"/>אדם מ<unclear cert="low">ח</unclear>ברת מגבי החיות ודבקה ב<supplied reason="lost">כנפיהן <gap reason="lost" extent="unknown"/>.   </supplied>וה<unclear cert="high">א</unclear><supplied reason="lost">ופ</supplied><unclear cert="low">נ</unclear><supplied reason="lost">ים</supplied>
+      <lb n="11"/>אופן חובר אל אופן בלכתן ומשני עברי ה<unclear cert="low">א</unclear><supplied reason="lost">ופנים שבלי אש</supplied>
+      <lb n="12"/>ו<unclear cert="high">ה</unclear>יה בתוך גחלים חיות כגחלי אש<gap reason="lost" extent="unknown"/>
+      <lb n="13"/>והאופנ<unclear cert="high">י</unclear>ם והחיות והאופנ<unclear cert="high">י</unclear>ם ויה<supplied reason="lost">י <gap reason="lost" extent="unknown"/> ע</supplied><unclear cert="high">ל</unclear><supplied reason="lost"> ראשם רקיע כעין </supplied>
+      <lb n="14"/><unclear cert="low">הקרח</unclear> הנור<supplied reason="lost">א.   וי]הי קול[ מעל רקיע</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="15"/><gap reason="lost" extent="unknown"/>ל<gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

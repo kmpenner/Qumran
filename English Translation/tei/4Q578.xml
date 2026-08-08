@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q578</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q578.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><unclear cert="low">ת</unclear><supplied reason="lost"> </supplied><unclear cert="low">נה</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2a"/><gap reason="lost" extent="unknown"/><unclear cert="high">ן</unclear>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="low">פ</unclear>תלמ<unclear cert="high">י</unclear>ס<gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">פתל</supplied><unclear cert="high">מי</unclear>ס <unclear cert="high">ב</unclear>נ<unclear cert="low">ו</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>ה פתל<supplied reason="lost">מיס</supplied><gap reason="lost" extent="unknown"/>
+      </div>
+    </body>
+  </text>
+</TEI>

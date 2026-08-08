@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q282c</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q282c.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>ה
+      <lb n="3"/><gap reason="lost" extent="unknown"/><del rend="erasure"> </del>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>ק בו
+      <lb n="5"/><gap reason="lost" extent="unknown"/><supplied reason="lost">כבוד</supplied><unclear cert="high">ך</unclear> וכסאך
+      <lb n="6"/><gap reason="lost" extent="unknown"/>כה
+      <lb n="7"/><gap reason="lost" extent="unknown"/>עיניו
+      <lb n="8"/><gap reason="lost" extent="unknown"/><del rend="erasure"> </del>
+      <lb n="9"/><gap reason="lost" extent="unknown"/>ה.
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q166</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q166.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="1">
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="low">י</unclear>צור
+      <lb n="4"/><gap reason="lost" extent="unknown"/>וירצו
+      <lb n="5"/><gap reason="lost" extent="unknown"/>וילוזו
+      <lb n="6"/><gap reason="lost" extent="unknown"/><supplied reason="lost">.   </supplied><del rend="erasure"> </del>
+      <lb n="7"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> בסירים ונתיבותיה
+      <lb n="8"/><gap reason="lost" extent="unknown"/>ובעורון ובתמהון
+      <lb n="9"/><gap reason="lost" extent="unknown"/><unclear cert="low">ר</unclear> וקץ מועלם לוא
+      <lb n="10"/><gap reason="lost" extent="unknown"/>הם דור הפקודה
+      <lb n="11"/><gap reason="lost" extent="unknown"/>מן <unclear cert="high">מ</unclear><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="1"/>ר<supplied reason="lost"> </supplied>רית
+      <lb n="12"/><gap reason="lost" extent="unknown"/><unclear cert="low">א</unclear>ס<unclear cert="high">ף</unclear> בקצי חרון כיא
+      <lb n="13"/><gap reason="lost" extent="unknown"/><supplied reason="lost">.   </supplied><del rend="erasure"> </del>
+      <lb n="14"/><gap reason="lost" extent="unknown"/><del rend="erasure"> </del>
+      <lb n="15"/><supplied reason="lost">ואמרה אלכה ואשובה אל אישי הרא</supplied><unclear cert="low">י</unclear>שון כיא
+      <lb n="16"/><supplied reason="lost">טוב לי אז מעתה.   פשרו</supplied><gap reason="lost" extent="unknown"/>בשוב שבי
+      <lb n="17"/><gap reason="lost" extent="unknown"/><unclear cert="high">ט</unclear><unclear cert="low">ו</unclear><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="1"/>פר<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="2">
+      <lb n="1"/><supplied reason="lost">והיא לוא ידעה כיא</supplied> אנוכי נתתי לה הדגן <supplied reason="lost">והתירוש</supplied>
+      <lb n="2"/><supplied reason="lost">והיצהר וכסף</supplied><gap reason="lost" extent="unknown"/><unclear cert="low">ה</unclear>רביתי וזהב {{<gap reason="illegible" unit="character" quantity="2"/>ה}} עש<unclear cert="low">ו</unclear><supplied reason="lost"> לבעל.   פשרו</supplied>
+      <lb n="3"/>אש<unclear cert="low">ר</unclear> <gap reason="illegible" unit="character" quantity="2"/><supplied reason="lost"> וי</supplied>שבעו וישכחו את אל המ<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="4"/>מצוותיו השליכו אחרי גום אשר שלח אליה<unclear cert="low">ם</unclear> <supplied reason="lost">בפי</supplied>
+      <lb n="5"/>עבדיו הנביאים.   ולמתעיהם שמעו ויכבדום
+      <lb n="6"/>וכאלים יפחדו מהם בעורונם.   <del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="7"/><del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="8"/>לכן אשוב ולקחתי דגני בעתו ותירושי <supplied reason="lost">במועדו</supplied>
+      <lb n="9"/>והצלתי צמרי ופישתי מלכסות א<unclear cert="high">ת</unclear><supplied reason="lost"> ערותה</supplied>.
+      <lb n="10"/>ועתה אגלה את נבלותה לעיני מא<unclear cert="high">ה</unclear><supplied reason="lost">ביה ואיש</supplied>
+      <lb n="11"/>לוא יצילנה מידי.   <del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="12"/>פשרו אשר הכם ברעב ובערום להיות לקל<unclear cert="low">ו</unclear><supplied reason="lost">ן</supplied>
+      <lb n="13"/>וחרפה לעיני הגואים אשר נשענו עליהם והמה
+      <lb n="14"/>לוא יושיעום מצרותיהם.   והשבתי כ<unclear cert="low">ול</unclear> משושה
+      <lb n="15"/><unclear cert="low">ח</unclear><supplied reason="lost">גה חד</supplied>שה ושבתה וכול מועדיה.   פשרו אש<unclear cert="low">ר</unclear>
+      <lb n="16"/><gap reason="lost" extent="unknown"/><unclear cert="high">ע</unclear>דות יוליכו במועדי הגואים ו<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="17"/><gap reason="lost" extent="unknown"/>נהפכה להם לאבל.   והשמותי <supplied reason="lost">גפנה</supplied>
+      <lb n="18"/><supplied reason="lost">ותאנתה</supplied> אשר אמרה אתנם הם לי <supplied reason="lost">אשר נתנו</supplied>
+      <lb n="19"/><supplied reason="lost">לי מאהב</supplied>י ושמתים ליער ואכלתם <unclear cert="high">ח</unclear><supplied reason="lost">ית השדה</supplied>.
+      </div>
+    </body>
+  </text>
+</TEI>

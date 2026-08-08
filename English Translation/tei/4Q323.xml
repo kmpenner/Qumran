@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q323</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q323.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">יום רב</supplied><unclear cert="low">י</unclear>עי בח<unclear cert="low">ז</unclear><supplied reason="lost">י</supplied><unclear cert="low">ר</unclear><supplied reason="lost"> זה א</supplied>חד ב<unclear cert="low">ע</unclear><supplied reason="lost">שירי</supplied>.
+      <lb n="2"/><supplied reason="lost">בארבעה בו ביאת הפ</supplied>צצ.   באחד<supplied reason="lost"> ע</supplied>שר <unclear cert="high">ב</unclear><supplied reason="lost">ו ביאת פתחיה</supplied>.
+      <lb n="3"/><supplied reason="lost">בשמונה עשר בו ביא</supplied><unclear cert="low">ת</unclear> יחזקאל.   <supplied reason="lost">ב</supplied>עש<unclear cert="low">ר</unclear><supplied reason="lost">ים וחמשה בו</supplied>
+      <lb n="4"/><supplied reason="lost">ביאת יכין.</supplied><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> הע<supplied reason="lost"> </supplied>י<unclear cert="high">רי</unclear>ת <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/>ביא<unclear cert="high">ת</unclear>.
+      </div>
+    </body>
+  </text>
+</TEI>

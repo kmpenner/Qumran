@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q528</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q528.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="high">ח</unclear>נפ<gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ע</supplied><unclear cert="high">מ</unclear>ך א<unclear cert="low">ש</unclear>ר <unclear cert="high">ת</unclear><unclear cert="low">ב</unclear><unclear cert="high">ר</unclear>ך <unclear cert="low">ה</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost"><supplied reason="omitted">ת</supplied>ק</supplied><unclear cert="low">ב</unclear>ו<unclear cert="low">ץ</unclear><supplied reason="lost"> יר</supplied>איך <unclear cert="low">ב</unclear><supplied reason="lost">ני ? </supplied>ישרא<unclear cert="low">ל</unclear> <unclear cert="high">א</unclear><unclear cert="low">ש</unclear><supplied reason="lost">ר</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/> ותמי<unclear cert="high">מי</unclear>ך ת<unclear cert="low">ו</unclear>אל התמים בכול <unclear cert="high">מ</unclear><supplied reason="lost">ל</supplied><unclear cert="low">אכ</unclear><supplied reason="lost">ה ?</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>ת<unclear cert="high">ם</unclear> ה<unclear cert="high">בח</unclear>י<unclear cert="high">ר</unclear><supplied reason="lost">י</supplied>ם אשריכ<unclear cert="high">ם</unclear> כול יראי יה<unclear cert="high">וה</unclear> <unclear cert="low">ה</unclear><supplied reason="lost">הולכים בדרכיו</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> <del rend="erasure"> </del><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

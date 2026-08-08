@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q472</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q472.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">בי</unclear>ום <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">י</supplied>שמחו <unclear cert="low">ו</unclear><supplied reason="lost">ירננו <gap reason="lost" extent="unknown"/> יהפוך ? </supplied>
+      <lb n="3"/><supplied reason="lost">חב</supplied>ליהם לברכה <supplied reason="lost"> </supplied> ושלום <unclear cert="high">ג</unclear><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="4"/>א<unclear cert="low">ת</unclear> כול <unclear cert="high">ר</unclear>עו מ<unclear cert="low">ש</unclear><supplied reason="lost">מ</supplied><unclear cert="high">ר</unclear>י פני מלך <gap reason="lost" extent="unknown"/><supplied reason="lost">ויביאו ? </supplied>
+      <lb n="5"/>זהב ופז מנבלי<gap reason="lost" extent="unknown"/><unclear cert="low">כ</unclear>ול כת<unclear cert="low">ם</unclear> <supplied reason="lost">אופירים</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="6"/>ולוא <unclear cert="low">ש</unclear>חרו פניו<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="1"/> לכ<unclear cert="low">ל</unclear><gap reason="lost" extent="unknown"/><unclear cert="low">כ</unclear>ליום <gap reason="lost" extent="unknown"/><supplied reason="lost">הבאים</supplied>
+      <lb n="3"/><supplied reason="lost">ב</supplied><unclear cert="low">ל</unclear>ישנה דכי ליחד נזי<unclear cert="low">ר</unclear><supplied reason="lost">י</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/>נדיבים לכבוד וד<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="5"/>לפנות <supplied reason="lost"> </supplied><unclear cert="low">ל</unclear><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="1"/>ם <unclear cert="high">ב</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><unclear cert="high">כ</unclear>אופרי<unclear cert="high">ם</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="7"/>לכליל <unclear cert="high">ת</unclear><supplied reason="lost">פארת</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="8"/>למלוא<unclear cert="low">ה</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="9"/><unclear cert="low">מ</unclear>לך<gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>11Q12</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 11Q12.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">הודע</supplied><unclear cert="low">נ</unclear>ו ב<unclear cert="low">צ</unclear><supplied reason="lost">אתנו</supplied>
+      <lb n="2"/><supplied reason="lost">לפני יהוה אלוהינו את כול החטאות </supplied>אשר י<unclear cert="low">ע</unclear>שו <unclear cert="low">ב</unclear><supplied reason="lost">שמים</supplied>
+      <lb n="3"/><supplied reason="lost">ובארץ ובאור ובחושך ובכול.   והיו </supplied>אדם ואשתו <unclear cert="low">מ</unclear>ת<supplied reason="lost">אבלים</supplied>
+      <lb n="4"/><supplied reason="lost">על הבל ארבע שבועות.   <del rend="erasure"> ? </del> ו</supplied><unclear cert="high">ב</unclear>ארבעה לשבוע הח<supplied reason="lost">מישי</supplied>
+      <lb n="5"/><supplied reason="lost">שמחו וידע אדם שנית את אשתו </supplied>ותלד לו בן ויקרא את שמ<supplied reason="lost">ו שת</supplied>
+      <lb n="6"/><supplied reason="lost">כיא אמר שת לנו יהוה זרע ב</supplied><unclear cert="high">א</unclear>רץ אחר תחת הבל כיא הרגו
+      <lb n="7"/><supplied reason="lost">קין.   בשבוע הששי הוליד את אזו</supplied><unclear cert="high">ר</unclear>ה בתו.   ויקח קין את אחו<unclear cert="high">ת</unclear><supplied reason="lost">ו</supplied>
+      <lb n="8"/><supplied reason="lost">און לו לאשה ותלד לו את חנוך בקץ היוב</supplied>ל הרביעי.   <del rend="erasure"> </del><supplied reason="lost"> </supplied>
+      <lb n="9"/><supplied reason="lost">ובשנת אחת לשבוע הריאשון ליובל החמי</supplied>שי נבנו הבתים באר<supplied reason="lost">ץ</supplied>.
+      <lb n="10"/><supplied reason="lost">ויבן קין עיר ויקרא את שמה כמו שם ב</supplied>נו חנוך.   <del rend="erasure"> </del> ואד<supplied reason="lost">ם</supplied>
+      <lb n="11"/><supplied reason="lost">ידע את חוה אשתו ותלד עוד תשעה בנים ובשבו</supplied><unclear cert="low">ע</unclear> ה<unclear cert="high">ח</unclear><supplied reason="lost">מישי</supplied>.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><supplied reason="lost">לקח אנוש את אחותו נועם לו לאשה ותלד לו ב</supplied>ן ב<unclear cert="low">ש</unclear><supplied reason="lost">נה</supplied>
+      <lb n="2"/><supplied reason="lost">השלישית לשבוע החמישי ויקרא שמו קינן.   ו</supplied><unclear cert="high">ב</unclear>קץ היו<supplied reason="lost">בל</supplied>
+      <lb n="3"/><supplied reason="lost">השמיני לקח לו קינן אשה את אחותו מהללת</supplied> לאשה<supplied reason="lost">.   ותלד</supplied>
+      <lb n="4"/><supplied reason="lost">לו בן ביובל התשיעי בשבוע הריאשון בשלו</supplied><unclear cert="low">ש</unclear>ה ל<supplied reason="lost">שבוע</supplied>.
+      </div>
+      <div type="column" n="f3">
+      <lb n="1"/><supplied reason="lost">הרביעי ליובל הזה ותלד לו בן בשבוע הח</supplied>מישי <supplied reason="lost">בשנה</supplied>
+      <lb n="2"/><supplied reason="lost">הרביעית ליובל ויקרא את שמו חנוך </supplied><del rend="erasure"> </del> זה ריאש<supplied reason="lost">ון</supplied>.
+      </div>
+      <div type="column" n="f4">
+      <lb n="1"/><supplied reason="lost">ויכתוב בספר אותות השמים כחוק חודשיהמה למע</supplied><unclear cert="low">ן</unclear> <unclear cert="low">יד</unclear><unclear cert="high">ע</unclear><unclear cert="low">ו</unclear> <supplied reason="lost">בני</supplied>
+      <lb n="2"/><supplied reason="lost">אדם תקופות השנים כחוקות לכול חודשיהמה.   ריא</supplied>שון הוא<supplied reason="lost">ה</supplied>
+      <lb n="3"/><supplied reason="lost">כתב תעודה ויעד בבני אדם בדורות הארץ שבועות </supplied>ה<supplied reason="lost">יובלים</supplied>.
+      </div>
+      <div type="column" n="f5">
+      <lb n="1"/><supplied reason="lost">ריאשון נק</supplied><unclear cert="high">ב</unclear>ר ב<supplied reason="lost">אדמה ויחסרו לו שבעים שנה מאלף</supplied>
+      <lb n="2"/><supplied reason="lost">השנים כיא</supplied> אלף <unclear cert="high">ה</unclear><supplied reason="lost">ש</supplied><unclear cert="high">נים</unclear><supplied reason="lost"> יום אחד בתעודת השמים.   לכן</supplied>
+      <lb n="3"/><supplied reason="lost">נכתב על ע</supplied><unclear cert="low">ץ</unclear> הדעת כיא ב<supplied reason="lost">יום אכלכם ממנו תמותו.   על כן</supplied>
+      <lb n="4"/><supplied reason="lost">לא כלה את </supplied><unclear cert="low">ש</unclear>ני היום<supplied reason="lost"> הזה כיא ימות בו במלא היובל הזה</supplied>.
+      </div>
+      <div type="column" n="f6">
+      <lb n="1"/><supplied reason="lost">הומת קין</supplied> אחריו <supplied reason="lost">בשנה ההיאה ויפול ביתו עליו וימות בביתו</supplied>.
+      <lb n="2"/><supplied reason="lost">ויומת באבנ</supplied><unclear cert="low">י</unclear>ו כיא <gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f7">
+      <lb n="1"/><supplied reason="lost">להמה בנים ואלה הנ</supplied><unclear cert="low">פ</unclear><supplied reason="lost">יל</supplied><unclear cert="low">י</unclear><unclear cert="high">ם</unclear> ויר<unclear cert="high">ב</unclear><supplied reason="lost"> חמס בארץ וכול בשר השחית</supplied>
+      <lb n="2"/><supplied reason="lost">דרכו מאדם עד </supplied>בהמה ועד <unclear cert="low">ח</unclear><supplied reason="lost">יה ועד עוף ועד כול הרומש</supplied>
+      <lb n="3"/><supplied reason="lost">על הארץ וכולם ה</supplied>שחיתו דרכם <unclear cert="high">ו</unclear><unclear cert="low">ח</unclear><supplied reason="lost">קתם ויחלו לאכול איש את</supplied>
+      <lb n="4"/><supplied reason="lost">רעהו וירב חמס בארץ וכו</supplied>ל <gap reason="illegible" unit="character" quantity="3"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f7a">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">וישם מדמו ע</supplied><unclear cert="high">ל</unclear> בשר <supplied reason="lost">הקרבן אשר על המזבח</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">וכ</supplied><unclear cert="low">ל</unclear> <supplied reason="lost">עו]ל<supplied reason="lost">ו</supplied>תהם יע[ל על המזבח</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ותעל מנח</supplied>תם וקורבנם לר<supplied reason="lost">צון לפני יהוה אלהיו</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f8">
+      <lb n="1"/>ו<gap reason="lost" extent="unknown"/>
+      <lb n="2"/>עם <supplied reason="lost">תרח אביו בחרן שני שבועי שנים.   <del rend="erasure"> </del> ובשבוע הששי</supplied>
+      <lb n="3"/>בחמש<supplied reason="lost">ה בו ישב אברם בלילה בראש החודש השביעי להביט אל</supplied>
+      <lb n="4"/>הכוכ<unclear cert="high">ב</unclear><supplied reason="lost">ים מערב עד בקר לראות מה מעשה השנה בגשמים.   ויהי</supplied>
+      <lb n="5"/>הואה<supplied reason="lost"> יושב לבדו ומביט ויבוא דבר בלבו ויאמר כול אותות</supplied>
+      <lb n="6"/>ה<unclear cert="high">כוכ</unclear><supplied reason="lost">בים <gap reason="lost" extent="unknown"/>.   </supplied>
+      </div>
+      <div type="column" n="f9">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="3"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><del rend="erasure"> </del> ויהי בשב<supplied reason="lost">עה לשבוע הששי</supplied>
+      <lb n="3"/><supplied reason="lost">וידבר עם אביו ויגד לו כיא </supplied>הוא יוצא מ<supplied reason="lost">חרן ללכת ארצה</supplied>
+      <lb n="4"/><supplied reason="lost">כנען לראותה וישוב אליו.   ויאמר</supplied> לו תרח <unclear cert="high">א</unclear><supplied reason="lost">ביו לך בשלום</supplied>
+      <lb n="5"/><supplied reason="lost">אל עולם יישיר דרככה ויהוה ע</supplied><unclear cert="high">מכ</unclear>ה ויש<supplied reason="lost">מרכה מכול רע</supplied>
+      <lb n="6"/><supplied reason="lost">ולא ימשול בכה כול בני אדם לעשו</supplied><unclear cert="low">ת</unclear><unclear cert="high">כ</unclear>ה <unclear cert="high">רע</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f10">
+      <lb n="1"/>ונקב<gap reason="lost" extent="unknown"/>
+      <lb n="2"/><unclear cert="low">ע</unclear>ל<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f11">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> אב<unclear cert="high">ר</unclear>ם<gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f12">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="high">ע</unclear>מ<unclear cert="low">ה</unclear> <gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>ה <gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/>ל<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f13">
+      <lb n="1"/><gap reason="lost" extent="unknown"/> ויו<gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>פר א<gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/>ל<gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

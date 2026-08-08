@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q214a</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q214a.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><supplied reason="lost"> ר</supplied><unclear cert="low">קת</unclear><unclear cert="high">א</unclear> א<unclear cert="high">ל</unclear>ן <unclear cert="high">א</unclear><supplied reason="lost">נון די אמר לי די חזין להסקה מנהון ל<supplied reason="omitted">תח</supplied>ות עלתא</supplied>
+      <lb n="2"/>על מדבחא <del rend="erasure"> </del> <unclear cert="high">ו</unclear><unclear cert="low">כ</unclear><supplied reason="lost">די הסקת מן עעי אלן על מדבח הו נורה ישרא</supplied>
+      <lb n="3"/><unclear cert="low">ל</unclear><supplied reason="lost">ה</supplied><unclear cert="low">דל</unclear><supplied reason="lost">קה</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f2_3i">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">ה</unclear> כד<unclear cert="high">י</unclear>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="high">ע</unclear>לוהי
+      <lb n="3"/><supplied reason="lost">בשנת ארבעין לחיי ילידת בירחא שב</supplied>יעא.
+      <lb n="4"/><supplied reason="lost">ועוד אוספת והוית עמה והרת וילידת לי ברת</supplied><unclear cert="low">א</unclear> וש<unclear cert="high">ו</unclear>ית
+      <lb n="5"/><supplied reason="lost">שמהא יוכבד אמרת ילידת לי ליקר לישראל.   </supplied><unclear cert="low">ב</unclear><unclear cert="high">ש</unclear>נ<unclear cert="high">ת</unclear>
+      <lb n="6"/><supplied reason="lost">שתין וארבע לי לחיי וילידת בחד בחודשא שב</supplied><unclear cert="low">י</unclear>עא
+      <lb n="7"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="3"/>.
+      </div>
+      <div type="column" n="f2_3ii">
+      <lb n="1"/><unclear cert="low">ו</unclear><unclear cert="high">מדית</unclear><unclear cert="low">א</unclear> <gap reason="lost" extent="unknown"/>
+      <lb n="2"/>לא יש<unclear cert="high">כ</unclear>חו<gap reason="lost" extent="unknown"/>
+      <lb n="3"/>טב<gap reason="illegible" unit="character" quantity="1"/>ה <unclear cert="low">א</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="4"/>מנה <unclear cert="low">פל</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><unclear cert="low">ו</unclear><unclear cert="high">כ</unclear><unclear cert="low">ען</unclear> <unclear cert="high">ב</unclear>נ<unclear cert="low">י</unclear> <unclear cert="low">ס</unclear>פ<unclear cert="low">ר</unclear> <unclear cert="low">ו</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><unclear cert="low">ח</unclear>זית ת<gap reason="illegible" unit="character" quantity="2"/>חו<gap reason="lost" extent="unknown"/>
+      <lb n="7"/><gap reason="illegible" unit="character" quantity="6"/><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

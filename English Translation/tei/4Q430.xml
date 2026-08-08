@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q430</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q430.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><supplied reason="lost">והמה נעלמים זמות בליעל יחשו</supplied>ב<unclear cert="low">ו</unclear><supplied reason="lost"> ו</supplied><unclear cert="low">י</unclear>ד<unclear cert="low">ר</unclear><supplied reason="lost">שוכה בלב ולב ולא</supplied>
+      <lb n="2"/><supplied reason="lost">נכונו באמתכה.   שורש פורה רו</supplied><unclear cert="low">ש</unclear> ול<unclear cert="high">ע</unclear><unclear cert="low">נה</unclear> <supplied reason="lost">ב</supplied><unclear cert="high">מ</unclear>ח<unclear cert="high">ש</unclear><unclear cert="low">ב</unclear><supplied reason="lost">ו</supplied><unclear cert="low">תם</unclear><supplied reason="lost"> ועם שרירות</supplied>
+      <lb n="3"/><supplied reason="lost">לבם יתורו וידרשוכה בגלולים</supplied>.   ומכשול עוונם ש<unclear cert="high">מ</unclear><unclear cert="low">ו</unclear> <unclear cert="low">ל</unclear><supplied reason="lost">נ</supplied><unclear cert="low">ג</unclear>ד פנ<unclear cert="low">י</unclear><supplied reason="lost">הם</supplied>
+      <lb n="4"/><supplied reason="lost">ויבאו לדורשכה מפי נביאי</supplied> כזב מפותי תעות.   והם בל<supplied reason="lost">ועג שפה ולשון</supplied>
+      <lb n="5"/><supplied reason="lost">אחרת ידברו לעמך להולל ברמיה כו</supplied>ל מ<unclear cert="high">עש</unclear>יהם.   כי<supplied reason="lost"> לא בחרו בדרך</supplied>
+      <lb n="6"/><supplied reason="lost">לבכה ולא האזינו לדברכה </supplied><unclear cert="low">כי</unclear> <unclear cert="high">אמר</unclear><supplied reason="lost">ו ל</supplied><unclear cert="low">חזון</unclear> ד<unclear cert="low">ע</unclear><unclear cert="high">ת</unclear> <supplied reason="lost">לא נכון ולדרך</supplied>
+      <lb n="7"/><supplied reason="lost">לבכה לא היאה.   כי אתה אל</supplied> ת<unclear cert="high">ע</unclear><unclear cert="low">נה</unclear> <unclear cert="low">ב</unclear><supplied reason="lost">ה</supplied><unclear cert="high">ם</unclear> <supplied reason="lost">לשופטם בגבורתכה</supplied>.
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q247</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q247.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">קץ ח</supplied>קוק <supplied reason="lost">בלוחות השמים</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ואחריו יב</supplied><unclear cert="low">וא</unclear> השבוע הח<unclear cert="low">מ</unclear><supplied reason="lost">ישי ובסופו</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">שנים שמונים ו</supplied><unclear cert="high">א</unclear>רבע מאות של<unclear cert="high">ו</unclear><supplied reason="lost">מוה יבנה את המקדש</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><supplied reason="lost">צד</supplied><unclear cert="low">ק</unclear>יה מלך יהודה <supplied reason="lost">יגלה</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><unclear cert="low">ב</unclear>ני לוי ועם הא<unclear cert="low">ר</unclear><supplied reason="lost">ץ</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/> מ<unclear cert="high">ל</unclear><supplied reason="lost">ך</supplied> כתיים <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="7"/><gap reason="lost" extent="unknown"/>ול<supplied reason="lost"> </supplied><unclear cert="low">ה</unclear> יא<gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

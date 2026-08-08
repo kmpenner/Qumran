@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q524</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q524.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><supplied reason="lost"><del rend="erasure"> </del> וכול איש אשר יקרב אל המזבח ? והואה אין הואה כוהן יומת וכול איש מהמה אף הואה</supplied>
+      <lb n="2"/><supplied reason="lost">כוהן אשר יביא אותם והואה אין הואה לבוש בגדי הקודש ואשר לוא מלא את ידיו גם המ</supplied>ה יומת<supplied reason="lost">ו</supplied>
+      <lb n="3"/><supplied reason="lost">ולוא יחללו את מקדש אלוהימה לשאת עוון אשמה למות.   </supplied>
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost"><del rend="erasure"> </del> וכול הכלים ובגדים ועורות וכול מעש</supplied><unclear cert="low">ה</unclear><supplied reason="lost"> עזים</supplied>
+      <lb n="2"/><supplied reason="lost">כמשפט התורה הזואת תעשו להמה וכול כלי חרש ישברו כי טמאים המה ולוא יטהרו עוד עד ל</supplied>עולם<supplied reason="lost">.   <del rend="erasure"> </del></supplied>
+      <lb n="3"/><supplied reason="lost">כול שרץ הארץ תטמאו החולד והעכבר והצב למינו והלטאה והכח והחמט והתנשמת.   כול איש אשר יגע </supplied><unclear cert="high">ב</unclear>המ<unclear cert="low">ה</unclear><supplied reason="lost"> במותמה</supplied>
+      <lb n="4"/><supplied reason="lost">יטמא עד הערב</supplied><gap reason="lost" extent="unknown"/><unclear cert="low">ל</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f3">
+      <lb n="1"/><supplied reason="lost">וכול נדר אלמנה וגרושה כול אשר אסרה על נפשה יקומו עליה ככול אשר יצא מ</supplied>פיה <del rend="erasure"> ? </del>.
+      </div>
+      <div type="column" n="f4">
+      <lb n="0"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ולוא ידבק</supplied>
+      <lb n="1"/><supplied reason="lost">בידכה מאום מן החרם למע</supplied><unclear cert="low">ן</unclear> <supplied reason="lost">אשוב מחרון אפי ונתתי לכה רחמים ורחמתיכה והרביתיכה כאשר דברתי לאבותיכה</supplied>
+      <lb n="2"/><supplied reason="lost">אם תשמע בקולי לשמור כו</supplied><unclear cert="high">ל</unclear> <unclear cert="high">מ</unclear>צוו<unclear cert="low">ת</unclear><supplied reason="lost">י אשר אנוכי מצוכה היום לעשות הישר והטוב לפני יייי אלוהיכה <del rend="erasure"> </del></supplied>.
+      </div>
+      <div type="column" n="f5">
+      <lb n="0"/><gap reason="lost" extent="unknown"/><supplied reason="lost">וכי אם תחזק המלחמה</supplied>
+      <lb n="1"/><supplied reason="lost">עליו ושלחו לו מחצית העם את אנשי הצבא ו</supplied>מ<supplied reason="lost">חצית העם לוא יכרתו מעריהמה.   <del rend="erasure"> </del> והיה אם נצחו את</supplied>
+      <lb n="2"/><supplied reason="lost">אויביהמה ושברום והכום לפי חרב ונ</supplied><unclear cert="low">ש</unclear>א <unclear cert="low">א</unclear><supplied reason="lost">ת שללמה ונתנו ממנו למלך מעשרו ולכוהנים אחד מאלף וללויים אחד</supplied>.
+      </div>
+      <div type="column" n="f6_13">
+      <lb n="1"/><supplied reason="lost">ואם בחוקותי ילך ואת מצוותי ישמור ויעש הישר והטוב לפני לו</supplied>א יכרת <unclear cert="high">ל</unclear>ו <supplied reason="lost">איש</supplied> <unclear cert="high">י</unclear>ושב מבניו <supplied reason="lost">על</supplied> <unclear cert="low">כס</unclear><supplied reason="lost">א מלכות ישראל</supplied>
+      <lb n="2"/><supplied reason="lost">לעולם.  והיתי עמו והושעתיהו מיד שונאיו ומיד מבקשי נפשו לש</supplied>אתה.   ונתתי <supplied reason="lost">א</supplied>ת כול אויביו לפניו ומש<supplied reason="lost">ל בהמה כרצונו והמה</supplied>
+      <lb n="3"/><supplied reason="lost">לוא ימשולו בו.   ונתתיה למעלה ולוא למטה לראוש ולוא לזנב.   ויאר</supplied>ך ימים רבים <unclear cert="high">ע</unclear>ל <unclear cert="high">מ</unclear>לכותו הואה ובניו אחר<unclear cert="low">י</unclear><supplied reason="lost">ו.   <del rend="erasure"> </del></supplied>
+      <lb n="4"/><supplied reason="lost">לוא יהיה לכוהנים וללויים כול שבט לוי חלק ונחלה עם ישרא</supplied><unclear cert="low">ל</unclear><supplied reason="lost">.   </supplied> ^<supplied reason="lost">א</supplied><unclear cert="low">שי</unclear>^ <supplied reason="lost">י</supplied>ייי יקטי<supplied reason="lost">רון</supplied> ונחלות<del rend="dots">{ו</del>}ם יואכלון ונ<unclear cert="high">חל</unclear><supplied reason="lost">ה</supplied> <unclear cert="high">ל</unclear><supplied reason="lost">וא יהיה להמה</supplied>
+      <lb n="5"/><supplied reason="lost">בקרב אחיהמה ייי</supplied><unclear cert="high">י</unclear> <unclear cert="low">ה</unclear><supplied reason="lost">ואה נחלותם.   <del rend="erasure"> </del> וזה יהיה משפט הכ</supplied>והנים מ<supplied reason="lost">את ה</supplied><unclear cert="low">ע</unclear><unclear cert="high">ם</unclear> <supplied reason="lost">מא</supplied>ת זובחי הזב<supplied reason="lost">ח אם שור אם</supplied>
+      <lb n="6"/><supplied reason="lost">שה. ונתן לכוהן</supplied> את האזרוע <supplied reason="lost">עד עצם השכם ואת הלחיים ואת ה</supplied><unclear cert="low">קב</unclear>ה ורש<unclear cert="high">י</unclear><supplied reason="lost">ת דגנ</supplied>ם תירושם ו<unclear cert="low">י</unclear><supplied reason="lost">צהרם ורשית</supplied>
+      <lb n="7"/><supplied reason="lost">גז צואנם ורש</supplied>ית כול <unclear cert="low">א</unclear><supplied reason="lost">שר יתנו ליייי יהיה לה</supplied><unclear cert="low">מ</unclear>ה <supplied reason="lost">מאת בני ישרא</supplied><unclear cert="high">ל</unclear><supplied reason="lost"> ו?מא</supplied>ת מ<unclear cert="low">ת</unclear><supplied reason="lost">נות ד</supplied><unclear cert="low">מ</unclear>עיהם <unclear cert="low">ו</unclear><supplied reason="lost">יניפו את כול תרומות</supplied>
+      <lb n="8"/><supplied reason="lost">יייי וכול תנופותמה ו</supplied><unclear cert="high">כ</unclear><unclear cert="low">ו</unclear><supplied reason="lost">ל בכורות בהמה הזכרים וכו</supplied><unclear cert="high">ל</unclear><supplied reason="lost"> צאצאי מגרשים לבהמ</supplied><unclear cert="low">ת</unclear><supplied reason="lost">מה וכול קו</supplied>ד<supplied reason="lost">שיהמה אשר יקדישו לי עם כול</supplied>
+      <lb n="9"/><supplied reason="lost">קודש הלוליהמה ו</supplied><unclear cert="high">מ</unclear>כס תרו<unclear cert="low">מ</unclear><supplied reason="lost">תמה לעוף ולחיה ולדגים אחד מאלף אשר יצודו וכול אשר יחרימו ומכס השלל והבז.   <del rend="erasure"> </del></supplied>
+      <lb n="10"/><supplied reason="lost">וללויים מעשר ה</supplied><unclear cert="low">ד</unclear>גן <supplied reason="lost">והתירוש והיצהר אשר הקדישו לי לראישונה והשכם מאת זובחי הזבח והמכס מן השלל ומן הבז</supplied>.
+      </div>
+      <div type="column" n="f14">
+      <lb n="1"/><supplied reason="lost">הרע מקרב</supplied><unclear cert="low">כ</unclear>ה<supplied reason="lost"> ו</supplied>כ<supplied reason="lost">ול ב</supplied>נ<supplied reason="lost">י </supplied>יש<supplied reason="lost">ראל ישמעו ויראו.   <del rend="erasure"> ? </del></supplied>
+      <lb n="2"/><supplied reason="lost">כי יהיה</supplied> איש רכיל בעמו <supplied reason="lost">ומשלים את עמו לגוי נכר ועושה רעה בעמו ותליתמה אותו על העץ.   וימת על פי שנים</supplied>
+      <lb n="3"/><supplied reason="lost">עדים ועל </supplied>פי שלושה עדים <supplied reason="lost">יומת והמה יתלו אותו <corr>על</corr> העץ.   <del rend="erasure"> </del> כי יהיה באיש חטא משפט מות ויברח אל תוך הגואים</supplied>
+      <lb n="4"/><supplied reason="lost">ויקלל את ע</supplied><unclear cert="low">מ</unclear>ו את בני ישרא<unclear cert="low">ל</unclear><supplied reason="lost"> ותליתמה גם אותו על העץ וימות.   ולוא תלין נבלתמה על העץ כי קבור תקוברמה ביום ההוא.   </supplied>
+      <lb n="5"/><supplied reason="lost"><del rend="erasure"> </del> לוא </supplied>תלבש שטנז צ<supplied reason="lost">מר ופשתים יחדו.   <del rend="erasure"> </del> כי יהיה לאיש בן סורר ומורה איננו שומע בקול אביהו ואמו ותפשו</supplied>
+      <lb n="6"/><supplied reason="lost">בו והוציאהו א</supplied>ל<supplied reason="lost"> </supplied><unclear cert="low">זק</unclear><unclear cert="high">נ</unclear><supplied reason="lost">י </supplied>עירו<supplied reason="lost"> ואל שער מקומו.   </supplied>
+      </div>
+      <div type="column" n="f15_22">
+      <lb n="0"/><gap reason="lost" extent="unknown"/><supplied reason="lost"><del rend="erasure"> </del> כי יפתה איש נערה בתולה אשר לוא</supplied>
+      <lb n="1"/><supplied reason="lost">אורשה והיאה רויה לו מ</supplied><unclear cert="low">ן</unclear><supplied reason="lost"> החוק ושכב עמה ונמצא ונתן האי</supplied><unclear cert="low">ש</unclear> ה<unclear cert="high">שו</unclear>כב עמ<unclear cert="high">ה</unclear><supplied reason="lost"> לאבי הנערה חמשים כסף ולו תהיה לא</supplied>ש<unclear cert="high">ה</unclear> ת<unclear cert="low">ח</unclear><supplied reason="lost">ת אשר ענה</supplied>
+      <lb n="2"/><supplied reason="lost">לוא יוכל לשלחה כול י</supplied>מיו<supplied reason="lost">.   <del rend="erasure"> </del> לוא יקח איש את אש</supplied><unclear cert="high">ת</unclear> אביהו ול<unclear cert="low">ו</unclear><unclear cert="high">א</unclear> יגל<unclear cert="low">ה</unclear><supplied reason="lost"> כנף אביהו.   לוא יקח איש את אשת </supplied><unclear cert="low">א</unclear>חיהו <supplied reason="lost">ולוא יגלה כנף</supplied>
+      <lb n="3"/><supplied reason="lost">אחיהו בן אביהו </supplied><unclear cert="high">א</unclear>ו בן אמו<supplied reason="lost"> כי נדה היאה.   </supplied><unclear cert="low">לוא</unclear><supplied reason="lost"> יקח איש את אחותו בת אבי</supplied>הו <unclear cert="high">א</unclear><supplied reason="lost">ו בת א</supplied><unclear cert="low">מ</unclear>ו<supplied reason="lost"> תועבה היאה.   <del rend="erasure"> </del> לוא </supplied>יקח א<supplied reason="lost">יש את אחות אביהו</supplied>
+      <lb n="4"/><supplied reason="lost">או את אחות אמו כי </supplied><unclear cert="low">תו</unclear>עבה היאה<supplied reason="lost">.   <del rend="erasure"> </del> </supplied>לוא יק<supplied reason="lost">ח איש את בת אחיהו או בת </supplied>אחו<unclear cert="low">ת</unclear><supplied reason="lost">ו כי תועבה היאה.   <del rend="erasure"> </del> לוא יקח איש</supplied>
+      <lb n="5"/><supplied reason="lost">את בת בנו א</supplied><unclear cert="low">ו</unclear> <unclear cert="low">א</unclear>ת ב<supplied reason="lost">ת בתו כי תועבה היאה.   <del rend="erasure"> </del> לוא יקח איש את אשת </supplied>בנ<supplied reason="lost">ו כי תועבה היאה.   <del rend="erasure"> </del> לוא יקח איש את</supplied>
+      <lb n="6"/><supplied reason="lost">האשה ואת בתה או בת בנה או בת בתה כי תועבה היאה.   <del rend="erasure"> </del> לוא יקח איש את האשה ואת אחותה כי </supplied><unclear cert="high">ת</unclear><unclear cert="low">וע</unclear><unclear cert="high">ב</unclear><supplied reason="lost">ה היאה.   <del rend="erasure"> </del> כי ישבו</supplied>
+      <lb n="7"/><supplied reason="lost">אחים יחדו ומת אחד מהם ובן אין לו לוא תהיה אשת המת החוצה לאיש זר.   יבמה יבוא עליה ולקחה</supplied> <unclear cert="low">לו</unclear> <supplied reason="lost">לא</supplied>שה וי<unclear cert="high">ב</unclear><supplied reason="lost">מה.   והיה הבכור אשר</supplied>
+      <lb n="8"/><supplied reason="lost">תלד יקום על שם אחיהו המת ולוא ימחה שמו מי</supplied>שרא<supplied reason="lost">ל.   <del rend="erasure"> </del> ואם לוא יחפוץ האיש לקחת את </supplied><unclear cert="high">י</unclear>במתו ועלתה <supplied reason="lost">יבמתו השערה אל הזקנים</supplied>
+      <lb n="9"/><supplied reason="lost">ואמרה מאן יבמי להקים לאחיהו שם בישרא</supplied><unclear cert="low">ל</unclear> לוא<supplied reason="lost"> אבה יבמי.   וקראו לו זקני עירו ודברו אליו.   ועמד ואמר לו</supplied><unclear cert="high">א</unclear> ח<unclear cert="high">פ</unclear><unclear cert="low">צ</unclear><supplied reason="lost">תי לקחתה.   ונגשה יבמתו</supplied>
+      <lb n="10"/><supplied reason="lost">אליו לעיני הזקנים וחלצה נעלו מעל רגלו וירקה בפניו.   וענתה ואמרה ככה יעשה לאיש אשר ל</supplied>וא<supplied reason="lost"> יבנה את בית אחיהו</supplied>.
+      </div>
+      <div type="column" n="f23">
+      <lb n="1"/><gap reason="lost" extent="unknown"/> אש<gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>תה ל<unclear cert="high">ו</unclear><unclear cert="low">א</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="low">ו</unclear>ב<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/> ו<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/>ל<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f24">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>ת<gap reason="illegible" unit="character" quantity="1"/>ה<gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>תם ו<unclear cert="low">כו</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f25">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>א ול<unclear cert="low">ו</unclear><supplied reason="lost">א</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>מכול א<gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/>רו ביום אש<supplied reason="lost">ר</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> עד דור <unclear cert="low">ו</unclear><supplied reason="lost">דור</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>א בז <unclear cert="low">י</unclear>שראל<gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/>אשר בא עמכם ת<gap reason="illegible" unit="character" quantity="4"/><gap reason="lost" extent="unknown"/>
+      <lb n="7"/><gap reason="lost" extent="unknown"/>ל<unclear cert="low">ו</unclear><unclear cert="high">א</unclear> <unclear cert="low">י</unclear>רשתמה <del rend="erasure"> </del><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="3"/><gap reason="lost" extent="unknown"/>
+      <lb n="8"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> מקרה <gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f26">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>ש<unclear cert="low">י</unclear>א מ<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="low">ץ</unclear> כ<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f27">
+      <lb n="1"/><gap reason="lost" extent="unknown"/> <unclear cert="low">ב</unclear>ן <gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f28">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>לוא<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f29">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">ה</unclear>ת<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f30">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">ב</unclear><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>א ה<unclear cert="low">א</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f31">
+      <lb n="1"/><gap reason="lost" extent="unknown"/> ת<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> ופים<gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>ש<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f32">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>ת <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>ל<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f33">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>ן לוא<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f34">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>ת <gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f35">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> שמ<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f36">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>ל <unclear cert="low">ו</unclear>ב<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f37">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>נ<unclear cert="low">ו</unclear> כ<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f38">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>ה<gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> א<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f39">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> ב<unclear cert="low">ל</unclear><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

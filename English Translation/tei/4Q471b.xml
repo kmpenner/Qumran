@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q471b</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q471b.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1a_d">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">אני עם אלים א</supplied><unclear cert="high">ת</unclear>ח<unclear cert="high">ש</unclear><supplied reason="lost">ב ומעוני בעדת</supplied>
+      <lb n="2"/><unclear cert="low">ק</unclear><unclear cert="high">ו</unclear>דש.   <unclear cert="low">מ</unclear><supplied reason="lost">י לבוז נחשב בי ומי </supplied><unclear cert="low">נב</unclear>זה כמו<unclear cert="low">נ</unclear><supplied reason="lost">י ומי</supplied>
+      <lb n="3"/>כמוני חדל<supplied reason="lost"> אישים ומי יסבול </supplied>רע ידמה <unclear cert="low">ב</unclear><supplied reason="lost">י.   והוריה לוא</supplied>
+      <lb n="4"/>תדמה בהרותי <gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> כי </supplied><unclear cert="low">אנ</unclear><unclear cert="high">י</unclear> <unclear cert="low">ישב</unclear><supplied reason="lost">תי <gap reason="lost" extent="unknown"/> בשמים</supplied>.
+      <lb n="5"/><unclear cert="low">מי</unclear> כמוני <unclear cert="low">ב</unclear>אלים <gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost">מי יגודני בפתחי פי ומזל</supplied>
+      <lb n="6"/>ש<unclear cert="high">פ</unclear>תי מי יכיל מ<unclear cert="low">י</unclear><supplied reason="lost"> בלשון יועדני וידמה במשפטי.   כי אני</supplied>
+      <lb n="7"/>ידיד המלך רע לק<unclear cert="low">ד</unclear><supplied reason="lost">ושים ולוא יבא בי.   ולכבודי</supplied>
+      <lb n="8"/>לוא ידמה <unclear cert="low">כי</unclear> <unclear cert="low">א</unclear><supplied reason="lost">ני עם אלים מעמדי וכבודי עם בני המלך.   לוא</supplied>
+      <lb n="9"/>בפז <corr>א</corr><unclear cert="low">כת</unclear><supplied reason="lost">יר לי וכתם אופירים לוא</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="10"/><supplied reason="lost">.   </supplied> זמר<unclear cert="low">ו</unclear><supplied reason="lost"> ידידים</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q385b</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q385b.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><supplied reason="lost">ואלה דב</supplied>רי יחזקאל ויהי דבר יהו<unclear cert="low">ה</unclear> <unclear cert="low">א</unclear><unclear cert="high">ל</unclear><supplied reason="lost">י </supplied><unclear cert="high">ל</unclear><unclear cert="low">א</unclear><supplied reason="lost">מר בן</supplied>
+      <lb n="2"/><supplied reason="lost">אדם הנב</supplied>א ואמרת הנה בא יום א<unclear cert="high">ב</unclear>דן גוים <gap reason="lost" extent="unknown"/><supplied reason="lost">.   </supplied>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">מצ</supplied><unclear cert="high">ר</unclear>ים ותהי חלחל<unclear cert="low">ה</unclear><supplied reason="lost"> </supplied>בפוט ותהי חרב במ<supplied reason="lost">צרים</supplied>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ת</supplied><unclear cert="high">ת</unclear>קלקל וכוש ו<supplied reason="lost">פו</supplied>ל<supplied reason="lost"> </supplied> ואדירי ערב וגם מן <unclear cert="high">ב</unclear><supplied reason="lost">ני</supplied>
+      <lb n="5"/><supplied reason="lost">הברית ו</supplied><unclear cert="low">ע</unclear>רב יפולו בשע<unclear cert="high">ר</unclear><supplied reason="lost">י </supplied>מצרים.   <unclear cert="high">ת</unclear>ואבד <gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/><unclear cert="low">ב</unclear>חרב מצ<unclear cert="high">ר</unclear><supplied reason="lost">ים </supplied><unclear cert="low">תש</unclear>דד<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="7"/><gap reason="lost" extent="unknown"/><unclear cert="low">מצ</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

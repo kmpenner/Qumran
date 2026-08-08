@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q553</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q553.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1i">
+      <lb n="1"/><gap reason="lost" extent="unknown"/> כל חדוהי
+      <lb n="2"/><gap reason="lost" extent="unknown"/>מן מושה
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="low">ב</unclear><unclear cert="high">ר</unclear>א אתר די
+      <lb n="4"/><gap reason="lost" extent="unknown"/><supplied reason="lost">של</supplied>טנה לאתקריה
+      <lb n="5"/><gap reason="lost" extent="unknown"/><unclear cert="high">ה</unclear> <unclear cert="high">ב</unclear>שמה די <supplied reason="lost"> </supplied>.
+      </div>
+      <div type="column" n="f1ii">
+      <lb n="1"/>מחזוהי ו<unclear cert="high">א</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/>תק<unclear cert="high">י</unclear>ף חיל<gap reason="lost" extent="unknown"/>
+      <lb n="3"/>מביניהון<gap reason="lost" extent="unknown"/><supplied reason="lost">ואמר</supplied>
+      <lb n="4"/>לי תלת<unclear cert="low">ה</unclear><supplied reason="lost"> אלנא די</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f2i">
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost"><supplied reason="omitted">די</supplied> ע</supplied><unclear cert="low">ב</unclear>ד <unclear cert="high">לי</unclear> דינא <unclear cert="high">ו</unclear>די
+      <lb n="4"/><gap reason="lost" extent="unknown"/><unclear cert="low">א</unclear> די אהך
+      <lb n="5"/><gap reason="lost" extent="unknown"/><unclear cert="low">נ</unclear>א ואמ<unclear cert="high">ר</unclear> לי במלכות
+      <lb n="6"/><gap reason="lost" extent="unknown"/>קו+ין למח<unclear cert="high">י</unclear>ה וכדי אוו+י
+      <lb n="7"/><gap reason="lost" extent="unknown"/><unclear cert="low">מין</unclear>.
+      </div>
+      <div type="column" n="f3+2ii+4">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><del rend="erasure"> </del> וחזי<unclear cert="high">ת</unclear><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> </supplied>
+      <lb n="2"/>די <unclear cert="high">ע</unclear>לו<unclear cert="low">ה</unclear><supplied reason="lost">י כען נוגהא קאם <gap reason="lost" extent="unknown"/>.   </supplied><del rend="erasure"> </del> ואר<unclear cert="low">ב</unclear><supplied reason="lost">עה אלנין אמרי</supplied>ן לה וקמו אלניא
+      <lb n="3"/>ורחק<unclear cert="low">ו</unclear><supplied reason="lost"> מנה ואמר לי התחזא צורתא.   </supplied><del rend="erasure"> </del> ואמ<add place="above">ר</add>ת אן אחזה ואתבונן
+      <lb n="4"/>בה.   וחזי<unclear cert="high">ת</unclear><supplied reason="lost"> אלנא די קאם הוא שים במדנחא לה.  </supplied>ושאלתה מן שמך ואמר לי בבל.   <del rend="erasure"> </del> ואמר<add place="above">ת</add> לה אנתה
+      <lb n="5"/>הוא <unclear cert="low">ד</unclear><supplied reason="lost">י שליט בפרס.   <del rend="erasure"> </del> וחזית א</supplied>לנא אחרנא ושאלתה ואמרת לה מן
+      <lb n="6"/>שמך <del rend="erasure"> </del><supplied reason="lost"> ו</supplied><unclear cert="low">א</unclear>מר לי <unclear cert="high">מ</unclear><supplied reason="lost">די.   ואמרת לה אנתה הוא די שליט על תקפי ימא וע</supplied><unclear cert="high">ל</unclear><supplied reason="lost"> מחוזא וע</supplied><unclear cert="high">ל</unclear>+<supplied reason="lost">כ</supplied><unclear cert="high">ל</unclear> <unclear cert="low">עמיא</unclear><supplied reason="lost"> </supplied>.
+      <lb n="7"/><del rend="erasure"> </del><supplied reason="lost"> וחזית</supplied> <unclear cert="low">א</unclear><supplied reason="lost">לנא תליתיא ואמרת לה מן שמך ולמא חזוך שנה מנהון.   ואמר לי יואן </supplied>.
+      </div>
+    </body>
+  </text>
+</TEI>

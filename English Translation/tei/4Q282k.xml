@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q282k</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q282k.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1i">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>ם מ<unclear cert="high">ח</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/>יכון מי<unclear cert="high">וב</unclear><supplied reason="lost"> </supplied>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>ד מלפני ח<supplied reason="lost"> </supplied>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><unclear cert="high">ש</unclear>פלים <unclear cert="high">ל</unclear><supplied reason="lost">מרום</supplied>
+      <lb n="6"/><gap reason="lost" extent="unknown"/><unclear cert="low">ש</unclear> לוא
+      <lb n="7"/><gap reason="lost" extent="unknown"/><unclear cert="high">ת</unclear>מה.
+      </div>
+    </body>
+  </text>
+</TEI>

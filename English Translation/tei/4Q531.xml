@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q531</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q531.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">עירי</supplied><unclear cert="high">ן</unclear> אטמיו <gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="high">ג</unclear>ברין ונפילין <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">די עירין</supplied> אולדו <unclear cert="high">ו</unclear>אלו כ<unclear cert="low">ג</unclear><supplied reason="lost">ברין ?</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><unclear cert="low">ב</unclear>דמה ועל יד מ<unclear cert="high">ה</unclear><supplied reason="lost">ומת<supplied reason="omitted">א</supplied></supplied><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><supplied reason="lost">גבר</supplied>ין די לא שפק להון ו<unclear cert="high">ל</unclear><unclear cert="low">ב</unclear><supplied reason="lost">ניהון</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/> ובעין למאכל שגיא מ<unclear cert="high">ל</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="7"/><gap reason="lost" extent="unknown"/><supplied reason="lost">.   </supplied><del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="8"/><gap reason="lost" extent="unknown"/><supplied reason="lost">פ</supplied><unclear cert="high">ת</unclear>חוה נפיליא <gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f2+3">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>שהר<unclear cert="low">א</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">כול די </supplied><unclear cert="low">א</unclear>רעא עבד<unclear cert="high">ת</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ש</supplied><unclear cert="high">מ</unclear><supplied reason="lost">י</supplied><unclear cert="low">ם</unclear><supplied reason="lost"> וכול </supplied>נוניא רב<unclear cert="high">ר</unclear><supplied reason="lost">בי</supplied><unclear cert="low">א</unclear> <gap reason="illegible" unit="character" quantity="3"/><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/>וכול <unclear cert="high">עוף</unclear> שמים עם <unclear cert="high">כ</unclear>ול ד<unclear cert="high">י</unclear> פר<unclear cert="low">א</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ועם </supplied><unclear cert="high">ע</unclear>שב זרע <unclear cert="low">אר</unclear>עא וכול דגנא וכול אילני<unclear cert="high">א</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ועם </supplied><unclear cert="low">ע</unclear>נא בעירא <del rend="dots">{דמו</del>}דקדקא ע<unclear cert="low">ם</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="7"/><gap reason="lost" extent="unknown"/><supplied reason="lost">וכו</supplied>ל שר<unclear cert="high">צ</unclear>ארעא.   ואחר<unclear cert="high">י</unclear> כ<unclear cert="high">ו</unclear>ל<gap reason="lost" extent="unknown"/>
+      <lb n="8"/><gap reason="lost" extent="unknown"/><supplied reason="lost">כו</supplied>ל עובד קשה וממרא מ<unclear cert="high">ן</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="9"/><gap reason="lost" extent="unknown"/>דכר ונקב<unclear cert="high">ה</unclear> ובאנשא ל<gap reason="lost" extent="unknown"/>
+      <lb n="10"/><gap reason="lost" extent="unknown"/><unclear cert="low">מד</unclear><unclear cert="high">עא</unclear><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="1"/><unclear cert="low">חכ</unclear><unclear cert="high">מ</unclear>ה ור<unclear cert="low">ח</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f4">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ו</supplied>מבוע<unclear cert="high">י</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>וכול שרץ <unclear cert="low">א</unclear><supplied reason="lost">רעא</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="high">ע</unclear>בדתה כול <unclear cert="low">א</unclear><supplied reason="lost">לין</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><unclear cert="low">ות</unclear>א ר<unclear cert="high">ב</unclear><unclear cert="low">ת</unclear><supplied reason="lost">א</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f5">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">א</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">א</supplied><unclear cert="high">מ</unclear>ר לה <unclear cert="low">די</unclear> אנה ידע עד <unclear cert="low">ד</unclear><supplied reason="lost">י</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>ה וכול די עליכה <unclear cert="high">ט</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f6">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">לו</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> <unclear cert="low">ד</unclear>ב<unclear cert="high">ר</unclear>ין <gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="high">יה</unclear>בתה לה <unclear cert="high">ד</unclear><unclear cert="low">כר</unclear><unclear cert="high">נ</unclear>א דנה <unclear cert="low">בא</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><supplied reason="lost">א</supplied><del rend="dots">{ת</del>}<unclear cert="high">ט</unclear><unclear cert="low">מיו</unclear> <unclear cert="high">ע</unclear>ל<unclear cert="low">יכ</unclear>ו<supplied reason="lost">ן</supplied> <unclear cert="low">ט</unclear><supplied reason="lost">מאה רב</supplied><unclear cert="high">א</unclear> <unclear cert="low">בא</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f7">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>ולאח<unclear cert="high">י</unclear>רם <unclear cert="low">ו</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ול</supplied><unclear cert="high">ע</unclear>נאל ול<unclear cert="high">ברקא</unclear><supplied reason="lost">ל ולנ</supplied><unclear cert="low">פילי</unclear>ן <gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/>ל <unclear cert="low">ו</unclear>לנעמאל ול<unclear cert="high">ר</unclear><supplied reason="lost">זאל</supplied> ולעמיא<unclear cert="low">ל</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ול</supplied><unclear cert="low">כ</unclear>ול אלין גבריא.   מה ח<unclear cert="high">ט</unclear><supplied reason="lost">י</supplied><unclear cert="low">א</unclear> לכה די קטל<supplied reason="lost">תה</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> הלא כול אלין אזלו בחרב<unclear cert="high">כה</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/><supplied reason="lost">דם שגיא שפיך </supplied><unclear cert="high">כ</unclear>נהרין רברבין על <unclear cert="high">א</unclear><supplied reason="lost">רעא</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="7"/><gap reason="lost" extent="unknown"/><unclear cert="high">ע</unclear>ליכה <unclear cert="low">ע</unclear><supplied reason="lost">שאל</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f8">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="high">א</unclear>ל ול<unclear cert="low">א</unclear><supplied reason="lost">רעתקף</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ו</supplied><unclear cert="high">לש</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f9">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>מרע<supplied reason="lost"> ?</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="low">א</unclear>ל <gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="high">ל</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f10">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ק</supplied><unclear cert="high">ט</unclear>יל<unclear cert="high">י</unclear><unclear cert="low">ן</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f11">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">? ס</supplied><unclear cert="low">ת</unclear><unclear cert="high">ר</unclear> מן <unclear cert="low">כ</unclear><supplied reason="lost">ול ?</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">? חזי</supplied><unclear cert="high">ת</unclear> כורסיה ו<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ח</supplied>משה קודמו<unclear cert="high">ה</unclear><supplied reason="lost">י</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f12">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">א</unclear>יתי <unclear cert="high">כ</unclear>ו<unclear cert="low">ל</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">א</supplied>פיל לבוש<unclear cert="high">ה</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="low">ר</unclear> וכ<unclear cert="high">ש</unclear>ביבין <unclear cert="low">ד</unclear><supplied reason="lost">י נור</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f13">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">כ</unclear><unclear cert="high">ת</unclear>פתה ואשר<unclear cert="low">י</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>א קודם חד<supplied reason="lost"><supplied reason="omitted">ת</supplied> ?</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="low">ה</unclear>י יקירין<gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/> מן זיוא ר<gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/> בדמותה <gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/><unclear cert="low">די</unclear> <unclear cert="high">נה</unclear><unclear cert="low">ור</unclear> <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f14">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">ר</unclear>תה אלף אלפין <unclear cert="low">לה</unclear><supplied reason="lost"> משמשין</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>והי <unclear cert="high">לא</unclear> בהיל על כו<unclear cert="high">ל</unclear> <unclear cert="high">מל</unclear><unclear cert="low">ך</unclear> וא<unclear cert="low">ל</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/>אחדת ואנה נ<unclear cert="low">פ</unclear>לת על אנפי קלה שמ<supplied reason="lost">עת</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ל</supplied><unclear cert="low">א</unclear> יתב בין בני אנש ולא אלף מנהון<gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><supplied reason="lost">.   </supplied><del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/><unclear cert="low">די</unclear> <unclear cert="high">מ</unclear><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="1"/><unclear cert="low">ד</unclear><gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> </supplied>מאן תרין<gap reason="lost" extent="unknown"/>
+      <lb n="7"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="3"/><supplied reason="lost"> </supplied><unclear cert="low">מ</unclear><unclear cert="high">א</unclear><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f15">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">ו</unclear>ש<unclear cert="low">ה</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> הלא<gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="low">ו</unclear>אוחרת <gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><unclear cert="high">ה</unclear> <gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f16">
+      <lb n="1"/><gap reason="lost" extent="unknown"/> <unclear cert="low">ו</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/> ואמ<unclear cert="low">ר</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/>אר<unclear cert="high">י</unclear><unclear cert="low">ח</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><unclear cert="high">כ</unclear>ה <gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f17">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">קש</supplied>יטין <del rend="dots">{ו</del>}<corr>&lt;ה</corr>&gt;<add place="above">ק</add>דשת<unclear cert="high">ה</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/> עלם לי עבדת<unclear cert="low">ה</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/>למאבל כול עדני<gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/> שלחתה <supplied reason="lost"> </supplied><unclear cert="high">ל</unclear><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/>בשרא ול<unclear cert="low">ב</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f18">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>קדיש ר<unclear cert="high">י</unclear>ם מקם<gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="low">מ</unclear>א<unclear cert="high">ו</unclear>ר חרבן אבדן <gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>א אנחנא די חט<unclear cert="high">י</unclear><supplied reason="lost">נא</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/> <unclear cert="low">וא</unclear><unclear cert="high">נ</unclear>ה מחבל וי<unclear cert="high">ב</unclear><supplied reason="lost">דון</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><supplied reason="lost">אנ</supplied><unclear cert="high">שא</unclear> <unclear cert="low">חב</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f19">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">ן</unclear><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ע<supplied reason="omitted">ו</supplied>ב</supplied><unclear cert="low">ד</unclear>י חמס שגיא ב<unclear cert="low">י</unclear>בשתא
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">די </supplied><unclear cert="low">ל</unclear><supplied reason="lost">א</supplied> גרמין אנחנא <unclear cert="low">ו</unclear>לא בשר
+      <lb n="4"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ב</supplied><unclear cert="high">ש</unclear>ר ונתמחה מן צורתנא
+      <lb n="5"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ו</supplied><unclear cert="low">שר</unclear> <unclear cert="high">קדי</unclear>שיכה לנא<gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/><del rend="erasure"> ? </del><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f20">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><unclear cert="high">ף</unclear> <unclear cert="high">ק</unclear><unclear cert="low">ד</unclear><unclear cert="high">ל</unclear><unclear cert="low">א</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="low">ד</unclear>חטין ול<gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f21">
+      <lb n="1"/><gap reason="lost" extent="unknown"/> <unclear cert="low">ו</unclear>אנתון
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ת</supplied><unclear cert="low">ק</unclear>נתעלמין.
+      </div>
+      <div type="column" n="f22">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">על יד שמאל</supplied><unclear cert="low">א</unclear> <unclear cert="high">ו</unclear>ימינא<supplied reason="lost"> <supplied reason="omitted">ו</supplied>אתבעי </supplied><unclear cert="high">כ</unclear>ול בית<supplied reason="lost"> וצד</supplied><unclear cert="high">י</unclear>ק לא <supplied reason="lost">אשתכח</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">בין עקר זר</supplied><unclear cert="low">ע</unclear>הון.   <del rend="erasure"> </del>
+      <lb n="3"/><supplied reason="lost">כדי אנה מת</supplied>גבר ובתקוף חיל דרעי ובחסן גבר<unclear cert="high">ו</unclear>ת<unclear cert="high">י</unclear>
+      <lb n="4"/><supplied reason="lost">וסלקת על כ</supplied><unclear cert="low">ו</unclear>ל בשר ועבדת עמהון קרב ברם לא
+      <lb n="5"/><supplied reason="lost">תקפת ולא </supplied><unclear cert="low">מ</unclear>שכח אנה עמן לאשת<unclear cert="high">ר</unclear>רה דבעלי דיני
+      <lb n="6"/><supplied reason="lost">מלאכיא דבשמי</supplied><unclear cert="high">א</unclear> יתבין ובקדשיא אנון שרין ולא
+      <lb n="7"/><supplied reason="lost">אתמחו דאנו</supplied>ן ת<unclear cert="high">ק</unclear>יפין מני.   <del rend="erasure"> </del>
+      <lb n="8"/><supplied reason="lost">ארו קל גע</supplied><unclear cert="high">ר</unclear>ה די חיות ברא אתה וא<unclear cert="high">י</unclear>ש ברא קרי<unclear cert="low">ן</unclear>
+      <lb n="9"/><supplied reason="lost">נקמתהון.   </supplied>ו<unclear cert="high">כ</unclear>דן <unclear cert="high">א</unclear>מר ל<unclear cert="high">ה</unclear> <del rend="erasure"> </del> אוהיה חלמי אנסנ<supplied reason="lost">י</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="10"/><supplied reason="lost">ונדת מני ש</supplied>נת עיני למחזא <supplied reason="lost">חז</supplied><unclear cert="low">ו</unclear>ה.   ארו ידע אנה די ע<unclear cert="low">ל</unclear>
+      <lb n="11"/><supplied reason="lost">חזוה לא א</supplied>דמ<unclear cert="high">ו</unclear>ך ולא <unclear cert="low">א</unclear>ב<unclear cert="high">ע</unclear> ל<unclear cert="low">ה</unclear><supplied reason="lost">ון דין כנש</supplied><unclear cert="high">תא</unclear><gap reason="lost" extent="unknown"/><supplied reason="lost">.   </supplied>
+      <lb n="12"/><supplied reason="lost">ואדין ג</supplied>ל<unclear cert="high">ג</unclear>מי<unclear cert="high">ש</unclear> אמר <supplied reason="lost">ח</supplied>למכה<supplied reason="lost"> </supplied><unclear cert="low">של</unclear><supplied reason="lost">ם ?</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f23">
+      <lb n="1"/>למחה לזמן יומי<unclear cert="high">ן</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/>כול רשיעיא מ<gap reason="lost" extent="unknown"/>
+      <lb n="3"/>אתקטל ואמות <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><unclear cert="low">כ</unclear>ול<unclear cert="low">א</unclear> <unclear cert="low">י</unclear><unclear cert="high">ש</unclear><supplied reason="lost">יציא</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f24">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><unclear cert="low">ב</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="low">א</unclear>סר ונת<unclear cert="low">ל</unclear><supplied reason="lost">קח ?</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/>יד רביא שני<unclear cert="high">א</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f25">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">ן</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> <unclear cert="high">די</unclear> <unclear cert="high">ע</unclear>ביד ב<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">מה</supplied><unclear cert="low">וי</unclear> עבורי ול<unclear cert="low">מ</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/>לא יסוף כול<gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> <unclear cert="low">א</unclear>נון מאת<unclear cert="low">ין</unclear> <gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><unclear cert="low">ן</unclear><gap reason="illegible" unit="character" quantity="3"/>.
+      </div>
+      <div type="column" n="f26">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">מל</unclear><unclear cert="high">ל</unclear> <unclear cert="high">על</unclear>יך מל<unclear cert="low">ך</unclear> <unclear cert="low">ו</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>מפלת בניכון ו<gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> </supplied><unclear cert="high">ל</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f27">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> <gap reason="illegible" unit="character" quantity="2"/><supplied reason="lost"> ? </supplied>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>ם לכון
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="high">ע</unclear>פ<unclear cert="high">ר</unclear>א ב<unclear cert="high">ד</unclear><unclear cert="low">א</unclear>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><del rend="erasure"> </del>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>א ל<gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f28">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">ן</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/> בדמ<unclear cert="high">ה</unclear><supplied reason="lost">ון ?</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">אמ</supplied>ר<unclear cert="high">ו</unclear> כדן <gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/>כען לכ<unclear cert="low">א</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/>אמר<unclear cert="high">ת</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/> למ<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f29">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">ק</unclear><supplied reason="lost"> </supplied><unclear cert="low">ע</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="low">ק</unclear>לי <gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/>למחזא <supplied reason="lost">חזוא ?</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ק</supplied><unclear cert="low">ד</unclear>יש <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f30">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="low">ר</unclear> ולא ת<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="high">ד</unclear>י נשתרא <gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/>ל<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f31">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><unclear cert="low">ו</unclear>הי וכמדמא<gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>יה <del rend="dots">{מ</del>}שני<unclear cert="high">א</unclear> ב<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f32">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="3"/><unclear cert="high">ה</unclear> <unclear cert="low">א</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="high">וכ</unclear>ען בדמא<gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/> ? <del rend="erasure"> </del><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f33">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="high">י</unclear>רגזו<unclear cert="high">ן</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="low">ן</unclear> על<unclear cert="high">י</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f34">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">י</unclear>א ק<unclear cert="low">ב</unclear><supplied reason="lost">ל<supplied reason="omitted">י</supplied>ן ?</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ע</supplied>בדתה וע<unclear cert="high">ל</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="high">רי</unclear>ה <unclear cert="high">ע</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f35">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>עד <unclear cert="high">ת</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>חט<unclear cert="low">י</unclear>ן <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f36">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> לע<unclear cert="high">י</unclear><supplied reason="lost">ריא ?</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">מ</supplied><unclear cert="high">לא</unclear><unclear cert="low">כ</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f37">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">כ</supplied><unclear cert="low">ת</unclear>בה<gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/> סח<unclear cert="high">ר</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f38">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>מ<unclear cert="high">ית</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="low">ר</unclear> סחר<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f39">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ל</supplied>מהג<unclear cert="high">א</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>לטור <gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f40">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>די ג<unclear cert="high">ש</unclear><supplied reason="lost">מ</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">מ</supplied>לת<unclear cert="high">ה</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f41">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">ל</unclear>ה<unclear cert="high">ן</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="high">י</unclear>מא <gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="high">א</unclear> <gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f42">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">א</supplied><unclear cert="low">נ</unclear>ת<unclear cert="high">ו</unclear>ן
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="high">א</unclear>נון.
+      </div>
+      <div type="column" n="f43">
+      <lb n="1"/><gap reason="lost" extent="unknown"/> ל<unclear cert="low">א</unclear> <gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="low">ד</unclear>ל<unclear cert="high">י</unclear> <gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><unclear cert="high">ה</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f44">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/><unclear cert="low">א</unclear> <unclear cert="low">ל</unclear><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>א לחנוך <unclear cert="low">ל</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/>מ<unclear cert="high">ח</unclear>ה וק<unclear cert="low">וש</unclear><supplied reason="lost">ט<supplied reason="omitted">א</supplied></supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f45">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">א</unclear>תפנית <gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="low">י</unclear>ן נפקו מ<unclear cert="high">ב</unclear>הלין <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/>א עד שמיא<gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> <unclear cert="low">מ</unclear><unclear cert="high">ק</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f46">
+      <lb n="1"/><supplied reason="lost"> ? </supplied><unclear cert="low">ו</unclear>אנה <unclear cert="high">א</unclear><unclear cert="low">ו</unclear><supplied reason="lost">היה ?</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><supplied reason="lost"> ? </supplied>סלקת ועלת <unclear cert="low">ל</unclear><unclear cert="high">ש</unclear><supplied reason="lost">מיא</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f47">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ספרין פ</supplied><unclear cert="low">ת</unclear><unclear cert="high">י</unclear>חין ב<unclear cert="low">מ</unclear><supplied reason="lost">לאך ?</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>קדיש <unclear cert="low">א</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f48">
+      <lb n="1"/><gap reason="lost" extent="unknown"/> ולג<unclear cert="low">ב</unclear><supplied reason="lost">ר<supplied reason="omitted">ין</supplied></supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f49">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">ב</unclear><unclear cert="high">טו</unclear><unclear cert="low">ב</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="low">א</unclear> בא<unclear cert="low">ח</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="high">ל</unclear><supplied reason="lost"> </supplied>ל<supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f50">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>דנה<gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="low">לל</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f51">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>ש<gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

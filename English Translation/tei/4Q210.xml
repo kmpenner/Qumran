@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q210</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q210.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1ii">
+      <lb n="1"/>ותלתת די <unclear cert="high">ב</unclear>תריהון על שמאל.   <del rend="erasure"> </del><supplied reason="lost"> ותלתת די בתריהון על מערב.   <del rend="erasure"> </del> ובארבעא מנהון נפקן רוחיא די</supplied>
+      <lb n="2"/>להין לרפיא ארעא ולאחיתה.   <del rend="erasure"> </del> <unclear cert="low">ו</unclear><supplied reason="lost">בתמניא מנהון נפקן רוחי נזקא כדי שליחו להין למבד כל ארעא</supplied>
+      <lb n="3"/>ומיא וכל מה די בהן די רבין וצמחין ורחש<supplied reason="lost">ין במיא ועל יבשתא וכל די דברין בה.   <del rend="erasure"> </del> ולקדמין</supplied>
+      <lb n="4"/>בתרעא קדמיא נפקא רוח קדים די <unclear cert="low">ב</unclear><supplied reason="lost">מדנחא ופנה לדרומא ונפק מנה אבדן ויבש וחמימו וחרבן.   <del rend="erasure"> </del></supplied>
+      <lb n="5"/>ובתרעא תנינא נפק<unclear cert="high">א</unclear> רוח ק<unclear cert="low">ד</unclear>ים ק<unclear cert="low">ד</unclear><supplied reason="lost">ימה די במצעתהון מטר ופרי ואחיא וטל.   <del rend="erasure"> </del> ובתרעא תליתיא נפקא רוח</supplied>
+      <lb n="6"/>קדים ג<unclear cert="high">ר</unclear>בה די קריב לרוח גר<unclear cert="high">י</unclear><supplied reason="lost">בי קרירו ויבש.   <del rend="erasure"> </del> ובתריהון מן תלתת תרעיא די על דרום שמיא</supplied>
+      <lb n="7"/>נפק לקדמין בתרעא קדמיא <supplied reason="lost">רוח דרום די בדרומא ופנה למדנחא שרב ?.   <del rend="erasure"> </del> ובתרעא תנינא נפק רוח דרום</supplied>
+      <lb n="8"/>די קרין לה נגבה <unclear cert="high">ט</unclear>ל <supplied reason="lost">ומטר ושלם ואחיא.   <del rend="erasure"> </del> ובתרעא תליתיא נפק רוח דרום מערבה טל ומטר וקמץ ואבדן.   <del rend="erasure"> </del></supplied>
+      <lb n="9"/><supplied reason="lost">ו</supplied><unclear cert="low">ב</unclear>תרה נפק רוחא <unclear cert="low">ג</unclear><supplied reason="lost">ריביתא</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="10"/><supplied reason="lost">ואב</supplied><unclear cert="low">דן</unclear> <del rend="erasure"> </del><gap reason="lost" extent="unknown"/>.
+      <lb n="13"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="14"/>וחרבן.   ושלמו תרי עשר תרעי ארבע רוחי ש<unclear cert="low">מ</unclear><supplied reason="lost">יא שלמהון ופרשהון אחזית לך ברי מתושלח.   וקרין לקדימא קדים</supplied>
+      <lb n="15"/>בדי הוא קדמיא וקרין לדרומא דרום בד<supplied reason="lost">י לתמן דאר רבא ובה דאר מן עלמא.   ולרוחא רבא רוח מערבא בדי תמן אתין כוכבי</supplied>
+      <lb n="16"/>שמיא מ<add place="above">נ</add>א<del rend="dots">{י</del>}א<add place="above">י</add>ן ערבין ומ<del rend="dots">{י</del>}<add place="above">נ</add>אן ע<unclear cert="low">ל</unclear><supplied reason="lost">לין וכולהון</supplied> <unclear cert="low">כ</unclear>וכביא בדיל כ<supplied reason="lost">ן קרין מערבא.   וקרין לצפונא צפון בדי בה צפנין</supplied>
+      <lb n="17"/>ומתכ<corr>נ</corr>סין וסחרין <del rend="dots">{ו</del>}כל ערבי <supplied reason="lost">שמיא ואזלין</supplied> למדנח שמיא.   <unclear cert="low">ו</unclear><supplied reason="lost">למדנחא מדנח בדי מן תמן דנחין מאני שמיא ואף מזרח בדיל</supplied>
+      <lb n="18"/>די מ<add place="above">נ</add>אין <del rend="dots">{ש</del>}<corr>&lt;ד</corr>&gt;רחין יר<unclear cert="high">ח</unclear>ין בהש<unclear cert="low">תל</unclear><supplied reason="lost">מותהון בכל יום וי</supplied><unclear cert="low">ום</unclear> לאתחזיא <unclear cert="low">ע</unclear><supplied reason="lost">ל ארעא</supplied><gap reason="lost" extent="unknown"/>.
+      <lb n="19"/><supplied reason="lost">וחזית תלת <gap reason="lost" extent="unknown"/> ארעה חד מנהן למדבר בה בני אנשא.   </supplied><del rend="erasure"> </del> וחד מנ<unclear cert="high">ה</unclear>ן <gap reason="lost" extent="unknown"/>
+      <lb n="20"/><gap reason="lost" extent="unknown"/><supplied reason="lost">.   וחזית שב</supplied><unclear cert="low">ע</unclear>ת <unclear cert="low">ט</unclear><supplied reason="lost">וריא</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f1iii">
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ובמדנח שהרא פלג שביע חד די נהורה אנ</supplied><unclear cert="low">י</unclear><unclear cert="high">ר</unclear> <unclear cert="low">ב</unclear>שמיא לא<unclear cert="low">תח</unclear><supplied reason="lost">זיא על ארעה</supplied>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ומשל</supplied>מין בכל יום ויום עד יום ארבעת עשר ומ<unclear cert="high">ש</unclear><supplied reason="lost">למין</supplied>
+      <lb n="5"/><supplied reason="lost">בה כל נהורה.   וקוי נהורה חד מן חמשת עשיריא ומשלמין בכול יום ויום עד יום</supplied> חמשת עשר ומשלמין בה כל נהור<unclear cert="low">ה</unclear>
+      <lb n="6"/><gap reason="lost" extent="unknown"/><unclear cert="high">ו</unclear>דבר ירחיא בפלגי שביעין.   <del rend="erasure"> </del>
+      <lb n="7"/><supplied reason="lost">ובמכסיה בציר שהרא מן נהורה.   <del rend="erasure"> </del> ביומא קדמיא חד מן ארבעת עשי</supplied><unclear cert="low">ר</unclear>יא וביומא תנינא חד מן תל<supplied reason="lost">תת</supplied>
+      <lb n="8"/><supplied reason="lost"> עשיריא <del rend="erasure"> </del> וביומא תליתיא חד מן תרין עשיריא <del rend="erasure"> </del> וביומא רב</supplied><unclear cert="low">י</unclear>עיא חד מן חד <unclear cert="high">ע</unclear><unclear cert="low">ש</unclear><supplied reason="lost">יריא <del rend="erasure"> </del></supplied>
+      <lb n="9"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/><supplied reason="lost"> </supplied>.
+      </div>
+    </body>
+  </text>
+</TEI>

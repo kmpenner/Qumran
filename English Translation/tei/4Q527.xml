@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q527</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q527.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/>אשר היו <unclear cert="high">נ</unclear>צפנים לחג <unclear cert="high">אד</unclear><supplied reason="lost"><supplied reason="omitted">ו</supplied>ני</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/> לו שלמים כן <gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="low">כן</unclear> <unclear cert="low">הכוהן</unclear> (<gap reason="illegible" unit="character" quantity="1"/>)<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

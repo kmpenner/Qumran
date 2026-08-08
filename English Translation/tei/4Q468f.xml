@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q468f</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q468f.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">בנ</unclear><unclear cert="high">י</unclear> גלעד
+      <lb n="2"/><gap reason="lost" extent="unknown"/> את הארץ
+      <lb n="3"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><unclear cert="high">לת</unclear>ת בארץ
+      <lb n="4"/><gap reason="lost" extent="unknown"/><unclear cert="high">לא</unclear>דם
+      <lb n="5"/><gap reason="lost" extent="unknown"/> שבע
+      <lb n="6"/><gap reason="lost" extent="unknown"/>אתה.
+      </div>
+    </body>
+  </text>
+</TEI>

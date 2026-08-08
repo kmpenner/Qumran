@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>8Q5</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 8Q5.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/> בשמכה<supplied reason="lost"> ג</supplied>בור אני מירא ומ<unclear cert="high">ע</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>ני האיש הזה אשר הוא מבני ה<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/>ה<unclear cert="low">ז</unclear>ה ומה תשב<unclear cert="low">י</unclear>ת<unclear cert="low">ו</unclear> אור<unclear cert="low">ו</unclear> ל<unclear cert="high">ה</unclear><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="2"/>ל<gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/>ל<unclear cert="low">מ</unclear><supplied reason="lost">ז</supplied>ל<unclear cert="low">ו</unclear>ת הש<unclear cert="low">מ</unclear><supplied reason="lost">ים</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">וב</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>ר <unclear cert="low">ות</unclear>שב<unclear cert="low">י</unclear><supplied reason="lost">תו</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><unclear cert="low">לת</unclear> יהוה <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><unclear cert="low">כ</unclear>ה רבה למעלה מכ<unclear cert="high">ו</unclear><unclear cert="low">ל</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>מרד<unclear cert="low">פו</unclear><unclear cert="high">ת</unclear> והמשפטים<gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/><unclear cert="low">ו</unclear>כול הרוחות לפניכה ע<supplied reason="lost">ומדות</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

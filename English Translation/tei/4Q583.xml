@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q583</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q583.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">א</unclear><unclear cert="high">ר</unclear>ו+י מן צפונא אתיה באישתא <unclear cert="low">ולא</unclear>
+      <lb n="2"/><supplied reason="lost">איתי די מאחר בזמנוהי ומה יענון אזגדי עממיא.   ארו+י יהוה יתקן י</supplied><unclear cert="low">ס</unclear><unclear cert="high">ו</unclear><unclear cert="low">ד</unclear> <unclear cert="high">מ</unclear>בנה ציון ובה יסתתרון כל עניי עמ<supplied reason="lost">ה</supplied>.
+      <lb n="3"/><gap reason="lost" extent="unknown"/><del rend="erasure"> </del>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><unclear cert="low">ק</unclear>מו עלוהי כריפו בין מדי לפרס ואתור ולימא.
+      </div>
+    </body>
+  </text>
+</TEI>

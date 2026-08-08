@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q249c</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q249c.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">ו</unclear><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ולהתיציב</supplied>
+      <lb n="2"/><supplied reason="lost">ברואשי אלפי בני י</supplied><unclear cert="low">ש</unclear>ר<unclear cert="high">א</unclear><unclear cert="low">ל</unclear><supplied reason="lost"> לשרי מאות</supplied>
+      <lb n="3"/><supplied reason="lost">שרי חמשים שר</supplied><unclear cert="low">י</unclear> <unclear cert="high">ע</unclear><unclear cert="low">שר</unclear><supplied reason="lost">ות ושופטים</supplied>
+      <lb n="4"/><supplied reason="lost">ושוטרים לשב</supplied><unclear cert="low">ט</unclear>י<unclear cert="low">הם</unclear><supplied reason="lost"> בכול משפחותם</supplied>
+      <lb n="5"/><supplied reason="lost">על פי בני אהר</supplied>ון <supplied reason="lost">הכוהנים וכול אבות</supplied>
+      <lb n="6"/><supplied reason="lost">העדה אשר יצא </supplied><unclear cert="low">ה</unclear><supplied reason="lost">גורל להתיצב רוש</supplied>
+      <lb n="7"/><supplied reason="lost">בעבודות ולצאת ול</supplied><unclear cert="low">ב</unclear>ו<unclear cert="low">א</unclear><supplied reason="lost"> לפני העדה לפי</supplied>.
+      </div>
+    </body>
+  </text>
+</TEI>

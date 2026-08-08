@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q227</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q227.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>כול הצדיקי<unclear cert="high">ם</unclear> <gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> לפני מושה <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/>את כול ימי <gap reason="lost" extent="unknown"/>.
+      <lb n="4"/><gap reason="lost" extent="unknown"/><del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>כו ש<unclear cert="high">ני</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/><unclear cert="low">לל</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ח</supplied><unclear cert="low">נ</unclear><unclear cert="high">ו</unclear>ך אחר אשר למד<add place="above">נ</add>והו
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/><unclear cert="high">ש</unclear>שה יובלי שנים
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">א</supplied><unclear cert="low">ר</unclear>ץ אל תוך בני האדם ויעד על כולם
+      <lb n="4"/><gap reason="lost" extent="unknown"/> וגם על העירים.   ויכתוב את כול
+      <lb n="5"/><gap reason="lost" extent="unknown"/><unclear cert="low">שמ</unclear><unclear cert="high">י</unclear>ם ואת דרכי צבאם וא<unclear cert="low">ת</unclear><supplied reason="lost"> החוד</supplied><unclear cert="high">ש</unclear>ים
+      <lb n="6"/><gap reason="lost" extent="unknown"/><supplied reason="lost">א</supplied><unclear cert="high">ש</unclear>ר לוא יש<unclear cert="high">ג</unclear>ו ה<unclear cert="low">צ</unclear><supplied reason="lost">דיקים</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q211</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q211.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1i">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="high">א</unclear> <gap reason="illegible" unit="character" quantity="1"/><unclear cert="low">מ</unclear><gap reason="illegible" unit="character" quantity="4"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">טל </supplied><unclear cert="low">ו</unclear>מטר מחתין <supplied reason="lost">ע</supplied>ל ארעא וזרע
+      <lb n="3"/><gap reason="lost" extent="unknown"/>עשב ארעא ועא.   ונ<unclear cert="high">פ</unclear>ק ועל
+      <lb n="4"/><supplied reason="lost">שמשא</supplied><gap reason="lost" extent="unknown"/><unclear cert="low">ת</unclear> ושתוא הוה.   ועלי כל אילניא
+      <lb n="5"/><supplied reason="lost">מתיבשין ומתנפלין ברא מן ארבעת </supplied><unclear cert="high">ע</unclear>שר אילנין די לא חזה להון
+      <lb n="6"/><gap reason="lost" extent="unknown"/><unclear cert="low">ל</unclear><gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> ע</supplied>ל<supplied reason="lost">יהו</supplied><unclear cert="low">ן</unclear> מתקימין.
+      </div>
+      <div type="column" n="f1ii">
+      <lb n="2"/>דן מן משחתה<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="3"/>מעשר תשיע <unclear cert="high">ח</unclear><supplied reason="lost">ד</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/>תשיע חד.   וכוכ<supplied reason="lost">בין</supplied> נזחו <unclear cert="low">ב</unclear><supplied reason="lost">תרעי</supplied> שמי<unclear cert="high">א</unclear> קד<supplied reason="lost">מיא ובאדין</supplied> <unclear cert="low">נ</unclear><unclear cert="high">פ</unclear>קו.
+      <lb n="5"/>ביומא קדמיא <supplied reason="lost">חד</supplied> מעש<unclear cert="low">ר</unclear><supplied reason="lost"> בשתי</supplied>ת חד ותנינ<add place="above">י</add>א חד מן חמשת
+      <lb n="6"/>עשר בשתית <unclear cert="low">ח</unclear><supplied reason="lost">ד ו</supplied><unclear cert="low">ת</unclear>לתיא ח<supplied reason="lost">ד מ</supplied>ן תלתין בשתית חד <del rend="erasure"> </del>
+      <lb n="7"/><gap reason="lost" extent="unknown"/><unclear cert="high">ל</unclear><gap reason="lost" extent="unknown"/><unclear cert="high">ל</unclear><supplied reason="lost"> </supplied>.
+      </div>
+      <div type="column" n="f1iii">
+      <lb n="4"/><unclear cert="low">ב</unclear><supplied reason="lost">יום חמ</supplied><unclear cert="low">שת</unclear> <unclear cert="high">ע</unclear><supplied reason="lost">שר </supplied><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/> ובאותה בי<unclear cert="low">מ</unclear><supplied reason="lost">מא</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="5"/>א<unclear cert="low">ך</unclear><supplied reason="lost"> ב</supplied><unclear cert="low">ליל</unclear><unclear cert="high">י</unclear>א דן מן <unclear cert="high">ל</unclear><gap reason="lost" extent="unknown"/><supplied reason="lost">ת</supplied>לת תשיע <unclear cert="low">וח</unclear>מ<unclear cert="high">ש</unclear><supplied reason="lost">ת</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="6"/>ומעשר תשיע <del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="7"/><gap reason="lost" extent="unknown"/><unclear cert="high">ל</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

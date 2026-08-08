@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q264</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q264.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><supplied reason="lost">ברחמיו הגישני ובחסדיו יביא משפטי.   ובצדקת </supplied><unclear cert="low">א</unclear><unclear cert="high">מ</unclear><unclear cert="low">ת</unclear>ו שפ<unclear cert="low">ט</unclear>נ<unclear cert="high">י</unclear> ו<unclear cert="high">ב</unclear>ר<unclear cert="low">ו</unclear>ב <unclear cert="low">טו</unclear><supplied reason="lost">בו</supplied>
+      <lb n="2"/><supplied reason="lost">יכפר בעד כל עונותי.   ובצדקתו יטהרני מנדת א</supplied><unclear cert="low">נ</unclear>וש וחטאת בנ<unclear cert="low">י</unclear> <unclear cert="low">א</unclear><unclear cert="high">דם</unclear> להודו<unclear cert="low">ת</unclear><supplied reason="lost"> לאל</supplied>
+      <lb n="3"/><supplied reason="lost">צדקו ולעליון תפארתו.   ברוך אתה אלי הפותח לדעה </supplied>לב עבדך.   הכן <unclear cert="low">ב</unclear><supplied reason="lost">צד</supplied>ק כל מע<unclear cert="low">ש</unclear><supplied reason="lost">יו</supplied>
+      <lb n="4"/><supplied reason="lost">והקם לבן אמתך כאשר רצית לבחירי אדם להתי</supplied><unclear cert="low">צב</unclear> לפניך לעד.   כי מ<unclear cert="low">ב</unclear>לעדיך
+      <lb n="5"/><supplied reason="lost">לא תתם דרך ובלי רצונך לא יעשה כל.   אתה ה</supplied>ורית כל דעה וכל הנהיה
+      <lb n="6"/><supplied reason="lost">ברצונך היה ואין אחר זולתך להשיב על עצ</supplied><unclear cert="low">ת</unclear>ך ולהשכיל בכל מחשבת
+      <lb n="7"/><supplied reason="lost">קדשך ולהביט בעמק רזיך ולהתבונן </supplied><unclear cert="low">ב</unclear>כל נפלאותיך עם כו<unclear cert="high">ח</unclear> <unclear cert="low">גב</unclear>ו<unclear cert="high">רתך</unclear>.
+      <lb n="8"/><supplied reason="lost">ומי יכול להכיל את כבודך ומה אף הוא בן ה</supplied><unclear cert="low">א</unclear>דם ב<unclear cert="high">מ</unclear>עשי פלאך.   וילוד אשה
+      <lb n="9"/><supplied reason="lost">מה יחשב לפניך והוא מעפר מגבלו ולחם ר</supplied><unclear cert="low">מ</unclear><unclear cert="high">ה</unclear> מדורו והוא מצו<unclear cert="high">ר</unclear><unclear cert="low">רקחמר</unclear>
+      <lb n="10"/><supplied reason="lost">קורץ ולעפר תשוקתו.   מה ישיב חמר ויוצר י</supplied><unclear cert="low">ד</unclear> ל<unclear cert="low">ע</unclear>צת מה יבין <del rend="erasure"> </del>.
+      </div>
+    </body>
+  </text>
+</TEI>

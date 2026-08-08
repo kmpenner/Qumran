@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q554</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q554.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1i">
+      <lb n="9"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ואחזיני שוריא </supplied>שתת עש<unclear cert="low">ר</unclear> <unclear cert="low">ל</unclear><unclear cert="high">י</unclear><unclear cert="low">ד</unclear><supplied reason="lost"> דרו</supplied><unclear cert="high">מ</unclear>א
+      <lb n="10"/><supplied reason="lost">מן זויתא די בצפונא ותרעיא תרי עשר די בניא</supplied><unclear cert="low">נ</unclear>ה וכלהון מכונין דן
+      <lb n="11"/><supplied reason="lost">לדן ואזלנא למסחר קריתא למשחה מן זוית</supplied> מדנחא די בצפונא.
+      <lb n="12"/><supplied reason="lost">ומן זויתא דא משח עד תרעא די <supplied reason="omitted">ב</supplied>צפונא </supplied><unclear cert="low">ר</unclear>אסין ת<unclear cert="high">לת</unclear>ין וחמשה ושם
+      <lb n="13"/><supplied reason="lost">תרעא דן די קרין לה תרע </supplied>שמעון.   ומן תרעא דן <unclear cert="high">ע</unclear><supplied reason="lost">ד</supplied> <unclear cert="low">ת</unclear>רעא מציעא
+      <lb n="14"/><supplied reason="lost"><del rend="erasure"> </del> משח ראסין תלתין וחמשה ו</supplied>שם תרעא דן די <supplied reason="lost">קר</supplied>ין לה תרע
+      <lb n="15"/><supplied reason="lost">לוי.   ומן תרעא דן משח עד תרעא די <supplied reason="omitted">ב</supplied>ד</supplied><unclear cert="low">ר</unclear><unclear cert="high">ומ</unclear>א ראסין תלתין וחמשה
+      <lb n="16"/><supplied reason="lost">ושם תרעא דן קרין לה תרע יהוד<add place="above">ה</add>.   ומן </supplied>תרעא דן משח עד זוית
+      <lb n="17"/><supplied reason="lost">מדנחא די בדרומא רסין תלתין וחמשה ו</supplied><unclear cert="high">מ</unclear>ן <del rend="erasure"> </del> זויתא דא למערבא
+      <lb n="18"/><supplied reason="lost">משח עד תרעא רסין 25 ושם תרעא דן</supplied> ק<unclear cert="high">ר</unclear>ין לה תרע יוסף.
+      <lb n="19"/><supplied reason="lost">ומן תרעא דן משח עד תרעא מציעיא ראסי</supplied>ן 25 ושם
+      <lb n="20"/><supplied reason="lost">תרעא דן קרין לה תרע בנימין.   ומן ת</supplied><unclear cert="low">ר</unclear>עא דן משח עד תרעא
+      <lb n="21"/><supplied reason="lost"><add place="above">די מערבא</add> רסין 25 ושם תרעא דן קרין לה </supplied><unclear cert="high">ת</unclear>רע ראובן.   ו<supplied reason="lost">מן תר</supplied><unclear cert="high">ע</unclear>א דן
+      <lb n="22"/><supplied reason="lost">משח עד זויתא די מערבא רסין 25.   ו</supplied>מן דא זויתא משח עד
+      </div>
+      <div type="column" n="f1ii">
+      <lb n="1"/><supplied reason="lost">תרעא לצפונא רסין 35 ושם תרעא דן קרין לה תרע</supplied>
+      <lb n="2"/><supplied reason="lost">יששכר.   ומן תרעא דן משח עד תרעא מציעיא רסין 35</supplied>
+      <lb n="3"/><supplied reason="lost">ושם תרעא דן קרין לה תרע זבולון.   ומן תרעא דן משח עד תרעא</supplied>
+      <lb n="4"/><supplied reason="lost">רסין 35 ושם תרעא דן קרין לה תרע גד.   ומן תרעא דן משח</supplied>
+      <lb n="5"/><supplied reason="lost">עד זויתא רסין 35 ומן זויתא דא למדנחא </supplied><unclear cert="low">מש</unclear><unclear cert="high">ח</unclear> <supplied reason="lost">עד תרעא רסין</supplied>
+      <lb n="6"/><supplied reason="lost">5</supplied>2 ושם <supplied reason="lost">תרעא דן קרין לה <del rend="erasure"> </del> תרע</supplied> <unclear cert="low">ד</unclear><unclear cert="high">ן</unclear>.   ומן תרעא<supplied reason="lost"> דן משח עד <corr>&lt;תרעא</corr>&gt;</supplied>
+      <lb n="7"/>מציעיא רס<unclear cert="high">י</unclear><unclear cert="low">ן</unclear><supplied reason="lost"> 25 ושם תרעא </supplied><unclear cert="low">ד</unclear>ן <unclear cert="high">ק</unclear><supplied reason="lost">רי</supplied><unclear cert="high">ן</unclear> לה תרע נפתלי.   <unclear cert="low">ו</unclear>מן <unclear cert="low">דן</unclear>
+      <lb n="8"/>תרעא משח ע<unclear cert="low">ד</unclear> <unclear cert="low">ת</unclear><unclear cert="high">ר</unclear>עא <unclear cert="low">ד</unclear><supplied reason="lost">י מדנחא ר</supplied>סין 5<supplied reason="lost">2</supplied> ושם תרעא דן קרין
+      <lb n="9"/>לה תרע <del rend="erasure"> </del> אשר.   ומש<supplied reason="lost">ח מן תר</supplied><unclear cert="high">ע</unclear>א דן עד זוית<corr>&lt;א</corr>&gt; די מדנחא רסין
+      <lb n="10"/>25.   <del rend="erasure"> </del>
+      <lb n="11"/>ואעלני לגוא קריתא ומ<supplied reason="lost">שח פר</supplied><unclear cert="low">ז</unclear>יתא <supplied reason="lost">חדת</supplied><unclear cert="high">א</unclear> אורכא ופתיא קנ<unclear cert="high">י</unclear>ן
+      <lb n="12"/>51 ב51 מרבעה ס<supplied reason="lost">חר ס</supplied><unclear cert="low">ח</unclear><supplied reason="lost">ר</supplied> אמין 357
+      <lb n="13"/>ולכל רוח.   ושבק <unclear cert="low">ס</unclear>ח<unclear cert="high">ר</unclear> סח<unclear cert="low">ר</unclear> לפרזיתא ברית שוק קנין
+      <lb n="14"/>תלתה אמין 21.   ו<unclear cert="low">כ</unclear><unclear cert="high">דן</unclear> <supplied reason="lost">א</supplied><unclear cert="high">ח</unclear>זיני מש<supplied reason="lost">ח</supplied><unclear cert="low">ת</unclear> פרזיא כלהן.   בין פרזא לפרזא
+      <lb n="15"/>שוק פתה קנין שתה <supplied reason="lost">אמי</supplied><unclear cert="high">ן</unclear> <supplied reason="lost">2</supplied>4.   ושקיא רברביא די נפקין
+      <lb n="16"/>מן מדנחא למער<unclear cert="low">ב</unclear><supplied reason="lost">א משח קנין</supplied> עשרה פתי שוקא אמין
+      <lb n="17"/>70 2 מנהון ו<unclear cert="low">ת</unclear><supplied reason="lost">לי</supplied>תיא <del rend="erasure"> </del> די <unclear cert="high">ע</unclear>ל <unclear cert="low">ש</unclear><supplied reason="lost">מא</supplied>ל מקדשא משח
+      <lb n="18"/>קנין <del rend="dots">{אמין</del>} 18 פתיה <supplied reason="lost">א</supplied><unclear cert="low">מין</unclear> <supplied reason="lost"> 26</supplied>1.   ופתי
+      <lb n="19"/>שוקיא די נפקין מן דר<unclear cert="low">ו</unclear><supplied reason="lost">מא לצפונא תרין מנהון </supplied><unclear cert="high">ק</unclear>נין 9
+      <lb n="20"/>ואמין 4 לשוק חד לאמ<unclear cert="high">י</unclear><supplied reason="lost">ן 67 ומציע<supplied reason="omitted">י</supplied>א די במ</supplied><unclear cert="low">צ</unclear>יעת
+      <lb n="21"/>קריתא משח פתיה קנ<unclear cert="high">י</unclear><supplied reason="lost">ן תלתת עשר ואמה חדא לאמין 2</supplied>9.
+      <lb n="22"/>וכל שוקא וקריתא <supplied reason="lost">הוו רציפין באבן חור ועעיתה+וכלהון מחפין</supplied>.
+      </div>
+      <div type="column" n="f1iii">
+      <lb n="1"/><supplied reason="lost">דהבא עדה ורגיגא ואבני כדכוד ואבני שש ויהלם.   <del rend="erasure"> </del> ואחזיני משחת</supplied>
+      <lb n="2"/><supplied reason="lost">שפשיא ארבע מאה ותמנין פתיהון די שפשיא קנין תרין אמין 14</supplied>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">על כל תרע ותרע דשין תרין די אבן פתיה</supplied>
+      <lb n="4"/><supplied reason="lost">די דשא קנא חד אמין 7.   ואחזיני משחת תרעיא תרי עשר פתי תרעיהון</supplied>
+      <lb n="5"/><supplied reason="lost">קנין תלתה אמין 21 <gap reason="lost" extent="unknown"/> על כל תרע ותרע דשין</supplied>
+      <lb n="6"/><supplied reason="lost">תרין.   פתי דשיא קנא חד ופלג אמין 10 ופלג <gap reason="lost" extent="unknown"/>.   וליד</supplied>
+      <lb n="7"/><supplied reason="lost">כל תרע תרי מגדלין חד מן ימינא וחד מן שמאלא פתיהון וארכיהון משחה</supplied>
+      <lb n="8"/><supplied reason="lost">חדה קנין חמשה בחמשה אמין 35 ודרגא די סלק ליד תרעא</supplied>
+      <lb n="9"/><supplied reason="lost">בגוא על ימין מגדליא ברים מגדליא פתיה אמין 5.   מגדליא ודרגיא</supplied>
+      <lb n="10"/><supplied reason="lost">קנין חמשה בחמשה ואמין חמש לאמין 40 בכל רוח תרעא.   ואחזיני משחת</supplied>
+      <lb n="11"/><supplied reason="lost">תרעי פרזיא פתיהון </supplied><unclear cert="low">ק</unclear><supplied reason="lost">ני</supplied><unclear cert="high">ן</unclear><supplied reason="lost"> תרי</supplied><unclear cert="low">ן</unclear><supplied reason="lost"> אמי</supplied><unclear cert="low">ן</unclear><supplied reason="lost"> 14 <del rend="erasure"> </del></supplied>
+      <lb n="12"/>ופתי <unclear cert="high">ת</unclear><supplied reason="lost">רעא בגוא כת</supplied><unclear cert="low">ל</unclear>יא משחתא אמין 1<supplied reason="lost">+?.   ומשח ית פתיה די כל אספא</supplied>
+      <lb n="13"/>קני<supplied reason="lost">ן </supplied><unclear cert="low">ת</unclear><supplied reason="lost">רין א</supplied><unclear cert="high">מ</unclear><unclear cert="low">י</unclear><unclear cert="high">ן</unclear> 14 וית טלולה אמה חד<unclear cert="high">ה</unclear><supplied reason="lost">.   ומשח תרע</supplied>א <unclear cert="low">ב</unclear><supplied reason="lost">ריא לאספא</supplied>
+      <lb n="14"/>ו<unclear cert="high">ת</unclear><supplied reason="lost">רין </supplied>דש<supplied reason="lost">י</supplied><unclear cert="high">ן</unclear> <unclear cert="high">ל</unclear>ה ומשח בגוא אספא ארכה א <supplied reason="lost">3</supplied>1 ופתיה אמין עש<unclear cert="low">ר</unclear>.
+      <lb n="15"/>ואעלני לגוא אספא והא אסוף אחרן ותרעה <unclear cert="high">ל</unclear>יד כתלא גויא די ליד ימינ<unclear cert="high">א</unclear>
+      <lb n="16"/>כמ<unclear cert="high">שח</unclear>ת תרעא בריא פתיה אמין ארבע <unclear cert="high">ו</unclear>רומה אמין 7 ודשין לה תרין וק<supplied reason="lost">דם</supplied>
+      <lb n="17"/>ת<supplied reason="lost">ר</supplied>עא דן אסף עללה פתיה קנה ח<unclear cert="low">ד</unclear> אמין שבע וארכה עלל קנין תרין א<supplied reason="lost">מין</supplied>
+      <lb n="18"/>14 ורומה קנין תרין א 14.   <unclear cert="high">ו</unclear>תרע לקבל תרעא פתיח ל<unclear cert="low">גו</unclear>א פרזית<supplied reason="lost">א</supplied>
+      <lb n="19"/>כמשחת תרעא בריא.   ועל שמאל מעלה דן אחזיני בית דרג ס<unclear cert="high">ח</unclear><supplied reason="lost">ר וס</supplied><unclear cert="high">לק</unclear> פ<supplied reason="lost">תיה</supplied>
+      <lb n="20"/>וארכה משחה חדה קנין תרין בתרין אמין א<unclear cert="high">ר</unclear>בע עשרא ו<unclear cert="low">ת</unclear><supplied reason="lost">רע לה לקבל תרעין</supplied>
+      <lb n="21"/>במשחה.   ועמוד<supplied reason="lost"> בגוא </supplied><unclear cert="low">גו</unclear><unclear cert="high">ה</unclear> די דרגא סחר וס<unclear cert="high">לק</unclear> עלוהי פת<unclear cert="high">י</unclear><supplied reason="lost">ה וארכה אמין</supplied>.
+      </div>
+      <div type="column" n="f2i">
+      <lb n="14"/><gap reason="lost" extent="unknown"/><supplied reason="lost">י</supplied>ן תרין
+      <lb n="15"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> ואמין
+      <lb n="16"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ואחזיני חש</supplied><unclear cert="low">ב</unclear><unclear cert="high">נ</unclear><unclear cert="low">י</unclear> משחת
+      <lb n="17"/><gap reason="lost" extent="unknown"/><supplied reason="lost">תח</supplied><unclear cert="low">ו</unclear>מי קריתא.
+      </div>
+      <div type="column" n="f2ii">
+      <lb n="13"/><gap reason="lost" extent="unknown"/><supplied reason="lost">וית</supplied> <unclear cert="low">בינ</unclear><supplied reason="lost">י</supplied><unclear cert="low">אן</unclear><supplied reason="lost"> מ</supplied><unclear cert="low">גד</unclear><supplied reason="lost">לי</supplied><unclear cert="high">ן</unclear> <unclear cert="low">ל</unclear><unclear cert="high">ד</unclear>תא <supplied reason="lost">ל</supplied>יסודה <unclear cert="high">פ</unclear><unclear cert="low">ת</unclear><supplied reason="lost">יה </supplied>קנין תרין <unclear cert="high">א</unclear><supplied reason="lost">מי</supplied><unclear cert="low">ן</unclear>
+      <lb n="14"/>ארבע ע<supplied reason="lost">ש</supplied><unclear cert="low">ר</unclear>א ורומה קנין שבעה אמין ארבעין ותשע וכלה
+      <lb n="15"/>בניה בח<unclear cert="low">ש</unclear><supplied reason="lost">מל</supplied> וספיר וכדכוד ועעיתה דהב ומגדליה אלף
+      <lb n="16"/><supplied reason="lost">וארבע מא</supplied>ה ו<unclear cert="low">ת</unclear>לתין ותרין ופתיהון וארכהון משחה חדה
+      <lb n="17"/><supplied reason="lost">קנין חמש בחמש אמין 35 מרבע</supplied> ורמהון קנין עשרה
+      <lb n="18"/><supplied reason="lost">אמין 70.   ופתי ורום תרע<supplied reason="omitted">י</supplied>הון קנין תרין אמי</supplied><unclear cert="low">ן</unclear> 14.
+      <lb n="19"/><gap reason="lost" extent="unknown"/><unclear cert="low">ת</unclear>רין
+      <lb n="20"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ופתי דשי </supplied><unclear cert="low">תר</unclear><unclear cert="high">ע</unclear>יא אמין
+      <lb n="21"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ומגדלין תרין לכל ארבע זויתא ומגדלי</supplied><unclear cert="low">ן</unclear> תרין לתרעא
+      <lb n="22"/><supplied reason="lost">מציעיא די תרי עשר תרעין לכל רו</supplied><unclear cert="high">ח</unclear>יא תלת תלת ומגדליא נפקין.
+      </div>
+      <div type="column" n="f3">
+      <lb n="1"/><supplied reason="lost">תרעיא תלת</supplied><unclear cert="high">א</unclear> במדנחא ותלתא ב<unclear cert="high">ד</unclear><supplied reason="lost">רומא ותלתא במערבא ותלתא</supplied>
+      <lb n="2"/><supplied reason="lost">בצפונא ו</supplied>שפשין שגיאין א<unclear cert="low">ח</unclear><supplied reason="lost">רנין</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="high">ע</unclear>שרין וא<unclear cert="low">ר</unclear><supplied reason="lost">בע</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f4">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">למ</supplied><unclear cert="high">ע</unclear>רבא<gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>ש<unclear cert="low">פ</unclear>ש<unclear cert="high">א</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f5">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">פ</supplied><unclear cert="low">ת</unclear>יין וכלהון <gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/> רברביא <unclear cert="high">די</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="high">ל</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f6">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">פתי</supplied>חן ב<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f7">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> </supplied><unclear cert="high">ר</unclear>מין<gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="low">א</unclear> משחתא <unclear cert="high">ד</unclear><unclear cert="low">י</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f8">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">י</supplied><unclear cert="high">ן</unclear> רמין א<supplied reason="lost">מין</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f9">
+      <lb n="1"/><gap reason="lost" extent="unknown"/> בארזי<unclear cert="low">א</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="low">ו</unclear>כיוד <unclear cert="low">ו</unclear>נפק<gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="high">ל</unclear><supplied reason="lost"> </supplied><unclear cert="low">א</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f10">
+      <lb n="1"/><unclear cert="low">ו</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/>י<unclear cert="high">כר</unclear>כנ<unclear cert="low">ה</unclear> <unclear cert="high">ו</unclear><unclear cert="low">מ</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/>ארעא <unclear cert="low">וא</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f11">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>ל <unclear cert="high">כ</unclear>ל <unclear cert="high">רז</unclear> א<unclear cert="low">ש</unclear><supplied reason="lost">י<supplied reason="omitted">ה</supplied></supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f12">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="high">לכל</unclear> <unclear cert="low">רוח</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="low">ת</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f13">
+      <lb n="14"/><unclear cert="low">יתו</unclear><unclear cert="high">ן</unclear> <unclear cert="high">לק</unclear><supplied reason="lost">בל <gap reason="lost" extent="unknown"/> ומלכות בבל</supplied>
+      <lb n="15"/>באתרה ומלכות מ<supplied reason="lost">די באתרה ומלכות פרס באתרה ומלכות</supplied>
+      <lb n="16"/>כתיא באתרה כלהון.   בסוף כלהון<gap reason="lost" extent="unknown"/><supplied reason="lost">מלכון</supplied>
+      <lb n="17"/>אחרין שגיאן ורשין עמהון מ<gap reason="lost" extent="unknown"/>
+      <lb n="18"/>עמהון אדום ומואב ובני עמון<gap reason="lost" extent="unknown"/><supplied reason="lost">ויבז מלכא</supplied>
+      <lb n="19"/>די בבל ארעא כלה <unclear cert="high">ד</unclear>י לא יש<unclear cert="low">ר</unclear><supplied reason="lost">ה בה</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="20"/>ויבאשון לזרעך עד עדן די <unclear cert="high">י</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="21"/>בכל עמ<unclear cert="high">מ</unclear><supplied reason="lost">י </supplied><unclear cert="high">מ</unclear>לכ<unclear cert="high">ו</unclear><unclear cert="low">ת</unclear><supplied reason="lost">הון</supplied> ד<unclear cert="high">י</unclear> <unclear cert="high">ל</unclear><supplied reason="lost">א</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="22"/>ויע<unclear cert="high">ב</unclear><supplied reason="lost">דון </supplied>בהון עממין<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f14">
+      <lb n="1"/><gap reason="lost" extent="unknown"/> ש<unclear cert="high">ל</unclear>י<unclear cert="low">ט</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>ו+ין במנין<gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/> מלכי עממיה<supplied reason="lost"><supplied reason="omitted">ו</supplied>ן</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><unclear cert="low">ב</unclear>ידהון <unclear cert="low">א</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

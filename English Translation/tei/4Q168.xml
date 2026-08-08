@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q168</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q168.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><supplied reason="lost">לבת ירוש</supplied>ל<unclear cert="low">ם</unclear> <supplied reason="lost">עתה למה תריעי רע המלך אין בך אם יועצך אבד כיא</supplied>
+      <lb n="2"/><supplied reason="lost">החז</supplied>יקכה<supplied reason="lost"> חיל כיולדה.   חולי וגחי בת ציון כיולדה כיא</supplied>
+      <lb n="3"/><unclear cert="low">עתה</unclear> תצאי מק<unclear cert="low">ר</unclear><supplied reason="lost">יה ושכנת בשדה ובאת עד בבל שם תנצלי שם</supplied>
+      <lb n="4"/><supplied reason="lost">יגא</supplied>ל<unclear cert="low">ך</unclear> <supplied reason="lost">י</supplied>הוה מ<supplied reason="lost">כף איביך.   ועתה נאספו עליך גוים רבים</supplied>
+      <lb n="5"/><supplied reason="lost">הא</supplied>מרים <unclear cert="low">ת</unclear><supplied reason="lost">חנף ותחז בציון עינינו.   והמה לוא ידעו מחשבות יהוה ולוא</supplied>
+      <lb n="6"/><supplied reason="lost">הבינו</supplied> <unclear cert="low">עצ</unclear>תו<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">ת</unclear>ירו.
+      </div>
+      <div type="column" n="f3">
+      <lb n="1"/><gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> </supplied>ה<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f4">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="high">נ</unclear>ים.
+      </div>
+    </body>
+  </text>
+</TEI>

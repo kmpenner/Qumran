@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q281f</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q281f.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><supplied reason="lost">לכהני</supplied>ם לויים כל <unclear cert="low">שבט</unclear> <gap reason="illegible" unit="character" quantity="2"/>ל<supplied reason="lost">הם </supplied><unclear cert="high">ח</unclear>לק ונחל<unclear cert="low">ה</unclear><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>יים ע<unclear cert="high">ו</unclear><unclear cert="low">ז</unclear><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>ל<gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/>ד<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

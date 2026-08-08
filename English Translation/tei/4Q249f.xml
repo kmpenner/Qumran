@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q249f</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q249f.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1_3">
+      <lb n="1"/><supplied reason="lost">והמ</supplied><unclear cert="high">ש</unclear>יח<supplied reason="lost"> אתם.   יבוא הכוהן רואש </supplied><unclear cert="low">כ</unclear>ול<supplied reason="lost"> עדת ישראל</supplied>
+      <lb n="2"/><supplied reason="lost">ו</supplied><unclear cert="high">כ</unclear>ול<supplied reason="lost"> איש בני אהרון הכו</supplied><unclear cert="low">הנ</unclear><supplied reason="lost">ים קריאי מועד</supplied>
+      <lb n="3"/><unclear cert="low">א</unclear><supplied reason="lost">נ</supplied><unclear cert="low">וש</unclear><supplied reason="lost">י השם וישבו לפניו איש לפי כבודו</supplied>.
+      <lb n="4"/><supplied reason="lost">ואחר ישב משיח ישראל </supplied><unclear cert="low">וי</unclear><unclear cert="high">ש</unclear><unclear cert="low">ב</unclear><supplied reason="lost">ו לפניו ראשי</supplied>
+      <lb n="5"/><supplied reason="lost">אלפי ישראל כמעמדו במח</supplied><unclear cert="high">נ</unclear>יהם<supplied reason="lost"> וכמסעיהם</supplied>
+      <lb n="6"/><supplied reason="lost">וכול ראשי אבות העדה </supplied>עם ח<unclear cert="high">כ</unclear><unclear cert="low">מ</unclear><supplied reason="lost">י עדת הקודש</supplied>
+      <lb n="7"/><supplied reason="lost">ישבו לפניהם איש לפ</supplied><unclear cert="low">י</unclear> כבו<unclear cert="high">ד</unclear><supplied reason="lost">ו.   ואם לשולחן</supplied>
+      <lb n="8"/><supplied reason="lost">יחד יועדו או לשתות הת</supplied><unclear cert="low">י</unclear>רוש <supplied reason="lost">וערוך השולחן</supplied>
+      <lb n="9"/><supplied reason="lost">היחד ומסוך התירוש לשתו</supplied><unclear cert="high">ת</unclear> <unclear cert="low">א</unclear><supplied reason="lost">ל ישלח איש את ידו</supplied>.
+      </div>
+    </body>
+  </text>
+</TEI>

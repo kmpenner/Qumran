@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q341</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q341.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/>לבעפסאצגדהו[<gap reason="illegible" unit="character" quantity="3"/>]<unclear cert="high">ט</unclear>יכל
+      <lb n="2"/>סחרה א[<gap reason="illegible" unit="character" quantity="3"/>]א<gap reason="illegible" unit="character" quantity="1"/>ס<gap reason="illegible" unit="character" quantity="2"/>ס<gap reason="illegible" unit="character" quantity="2"/>ס<gap reason="illegible" unit="character" quantity="1"/>
+      <lb n="3"/>תירקו<unclear cert="high">ס</unclear> <supplied reason="lost"> </supplied>א בי<supplied reason="lost"> </supplied>ק
+      <lb n="4"/>שרחסי מגנס מלכיה מניס
+      <lb n="5"/>מחתוש <unclear cert="high">מ</unclear>קליח מפיבשת
+      <lb n="6"/><supplied reason="lost"> </supplied>לגוס בניב<unclear cert="high">ן</unclear> בסרי גדי
+      <lb n="7"/>דלוי הלכוס הרקנוס וני ז
+      <lb n="8"/><del rend="erasure"> </del> זוחלזלפ
+      <lb n="9"/><del rend="erasure"> </del> זכריאל י<gap reason="illegible" unit="character" quantity="1"/>י
+      <lb n="10"/>יתראיתישילא
+      <lb n="11"/>יטריסיסי
+      <lb n="12"/>עקילא
+      <lb n="13"/>עלי עד<unclear cert="high">פ</unclear>י.
+      </div>
+    </body>
+  </text>
+</TEI>

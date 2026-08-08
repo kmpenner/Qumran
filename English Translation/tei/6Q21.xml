@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>6Q21</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 6Q21.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/>נפש<unclear cert="low">ו</unclear>תי<gap reason="lost" extent="unknown"/>
+      <lb n="2"/>את עמ<unclear cert="low">י</unclear> <gap reason="lost" extent="unknown"/>
+      <lb n="3"/>לקצ<unclear cert="low">ו</unclear>ר ל<gap reason="lost" extent="unknown"/>
+      </div>
+    </body>
+  </text>
+</TEI>

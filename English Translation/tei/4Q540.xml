@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q540</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q540.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/> תובא תתה עקא עלוהי ויחסר נכסין זעירא וי<unclear cert="low">ב</unclear><supplied reason="lost">עה ?</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">שבועי</supplied><unclear cert="high">ן</unclear> 52 <gap reason="illegible" unit="character" quantity="3"/> ? תובא יתה לה חסר<add place="above">ו</add>ן ויחסר נכסין <unclear cert="low">ו</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">די</supplied> לא יד<unclear cert="high">מה</unclear> לכול גבר כסר נכסין להן כימא רב<unclear cert="high">א</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/>ביתא די יתילד בה מנה יפו<supplied reason="lost">ק </supplied><unclear cert="high">ו</unclear>מדור אחר<supplied reason="lost">ן</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ויבנה <supplied reason="omitted">כ</supplied></supplied>שמש א<supplied reason="lost">ל בנכ</supplied><unclear cert="high">ס</unclear>והי מקדש<unclear cert="low">א</unclear><supplied reason="lost"> מן ד</supplied>י יחר<unclear cert="low">ב</unclear><supplied reason="lost">ונה ?</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/><unclear cert="low">א</unclear> <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>יפת<unclear cert="low">י</unclear><supplied reason="lost">ח</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="low">ע</unclear><unclear cert="high">ב</unclear>ר <gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f3">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">ע</unclear>ממא<gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

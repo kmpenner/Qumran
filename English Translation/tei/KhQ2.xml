@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>KhQ2</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of KhQ2.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="1">
+      <lb n="1"/><supplied reason="lost"> </supplied>ק <unclear cert="low">ש</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>עת הו<gap reason="lost" extent="unknown"/>
+      <lb n="3"/><supplied reason="lost"> יהוס</supplied>פ בנ נת<unclear cert="high">ן</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><supplied reason="lost"> ב</supplied>ניו מעי<unclear cert="high">ן</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

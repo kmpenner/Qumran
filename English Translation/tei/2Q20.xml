@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>2Q20</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 2Q20.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="0"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ויפרו</supplied>
+      <lb n="1"/><supplied reason="lost">מאוד וירבו הרבה עשרה </supplied>שבו<supplied reason="lost">עי</supplied> שנים כ<supplied reason="lost">ול ימי חיי יוסף</supplied>.
+      <lb n="2"/><supplied reason="lost">ואין שטן ואין כול רעה </supplied>כול י<supplied reason="lost">מ</supplied>י חיי יוסף א<supplied reason="lost">שר חיה אחרי</supplied>
+      <lb n="3"/><supplied reason="lost">אביהו יעקוב.   כי כול מצרים </supplied>היו נותנים <del rend="erasure"> </del> כב<supplied reason="lost">ודם לבני ישראל</supplied>
+      <lb n="4"/><supplied reason="lost">כול ימי חיי יוסף.   וימות יוסף </supplied>ב<supplied reason="lost">ן </supplied>מאה ו<supplied reason="lost">עשר שנים</supplied>.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">פר</unclear>ידו <unclear cert="low">ה</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="low">ב</unclear>ינו אשר <unclear cert="low">המ</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="low">ם</unclear> אש<unclear cert="low">ר</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><unclear cert="low">ל</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f3">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> וה<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>צוה <gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

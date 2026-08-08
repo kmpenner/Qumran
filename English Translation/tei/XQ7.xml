@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>XQ7</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of XQ7.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">מ</supplied><unclear cert="high">צ</unclear>ר<unclear cert="high">ף</unclear><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="1"/>ן
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>ר י<unclear cert="low">כבדכ</unclear>ה
+      <lb n="3"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/> עיכה וכול
+      <lb n="4"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> אם כבוד
+      <lb n="5"/><gap reason="lost" extent="unknown"/><unclear cert="low">ך</unclear> בהר<unclear cert="low">י</unclear><supplied reason="lost"> </supplied>
+      <lb n="6"/><gap reason="lost" extent="unknown"/><unclear cert="low">ש</unclear><unclear cert="high">בל</unclear>ת<supplied reason="lost"> </supplied>.
+      </div>
+    </body>
+  </text>
+</TEI>

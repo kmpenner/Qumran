@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>1Q31</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 1Q31.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><supplied reason="lost">כ</supplied><unclear cert="high">ו</unclear>ל אנשי היחד <unclear cert="low">ה</unclear><unclear cert="high">מ</unclear><unclear cert="low">תנד</unclear>בי<supplied reason="lost">ם</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/>פיהם ישקו כול <gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="1"/>ל<gap reason="illegible" unit="character" quantity="2"/>ל<gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/>לאין כ<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><unclear cert="high">ו</unclear>בחיר<unclear cert="high">י</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/>במחני<unclear cert="high">ם</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="4"/>למל<unclear cert="low">ח</unclear><supplied reason="lost">מה</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

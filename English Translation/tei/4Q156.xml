@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q156</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q156.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/> <unclear cert="low">גמ</unclear><supplied reason="lost">רי</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><supplied reason="lost">יהוה ומלא</supplied> <unclear cert="low">ח</unclear>פנ<unclear cert="high">ו</unclear><unclear cert="low">ה</unclear><supplied reason="lost">י</supplied> <unclear cert="high">כ</unclear>ש<gap reason="lost" extent="unknown"/>
+      <lb n="3"/><supplied reason="lost">ויעל מן גוא לפ</supplied><unclear cert="low">ר</unclear><unclear cert="high">כ</unclear><unclear cert="low">ת</unclear>א.   ויש<unclear cert="low">וה</unclear> <supplied reason="lost">כשתא על נורא</supplied>
+      <lb n="4"/><supplied reason="lost">לקדם יהוה ו</supplied><unclear cert="high">י</unclear>כס<unclear cert="low">ה</unclear> עננא <gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><supplied reason="lost">על שהדותא ו</supplied>ל<unclear cert="high">א</unclear> ימו<unclear cert="high">ת</unclear> <supplied reason="lost"> </supplied>.   ויס<unclear cert="low">ב</unclear> מ<unclear cert="high">ן</unclear> <supplied reason="lost">דם תורא</supplied>
+      <lb n="6"/><supplied reason="lost">וידה באצבעתה ע</supplied>ל <unclear cert="low">כ</unclear>סיא וקדם כסיא ל<unclear cert="low">מ</unclear>דנח<unclear cert="low">א</unclear>.
+      <lb n="7"/><supplied reason="lost">ידה שבעה זמנין מ</supplied>ן דמא באצבעתה.   וי<unclear cert="high">כ</unclear>ס.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">עלו</supplied><unclear cert="low">הי</unclear>.   <unclear cert="low">ו</unclear><supplied reason="lost">יס</supplied><unclear cert="low">ב</unclear> <supplied reason="lost">מן דם תורא ומן דם צפירא</supplied>
+      <lb n="2"/><supplied reason="lost">וישוה על</supplied> קרנ<supplied reason="lost">י</supplied> <unclear cert="high">מ</unclear><supplied reason="lost">ד</supplied>ב<supplied reason="lost">ח</supplied>א סח<supplied reason="lost">ור סחור.   וידה עלוהי מן דמא</supplied>
+      <lb n="3"/><supplied reason="lost">באצבעתה ש</supplied><unclear cert="low">בע</unclear>ה <supplied reason="lost">זמני</supplied><unclear cert="low">ן</unclear> <supplied reason="lost">ויד</supplied><unclear cert="low">כ</unclear>נה ויקדשנה <supplied reason="lost">מן ט</supplied>מא<unclear cert="low">ת</unclear><supplied reason="lost">הו</supplied><unclear cert="low">ן</unclear> <supplied reason="lost">די בני</supplied>
+      <lb n="4"/><supplied reason="lost">ישראל.   </supplied><unclear cert="low">כ</unclear>ד<supplied reason="lost">י</supplied><gap reason="lost" extent="unknown"/>ה <unclear cert="low">על</unclear> בית קדשא <supplied reason="lost">ועל</supplied> משכן <unclear cert="high">ז</unclear>מנא <unclear cert="low">ו</unclear><supplied reason="lost">על</supplied>
+      <lb n="5"/><supplied reason="lost">מדבחא.   ויקרב</supplied> <unclear cert="low">צפיר</unclear><supplied reason="lost">א</supplied> חיא.   ויסמך אהרן <unclear cert="low">ת</unclear><supplied reason="lost">רתין ידו</supplied><unclear cert="low">ה</unclear><supplied reason="lost">י ע</supplied><unclear cert="high">ל</unclear>
+      <lb n="6"/><supplied reason="lost">ראשא די צ</supplied><unclear cert="low">פ</unclear>י<unclear cert="low">ר</unclear><supplied reason="lost">א ח</supplied>יא.   <supplied reason="lost">ויהוד</supplied>א עלוהי כל<gap reason="lost" extent="unknown"/>
+      <lb n="7"/><gap reason="lost" extent="unknown"/> ל<unclear cert="high">כ</unclear><supplied reason="lost">ל חטאי</supplied><unclear cert="high">ה</unclear><unclear cert="low">ון</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q457a</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q457a.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="1">
+      <lb n="1"/><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/><unclear cert="high">א</unclear>ור
+      <lb n="2"/><supplied reason="lost"> </supplied><unclear cert="high">מ</unclear><gap reason="illegible" unit="character" quantity="3"/><unclear cert="low">כ</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/>ענ<unclear cert="high">נ</unclear><gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> </supplied><unclear cert="high">ו</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><unclear cert="high">י</unclear><unclear cert="low">ט</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><unclear cert="high">ומ</unclear><gap reason="illegible" unit="character" quantity="1"/>ד<gap reason="illegible" unit="character" quantity="1"/>ר <unclear cert="high">א</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="6"/>ובד<gap reason="lost" extent="unknown"/>
+      <lb n="7"/><unclear cert="high">ופ</unclear><unclear cert="low">ל</unclear><gap reason="illegible" unit="character" quantity="1"/><unclear cert="high">חק</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="8"/><gap reason="illegible" unit="character" quantity="1"/><unclear cert="low">לו</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="9"/><unclear cert="low">ב</unclear>י<unclear cert="low">מ</unclear><unclear cert="high">י</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="10"/>א <gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>
+      <lb n="11"/>נ<unclear cert="high">ב</unclear><unclear cert="low">רא</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="12"/><gap reason="illegible" unit="character" quantity="2"/><unclear cert="low">מ</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="2">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="high">ם</unclear>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="high">כ</unclear><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="3"/><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="low">נ</unclear><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="1"/><unclear cert="high">ו</unclear> <gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="illegible" unit="character" quantity="4"/><unclear cert="high">ו</unclear>ן<gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/>
+      <lb n="7"/><gap reason="lost" extent="unknown"/><unclear cert="high">ב</unclear><gap reason="illegible" unit="character" quantity="2"/><unclear cert="high">ו</unclear>רו<supplied reason="lost"> </supplied> <gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="8"/><gap reason="illegible" unit="character" quantity="1"/><unclear cert="high">ישכ</unclear><gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>
+      <lb n="9"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>ו<gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

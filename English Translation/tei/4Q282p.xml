@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q282p</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q282p.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><unclear cert="low">ח</unclear><gap reason="illegible" unit="character" quantity="1"/> <unclear cert="low">ה</unclear><gap reason="illegible" unit="character" quantity="1"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>וא<unclear cert="high">ן</unclear><gap reason="illegible" unit="character" quantity="1"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="low">ת</unclear>ראה
+      <lb n="4"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/>ל<gap reason="illegible" unit="character" quantity="1"/><unclear cert="low">ה</unclear>.
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>1Q34bis</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 1Q34bis.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f2+1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/> מ<unclear cert="low">ו</unclear>עד שלומ<supplied reason="lost">נו</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/>למועד <supplied reason="lost">קיץ כאשר ענינו נפ</supplied><unclear cert="high">ש</unclear>ותינו לתקו<unclear cert="high">פ</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/>הארץ במו<unclear cert="high">ע</unclear><supplied reason="lost">ד הזה</supplied><gap reason="lost" extent="unknown"/><unclear cert="high">כ</unclear>רביבים על<unclear cert="high">י</unclear> <supplied reason="lost">דשא</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/>לדור ודור.   ברוך אדוני אשר שמח<unclear cert="high">נ</unclear><supplied reason="lost">ו</supplied><gap reason="lost" extent="unknown"/>.
+      <lb n="5"/><del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="6"/>תפלה ליום כפורים זכ<unclear cert="low">ו</unclear><supplied reason="lost">ר א</supplied>דוני <unclear cert="low">א</unclear><supplied reason="lost">ת</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="7"/><gap reason="lost" extent="unknown"/>ל<gap reason="lost" extent="unknown"/>ל<gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f3i">
+      <lb n="1"/><gap reason="lost" extent="unknown"/> <unclear cert="high">ו</unclear>צו<supplied reason="lost">ה</supplied><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/> בגורל צד<supplied reason="lost">י</supplied>ק ולרשעים <unclear cert="high">ג</unclear><supplied reason="lost">ו</supplied><unclear cert="high">ר</unclear>ל
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="high">ם</unclear> בעצמותם חרפה <unclear cert="high">ל</unclear>כל בשר.   וצדיקים
+      <lb n="4"/><gap reason="lost" extent="unknown"/><supplied reason="lost">לה</supplied><unclear cert="high">ד</unclear>שן בע<unclear cert="high">ב</unclear>י שמים ותנוב<unclear cert="high">ת</unclear> ארץ ל<unclear cert="high">ח</unclear><supplied reason="lost">י</supplied>ת
+      <lb n="5"/><gap reason="lost" extent="unknown"/><supplied reason="lost">בין צד</supplied><unclear cert="high">י</unclear>ק לרשע.   ונתתה רשעים <supplied reason="lost">כ</supplied>ופרנו ו<unclear cert="high">ב</unclear><supplied reason="lost">וג</supplied><unclear cert="high">ד</unclear>ים
+      <lb n="6"/><gap reason="lost" extent="unknown"/><unclear cert="high">כ</unclear>לה בכל מענינו.   ואנו נודה ל<unclear cert="high">ש</unclear>מך לעולם
+      <lb n="7"/><gap reason="lost" extent="unknown"/><unclear cert="high">כ</unclear>י לזאת בראתנו.   וזה אש<supplied reason="lost">ר</supplied><gap reason="lost" extent="unknown"/>לך ברוך
+      <lb n="8"/><gap reason="lost" extent="unknown"/><supplied reason="lost">.   </supplied><del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="9"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="3"/> <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f3ii">
+      <lb n="1"/><gap reason="lost" extent="unknown"/> מאור גדו<supplied reason="lost">ל</supplied> <unclear cert="high">ל</unclear>מועד <unclear cert="high">ה</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> ואין לעבור חוקיהם.   וכולם <gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> וממשלתם בכל תבל.   ולא הבין זרע הא<unclear cert="high">ד</unclear><supplied reason="lost">ם</supplied> בכל אשר הנחלתו ולא ידעוך
+      <lb n="4"/><supplied reason="lost">בכ</supplied><unclear cert="low">ול</unclear> דברך וירשיעו מכול.   ולא הבינו בכוחך הגדול ותמאס בם כי לא תחפץ
+      <lb n="5"/>ב<unclear cert="high">ע</unclear><supplied reason="lost">ול</supplied><unclear cert="high">ה</unclear> ורשע לא יכון <unclear cert="high">ל</unclear>פנ<unclear cert="high">י</unclear>ך.   ותבחר לך עם בקץ רצונך כי זכרת בריתך.
+      <lb n="6"/>ו<unclear cert="high">ת</unclear><supplied reason="lost">תנ</supplied>ם להבדל לך לקודש מכול העמים.   ותחדש בר<unclear cert="high">י</unclear>תך להם במראת כ<unclear cert="high">ב</unclear><supplied reason="lost">ו</supplied>ד ודברי
+      <lb n="7"/><supplied reason="lost">רוח</supplied> קודש<unclear cert="high">ך</unclear> במעשי ידי<unclear cert="high">ך</unclear> וכתב ימינך להודיעם יסורי כבוד ומע<unclear cert="high">ל</unclear>י עולם.
+      <lb n="8"/><gap reason="lost" extent="unknown"/>ל<supplied reason="lost">ה</supplied>ם רועה נאמן מ<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>ש עני ו<unclear cert="high">ר</unclear><gap reason="lost" extent="unknown"/>מים.
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>1QpHab</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 1QpHab.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="1">
+      <lb n="1"/><supplied reason="lost">המשא אשר חזה חבקוק הנביא עד אנה יהוה </supplied><unclear cert="low">ש</unclear>ועתי ולוא
+      <lb n="2"/><supplied reason="lost">תשמע אזעק אליך חמס ולוא תושיע.   פשרו על תו</supplied>חלת דור
+      <lb n="3"/><supplied reason="lost">אחרון.   כול הבא</supplied>ות עליהם
+      <lb n="4"/><supplied reason="lost">אזעק אליכה חמס ולוא תושיע <gap reason="lost" extent="unknown"/>.   פשרו אשר יז</supplied><unclear cert="high">ע</unclear>קו על
+      <lb n="5"/><supplied reason="lost">חמס.   למה תראני און וע</supplied>מ<unclear cert="low">ל</unclear><supplied reason="lost"> ת</supplied><unclear cert="low">ב</unclear>יט.
+      <lb n="6"/><supplied reason="lost">פשרו על אשר הביט</supplied> אל בעשק ומעל.
+      <lb n="7"/><supplied reason="lost">ושוד וחמס לנגדי.  </supplied><del rend="erasure"> </del>
+      <lb n="8"/><supplied reason="lost">פשרו</supplied><gap reason="lost" extent="unknown"/> יג<unclear cert="low">ז</unclear><supplied reason="lost">ו</supplied>לו ה<supplied reason="lost">ון.   וי</supplied><unclear cert="low">ה</unclear>י ריב
+      <lb n="9"/><supplied reason="lost">ומדון ישא.   פשר מ</supplied><unclear cert="low">ר</unclear>יב<unclear cert="high">ה</unclear> ו<unclear cert="high">ח</unclear><supplied reason="lost">שב</supplied><unclear cert="high">ה</unclear> הואה
+      <lb n="10"/><gap reason="lost" extent="unknown"/>.   על כן תפוג תורה.
+      <lb n="11"/><supplied reason="lost">פשרו על מטיף הכזב ואנשי עדתו </supplied><unclear cert="high">א</unclear>שר מאשו בתורת אל.
+      <lb n="12"/><supplied reason="lost">ולוא יצא לנצח משפט.   כיא רשע מכתי</supplied><unclear cert="low">ר</unclear> את הצדיק.   <del rend="erasure"> </del>
+      <lb n="13"/><supplied reason="lost">פשרו הרשע הוא הכוהן הרשע והצדיק</supplied> הוא מורה הצדק
+      <lb n="14"/><supplied reason="lost">אשר.   <gap reason="lost" extent="unknown"/> ע</supplied>ל כן יצא המשפט
+      <lb n="15"/><supplied reason="lost">מעוקל.   פשרו ו</supplied>לוא <unclear cert="high">ת</unclear><supplied reason="lost"> </supplied>.   <del rend="erasure"> </del>
+      <lb n="16"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ראו בגוים והביטו</supplied>
+      <lb n="17"/><supplied reason="lost">והתמהו תמהו כיא פעל פועל בימיכם לוא תאמינו כיא</supplied>
+      </div>
+      <div type="column" n="2">
+      <lb n="1"/>יסופר.   <del rend="erasure"> </del><supplied reason="lost"> פשר הדבר על </supplied><unclear cert="high">ה</unclear>בוגדים עם איש
+      <lb n="2"/>הכזב כי לו<unclear cert="high">א</unclear><supplied reason="lost"> האמינו בדברי</supplied> מורה <add place="above">ה</add>צ<unclear cert="low">ד</unclear>ק<unclear cert="high">ה</unclear> מפיא
+      <lb n="3"/>אל.   ועל הבוג<supplied reason="lost">דים בברית</supplied> החדשה <unclear cert="low">כ</unclear><supplied reason="lost">י</supplied>א <supplied reason="lost">לו</supplied>א
+      <lb n="4"/>האמינו בברית אל <supplied reason="lost">ויחללו</supplied> את ש<supplied reason="lost">ם </supplied><unclear cert="low">ק</unclear>ודשו
+      <lb n="5"/>וכן פשר הדבר<supplied reason="lost"> על הבו</supplied>גדים לאחרית א
+      <lb n="6"/>הימים.   המה ערי<unclear cert="high">צ</unclear><supplied reason="lost">י הבר</supplied>ית אשר לוא יאמינוא
+      <lb n="7"/>בשומעם את כול הב<unclear cert="low">א</unclear><supplied reason="lost">ות ע</supplied><unclear cert="low">ל</unclear><supplied reason="lost"> </supplied>הדור האחרון מפי
+      <lb n="8"/>הכוהן אשר נתן אל ב<supplied reason="lost">לבו בינ</supplied>ה לפשור <unclear cert="low">א</unclear><unclear cert="high">ת</unclear> כול
+      <lb n="9"/>דברי עבדיו הנביאים<supplied reason="lost"> אשר </supplied><unclear cert="low">ב</unclear>ידם ספר אל את
+      <lb n="10"/>כול הבאות על עמו ו<unclear cert="low">ע</unclear><supplied reason="lost">דתו.   </supplied><unclear cert="low">כ</unclear>יא הנני מקים את
+      <lb n="11"/>הכשדאים הגוי המ<supplied reason="lost">ר והנמ</supplied><unclear cert="low">ה</unclear>ר.   <del rend="erasure"> </del>
+      <lb n="12"/>פשרו על הכתיאים א<supplied reason="lost">שר המ</supplied><unclear cert="high">ה</unclear> קלים וגבורים
+      <lb n="13"/>במלחמה לאבד ר<unclear cert="low">ב</unclear>י<unclear cert="high">ם</unclear> <supplied reason="lost">והיתה הארץ</supplied> בממשלת
+      <lb n="14"/>הכתיאים יר<unclear cert="high">ש</unclear><supplied reason="lost">ו ארצות רבו</supplied><unclear cert="high">ת</unclear> ולוא יאמינו
+      <lb n="15"/>בחוקי <supplied reason="lost">א</supplied><unclear cert="low">ל</unclear><supplied reason="lost">.   ההולך למרחבי ארץ לרשת משכנות לוא</supplied>
+      <lb n="16"/>ל<supplied reason="lost">ו.   פשרו על הכתיאים אשר</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="17"/><gap reason="lost" extent="unknown"/>
+      </div>
+      <div type="column" n="3">
+      <lb n="1"/>ובמישור ילכו לכות ולבוז את ערי הארץ
+      <lb n="2"/>כיא הוא אשר אמר לרשת משכנות לוא לו.   איום
+      <lb n="3"/>ונורא הוא ממנו משפטו ושאתו יצא.   <del rend="erasure"> </del>
+      <lb n="4"/>פשרו על הכתיאים אשר פחדם <unclear cert="low">ואי</unclear>מ<unclear cert="low">ת</unclear><add place="above">ם</add> על כול
+      <lb n="5"/><add place="above">הגואים</add>.   ובעצה כול מחשבתם להרע ו<unclear cert="low">בנ</unclear>כל ומרמה
+      <lb n="6"/>ילכו עם כול העמים.   וקול מנמרים סוסו וחדו
+      <lb n="7"/>מ<add place="above">ז</add>אבי ערב.   <del rend="erasure"> </del> פשו ופרשו פרשו מרחוק
+      <lb n="8"/>יעופו כנשר חש לאכול כול<unclear cert="low">ו</unclear> לחמס יבוא מגמת
+      <lb n="9"/>פניהם קדים.   <del rend="erasure"> </del> <unclear cert="low">פ</unclear><supplied reason="lost">שר</supplied><unclear cert="low">ו</unclear> על הכתיאים אשר
+      <lb n="10"/>ידושו את הארץ בסוס<supplied reason="lost">יהם</supplied> ובבהמתם.   וממרחק
+      <lb n="11"/>יבואו מאיי הים לאכו<unclear cert="high">ל</unclear><supplied reason="lost"> את </supplied><unclear cert="low">כ</unclear>ול העמים כנשר
+      <lb n="12"/>ואין שבעה.   ובחמה וכ<supplied reason="lost">עס וב</supplied><unclear cert="high">ח</unclear>רן אף וזעף
+      <lb n="13"/>אפים ידברו עם <unclear cert="low">כו</unclear>ל<supplied reason="lost"> העמים כי</supplied>א הוא אשר
+      <lb n="14"/>אמר מ<unclear cert="low">ג</unclear><supplied reason="lost">מת פניהם קדים.   ויאסוף כח</supplied><unclear cert="low">ו</unclear>ל שבי.
+      <lb n="15"/><supplied reason="lost">פש</supplied><unclear cert="low">רו</unclear><supplied reason="lost"> על הכתיאים אשר</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="16"/><gap reason="lost" extent="unknown"/>
+      <lb n="17"/><gap reason="lost" extent="unknown"/><supplied reason="lost">.   והוא במלכים</supplied>
+      </div>
+      <div type="column" n="4">
+      <lb n="1"/>יקלס ורזנים משחק לו.   <del rend="erasure"> </del> פשרו אשר
+      <lb n="2"/>ילעיגו על רבים ובזו על נכבדים במלכים
+      <lb n="3"/>ושרים יתעתעו וקלסו בעם רב.   והוא
+      <lb n="4"/>לכול מבצר ישחק ו<add place="above">י</add>צבור עפר ו<unclear cert="high">י</unclear>לכדהו.
+      <lb n="5"/>פשרו על מושלי הכתיאים אשר יבזו על
+      <lb n="6"/>מבצרי העמים ובלעג ישח<del rend="dots">{ו</del>}קו עליהם.
+      <lb n="7"/>ובעם רב יקיפום לתפושם ובאמה ופחד
+      <lb n="8"/>ינתנו בידם.   והרסום בעוון היושבים
+      <lb n="9"/>בהם.   אז חלף רוח ויעבר וישם זה כוחו
+      <lb n="10"/>לאלוהו.   <del rend="erasure"> </del> פשר<unclear cert="low">ו</unclear><supplied reason="lost"> ע</supplied>ל מ<unclear cert="low">ו</unclear>שלי הכתיאים
+      <lb n="11"/>אשר בעצת בית אשמ<supplied reason="lost">תם </supplied> יעבורו איש
+      <lb n="12"/>מלפני רע<add place="above">י</add>הו מושלי<supplied reason="lost">הם ז</supplied>ה אחר זה יבואו
+      <lb n="13"/>לשחית את הא<supplied reason="lost">רץ.   וישם </supplied><unclear cert="low">ז</unclear>ה כוחו לאלוהו
+      <lb n="14"/>פשרו <supplied reason="lost">אשר ישימו כו</supplied>ל העמים
+      <lb n="15"/><unclear cert="high">ל</unclear><gap reason="lost" extent="unknown"/>ל
+      <lb n="16"/><gap reason="lost" extent="unknown"/><supplied reason="lost">.   הלוא אתה מקדם</supplied>
+      <lb n="17"/><supplied reason="lost">יהוה אלוהי קדשי לוא נמות.   יהוה</supplied>
+      </div>
+      <div type="column" n="5">
+      <lb n="1"/>למשפט שמתו וצור למוכיחו יסדתו.   טהור ע<add place="above">י</add>נים
+      <lb n="2"/>מראות ברע והבט אל עמל לוא תוכל.   <del rend="erasure"> </del>
+      <lb n="3"/>פשר הדבר אשר לוא יכלה אל את עם<add place="above">ו</add> ביד הגוים
+      <lb n="4"/>וביד בחירו יתן אל את משפט כול הגוים ובתוכחתם
+      <lb n="5"/>יאשמו כל רשעי עמו.   אשר שמרו את מצוותו
+      <lb n="6"/>בצר למו כיא הוא אשר אמר טהור עינים מראות
+      <lb n="7"/>ברע.   <del rend="erasure"> </del> פשרו אשר לוא זנו אחר עיניהם בקץ
+      <lb n="8"/>הרשעה.   למה תביטו בוגדים ותחריש בבלע
+      <lb n="9"/>רשע צדיק ממנו.   <del rend="erasure"> </del> פשרו על בית אבשלום
+      <lb n="10"/>ואנשי עצתם אשר נדמו בתוכחת מורה הצדק
+      <lb n="11"/>ולוא עזרוהו על איש הכזב <del rend="erasure"> </del> אשר מאס את
+      <lb n="12"/>התורה בתוך כול ע<unclear cert="low">דת</unclear>ם.   ותעש אדם כדגי הים
+      <lb n="13"/>כרמש למשל בו כו<unclear cert="high">ל</unclear><supplied reason="lost">ו בח</supplied><unclear cert="low">כ</unclear>ה יעלה ויגרהו בחרמו
+      <lb n="14"/>ויספהו <unclear cert="low">במכ</unclear><supplied reason="lost">מרתו על כן יזב</supplied><unclear cert="low">ח</unclear> לחרמו על כן ישמח
+      <lb n="15"/><supplied reason="lost">ויגי</supplied><unclear cert="low">ל</unclear><supplied reason="lost"> ויקטר למכמרתו כיא בהם </supplied><unclear cert="low">ש</unclear><unclear cert="high">מן</unclear> חלקו
+      <lb n="16"/><supplied reason="lost">ומאכלו ברי <gap reason="lost" extent="unknown"/>.   פשרו על </supplied>
+      </div>
+      <div type="column" n="6">
+      <lb n="1"/>הכתיאים ויוסיפו את הונם עם כול שללם
+      <lb n="2"/>כדגת הים.   ואשר אמר על כן יזבח לחרמו
+      <lb n="3"/>ויקטר למכמרתו.   <del rend="erasure"> </del> פשרו אשר המה
+      <lb n="4"/>זבחים לאותותם וכלי מלחמותם המה
+      <lb n="5"/>מוראם.   כיא בהם שמן חלקו ומאכלו ברי
+      <lb n="6"/>פשרו אשר המה מחלקים את עולם ואת
+      <lb n="7"/>מסם מאכלם על כול העמים שנה בשנה
+      <lb n="8"/>לחריב ארצות רבות.   על כן יריק חרבו תמיד
+      <lb n="9"/>להרוג גוים ולוא יחמל.   <del rend="erasure"> </del>
+      <lb n="10"/>פשרו על הכתיאים אשר יאבדו רבים בחרב
+      <lb n="11"/>נערים אשישים וזקנים נשים וטף.   ועל פרי
+      <lb n="12"/>בטן לוא ירחמו.   על משמרתי אעמודה
+      <lb n="13"/>ואתיצבה על מצורי ואצפה לראות מה ידבר
+      <lb n="14"/>בי ומ<unclear cert="low">ה</unclear><supplied reason="lost"> אשיב ע</supplied>ל ת{{<unclear cert="low">ו</unclear>}}כחתי.   ויענני יהוה
+      <lb n="15"/><supplied reason="lost">ויומר כתוב חזון וב</supplied><unclear cert="low">א</unclear>ר על הלוחות למען יר<unclear cert="high">ו</unclear><unclear cert="low">ץ</unclear>
+      <lb n="16"/><supplied reason="lost">הקורא בו <gap reason="lost" extent="unknown"/>.   פשר הדב</supplied><unclear cert="low">ר</unclear> <unclear cert="low">א</unclear><supplied reason="lost">שר </supplied>
+      </div>
+      <div type="column" n="7">
+      <lb n="1"/>וידבר אל <add place="above">אל</add> חבקוק לכתוב את הבאות על
+      <lb n="2"/><del rend="dots">{על</del>} הדור האחרון ואת גמר הקץ לוא הודעו.
+      <lb n="3"/><del rend="erasure"> </del> ואשר אמר למען <add place="above">ירוץ</add> הקורא בו
+      <lb n="4"/>פשרו על מורה הצדק אשר הודיעו אל את
+      <lb n="5"/>כול רזי דברי עבדיו הנבאים.   כיא עוד חזון
+      <lb n="6"/>למועד יפיח לקץ ולוא יכזב.   <del rend="erasure"> </del>
+      <lb n="7"/>פשרו אשר יארוך הקץ האחרון ויתר על כול
+      <lb n="8"/>אשר דברו הנביאים כיא רזי אל להפל<del rend="dots">{א</del>}<corr>&lt;ה</corr>&gt;.
+      <lb n="9"/>אם יתמהמה חכה לו כיא בוא יבוא ולוא
+      <lb n="10"/>יאחר.   <del rend="erasure"> </del> פשרו על אנשי האמת
+      <lb n="11"/>עושי התורה אשר לוא ירפו ידיהם מעבודת
+      <lb n="12"/>האמת בהמשך עליהם הקץ האחרון כיא
+      <lb n="13"/>כול קיצי אל יבואו לתכונם כאשר חקק
+      <lb n="14"/>לה<unclear cert="high">ם</unclear> ברזי ערמתו.   הנה עופלה לוא יושרה
+      <lb n="15"/><supplied reason="lost">נפשו בו</supplied>.   <del rend="erasure"> </del> פשרו אשר יכפלו עליהם
+      <lb n="16"/><supplied reason="lost">חטאתיהם ו</supplied>ל<supplied reason="lost">וא </supplied><unclear cert="high">י</unclear>רצו במשפטם <gap reason="lost" extent="unknown"/><unclear cert="low">ל</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="17"/><gap reason="lost" extent="unknown"/><supplied reason="lost">.   וצדיק באמונתו יחיה</supplied>.
+      </div>
+      <div type="column" n="8">
+      <lb n="1"/>פשרו על כול עושי התורה בבית יהודה אשר
+      <lb n="2"/>יצילם אל מבית המשפט בעבור עמלם ואמנתם
+      <lb n="3"/>במורה הצדק.   ואף כיא הון יבגוד גבר יהיר ולוא
+      <lb n="4"/>ינוה אשר הרחיב כשאול נפשו ו<supplied reason="lost">ה</supplied>וא כמות לוא ישבע.
+      <lb n="5"/>ויאספו אלו כול הגוים ויקבצו אלו כול העמים.
+      <lb n="6"/>הלוא כולם משל עליו ישאו ומליצי חידות לו
+      <lb n="7"/>ויומרו הוי המרבה ולוא לו עד מתי יכביד עלו
+      <lb n="8"/>עבטט.   <del rend="erasure"> </del> פשרו על הכוהן הרשע אשר
+      <lb n="9"/>נקרא על שם האמת בתחלת עומדו וכאשר משל
+      <lb n="10"/>בישראל רם לבו ויעזוב את אל ו<supplied reason="lost">י</supplied>בגוד בחוקים בעבור
+      <lb n="11"/>הון.   ויגזול ויקבוץ הון אנשי חמס אשר מרדו באל
+      <lb n="12"/>והון עמים לקח לוסיף עליו עון אשמה ודרכי
+      <lb n="13"/>ת<supplied reason="lost">וע</supplied>בות פעל בכול נדת טמאה.   הלוא פת<unclear cert="low">א</unclear>אום ויקוםו
+      <lb n="14"/><del rend="dots">{ו</del>}<unclear cert="high">נ</unclear><supplied reason="lost">וש</supplied><unclear cert="low">כ</unclear>יך ויקיצו מזעזיעיכה והיתה למש<unclear cert="low">י</unclear>סות למו.
+      <lb n="15"/>כי אתה שלותה גוים רבי<unclear cert="high">ם</unclear> וישלוכה כול יתר עמים.
+      <lb n="16"/><del rend="erasure"> </del> <unclear cert="low">פ</unclear><supplied reason="lost">שר הדבר </supplied><unclear cert="low">ע</unclear>ל הכוהן אשר מרד
+      <lb n="17"/><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> </supplied>ר חוק<unclear cert="high">י</unclear> <supplied reason="lost">אל <gap reason="lost" extent="unknown"/>.   </supplied>לל<unclear cert="high">ו</unclear> <unclear cert="low">ב</unclear><unclear cert="high">ו</unclear> ל<supplied reason="lost"> </supplied>
+      </div>
+      <div type="column" n="9">
+      <lb n="1"/>נגועו במשפטי רשעה.   שערוריות מחלים
+      <lb n="2"/>רעים עשו בו ונקמות בגוית בשרו.   ואשר
+      <lb n="3"/>אמר כי אתה שלותה גוים רבים וישלוכה כול
+      <lb n="4"/>יתר עמים.   <del rend="erasure"> </del> פשרו על כוהני ירושלם
+      <lb n="5"/>האחרונים אשר יקבוצו הון ובצע משלל העמים
+      <lb n="6"/>ולאחרית הימים ינתן הונם עם שללם ביד
+      <lb n="7"/>חיל הכתיאים <del rend="erasure"> </del> כיא המה יתר העמים.
+      <lb n="8"/>מדמי אדם וחמס א<unclear cert="low">ר</unclear>ץ קריה וכ<unclear cert="high">ול</unclear> <add place="above">יושבי</add> בה.
+      <lb n="9"/>פשרו על הכוהן ה<supplied reason="lost">ר</supplied>שע אשר ב<unclear cert="high">ע</unclear>וו<unclear cert="high">ן</unclear> מורה
+      <lb n="10"/>הצדק ואנשי עצתו נתנו אל ביד<supplied reason="lost"> </supplied>אויביו לענ<add place="above">ו</add>תו
+      <lb n="11"/>בנגע לבלה במרורי נפש בעבור <unclear cert="low">א</unclear>שר הרשיע
+      <lb n="12"/>על בחירו.   הוי ה<unclear cert="low">בו</unclear>צע בצע רע <unclear cert="low">לב</unclear>יתו לשום
+      <lb n="13"/><unclear cert="high">במ</unclear>רום קנו לנצל <unclear cert="high">מכ</unclear>ף רע יעצתה בשת
+      <lb n="14"/>לביתכה קצוות עמי<unclear cert="low">ם</unclear> רבים וחוט<supplied reason="lost">א נפ</supplied>שכה.   כיא
+      <lb n="15"/>א<unclear cert="low">ב</unclear><supplied reason="lost">ן מ</supplied>קיר תזע<unclear cert="low">ק</unclear><supplied reason="lost"> ו</supplied><unclear cert="low">כ</unclear>פיס מעץ יע<supplied reason="lost">ננה</supplied>.
+      <lb n="16"/><supplied reason="lost">פשר הדב</supplied><unclear cert="low">ר</unclear> על ה<supplied reason="lost">כוהן</supplied> אשר <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">ץ</unclear>
+      <lb n="17"/><gap reason="lost" extent="unknown"/>
+      </div>
+      <div type="column" n="10">
+      <lb n="1"/>להיות אבניה בעשק וכפיס ע<add place="above">י</add>צה בגזל.   ואשר
+      <lb n="2"/>אמר קצות עמים רבים וחוטי נפשכה.   <del rend="erasure"> </del>
+      <lb n="3"/>פשרו הוא בית המשפט אשר יתן אל את
+      <lb n="4"/>משפטו בתוך עמים רבים ומשם יעלנו למשפט
+      <lb n="5"/>ובתוכם ירשיענו ובאש גופרית ישפטנו.   הוי
+      <lb n="6"/>בונה עיר בדמים ויכונן קריה בעולה.   הלוא
+      <lb n="7"/>הנה מעם יהוה צבאות יגעו עמים בדי אש
+      <lb n="8"/>ולאומים בדי ריק ייעפו.   <del rend="erasure"> </del>
+      <lb n="9"/>פשר הדבר על מטיף הכזב אשר התעה רבים
+      <lb n="10"/>לבנות עיר שוו בדמים ולקים עדה בשקר
+      <lb n="11"/>בעבור כבודה לוגיע רבים בעבודת שוו ולהרותם
+      <lb n="12"/>ב<unclear cert="high">מ</unclear><supplied reason="lost">ע</supplied>שי שקר להיות עמלם לריק בעבור יבואו
+      <lb n="13"/>למשפטי אש אשר גדפו ויחרפו את בחירי אל.
+      <lb n="14"/>כיא תמלא האר<unclear cert="low">ץ</unclear> לדעת את כבוד יהוה כמים
+      <lb n="15"/>יכסו על הי<unclear cert="low">ם</unclear><gap reason="lost" extent="unknown"/><supplied reason="lost">.   </supplied><del rend="erasure"> </del> פשר הדבר <supplied reason="lost">אשר</supplied>
+      <lb n="16"/><unclear cert="low">ב</unclear>ש<unclear cert="high">ו</unclear>בם <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>ל<gap reason="lost" extent="unknown"/>
+      <lb n="17"/><gap reason="lost" extent="unknown"/>
+      </div>
+      <div type="column" n="11">
+      <lb n="1"/>הכזב ואחר תגלה להם הדעת כמי
+      <lb n="2"/>היים לרב.   הוי משקה רעיהו מספח
+      <lb n="3"/>חמתו אף שכר למען הבט אל מועדיהם.
+      <lb n="4"/><del rend="erasure"> </del> פשרו על הכוהן הרשע אשר
+      <lb n="5"/>רדף אחר מורה הצדק לבלעו בכעס
+      <lb n="6"/>חמתו אבית גלותו.   ובקץ מועד מנוחת
+      <lb n="7"/>יום הכפורים הופיע אליהם לבלעם
+      <lb n="8"/>ולכשילם ביום צום שבת מנוחתם.   שבעתה
+      <lb n="9"/>קלון מבוד שתה גם אתה והרעל
+      <lb n="10"/>תסוב עליכה כוס ימין יהוה וקיקלון
+      <lb n="11"/>על כבודכה.   <del rend="erasure"> </del>
+      <lb n="12"/>פשרו על הכוהן אשר גבר קלונו מכבודו
+      <lb n="13"/>כיא לוא מל את עורלת לבו וילך בדרכי
+      <lb n="14"/>הרויה למען ספות הצמאה.   וכוס חמת
+      <lb n="15"/><supplied reason="lost">א</supplied>ל תבלענו לוסי<unclear cert="low">ף</unclear><supplied reason="lost"> ע</supplied>ל<supplied reason="lost">יו את ק</supplied>ל<supplied reason="lost">ו</supplied><unclear cert="low">נ</unclear>ו ומכאוב
+      <lb n="16"/><gap reason="lost" extent="unknown"/>ל<gap reason="lost" extent="unknown"/>ל<gap reason="lost" extent="unknown"/>ל<gap reason="lost" extent="unknown"/>
+      <lb n="17"/><gap reason="lost" extent="unknown"/><supplied reason="lost">.   כיא חמס לבנון יכסכה ושוד בהמות</supplied>
+      </div>
+      <div type="column" n="12">
+      <lb n="1"/>יחתה מדמי אדם וחמס ארץ קריה וכול יושבי בה.
+      <lb n="2"/>פשר הדבר על הכוהן הרשע לשלם לו את
+      <lb n="3"/>גמולו אשר גמל על אביונים כיא הלבנון הוא
+      <lb n="4"/>עצת היחד והבהמות המה פתאי יהודה עושה
+      <lb n="5"/>התורה.   אשר ישופטנו אל לכלה <del rend="erasure"> </del>
+      <lb n="6"/>כאשר זמם לכלות אביונים.   ואשר אמר מדמי
+      <lb n="7"/>קריה וחמס ארץ פשרו הקריה היא ירושלם
+      <lb n="8"/>אשר פעל בה הכוהן <add place="above">הרשע</add> מעשי תועבות ויטמא את
+      <lb n="9"/>מקדש אל.   וחמס ארץ המה ערי יהודה אשר
+      <lb n="10"/>גזל הון אביונים.   מה הועיל פסל כיא פסל יצרו
+      <lb n="11"/>מס<supplied reason="lost">י</supplied>כה ומרי שקר כיא בטח יצר יצריו עליהו
+      <lb n="12"/>לעשות אלילים אלמים.   פשר הדבר על כול
+      <lb n="13"/>פסלי הגוים אשר יצרום לעובדם ולשתחות
+      <lb n="14"/>להםה והמה לוא יצילום ביום המשפט.   הוי
+      <lb n="15"/>ה<supplied reason="lost">אומר ל</supplied><unclear cert="low">ע</unclear>צ הקיצה <supplied reason="lost">עורי לא</supplied><unclear cert="low">ב</unclear>ן דומה.
+      <lb n="16"/><supplied reason="lost">הוא יורה.   הנה הוא תפוש זהב וכסף</supplied>
+      <lb n="17"/><supplied reason="lost">וכול רוח אין בקרבו.   ויהוה בהיכל קודשו</supplied>.
+      </div>
+      <div type="column" n="13">
+      <lb n="1"/>הס מלפניו כול הרץ.   פשרו על כול הגוים
+      <lb n="2"/>אשר עבדו את האבן ואת העץ.   וביומ
+      <lb n="3"/>המשפט יכלה אל את כול עובדי העצבים
+      <lb n="4"/>ואת הרשעים מן הארץ <del rend="erasure"> </del>.
+      </div>
+    </body>
+  </text>
+</TEI>

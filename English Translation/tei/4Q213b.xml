@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q213b</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q213b.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">כה</unclear> <unclear cert="high">רע</unclear>יתך מן כל בש<unclear cert="low">ר</unclear><supplied reason="lost">א</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">.   ונגדו שבעתון מן לותי ו</supplied><unclear cert="low">א</unclear>נה אתעירת מן שנתי אדין
+      <lb n="3"/><supplied reason="lost">אמרת חזוה הוא דן וכדן אנה מתמה די יהוה לי כל חזוה וטמר</supplied><unclear cert="high">ת</unclear> אף דן בלבבי ולכל אנש לא
+      <lb n="4"/><supplied reason="lost">גליתה.   ועלנא על אבי יצחק ואף הוא כדן ברכני אדין כ</supplied><unclear cert="high">ד</unclear>י <unclear cert="low">ה</unclear>וה יעקוב אבי מעשר
+      <lb n="5"/><supplied reason="lost">כל מה די הוה לה כנדרה וכען אנה הוית קדמי בראש כהנות</supplied><unclear cert="high">ה</unclear> ולי מן בנוהי יהב
+      <lb n="6"/><supplied reason="lost">קרבן לאל ואלבשני לבוש כהנותה ומלי ידי והוית כהן לא</supplied><unclear cert="low">ל</unclear> <unclear cert="low">עלמיא</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

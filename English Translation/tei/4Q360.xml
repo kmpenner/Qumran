@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q360</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q360.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1rt">
+      <lb n="1"/>ליה<gap reason="lost" extent="unknown"/>
+      <lb n="2"/>מנח<supplied reason="lost">ם</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="3"/>נ נ<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="4"/>מנח<supplied reason="lost">ם</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="5"/>מש<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f1lft">
+      <lb n="1"/><gap reason="illegible" unit="character" quantity="3"/> מנחם <gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="illegible" unit="character" quantity="1"/>צ<gap reason="illegible" unit="character" quantity="1"/> ח<gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f1bot">
+      <lb n="1"/>רבק ל סמ.
+      </div>
+    </body>
+  </text>
+</TEI>

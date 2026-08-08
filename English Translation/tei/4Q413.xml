@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q413</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q413.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1_2">
+      <lb n="1"/>מ<unclear cert="high">זמת</unclear> ד<supplied reason="lost">עת מצאו</supplied> וחוכמה אלמדכמה והתבוננו בדרכי אנוש ובפועלות
+      <lb n="2"/>בני א<unclear cert="high">ד</unclear><supplied reason="lost">ם.   כי באהבת </supplied><unclear cert="high">אל</unclear> את איש הרבה לו נחלה <unclear cert="high">ב</unclear>דעת אמתו וכפי גועלו
+      <lb n="3"/>כל ר<unclear cert="high">ע</unclear><supplied reason="lost"> ההולך אחר מ</supplied><unclear cert="high">ש</unclear>מע אוזניו ומראה עינו ב<unclear cert="high">ל</unclear> יחיה.   <del rend="erasure"> </del> ועתה
+      <lb n="4"/>חסד <gap reason="lost" extent="unknown"/><unclear cert="high">ר</unclear><add place="above">א</add><unclear cert="high">י</unclear>שונים ובינו <unclear cert="high">בש</unclear>ני ד<supplied reason="lost">ור ו</supplied><unclear cert="high">ד</unclear>ור כאשר גלה אל
+      <lb n="5"/><del rend="erasure"> </del><gap reason="lost" extent="unknown"/> ל <supplied reason="lost"> </supplied> <supplied reason="lost"> </supplied> ל<gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

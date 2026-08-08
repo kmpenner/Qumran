@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q181</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q181.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/>לאשמה ביחד עם ס<gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> </supplied>ע<gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> </supplied>ל <gap reason="illegible" unit="character" quantity="2"/><supplied reason="lost"> </supplied>ל בחטאת בני אדם ולמשפטים גדולים ומחלים רעים
+      <lb n="2"/>בבשר לפי גבורות אל ולעו<unclear cert="high">מת</unclear> רש<unclear cert="high">ע</unclear>ם לפי <unclear cert="low">מרד</unclear><add place="above">א</add>תם מסוד בני <unclear cert="low">ש</unclear><supplied reason="lost">מים</supplied> וארץ ליחד רשעה עד
+      <lb n="3"/>קצה.   לעומת רחמי אל <unclear cert="high">ל</unclear>פי טובו והפלא כבודו הגיש מבני תבל להתחשב ע<unclear cert="high">מו</unclear> <unclear cert="low">ב</unclear><supplied reason="lost">סוד</supplied>
+      <lb n="4"/><supplied reason="lost">א</supplied>לים לעדת קודש במעמד לחיי עולם ובגורל עם קדושיו <unclear cert="low">ב</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><supplied reason="lost">מ</supplied>לאו איש לפי גורלו אשר <unclear cert="low">ה</unclear>פ<supplied reason="lost">י</supplied>ל<supplied reason="lost"> </supplied>ל<gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/>לחיי <unclear cert="high">ע</unclear><supplied reason="lost">ו]ל[ם</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> <unclear cert="low">י</unclear>שחק<gap reason="lost" extent="unknown"/>
+      <lb n="2"/><supplied reason="lost"> </supplied><unclear cert="low">ה</unclear>אדם ויל<unclear cert="low">ד</unclear><supplied reason="lost">ו</supplied> להמה גבור<supplied reason="lost">ים <gap reason="lost" extent="unknown"/>.   </supplied>
+      <lb n="3"/><supplied reason="lost">א</supplied>ת ישראל בשבעים השביע ל<gap reason="lost" extent="unknown"/>
+      <lb n="4"/>אוה<unclear cert="high">ב</unclear>י עולה ומנחילי אשמה <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="5"/>לעי<unclear cert="high">ני</unclear> כול יודעיו <gap reason="illegible" unit="character" quantity="2"/><unclear cert="low">ש</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="6"/>ולטובו אין חק<unclear cert="low">ר</unclear><gap reason="lost" extent="unknown"/><supplied reason="lost">.   </supplied>
+      <lb n="7"/>אלה נפלאי מד<unclear cert="low">ע</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="8"/><unclear cert="high">ת</unclear>כנם באמתו ו<gap reason="lost" extent="unknown"/>
+      <lb n="9"/>בכול קצותם<gap reason="lost" extent="unknown"/>
+      <lb n="10"/>בריאותיה<gap reason="lost" extent="unknown"/>
+      </div>
+      <div type="column" n="f3">
+      <lb n="1"/>א<gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

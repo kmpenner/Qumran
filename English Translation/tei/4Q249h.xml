@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q249h</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q249h.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1_2">
+      <lb n="1"/><supplied reason="lost">זקן כושל לבלתי התחזק בתוך העדה אל י</supplied><unclear cert="high">ב</unclear><unclear cert="low">ו</unclear><supplied reason="lost">או</supplied>
+      <lb n="2"/><supplied reason="lost">אלה להתיצב בתוך עדת אנושי השם כיא </supplied>מלאכי<supplied reason="lost"> </supplied>
+      <lb n="3"/><supplied reason="lost">קודש בעדתם ואם יש דבר לאחד מאלה לדבר</supplied>
+      <lb n="4"/><supplied reason="lost">אל עצת הקודש ידורשוהו מפיהו ואל תוך העדה לא</supplied>
+      <lb n="5"/><supplied reason="lost">יבוא האיש כיא מנוגע הוא.   </supplied><unclear cert="low">ה</unclear><unclear cert="high">נה</unclear> מ<unclear cert="high">ו</unclear><supplied reason="lost">שב אנשי השם</supplied>
+      <lb n="6"/><supplied reason="lost">קריאי מועד לעצת היח</supplied><unclear cert="high">ד</unclear> <unclear cert="high">א</unclear>ם <unclear cert="high">י</unclear><supplied reason="lost">ועד העדה את</supplied>
+      <lb n="7"/><supplied reason="lost">המשיח אתם יבוא הכוהן ר</supplied><unclear cert="low">ו</unclear>ש <unclear cert="high">כו</unclear><supplied reason="lost">ל עדת ישראל</supplied>.
+      </div>
+      <div type="column" n="f3">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">וע</supplied><unclear cert="high">ר</unclear>וכ<supplied reason="lost"> השולחן היחד</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

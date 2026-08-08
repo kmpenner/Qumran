@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>5Q12</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 5Q12.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><unclear cert="low">י</unclear>היו נק<gap reason="lost" extent="unknown"/>
+      <lb n="2"/>אשר אמר לו<unclear cert="low">א</unclear> <unclear cert="low">ה</unclear><supplied reason="lost">וכח <gap reason="lost" extent="unknown"/>.   </supplied>
+      <lb n="3"/>על השבועה אשר <gap reason="lost" extent="unknown"/>
+      <lb n="4"/>על פני <unclear cert="low">ה</unclear>שדה <unclear cert="low">א</unclear><supplied reason="lost">שר</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><unclear cert="high">ל</unclear><supplied reason="lost">ו</supplied>.   <del rend="erasure"> </del> <unclear cert="low">וכו</unclear>ל ה<unclear cert="low">א</unclear><supplied reason="lost">ובד</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

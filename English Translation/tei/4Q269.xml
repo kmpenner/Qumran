@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q269</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q269.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">סל</supplied><unclear cert="low">יח</unclear>ו<unclear cert="high">ת</unclear>
+      <lb n="2"/><supplied reason="lost">לכפר בעד שבי פשע וכוח וגבורה וחמה גדולה בלהבי אש בכול </supplied><unclear cert="low">מ</unclear>לא<supplied reason="lost">כי</supplied>.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><supplied reason="lost">ויכרת זכורם במדבר <corr>בדבר</corr> להם בקדש עלו ור</supplied><unclear cert="low">ש</unclear>ו א<unclear cert="high">ת</unclear><supplied reason="lost"> הארץ</supplied>
+      <lb n="2"/><supplied reason="lost">וילכו אחר רוחם ולוא שמעו לקול עושיהם </supplied><unclear cert="low">ול</unclear>וא האזינו <supplied reason="lost">למצוות</supplied>
+      <lb n="3"/><supplied reason="lost">יוריהם.   וירגנו באוהליהם ויחר אף </supplied><unclear cert="low">א</unclear>ל בעדתם ובנ<supplied reason="lost">יה</supplied><unclear cert="low">ם</unclear> ב<supplied reason="lost">ו</supplied>
+      <lb n="4"/><supplied reason="lost">אבדו ומלכיהם בו נכרתו וגבוריה</supplied><unclear cert="low">ם</unclear> בו אבדו וארצם בו שממה.
+      <lb n="5"/><gap reason="lost" extent="unknown"/><supplied reason="lost">בו חבו</supplied> באי הברית הראישונים
+      <lb n="6"/><supplied reason="lost">ויסגרו לחרב בעוזבם את ברית אל ויבחרו</supplied> <unclear cert="high">ב</unclear>רצונם ו<unclear cert="low">י</unclear>תורו א<unclear cert="low">חר</unclear><supplied reason="lost">י</supplied>.
+      </div>
+      <div type="column" n="f3">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>מטיף
+      <lb n="2"/><supplied reason="lost"><corr>הכזב</corr> אשר אמר הטף ייטיפון.   המה נתפשים בשתים בזנו</supplied>ת ל<unclear cert="low">ק</unclear><supplied reason="lost">חת</supplied>.
+      </div>
+      <div type="column" n="f4i">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ותשם </supplied><unclear cert="low">הא</unclear>רץ
+      <lb n="2"/><supplied reason="lost">כי דברו סרה על מצוות אל ביד מושה וגם במשיחי הקודש.   ו</supplied>ינבאו
+      <lb n="3"/><supplied reason="lost">שקר להשיב את ישראל מאחר אל.   ויזכור אל ברית ראישונים וי</supplied><unclear cert="low">ק</unclear>ם.
+      </div>
+      <div type="column" n="f4ii">
+      <lb n="1"/><supplied reason="lost">ה</supplied><unclear cert="low">ח</unclear><supplied reason="lost">דשה ב</supplied><unclear cert="low">אר</unclear><supplied reason="lost">ץ דמשק להרים הקודשים</supplied>
+      <lb n="2"/><unclear cert="low">כ</unclear>פרושיהם ל<unclear cert="high">אה</unclear><supplied reason="lost">וב איש את אחיהו כמוהו</supplied>
+      <lb n="3"/><supplied reason="lost">ו</supplied><unclear cert="low">ל</unclear><supplied reason="lost">החז</supplied>יק ב<unclear cert="low">ע</unclear><supplied reason="lost">ד עני ואביון וגר ולדרוש</supplied>
+      <lb n="4"/><unclear cert="high">א</unclear><supplied reason="lost">י</supplied>ש ב<unclear cert="low">של</unclear><supplied reason="lost">ום אחיהו.   ולוא ימעל איש בשאר</supplied>
+      <lb n="5"/><unclear cert="low">בשר</unclear><supplied reason="lost">ו להזיר מן הזונות כמשפט להוכיח</supplied>
+      <lb n="6"/>איש א<unclear cert="low">ת</unclear> <supplied reason="lost">אחיהו כמצוה ולוא לנטור מיום ליום</supplied>
+      <lb n="7"/><supplied reason="lost">ו</supplied>ל<supplied reason="lost"> </supplied>הב<supplied reason="lost">דל מכול הטמאות כמשפטם ולוא</supplied>.
+      </div>
+      <div type="column" n="f5">
+      <lb n="1"/><supplied reason="lost">וכניי</supplied> הצ<supplied reason="lost">למים המה ספרי הנביאים אשר בזה ישראל את דבריהם</supplied>.
+      <lb n="2"/><unclear cert="low">ו</unclear>הכוכב <unclear cert="low">ה</unclear><supplied reason="lost">ואה דורש התורה הבא <corr>אל ארץ</corr> דמשק כאשר כתוב</supplied>
+      <lb n="3"/><supplied reason="lost">דר</supplied><unclear cert="high">ך</unclear> כוכב <unclear cert="high">מ</unclear><supplied reason="lost">יעקוב וקם שבט מישראל.   <del rend="erasure"> </del> השבט הואה</supplied>
+      <lb n="4"/><supplied reason="lost">נשי</supplied><unclear cert="high">א</unclear> <unclear cert="low">כ</unclear><supplied reason="lost">ול העדה ובעומדו יקרקר את כול בני שת.   <del rend="erasure"> </del></supplied>
+      </div>
+      <div type="column" n="f6">
+      <lb n="1"/><supplied reason="lost">ויתגוללו בדרכי זנות ובהון הר</supplied>שעה <unclear cert="low">ו</unclear>נ<unclear cert="low">ק</unclear><supplied reason="lost">ום ונטור איש לאחיהו</supplied>
+      <lb n="2"/><supplied reason="lost">ושנא איש את רעהו.   ויתעלמו איש בשא</supplied><unclear cert="low">ר</unclear> בשר<unclear cert="low">ו</unclear><supplied reason="lost"> ויגשו לזמה</supplied>.
+      </div>
+      <div type="column" n="f7">
+      <lb n="1"/><supplied reason="lost">שת או ספחת או בהרת</supplied><gap reason="lost" extent="unknown"/><unclear cert="low">מ</unclear>ה היא והספ<unclear cert="low">ח</unclear>ת מכתעץ
+      <lb n="2"/><supplied reason="lost">ואבן.   וכול מכה בבוא הרוח ? וא</supplied>חזה בגיד <unclear cert="high">ו</unclear><supplied reason="lost">ש</supplied><unclear cert="low">ב</unclear> הדם
+      <lb n="3"/><supplied reason="lost">למעלה ולמטה והגיד</supplied><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> א<unclear cert="low">ח</unclear>ר הדם <gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><supplied reason="lost">וראה הכוהן את עור הבשר החי</supplied> <unclear cert="low">ו</unclear>את <unclear cert="low">ה</unclear><supplied reason="lost">מת</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ב</supplied><unclear cert="low">ש</unclear>בעת<supplied reason="lost"> הימי</supplied><unclear cert="low">ם</unclear> <supplied reason="lost"> </supplied>
+      <lb n="6"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ואחר י</supplied><unclear cert="low">שוה</unclear> <supplied reason="lost">ב</supplied><unclear cert="low">ו</unclear> <supplied reason="lost">כאשר</supplied> אמר וה<unclear cert="low">ס</unclear><supplied reason="lost">גירו הכוהן</supplied>
+      <lb n="7"/><supplied reason="lost">שבעת ימים עד אשר יצ</supplied>מח הבשר.   ור<unclear cert="high">א</unclear>ה <add place="above">הכוהן</add><supplied reason="lost"> ביום ה</supplied><unclear cert="low">ש</unclear>ביעי <supplied reason="lost">והנה</supplied>
+      <lb n="8"/><supplied reason="lost">רוח החיים עולה ו</supplied>יורדת והבשר<supplied reason="lost"> צמח נרפא הנגע ? <gap reason="lost" extent="unknown"/> טהורה ? </supplied>
+      <lb n="9"/><supplied reason="lost">הספחת.   לוא יראנה הכוה</supplied><unclear cert="low">ן</unclear> לעור הב<supplied reason="lost">שר</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="10"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ואם שפ</supplied><unclear cert="low">ל</unclear> השת או <supplied reason="lost">הספחת</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="11"/><gap reason="lost" extent="unknown"/><supplied reason="lost">א</supplied><unclear cert="high">ו</unclear>תו <unclear cert="low">כמ</unclear><supplied reason="lost">ראי] הבש[ר החי</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="12"/><gap reason="lost" extent="unknown"/> בעו<unclear cert="high">ר</unclear> ה<unclear cert="high">ח</unclear><supplied reason="lost">י.   וכמשפט הזה</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="13"/><gap reason="lost" extent="unknown"/><supplied reason="lost">וראה </supplied><unclear cert="low">ה</unclear>כוה<unclear cert="high">ן</unclear> <unclear cert="low">ב</unclear><supplied reason="lost">יום השביעי והנה נוסף מן החי אל</supplied>.
+      </div>
+      <div type="column" n="f8i">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="high">ש</unclear>ה <unclear cert="low">ב</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ש</supplied>לוש פ<supplied reason="lost">עמים</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f8ii">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">אל יבא </supplied><unclear cert="low">א</unclear>יש את <gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/> בדם זבחם <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><supplied reason="lost">בטהרתו.   ומכול הזהב ו</supplied><unclear cert="high">ה</unclear>כסף והנחוש<unclear cert="low">ת</unclear> <supplied reason="lost">והבדיל והעופרת א</supplied>שר עשו הגואים <unclear cert="high">פ</unclear><supplied reason="lost">סל</supplied>.
+      <lb n="3"/><supplied reason="lost">אל יביאהו כיא אם</supplied> מן החד<unclear cert="low">ש</unclear><supplied reason="lost"> הבא מן הכור ?.   </supplied>אל יבא איש כול <unclear cert="low">ע</unclear><supplied reason="lost">ור ובגד</supplied>
+      <lb n="4"/><supplied reason="lost">ומן כול הכלי אשר יעשה מ</supplied>לאכה ב<supplied reason="lost">הם אשר יטמאו ל</supplied><unclear cert="low">נ</unclear>פש אדם כיא אם הוזו כ<unclear cert="low">מ</unclear><supplied reason="lost">שפט</supplied>
+      <lb n="5"/><supplied reason="lost">הטהרה במי הנדה ב</supplied><unclear cert="low">ק</unclear>ץ הר<unclear cert="low">ש</unclear><supplied reason="lost">ע איש טהור מ</supplied><unclear cert="low">כ</unclear>ול ט<unclear cert="low">ומא</unclear><supplied reason="lost">ה</supplied> אשר יעריב <unclear cert="high">א</unclear><supplied reason="lost">ת</supplied>
+      <lb n="6"/><supplied reason="lost">שמשו.   וכול נער אשר לוא מלאו ימיו לעבור על הפקודים א</supplied><unclear cert="high">ל</unclear> <supplied reason="lost">יזה</supplied>.
+      </div>
+      <div type="column" n="f9">
+      <lb n="1"/><supplied reason="lost">כול מומיה יספר לו למה יביא עליו את משפט האר</supplied><unclear cert="low">רה</unclear> אשר אמר
+      <lb n="2"/><supplied reason="lost">משגה עור בדרך.   וגם אל יתנהה לאשר לוא הוכן לה</supplied> <unclear cert="high">כ</unclear>יא הוא כלאים
+      <lb n="3"/><supplied reason="lost">שור וחמור ולבוש צמר ופשתים יחדיו.   </supplied><del rend="erasure"> </del>
+      <lb n="4"/><supplied reason="lost"><del rend="erasure"> </del> אל יבא איש אשה בברי</supplied><unclear cert="low">ת</unclear> קוד<supplied reason="lost">ש</supplied> <unclear cert="high">א</unclear>שר <supplied reason="lost">ידעה</supplied>
+      <lb n="5"/><supplied reason="lost">לעשות מעשה בדבר ואשר ידעה מעשה בבית אב</supplied><unclear cert="low">י</unclear>ה או אלמנה אש<unclear cert="low">ר</unclear>
+      <lb n="6"/><supplied reason="lost">נשכבה מאשר התארמלה.   וכול אשה אשר עליה ש</supplied>ם רע בבתולי<supplied reason="lost">ה</supplied>
+      <lb n="7"/><supplied reason="lost">בבית אביה <del rend="erasure"> </del> אל יקחה איש כיא אם בראו</supplied><unclear cert="high">ת</unclear> נשים נאמ<unclear cert="high">נ</unclear><supplied reason="lost">ות</supplied>
+      <lb n="8"/><supplied reason="lost">יודעות ברורות ממאמר המבקר אשר על הרבי</supplied><unclear cert="low">ם</unclear> <unclear cert="low">ואח</unclear><supplied reason="lost">ר יקחנה</supplied>.
+      </div>
+      <div type="column" n="f10i">
+      <lb n="5"/><supplied reason="lost">כוהן מבונן בספר ההגי על פיהו ישקו כולם.   ואם אין </supplied><unclear cert="low">הוא</unclear>
+      <lb n="6"/><supplied reason="lost">בחון בכול אלה ואיש מהלויים בחון באלה ויצא הגורל לצ</supplied><unclear cert="low">א</unclear>ת
+      <lb n="7"/><supplied reason="lost">ולבוא על פיהו את כול באי המחנה.   ואם משפט לתורת נגע יהי</supplied><unclear cert="low">ה</unclear>.
+      </div>
+      <div type="column" n="f10ii">
+      <lb n="1"/>ול<unclear cert="low">ו</unclear><supplied reason="lost">א</supplied> <unclear cert="high">י</unclear><supplied reason="lost">שוגו וכן לכול לוקח אשה והוא בעצה וכן יבן למגרש</supplied>.
+      <lb n="2"/>וה<unclear cert="high">ו</unclear><supplied reason="lost">א</supplied> י<unclear cert="low">י</unclear><supplied reason="lost">סר את בניהם ובנותם וטפם ברוח ענוה ובאהבת חסד</supplied>.
+      <lb n="3"/>וזה<supplied reason="lost"> מ</supplied><unclear cert="low">וש</unclear><supplied reason="lost">ב המחנות לכול זרע ישראל ואם לוא יחזיקו באלה לוא יצליחו</supplied>
+      <lb n="4"/>ל<unclear cert="high">ש</unclear><supplied reason="lost">בת בארץ ולוא יצילו ממצוקותיהם בקץ הפקודה.   <del rend="erasure"> </del> </supplied>
+      <lb n="5"/>אל<unclear cert="low">ה</unclear><supplied reason="lost"> המשפטים למשכיל להתהלך בם במועד פקוד אל את הארץ</supplied>
+      <lb n="6"/>ב<unclear cert="low">ב</unclear><supplied reason="lost">וא הדבר אשר דבר יבואו על עמכה ימים אשר לוא באו מיום</supplied>
+      <lb n="7"/>ס<unclear cert="low">ו</unclear><supplied reason="lost">ר א</supplied><unclear cert="low">פר</unclear><supplied reason="lost">ים מעל יהודה.   וכול המתהלכים באלה ברית אל נאמנות</supplied>
+      <lb n="8"/>לה<unclear cert="low">ם</unclear><supplied reason="lost"> להנצילם מכול מוקשי שחת כי פתאים עברו ונענשו.   <del rend="erasure"> </del> </supplied>
+      <lb n="9"/><del rend="erasure"> </del><supplied reason="lost"> וסרך מושב כול המחנות יפקדו כולם</supplied>
+      <lb n="10a"/>ויי<unclear cert="low">כ</unclear><supplied reason="lost">תבו בשמותיהם איש אחר אחיהו</supplied>
+      <lb n="10"/>בש<unclear cert="low">מ</unclear><supplied reason="lost">ותיהם הכוהנים לראישונה והלויים שניים ובני</supplied>
+      <lb n="11"/>ישרא<unclear cert="high">ל</unclear> <supplied reason="lost">שלשיים והגר רביע.   וכן ישבו וכן ישאלו לכול</supplied>.
+      <lb n="12"/><supplied reason="lost">והכ</supplied><unclear cert="low">וה</unclear><supplied reason="lost">ן אשר יפקוד ברואש הרבים מבן שלושים שנה ועד</supplied>.
+      </div>
+      <div type="column" n="f11i">
+      <lb n="1"/><supplied reason="lost">מושב המחנות ואלה יסדות אושי הקה</supplied>ל.   <del rend="erasure"> </del> וזה פרו<unclear cert="high">ש</unclear>
+      <lb n="2"/><supplied reason="lost">המשפטים אשר ישפטו בם עד עמוד משיח א</supplied><unclear cert="low">ה</unclear>רון וישרא<unclear cert="high">ל</unclear>
+      <lb n="3"/><supplied reason="lost">ויכפר עוונם ממנחה וחטאת <gap reason="lost" extent="unknown"/>.   </supplied><del rend="erasure"> </del>
+      <lb n="4"/><supplied reason="lost">והאיש אשר ישקר בממון והוא יודע והבדילוהו </supplied><unclear cert="low">מן</unclear> הטהרה
+      <lb n="5"/><supplied reason="lost">שנה אחת ונענש</supplied> ששי<supplied reason="lost">ם יום.   <del rend="erasure"> </del> ואשר יד</supplied><unclear cert="low">ב</unclear>ר <supplied reason="lost">בפיהו</supplied>
+      <lb n="6"/><supplied reason="lost">דבר נבל והובדל שלושה חדשים ונענ</supplied>ש עשרים <supplied reason="lost">יו</supplied><unclear cert="low">ם</unclear>.   <unclear cert="low">ו</unclear><supplied reason="lost">אשר</supplied>
+      <lb n="7"/><supplied reason="lost">ידבר בתוך דברי רעהו ונענש</supplied> עש<supplied reason="lost">רה.   והצוחה </supplied><unclear cert="low">ב</unclear>לוא <supplied reason="lost">משפט</supplied>
+      <lb n="8"/><supplied reason="lost">את רעהו והובדל שנה אחת ונענש שש</supplied><unclear cert="low">ה</unclear> <unclear cert="low">ח</unclear><supplied reason="lost">ד</supplied>שים<gap reason="lost" extent="unknown"/>
+      <lb n="9"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f11ii+15">
+      <lb n="1"/><unclear cert="high">ו</unclear>הש<unclear cert="low">וח</unclear><supplied reason="lost">ק בסכלות להשמיע קולו והובדל שלושים ונענש חמשת</supplied>
+      <lb n="2"/><supplied reason="lost">ע</supplied><unclear cert="low">שר</unclear> <supplied reason="lost">ימי</supplied>ם.   <unclear cert="low">ו</unclear><supplied reason="lost">המוציא את ידו השמאלית לשוח בה ונענש עשר</supplied><unclear cert="high">ה</unclear>
+      <lb n="3"/><supplied reason="lost">ימים.   ו</supplied><unclear cert="low">א</unclear><unclear cert="high">ש</unclear><supplied reason="lost">ר ילך רכיל ברעהו והבדילוהו מן הטהרה שנה אחת</supplied>
+      <lb n="4"/><supplied reason="lost">ונענש ששה חודשים.   ואיש ברבים ילך רכיל לשלח הוא ולוא ישוב</supplied>
+      <lb n="5"/><supplied reason="lost">עוד.   ואם על רעהו ילון אשר לא במשפט ונענש ששה חודשי</supplied><unclear cert="low">ם</unclear>.
+      </div>
+      <div type="column" n="f12">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="high">א</unclear>יש<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f13">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">י</unclear>ם וי<unclear cert="high">ד</unclear><unclear cert="low">עו</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="high">ם</unclear> לישועתו <unclear cert="low">י</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/>ה ו<unclear cert="high">המה</unclear> <gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><unclear cert="low">וגם</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f14">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>לה י<unclear cert="low">ס</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/>ם<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f16">
+      <lb n="1"/><supplied reason="lost">אשמו ועל ישראל כתוב אלכה לי אל קצה השמים ולוא</supplied>
+      <lb n="2"/><supplied reason="lost">אריח בריח ניחוחכם.   ובמקום אחר כתוב קרעו לבבכם וא</supplied><unclear cert="high">ל</unclear>
+      <lb n="3"/><supplied reason="lost">בגדיכם.   וכתוב לשוב אל אל בבכי ובצום.   וכול המואס</supplied>
+      <lb n="4"/><supplied reason="lost">במשפטים האלה על פי כול החוקים הנמצאים בתורת משה</supplied>
+      <lb n="5"/><supplied reason="lost">לוא יחשב בכול בני אמתו כיא געלה נפשו ביסורי הצדק</supplied>
+      <lb n="6"/><supplied reason="lost">ובמרד מלפני הרבים ישתלח וידבר בו הכוהן המופקד</supplied>
+      <lb n="7"/><supplied reason="lost">על הרבים וענה ואמר ברוך אתה אדוני הוא הכול ובידיכ</supplied><unclear cert="low">ה</unclear>
+      <lb n="8"/><supplied reason="lost">הכול ועושה הכול.   אשר יסדתה עמים למשפחותיהם ולשונו</supplied><unclear cert="high">ת</unclear>
+      <lb n="9"/><supplied reason="lost">לאומותם ותתעם בתהו ולוא דרך.   ובאבותינו בחרתה לזרעם</supplied>
+      <lb n="10"/><supplied reason="lost">נתתה חוקי אמתכה ומשפטי קודשכה אשר יעשה האדם וחיה</supplied>.
+      <lb n="11"/><supplied reason="lost">וגבולות הגבלתה לנו אשר את עובריהם ארותה ואנו עם פדו</supplied><unclear cert="low">ת</unclear>כה
+      <lb n="12"/><supplied reason="lost">וצון מרעיתכה.   אתה ארותה את עובריהם ואנו הקימונו וי</supplied>צא
+      <lb n="13"/><supplied reason="lost">המשתלח והאיש אשר יוכל מהונם ואשר ידרוש שלומו וא</supplied><unclear cert="low">ש</unclear>ר
+      <lb n="14"/><supplied reason="lost">יאות עמו ונכתב דברו על פני המבקר <del rend="erasure"> ? </del> כח</supplied>רת
+      <lb n="15"/><supplied reason="lost">ושלים משפטו וכול יושבי המחנות יקהלו בחודש השליש</supplied><unclear cert="low">י</unclear>
+      <lb n="16"/><supplied reason="lost">ואררו את הנוטה ימין ושמאול מן התורה.  <del rend="erasure"> </del> והזה פרוש</supplied>
+      <lb n="17"/><supplied reason="lost">המשפטים אשר יעשו בכול קץ הפקודה את אשר יפקי</supplied>דו
+      <lb n="18"/><supplied reason="lost">בכול קצי החרון ומסעיהם לכול יושב מחניהם וכול יושב ערי</supplied><unclear cert="high">ה</unclear>ם.
+      <lb n="19"/><supplied reason="lost">הנה הכול נמצא על מדרש התורה האחרון <del rend="erasure"> </del> </supplied>.
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q173</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q173.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">שו</supplied>א לכ<unclear cert="low">ם</unclear><supplied reason="lost"> משכימי קום מאחרי שבת אוכלי לחם העצבים כן</supplied>
+      <lb n="3"/><supplied reason="lost">יתן לידידו שנא פשרו א</supplied>שר יבקשו<gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ע</supplied>תרות מורה הצד<unclear cert="low">ק</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><supplied reason="lost">כו</supplied>הן לאחרית הק<supplied reason="lost">ץ</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/><del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="7"/><supplied reason="lost">הנה נחלת יהוה בנים פשרו על י</supplied>ורשי הנחל<unclear cert="low">ה</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">שכר פרי הבטן</supplied> פשר<unclear cert="high">ו</unclear> הפ<unclear cert="low">ר</unclear><supplied reason="lost">י</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">מ</supplied><unclear cert="high">ו</unclear>רה הצ<unclear cert="low">ד</unclear><supplied reason="lost">ק</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f3">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">א</supplied><unclear cert="low">שר</unclear><unclear cert="high">י</unclear> הגבר<supplied reason="lost"> אשר מלא את אשפתו מהם</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">פשרו</supplied> אשר יהיו ק<supplied reason="lost">הל</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/>ל<unclear cert="low">וא</unclear> יבושו <unclear cert="low">כ</unclear><supplied reason="lost">י ידברו את אויבים בשער</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f4">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">שלא</supplied> <unclear cert="low">מ</unclear>לא כפו קוצ<unclear cert="low">ר</unclear> <unclear cert="high">ו</unclear><supplied reason="lost">חצנו מעמר.   ולוא אמרו העברים</supplied>
+      <lb n="2"/><supplied reason="lost">ברכת י</supplied>הו<unclear cert="high">ה</unclear> <unclear cert="high">ע</unclear>ל<supplied reason="lost">יכ</supplied><unclear cert="high">ם</unclear> ב<unclear cert="high">ר</unclear><supplied reason="lost">כנו אתכם בשם יהוה</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="low">ר</unclear>ש<unclear cert="low">ע</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f5">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ע</supplied><unclear cert="low">ב</unclear>רו <unclear cert="low">מ</unclear><gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="low">ב</unclear>ית מכשול<gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">עד קרנ</supplied>ות המזבח י<unclear cert="low">ב</unclear><supplied reason="lost">או</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><supplied reason="lost">זה</supplied> השער לאל צד<unclear cert="low">י</unclear><supplied reason="lost">קים יבאו בו</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><supplied reason="lost">מר</supplied><unclear cert="high">ח</unclear>יבי שמות וחרי<unclear cert="low">ב</unclear><supplied reason="lost">ות</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/>ל ליעק<unclear cert="low">וב</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

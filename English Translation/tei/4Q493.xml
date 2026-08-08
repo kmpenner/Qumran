@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q493</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q493.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/>המלחמה.   והכוהנים בני אהר<unclear cert="high">ו</unclear><unclear cert="low">ן</unclear> יעמוד<unclear cert="low">ו</unclear> לפ<unclear cert="low">ני</unclear> <supplied reason="lost">ה</supplied>מער<unclear cert="low">כות</unclear>
+      <lb n="2"/>והריעו בחצוצרות הזכרון.   ואח<unclear cert="low">רי</unclear> ⸱ כן יפת<unclear cert="low">חו</unclear> <unclear cert="low">א</unclear><supplied reason="lost">ת</supplied> <unclear cert="low">הש</unclear><supplied reason="lost">ערי</supplied>ם ל<unclear cert="low">א</unclear>נשי
+      <lb n="3"/>הבנים.   והכוהנים יריעו בחצוצרות המלח<unclear cert="low">מה</unclear><supplied reason="lost"> לשלוח</supplied> יד במערכות
+      <lb n="4"/>גויים.   והכוהנים יצאו מבין החללים <unclear cert="low">ו</unclear>ע<unclear cert="low">מ</unclear><supplied reason="lost">דו מזה ו</supplied><unclear cert="low">מזה</unclear> ל<unclear cert="low">מ</unclear>ל<gap reason="illegible" unit="character" quantity="1"/><unclear cert="low">ת</unclear>
+      <lb n="5"/>ליד החרף והמאבן.   ולוא יחללו שמן כהו<unclear cert="high">נתם</unclear><supplied reason="lost"> בדם הח</supplied>לל<unclear cert="low">י</unclear><supplied reason="lost">ם</supplied>.
+      <lb n="6"/><supplied reason="lost">ו</supplied>לכול מערכות הבנים לוא יגשו.   ותק<unclear cert="high">עו</unclear> בקול <unclear cert="low">חד</unclear> ל<unclear cert="low">צאת</unclear> <unclear cert="low">אנ</unclear><supplied reason="lost">שי</supplied>
+      <lb n="7"/>המלחמה להתקרב בין המערכות בחצוצרו<unclear cert="low">ת</unclear><supplied reason="lost"> החללים.   </supplied><unclear cert="low">וה</unclear><supplied reason="lost">ח</supplied><unclear cert="low">ל</unclear><supplied reason="lost">ו</supplied>
+      <lb n="8"/>לשלוח יד <unclear cert="low">ב</unclear>מלחמה.   ובמלא עונותם יתקעו להם ב<unclear cert="low">חצו</unclear><supplied reason="lost">צ</supplied><unclear cert="low">ר</unclear>ות ה<unclear cert="high">מ</unclear><unclear cert="low">ש</unclear><supplied reason="lost">ו</supplied><unclear cert="low">ב</unclear>
+      <lb n="9"/>לבוא השערים.   ויצאה המערכה השנית וככול הסר<unclear cert="low">ך</unclear> <unclear cert="low">הז</unclear>ה <unclear cert="low">הל</unclear><supplied reason="lost">ויים</supplied>
+      <lb n="10"/>להם <unclear cert="low">מר</unclear><supplied reason="lost">י</supplied><unclear cert="low">ע</unclear>ים בעונ<unclear cert="low">ות</unclear>ה.   בצאת<unclear cert="low">ם</unclear> <unclear cert="high">י</unclear>תקע<supplied reason="lost">ו </supplied>להם ב<unclear cert="low">ח</unclear><supplied reason="lost">צוצרות המקרא</supplied>
+      <lb n="11"/><unclear cert="low">ו</unclear>במל<supplied reason="lost">אם </supplied>בחצוצרות התרועה<supplied reason="lost"> וב</supplied>שובם יתק<supplied reason="lost">עו להם בחצוצרות</supplied>
+      <lb n="12"/><unclear cert="low">המא</unclear><supplied reason="lost">סף.   </supplied>כמש<supplied reason="lost">פט הזה </supplied><unclear cert="low">י</unclear>תקעו ל<unclear cert="low">כ</unclear><supplied reason="lost">ול המ</supplied>ערכות.   <del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="13"/><gap reason="lost" extent="unknown"/><unclear cert="low">ת</unclear> <gap reason="lost" extent="unknown"/> על חצוצרו<supplied reason="lost">ת </supplied><unclear cert="low">ה</unclear>שבתות <supplied reason="lost">כתוב</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="14"/><unclear cert="low">ו</unclear><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">למנחת</supplied> התמיד ולעולות <unclear cert="low">כתו</unclear>ב ת<unclear cert="low">בו</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

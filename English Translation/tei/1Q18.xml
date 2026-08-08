@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>1Q18</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 1Q18.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1_2">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ע</supplied>מי על מותך <del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><supplied reason="lost">ותבוא אל ישחק ותאמר לו אחת בקש</supplied><unclear cert="low">ה</unclear> <unclear cert="low">אב</unclear><supplied reason="lost">ק</supplied><unclear cert="low">ש</unclear> ממך ה<unclear cert="high">ש</unclear>בע את עשו אשר ל<supplied reason="lost">וא</supplied>
+      <lb n="3"/><supplied reason="lost">יענה את יעקב אחיו ולוא ירדפנו</supplied> <unclear cert="high">ב</unclear>איבה.   כי <unclear cert="high">י</unclear><supplied reason="lost">וד</supplied><unclear cert="high">ע</unclear> אתה את יצ<unclear cert="high">ר</unclear> עשו אשר הו<supplied reason="lost">א</supplied>
+      <lb n="4"/><supplied reason="lost">רע מנעוריו ויודע אתה כול אשר עש</supplied><unclear cert="high">ה</unclear> מיום ל<supplied reason="lost">כת אחיו י</supplied>עקב אל חר<unclear cert="high">ן</unclear> <supplied reason="lost">עד היום יענה</supplied>.
+      </div>
+      <div type="column" n="f3">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>קח פלג<gap reason="lost" extent="unknown"/><supplied reason="lost">.   </supplied>
+      </div>
+      <div type="column" n="f4">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>ה הקמ<gap reason="lost" extent="unknown"/><supplied reason="lost">.   </supplied>
+      </div>
+      <div type="column" n="f5">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>ה<unclear cert="low">מ</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>והל<unclear cert="high">ל</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/>ל<gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

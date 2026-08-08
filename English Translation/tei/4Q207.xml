@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q207</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q207.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="0"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ועוד הוית</supplied>
+      <lb n="1"/><supplied reason="lost">נטל עיני בחלמא וחזית שמיא </supplied><unclear cert="low">מ</unclear>ן <unclear cert="low">עלה</unclear> <supplied reason="lost">והא</supplied> כ<unclear cert="high">וכ</unclear><unclear cert="low">ב</unclear> <unclear cert="low">ח</unclear><supplied reason="lost">ד נפל מן שמיא למציע</supplied>
+      <lb n="2"/><supplied reason="lost">תוריא רברביא ואכל ורעה</supplied> ביניהון.   הא באדין ח<unclear cert="high">ז</unclear><unclear cert="low">י</unclear><supplied reason="lost">ת תוריא אלן רברביא</supplied>
+      <lb n="3"/><supplied reason="lost">ואכמיא והא כלהון מרעיהו</supplied>ן ודיריהון <supplied reason="lost">וע</supplied><unclear cert="low">ג</unclear>ל<supplied reason="lost">י</supplied><unclear cert="low">ה</unclear><supplied reason="lost">ון חלפו ושריו למחיה חד לחד</supplied>.
+      <lb n="4"/><supplied reason="lost">ועוד חזית בחלמי והדקת שמיא </supplied>והא כוכבין ש<unclear cert="low">ג</unclear><unclear cert="high">י</unclear><unclear cert="low">א</unclear><supplied reason="lost">ין נחתין ומתרמין מן שמיא</supplied>
+      <lb n="5"/><supplied reason="lost">לות כוכבא קדמיא והתהפכו תו</supplied><unclear cert="high">ר</unclear>יא <unclear cert="low">במצ</unclear><supplied reason="lost">יע עגליא אלן ועמהון רעו ביניהון</supplied>.
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>1QSa</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 1QSa.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="1">
+      <lb n="1"/>וזה הסרך לכול עדת ישראל באחרית הימים בה<corr>א</corr>ספם<supplied reason="lost"> ליחד להתה</supplied>לך
+      <lb n="2"/>על פי משפט בני צדוק הכוהנים ואנושי בריתם אשר ס<unclear cert="high">ר</unclear><supplied reason="lost">ו מלכת ב</supplied><unclear cert="high">ד</unclear>רך
+      <lb n="3"/>העם.   המה אנושי עצתו אשר שמרו בריתו בתוך רשעה לכ<unclear cert="low">פ</unclear><supplied reason="lost">ר בעד האר</supplied><unclear cert="low">ץ</unclear>.
+      <lb n="4"/>בבוא<del rend="dots">י</del>ם יקהילו אתכול הבאים מטף עד נשים וקראו בא<supplied reason="lost">וזניהמה </supplied>את
+      <lb n="5"/><supplied reason="lost">כ</supplied>ול חוקי הברית ולהבינם בכול משפטיהמה פן ישגו במ<supplied reason="lost">שגותיהמ</supplied><unclear cert="low">ה</unclear>.
+      <lb n="6"/><del rend="erasure"> </del> וזה <add place="above">ה</add>סרך לכול צבאות העדה לכול האזרח בישראל.   ומן נע<supplied reason="lost">וריו</supplied>
+      <lb n="7"/><supplied reason="lost">לל</supplied><unclear cert="high">מ</unclear>דהו בספר ההגי.   וכפי יומיו ישכילוהו בחוקי הברית ו<unclear cert="high">ל</unclear><supplied reason="lost">קחת</supplied>
+      <lb n="8"/><supplied reason="lost">מו</supplied>סרו במשפטיהמה.   עשר שנים<supplied reason="lost">  </supplied>בוא בטב ו<unclear cert="high">ב</unclear><supplied reason="lost">ן</supplied> עשרים שנ<supplied reason="lost">ה יעבר</supplied>
+      <lb n="9"/><supplied reason="lost">על</supplied> הפקודים לבוא בגורל בתוך משפ<supplied reason="lost">ח</supplied>תו ליחד בעד<supplied reason="lost">ת</supplied> קודש.   ולוא <unclear cert="low">י</unclear><supplied reason="lost">קרב</supplied>
+      <lb n="10"/>אל אשה לדעתה למשכבי זכר כיאם לפי מילואת לו עש<supplied reason="lost">רי</supplied><unclear cert="low">ם</unclear> שנה בדעת<unclear cert="high">ו</unclear><supplied reason="lost"> טוב</supplied>
+      <lb n="11"/>ורע.   ובכן תקבל להעיד עליו <unclear cert="high">מ</unclear>שפטות התורא ולה<unclear cert="high">ת</unclear><supplied reason="lost">י</supplied>צב במשמע משפטים.
+      <lb n="12"/>ובמלוא בו <del rend="erasure"></del> ובן חמש ועש<unclear cert="low">ר</unclear>ים שנה יבוא להת<supplied reason="lost">יצ</supplied>ב ביסודות עדת
+      <lb n="13"/>הקודש לעבוד את עבודת העד<unclear cert="low">ה</unclear>.   ובן שלושים שנה יגש לריב ריב
+      <lb n="14"/><unclear cert="high">ו</unclear><unclear cert="low">מ</unclear><supplied reason="lost">ש</supplied><unclear cert="high">פ</unclear>ט ולהתיצב ברואשי אלפי ישראל לשרי מאות שרי ח<supplied reason="lost">מ</supplied>שים
+      <lb n="15"/><supplied reason="lost">שרי</supplied> עשרות שופטים ושוטרים לשבטיהם בכול משפחותם <supplied reason="lost">על פ</supplied>י בני
+      <lb n="16"/><supplied reason="lost">אהר</supplied>ון הכוהנים וכול <del rend="dots">{ש</del>}רו<add place="above">ש</add> אבות העדה אשר יצא הגורל להתי<supplied reason="lost">צב </supplied>ב<unclear cert="low">ע</unclear>בוד<add place="above">ו</add>ת
+      <lb n="17"/><supplied reason="lost">לצא</supplied>ת ולבוא לפני העדה.   ולפי שכלו עם תום דרכו יחזק מתנו למעמ<supplied reason="lost">ד לצב</supplied>ואת
+      <lb n="18"/>עבודת מעשו בתוך אחיו<supplied reason="lost">.   בי</supplied><unclear cert="high">ן</unclear> <unclear cert="high">ר</unclear>וב למועט <supplied reason="lost">זה על</supplied> זה יכבדו איש מרעהו.
+      <lb n="19"/>וברובות שני איש לפי כוחו יתנו משאו ב<supplied reason="lost">עבו</supplied><unclear cert="high">ד</unclear>ת העדה.   וכול איש פותי
+      <lb n="20"/>אל יבוא בגורל להתיצב על עדת ישראל לרי<supplied reason="lost">ב מ</supplied>שפט ולשאת משא עדה
+      <lb n="21"/>ולהתיצב במלחמה להכניע גוים.   רק בסרך <unclear cert="high">הצ</unclear>בא יכתוב משפחתו
+      <lb n="22"/>ובעבודת המס יעשה עבודתו כפי מעשו.   ובני לוי יעמודו איש במעמדו
+      <lb n="23"/>על פי בני אהרון להביא ולהוציא אתכול העדה איש בסרכו על יד ראשי
+      <lb n="24"/><supplied reason="lost">א</supplied><unclear cert="high">בו</unclear>ת העדה לשרים ולשופטים <add place="above">ולשוטרים</add> למספר כול צבאותם על פי בני צדוק הכוהנים
+      <lb n="25"/><supplied reason="lost">וכול ר</supplied>אשי אבות העדה.   ואם תעודה תהיה לכול הקהל למשפט או
+      <lb n="26"/>לעצת <unclear cert="high">י</unclear>חד או לתעודת מלחמה וקדשום שלושת ימים להיות כול הבא
+      <lb n="27"/>עת<supplied reason="lost">יד ל</supplied><unclear cert="low">ה</unclear>נה.   אלה ה<corr>א</corr>נשים הנקראים לעצת היחד מבן עש.   כול
+      <lb n="28"/><unclear cert="high">ח</unclear><supplied reason="lost">כמי </supplied><unclear cert="high">ה</unclear>עדה והנבונים והידעים תמימי הדרך ואנושי החיל עם
+      <lb n="29"/><supplied reason="lost">שרי השב</supplied>טים וכול שופטיהם ושוטריהם ושרי האלפים ושרי<supplied reason="lost"> למאות</supplied>
+      </div>
+      <div type="column" n="2">
+      <lb n="1"/>ולחמשים ולעשרות והלויים בתו<supplied reason="lost">ך מחל</supplied>קת עב<unclear cert="low">ו</unclear>דתו.   אלה
+      <lb n="2"/>אנושי השם קיראי מועד הנועדים לעצ<unclear cert="low">ת</unclear> <unclear cert="low">הי</unclear><unclear cert="high">ח</unclear>ד בישראל
+      <lb n="3"/>לפני בני צדוק הכוהנים.   וכול איש מנוגע באחת <unclear cert="low">מ</unclear><unclear cert="high">כו</unclear>ל טמאו<add place="above">ת</add>
+      <lb n="4"/>האדם אל יבוא בקהל אל<del rend="dots">ה</del>.   וכול איש מנוגע ב<unclear cert="low">א</unclear>לה ל<unclear cert="low">ב</unclear>לתי
+      <lb n="5"/>החזיק מעמד בתוך העדה וכול מנוגע בבשרו נכאה <unclear cert="low">רג</unclear><unclear cert="high">ל</unclear><unclear cert="low">י</unclear>ם או
+      <lb n="6"/>ידים פסח או עור או חרש או אלם או מום מנוגע בב<unclear cert="high">ש</unclear>רו
+      <lb n="7"/>לראות עינים או איש זקן כושל לבלתי התחזק בתוך העדה.
+      <lb n="8"/>אל יב<supplied reason="lost">ואו </supplied>אלה להתיצב <supplied reason="lost">ב</supplied><unclear cert="high">ת</unclear><unclear cert="low">ו</unclear>ך עדת <unclear cert="high">א</unclear><supplied reason="lost">נ</supplied>ושי השם כיא מלאכי
+      <lb n="9"/>קודש <supplied reason="lost">בעד</supplied>תם.   ואם יש ד<unclear cert="high">ב</unclear><supplied reason="lost">ר לאחד מ</supplied>אלה לדבר אל עצת הקודש
+      <lb n="10"/><supplied reason="lost">ו</supplied>דורש<supplied reason="lost">והו </supplied>מפיהו ואל תוך<supplied reason="lost"> העדה ל</supplied>א יבוא האיש כיא מ<unclear cert="high">נ</unclear><unclear cert="low">ו</unclear>גע
+      <lb n="11"/><supplied reason="lost">ה</supplied>וא.   <supplied reason="lost">זה מו</supplied>שב אנשי השם <supplied reason="lost">קריאי </supplied>מועד לעצת היחד אם יול<unclear cert="high">י</unclear>ד
+      <lb n="12"/><supplied reason="lost">אל </supplied><unclear cert="low">א</unclear><supplied reason="lost">ת </supplied>המשיח אתם.   יבוא<supplied reason="lost"> הכוהן </supplied>רואש כול עדת ישראל וכול
+      <lb n="13"/><unclear cert="high">א</unclear><supplied reason="lost">בות בני</supplied> אהרון הכוהנים <supplied reason="lost">קריאי </supplied>מועד אנושי השם.   וישבו
+      <lb n="14"/>ל<supplied reason="lost">פניו איש</supplied> לפי כבודו.   ואחר <unclear cert="low">י</unclear><supplied reason="lost">שב מש</supplied><unclear cert="low">י</unclear>ח ישראל וישבו לפניו ראש<add place="above">י</add>
+      <lb n="15"/>א<supplied reason="lost">לפי ישראל אי</supplied>ש לפי כבודו כ<unclear cert="low">מ</unclear><supplied reason="lost">עמדו</supplied> במחניהם וכמסעיהם.   וכול
+      <lb n="16"/>ראשי א<supplied reason="lost">בות הע</supplied><unclear cert="high">ד</unclear>ה עם חכ<unclear cert="high">מ</unclear><supplied reason="lost">י עדת הקודש </supplied>ישבו לפניהם איש לפי
+      <lb n="17"/>כבודו.   <unclear cert="low">ו</unclear><supplied reason="lost">אם לשול</supplied>חן יחד יועד<supplied reason="lost">ו או לשתות הת</supplied>ירוש וערוך השולחן
+      <lb n="18"/>היחד <supplied reason="lost">ומסוך ה</supplied>תירוש לשתו<unclear cert="high">ת</unclear><supplied reason="lost"> אל ישלח </supplied>איש את ידו ברשת
+      <lb n="19"/>הלחם ו<supplied reason="lost">התירוש</supplied> לפני הכוהן.   כי<unclear cert="low">א</unclear><supplied reason="lost"> הוא מ</supplied>ברך את רשית הלחם
+      <lb n="20"/>והתירו<supplied reason="lost">ש ושלח </supplied>ידו בלחם לפנים.   ואח<supplied reason="lost">ר יש</supplied><unclear cert="low">ל</unclear>ח משיח ישראל ידיו
+      <lb n="21"/>בלחם.   <supplied reason="lost">ואחר יבר</supplied>כו כול עדת היחד א<supplied reason="lost">יש לפי</supplied> כבודו.   וכחוק הזה יעש<supplied reason="lost">ו</supplied>
+      <lb n="22"/>לכול מע<supplied reason="lost">רכת כי יו</supplied>עדו עד עשרא אנש<supplied reason="lost">ים </supplied><del rend="erasure"> </del>.
+      </div>
+    </body>
+  </text>
+</TEI>

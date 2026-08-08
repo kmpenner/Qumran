@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q220</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q220.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><supplied reason="lost">חקותיו ו</supplied><unclear cert="low">מ</unclear><unclear cert="high">צ</unclear>ו<unclear cert="low">ת</unclear><supplied reason="lost">יו ומשפטיו ואל תלך א</supplied><unclear cert="low">חר</unclear> גלולים ואח<unclear cert="low">ר</unclear><supplied reason="lost"> פסילים ואחר</supplied>
+      <lb n="2"/><supplied reason="lost">מסכות.   </supplied><unclear cert="low">ו</unclear>אל <unclear cert="low">ת</unclear><supplied reason="lost">אכל כל ד</supplied>ם לחיה ולבהמה ולכל עוף אשר<supplied reason="lost"> יעופף בשמים</supplied>.
+      <lb n="3"/><supplied reason="lost">ואם תז</supplied><unclear cert="low">ב</unclear>ח עלה <unclear cert="low">זב</unclear><supplied reason="lost">ח</supplied> שלמים לרצון <unclear cert="low">ת</unclear><supplied reason="lost">ז</supplied><unclear cert="high">ב</unclear>חנו ואת דמם ת<unclear cert="high">ז</unclear><unclear cert="low">רוק</unclear> <unclear cert="high">ע</unclear><unclear cert="low">ל</unclear> המזב<supplied reason="lost">ח</supplied>.
+      <lb n="4"/><supplied reason="lost">ואת כל </supplied><unclear cert="low">ב</unclear>שר ה<unclear cert="low">ע</unclear>לה תק<unclear cert="low">ט</unclear><supplied reason="lost">י</supplied>ר על המ<unclear cert="low">ז</unclear><supplied reason="lost">בח </supplied><unclear cert="high">ע</unclear>מ סולת מנחתו בלולה <unclear cert="high">ב</unclear><supplied reason="lost">ש</supplied><unclear cert="low">מ</unclear><supplied reason="lost">ן</supplied>
+      <lb n="5"/><supplied reason="lost">עם נסכו.   ת</supplied><unclear cert="low">ק</unclear>טי<unclear cert="high">ר</unclear> הכול על המזבח אשה ריח ניחוח לפני האלהים.   <supplied reason="lost">ואת חלב</supplied>
+      <lb n="6"/><supplied reason="lost">זבח הש</supplied><unclear cert="low">ל</unclear><supplied reason="lost">מ</supplied><unclear cert="high">ים</unclear> תקטיר על האש אשר על המזבח ואת החל<unclear cert="low">ב</unclear><supplied reason="lost"> אשר על</supplied>
+      <lb n="7"/><supplied reason="lost">הקרב וא</supplied><unclear cert="low">ת</unclear> ה<supplied reason="lost">ח</supplied><unclear cert="low">ל</unclear>ב אשר על הקרבים ואת הכליות <supplied reason="lost">ו</supplied>את ה<supplied reason="lost">חלב אשר עליהן</supplied>
+      <lb n="8"/><supplied reason="lost">ואת אשר על הכסלים </supplied>ואת היותרת הכבד עמ הכליות ת<unclear cert="high">ס</unclear>י<unclear cert="high">ר</unclear><supplied reason="lost">נה.   והקטרת את</supplied>
+      <lb n="9"/><supplied reason="lost">הכל לריח ניחוח לפני הא</supplied>ל<unclear cert="low">הי</unclear><supplied reason="lost">ם</supplied> עם מנחת<unclear cert="low">ו</unclear> ונסכו לריח <unclear cert="high">נ</unclear><unclear cert="low">יח</unclear><supplied reason="lost">וח לחם אשה</supplied>
+      <lb n="10"/><supplied reason="lost">לאלהים.   ואת בשרו אכול ביום </supplied><unclear cert="low">ה</unclear>הוא <unclear cert="low">ו</unclear>מחרת ול<supplied reason="lost">א </supplied>ת<unclear cert="low">ב</unclear><supplied reason="lost">וא עליו השמש</supplied>
+      <lb n="11"/><supplied reason="lost">ממחרת עד האכלו.   ולא יותר ליום הש</supplied><unclear cert="low">ל</unclear><supplied reason="lost">ישי</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

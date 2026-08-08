@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>XQ8</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of XQ8.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><supplied reason="lost">וקלה סלק</supplied> לשמיה.   אדין אדיק <supplied reason="lost">מיכאל ושריאל ורפאל וגבריאל</supplied>
+      <lb n="2"/><supplied reason="lost">מן קדש</supplied>י שמיה על ארעא וחזו <supplied reason="lost">דם סגי שפיך על ארעא וכל ארעא</supplied>
+      <lb n="3"/><supplied reason="lost">אתמלית ר</supplied>שעה וחמסה די קטיליא.   <supplied reason="lost">ועללין ארבעא עיריא וקדישיא</supplied>
+      <lb n="4"/><supplied reason="lost">ואמרו</supplied> קדמיהן ד<unclear cert="low">ק</unclear><unclear cert="high">לה</unclear> <unclear cert="low">וזעק</unclear><supplied reason="lost">תה די רוחיא ודי נפשת בני ארעא סלקין</supplied>
+      <lb n="5"/><supplied reason="lost">עד תרעי ש</supplied><unclear cert="low">מי</unclear>ה.   <unclear cert="low">ואמרו</unclear> <unclear cert="high">ל</unclear><unclear cert="low">קדיש</unclear><supplied reason="lost">י שמיה די קבלו נפשת אנשא ואמרן</supplied>.
+      </div>
+    </body>
+  </text>
+</TEI>

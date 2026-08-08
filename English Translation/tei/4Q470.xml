@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q470</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q470.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> מיכאל<gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">יב</supplied><unclear cert="low">ו</unclear>א צדקיה ביום <supplied reason="lost">הה</supplied>וא בב<supplied reason="lost">רי</supplied><unclear cert="low">ת</unclear>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/> לעשות ולהעשות את כל התורה
+      <lb n="5"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ב</supplied>עת ההיא יאמר מ<supplied reason="lost">יכ</supplied>אל אל צדקיה
+      <lb n="6"/><gap reason="lost" extent="unknown"/>אכרתה עמ<unclear cert="low">ך</unclear><supplied reason="lost"> בר</supplied><unclear cert="low">י</unclear><supplied reason="lost">ת </supplied><unclear cert="high">ל</unclear>עיני הקהל
+      <lb n="7"/><gap reason="lost" extent="unknown"/><supplied reason="lost">לע</supplied>שות ו<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> <unclear cert="high">ל</unclear><supplied reason="lost"> </supplied>.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> <unclear cert="low">ה</unclear><unclear cert="high">ת</unclear>ורה ה<unclear cert="high">ז</unclear><supplied reason="lost">את</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">א</supplied>שלחה נותן <unclear cert="low">א</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/>כאש<unclear cert="low">ר</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f3">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ו</supplied>יקראו <unclear cert="low">ו</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>נות ופנ<gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">א</supplied><unclear cert="high">נ</unclear>קתם אל השמים <gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ל</supplied>החלימם ולעזרם ברוח <unclear cert="low">ג</unclear><supplied reason="lost">בורתו</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/>ובעמוד האש פעמים<supplied reason="lost"> רבות</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/><unclear cert="low">וי</unclear><unclear cert="high">כ</unclear>תב משה בדברו ככ<supplied reason="lost">ל</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="7"/><gap reason="lost" extent="unknown"/>ה <unclear cert="high">ק</unclear><gap reason="illegible" unit="character" quantity="1"/><add place="above">מ</add><supplied reason="lost"> </supplied>ל קדש <unclear cert="low">ב</unclear><supplied reason="lost">רנע</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="8"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> על נ<unclear cert="low">ו</unclear><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q571</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q571.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="11"/><gap reason="lost" extent="unknown"/><supplied reason="lost">וידכר רבי מרא עלמא לבריתה לקבל</supplied>
+      <lb n="12"/>קר<unclear cert="high">י</unclear>ה ויתוב <unclear cert="high">לב</unclear><unclear cert="low">יתה</unclear> <unclear cert="low">ד</unclear><supplied reason="lost"><supplied reason="omitted">י</supplied> יעבד רבי מרא עלמא לה רח</supplied><unclear cert="low">מ</unclear><supplied reason="lost">ין ולהוא נהיר<supplied reason="omitted">א</supplied></supplied>
+      <lb n="13"/>מתחזה לכל יתבי ארעא ודי במדינתא רחי<unclear cert="high">ק</unclear>תא ל<supplied reason="lost">הוא</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="14"/>בר לאבוהי אמר די נה<unclear cert="high">י</unclear>רא ע<unclear cert="high">ד</unclear> <unclear cert="high">הוצע</unclear> <unclear cert="high">הו</unclear>א ול<unclear cert="low">הוא</unclear><supplied reason="lost"> אמר לה</supplied>
+      <lb n="15"/><supplied reason="lost">הא דן הו</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

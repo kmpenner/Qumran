@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>3Q4</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 3Q4.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/>חזון ישעיה בן א<supplied reason="lost">מוץ אשר חזה על יהודה וירושלם בימי עזיה</supplied>
+      <lb n="2"/>ויותם אחז <unclear cert="low">וי</unclear><supplied reason="lost">חזקיה מלכי יהודה</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><supplied reason="lost">י]שע<supplied reason="lost">יה </supplied>נבא ע[ל יהודה וירושלם</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/>ל<supplied reason="lost">עזיה] מלך יהו[דה</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><supplied reason="lost">י</supplied><unclear cert="high">ו</unclear>ם המש<unclear cert="high">פ</unclear><unclear cert="low">ט</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="7"/><supplied reason="lost">  </supplied>ל<gap reason="lost" extent="unknown"/>ה<unclear cert="low">ו</unclear><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q198</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q198.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/>צדקה והוסף למדחל לאלהא ולה<supplied reason="lost">ודיה רבותה.   וקרא לטוביה ברה ושבעת</supplied>
+      <lb n="2"/><unclear cert="low">ב</unclear>נוהי ופקדה ואמר <unclear cert="high">ל</unclear><supplied reason="lost">ה <gap reason="lost" extent="unknown"/>.</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="3"/>אלהא די מל<supplied reason="lost">ל בנינוה</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/>נ<unclear cert="low">י</unclear><unclear cert="high">נ</unclear><supplied reason="lost">וה די מ</supplied><unclear cert="high">ל</unclear><supplied reason="lost">לו נביאי ישראל</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="5"/>כלא יתעבד לז<unclear cert="high">מ</unclear><supplied reason="lost">ניהון</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="6"/>בכל די אמר אלה<supplied reason="lost">א כל</supplied>א יתאיי<unclear cert="low">ת</unclear><supplied reason="lost">א <gap reason="lost" extent="unknown"/> ואחינא</supplied>
+      <lb n="7"/>יתבין בארע ישראל כל<unclear cert="low">הו</unclear><supplied reason="lost">ן</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="8"/><supplied reason="lost">י</supplied><unclear cert="low">ש</unclear>ראל <unclear cert="low">צו</unclear>יה וש<unclear cert="low">מ</unclear><supplied reason="lost">רין וירושלם <gap reason="lost" extent="unknown"/> עד</supplied>
+      <lb n="9"/><unclear cert="low">עד</unclear>נא.   די יתיב <unclear cert="low">ב</unclear><supplied reason="lost">רחמין אלהא אנון</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="10"/><supplied reason="lost">ו</supplied>ל<unclear cert="low">א</unclear> כקד<supplied reason="lost">ם עד] עדנא [די</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="11"/><supplied reason="lost">ויבנון </supplied>לירושל<unclear cert="low">ם</unclear> בי<supplied reason="lost">קר</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="12"/><gap reason="lost" extent="unknown"/>מללו <supplied reason="lost">נב</supplied><unclear cert="low">יא</unclear><supplied reason="lost">י ישראל.</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="13"/><gap reason="lost" extent="unknown"/><supplied reason="lost">בקשטא </supplied>וירמון <unclear cert="high">כל</unclear> אלי<unclear cert="low">ל</unclear><supplied reason="lost">יהן</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="14"/><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>ל<gap reason="lost" extent="unknown"/>ל<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/>לא <gap reason="lost" extent="unknown"/>
+      <lb n="2"/>אנפין ל<supplied reason="lost">ה</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="3"/>ו<gap reason="illegible" unit="character" quantity="1"/><unclear cert="low">ק</unclear> <unclear cert="low">א</unclear><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ונדן</supplied>
+      <lb n="4"/>נפל <unclear cert="low">ל</unclear>פח <supplied reason="lost"> מותא ואובדה</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><unclear cert="low">ל</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q418b</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q418b.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/>ת<unclear cert="high">ו</unclear> <gap reason="lost" extent="unknown"/>
+      <lb n="2"/>מעוזכ<gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>ל<unclear cert="low">נ</unclear><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><unclear cert="low">י</unclear>עלו הרים וירדו תהמ<unclear cert="low">ו</unclear><supplied reason="lost">ת נפשם ברעה תתמוגג</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><supplied reason="lost">ינועו</supplied> ויחגו כשכור וכול <unclear cert="high">ח</unclear><supplied reason="lost">וכמתם תתבלע</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/>שלך לבט<unclear cert="high">ח</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><gap reason="lost" extent="unknown"/> צ<unclear cert="low">דק</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="low">א</unclear> <unclear cert="high">י</unclear>תע<gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

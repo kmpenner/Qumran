@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q468c</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q468c.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/>וצאצ<supplied reason="lost">א</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/>ויש<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="3"/>וא<gap reason="lost" extent="unknown"/>
+      <lb n="4"/>ויבאו<gap reason="lost" extent="unknown"/>
+      <lb n="5"/>והנה<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="6"/>ופרי תבוא<unclear cert="low">ה</unclear><gap reason="lost" extent="unknown"/><supplied reason="lost">באר</supplied>
+      <lb n="7"/>אשר חפרו<unclear cert="low">ה</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="8"/>אביוני אר<unclear cert="low">ץ</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="9"/>ואשר לא יש<gap reason="lost" extent="unknown"/>
+      <lb n="10"/>כי כולם ית<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="11"/>ויבלעוה <gap reason="lost" extent="unknown"/>
+      <lb n="12"/>וי<unclear cert="high">ק</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q234</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q234.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1upside_down">
+      <lb n="1"/>אלי <gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f1sideways">
+      <lb n="1"/>ישחק <gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>אל <gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">לפנ</supplied>י ויאמר <supplied reason="lost">ישחק אל יעקב</supplied>
+      <lb n="3"/><gap reason="lost" extent="unknown"/> גשה<supplied reason="lost"> נא</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

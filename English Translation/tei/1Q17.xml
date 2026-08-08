@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>1Q17</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 1Q17.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><supplied reason="lost">ויצא יעקב מבאר שבע ל</supplied><unclear cert="low">ל</unclear>כת חרן באח<unclear cert="high">ד</unclear> <supplied reason="lost">שנה לשבוע השני ביובל ארבעים</supplied>
+      <lb n="3"/><supplied reason="lost">וארבעה.   ויבוא אל לוז א</supplied><unclear cert="low">ש</unclear>ר בהר היא בית אל <supplied reason="lost">באחד לחודש הראשון בשבוע</supplied>
+      <lb n="4"/><supplied reason="lost">הזה.   ויבוא</supplied> <unclear cert="low">למ</unclear><supplied reason="lost">קום בער</supplied>ב ויט מן הדרך ל<unclear cert="low">ימ</unclear><supplied reason="lost">ה בלילה הזאת וילן שם כיא בא</supplied>
+      <lb n="5"/><supplied reason="lost">השמש.   ויק</supplied><unclear cert="low">ח</unclear> מאב<unclear cert="high">ני</unclear> המקום<supplied reason="lost"> הזה וישי</supplied><unclear cert="low">מי</unclear><supplied reason="lost">ה מראשותיו תחת האלון וישכב שם</supplied>
+      <lb n="6"/><supplied reason="lost">כיא הואה</supplied> לבדו היה הו<unclear cert="high">ל</unclear><supplied reason="lost">ך</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

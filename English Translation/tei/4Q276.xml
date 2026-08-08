@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q276</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q276.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">בגדים </supplied>אשר לוא שרת בם בקוד<unclear cert="low">ש</unclear>
+      <lb n="2"/><gap reason="lost" extent="unknown"/> וחיב את הבגדים וש<unclear cert="low">ח</unclear><supplied reason="lost">ט את</supplied>
+      <lb n="3"/><supplied reason="lost">ה</supplied><unclear cert="low">פר</unclear><unclear cert="high">ה</unclear> <supplied reason="lost">ל</supplied>פניו ו<corr>נ</corr>ש<unclear cert="low">א</unclear> את דמה בכלי חרש <unclear cert="high">א</unclear>ש<unclear cert="low">ר</unclear>
+      <lb n="4"/><supplied reason="lost">נקד</supplied>ש במזבח.   והזה מדמה באצב<unclear cert="low">ע</unclear><supplied reason="lost">ו</supplied> <unclear cert="low">שב</unclear>ע
+      <lb n="5"/><supplied reason="lost">פעמים א</supplied><unclear cert="low">ל</unclear> <unclear cert="low">נו</unclear><unclear cert="high">כ</unclear><unclear cert="low">ח</unclear> <unclear cert="low">א</unclear><supplied reason="lost">ו</supplied><unclear cert="low">ה</unclear>ל מועד.   והשליך <unclear cert="low">את</unclear> <unclear cert="high">הא</unclear>רז
+      <lb n="6"/><supplied reason="lost">ואת האזוב ואת שני ה</supplied><unclear cert="low">ת</unclear>ולע אל תו<unclear cert="low">ך</unclear> שרפתה.
+      <lb n="7"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ואס</supplied><unclear cert="low">ף</unclear> את אפר הפרה
+      <lb n="8"/><gap reason="lost" extent="unknown"/><supplied reason="lost">והנ</supplied><unclear cert="low">י</unclear>חוהו למשמרת
+      <lb n="9"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ו</supplied><unclear cert="high">ל</unclear>בש הכוה<unclear cert="low">ן</unclear>.
+      </div>
+    </body>
+  </text>
+</TEI>

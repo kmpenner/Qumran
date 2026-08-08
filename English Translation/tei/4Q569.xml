@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q569</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q569.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1_2">
+      <lb n="1"/><unclear cert="low">למשכ</unclear><supplied reason="lost">י</supplied><unclear cert="low">ל</unclear><supplied reason="lost"> מריע איתי אסיין לאסיה ולרפיה לה<supplied reason="omitted">?</supplied></supplied>
+      <lb n="2"/>ו+יקנא <unclear cert="high">א</unclear>סון<supplied reason="lost"> די אסייא ירשמו</supplied><unclear cert="low">ן</unclear> <unclear cert="low">ב</unclear><supplied reason="lost">מכאבה <supplied reason="omitted">?</supplied></supplied>.
+      <lb n="3"/>אל <unclear cert="low">ת</unclear><supplied reason="lost">חו</supplied><unclear cert="low">ה</unclear> מן<supplied reason="lost"> די יתחשבון בלא </supplied><unclear cert="high">ח</unclear>ט<supplied reason="lost">א קדם אנשיא+ן</supplied>.
+      <lb n="4"/>ואל ת<unclear cert="low">ש</unclear><unclear cert="high">ת</unclear>פל <supplied reason="lost">קדמהון להן קדם </supplied><unclear cert="low">מ</unclear>רך<supplied reason="lost"> די ירים לך </supplied>
+      <lb n="5"/>והוית כ<unclear cert="high">נ</unclear>סי<supplied reason="lost"> די קבל כליל די</supplied> <unclear cert="high">ד</unclear>ה<unclear cert="low">ב</unclear><supplied reason="lost"> על ראשה </supplied>.
+      <lb n="6"/>הן מרך רחם<supplied reason="lost"> לאנתתך ותהו</supplied><unclear cert="low">ה</unclear> <supplied reason="lost">ר</supplied>שותא<supplied reason="lost"> מנה ות+יבעא</supplied>
+      <lb n="7"/>למקטלך אנ<unclear cert="low">ת</unclear><supplied reason="lost">ה נפק מן </supplied><unclear cert="low">ב</unclear>ת<unclear cert="high">ה</unclear>+ <supplied reason="lost">יהב לה כת</supplied><unclear cert="low">ב</unclear>ת<unclear cert="high">ה</unclear> שכ<unclear cert="high">ב</unclear><supplied reason="lost"> בבתך רחיק מנה</supplied>.
+      <lb n="8"/>דכור עני בד<supplied reason="lost">יל די מש</supplied><unclear cert="low">פט</unclear>א <unclear cert="low">ל</unclear>הוא<supplied reason="lost"> לה ב<supplied reason="omitted">יום</supplied> דינא <supplied reason="omitted">רבא</supplied></supplied>.
+      <lb n="9"/>אלף בניכה<supplied reason="lost"> ויסרהון</supplied> קד<unclear cert="high">ק</unclear><unclear cert="low">דה</unclear><supplied reason="lost">ון לא י<supplied reason="omitted">ת</supplied>תבר<supplied reason="omitted">?</supplied></supplied>.
+      </div>
+      <div type="column" n="f3a_b">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">ת</unclear> <unclear cert="low">טב</unclear>ין לק<gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ע</supplied><unclear cert="low">ד</unclear>ן שלטנ<unclear cert="high">ך</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="low">א</unclear><unclear cert="high">נ</unclear>ת<unclear cert="high">ה</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><supplied reason="lost">תה</supplied><unclear cert="low">ו</unclear>ה אנת<supplied reason="lost">ה</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><unclear cert="high">ח</unclear>דה ר<gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/><supplied reason="lost">א</supplied>רחך <gap reason="lost" extent="unknown"/>
+      <lb n="7"/><gap reason="lost" extent="unknown"/>בקש<unclear cert="high">ט</unclear><supplied reason="lost">א</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="8"/><gap reason="lost" extent="unknown"/><supplied reason="lost">אנ</supplied><unclear cert="high">ת</unclear><unclear cert="low">ה</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="9"/><gap reason="lost" extent="unknown"/><unclear cert="low">ח</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q556</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q556.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">י</supplied><unclear cert="high">ע</unclear><unclear cert="low">ר</unclear>קון <gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/><supplied reason="lost"> </supplied>לטור סיני <gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/>משר<unclear cert="low">ית</unclear><supplied reason="lost">א וי</supplied>שוא אנפוהי<gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><unclear cert="low">ד</unclear> ויקד בנ<unclear cert="low">ו</unclear><supplied reason="lost">רא די</supplied> <unclear cert="low">כ</unclear>ורא באישה <gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><supplied reason="lost">וק</supplied>דמיה ויצ<unclear cert="high">ו</unclear><unclear cert="low">ר</unclear><supplied reason="lost"> </supplied><unclear cert="low">ל</unclear>יפו ויחדנה <del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/><unclear cert="low">מ</unclear>דינתא חדתא די שבה כל די הוא ב<unclear cert="low">ה</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="7"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><unclear cert="high">ן</unclear> על דנה א<unclear cert="high">מ</unclear>ר נביאא די יח<unclear cert="low">ד</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="8"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>א מן קדם זו+ינא ארו להוא<gap reason="lost" extent="unknown"/>
+      <lb n="9"/><gap reason="lost" extent="unknown"/><unclear cert="low">ו</unclear><unclear cert="high">ן</unclear> מן יפוא עד טור<unclear cert="low">א</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="10"/><gap reason="lost" extent="unknown"/>ל<unclear cert="low">ה</unclear> מלא <unclear cert="low">ט</unclear>ו<unclear cert="low">ר</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

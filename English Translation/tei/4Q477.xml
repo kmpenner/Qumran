@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q477</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q477.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="3"/> הג<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ל</supplied><unclear cert="low">הז</unclear>כיר את נעו<unclear cert="low">יתם</unclear> ו<unclear cert="high">א</unclear><supplied reason="lost">ת</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> <supplied reason="lost"> </supplied><add place="above">ל</add><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f2i">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>ים אנשי ה<supplied reason="lost">יחד</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/> נפשמה ולהוכיח <unclear cert="high">א</unclear><supplied reason="lost">ת</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">מ</supplied><unclear cert="high">ח</unclear>ני הרבים על<gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/>ע<gap reason="illegible" unit="character" quantity="1"/><add place="above">ל</add> <gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f2ii">
+      <lb n="1"/><unclear cert="low">ר</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/>אשר<supplied reason="lost"> הואה <gap reason="lost" extent="unknown"/> וגם אש</supplied>ר היה מרע<gap reason="lost" extent="unknown"/>
+      <lb n="3"/><unclear cert="high">הר</unclear>בים <gap reason="lost" extent="unknown"/><supplied reason="lost">ו</supplied>את יוחנן בן <unclear cert="low">אר</unclear><gap reason="lost" extent="unknown"/><supplied reason="lost">הוכיחו אשר</supplied>
+      <lb n="4"/>הואה קצר אפי<unclear cert="high">ם</unclear> <gap reason="lost" extent="unknown"/> עמו <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/> העון עמו וגם רוח פארה ע<unclear cert="high">מ</unclear><supplied reason="lost">ו</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/>ה הואה <gap reason="illegible" unit="character" quantity="2"/>ים אשר<gap reason="lost" extent="unknown"/><supplied reason="lost">.   </supplied><del rend="erasure"> </del> ואת חנניה נותוס הוכיחו אשר הואה<gap reason="lost" extent="unknown"/>
+      <lb n="6"/><supplied reason="lost">להע</supplied>כיר את רוח הי<unclear cert="low">ח</unclear><supplied reason="lost">ד ו]גם לערב א[ת</supplied><gap reason="lost" extent="unknown"/>אל<gap reason="lost" extent="unknown"/>
+      <lb n="7"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>פ <unclear cert="low">הוכ</unclear><supplied reason="lost">י</supplied><unclear cert="low">ח</unclear><unclear cert="high">ו</unclear> <unclear cert="low">א</unclear>שר רוע <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/><unclear cert="high">ע</unclear>מו וגם אשר איננו ח<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="8"/><gap reason="lost" extent="unknown"/>ורו וגם אוהב את שיר בשרו <supplied reason="lost">ולא הוכיחו</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="9"/><gap reason="lost" extent="unknown"/><supplied reason="lost">.   </supplied><del rend="erasure"> </del> ואת חנניה בן שמ<supplied reason="lost">עון הוכיחו</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="10"/><supplied reason="lost">אשר הואה <gap reason="lost" extent="unknown"/> וג</supplied>ם אוהב את טו<unclear cert="high">ב</unclear><supplied reason="lost"> הצואר</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f3">
+      <lb n="1"/><gap reason="lost" extent="unknown"/> הוכיחו<gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

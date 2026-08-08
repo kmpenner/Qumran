@@ -1,0 +1,6520 @@
+{
+ "scrolls": {
+  "10Q1": {
+   "columns": 1,
+   "extant": 1,
+   "gaps": 1,
+   "lines": 1,
+   "reconstructed": 0,
+   "uncertain": 0,
+   "words": 1
+  },
+  "11Q11": {
+   "columns": 11,
+   "extant": 217,
+   "gaps": 132,
+   "lines": 96,
+   "reconstructed": 204,
+   "uncertain": 113,
+   "words": 421
+  },
+  "11Q12": {
+   "columns": 14,
+   "extant": 58,
+   "gaps": 35,
+   "lines": 56,
+   "reconstructed": 326,
+   "uncertain": 36,
+   "words": 384
+  },
+  "11Q13": {
+   "columns": 10,
+   "extant": 231,
+   "gaps": 108,
+   "lines": 76,
+   "reconstructed": 140,
+   "uncertain": 136,
+   "words": 371
+  },
+  "11Q14": {
+   "columns": 5,
+   "extant": 96,
+   "gaps": 32,
+   "lines": 34,
+   "reconstructed": 50,
+   "uncertain": 15,
+   "words": 146
+  },
+  "11Q15": {
+   "columns": 4,
+   "extant": 28,
+   "gaps": 26,
+   "lines": 13,
+   "reconstructed": 3,
+   "uncertain": 8,
+   "words": 31
+  },
+  "11Q16": {
+   "columns": 2,
+   "extant": 21,
+   "gaps": 22,
+   "lines": 11,
+   "reconstructed": 7,
+   "uncertain": 6,
+   "words": 28
+  },
+  "11Q17": {
+   "columns": 23,
+   "extant": 280,
+   "gaps": 243,
+   "lines": 127,
+   "reconstructed": 423,
+   "uncertain": 139,
+   "words": 703
+  },
+  "11Q18": {
+   "columns": 43,
+   "extant": 550,
+   "gaps": 404,
+   "lines": 248,
+   "reconstructed": 98,
+   "uncertain": 173,
+   "words": 648
+  },
+  "11Q20": {
+   "columns": 28,
+   "extant": 425,
+   "gaps": 160,
+   "lines": 253,
+   "reconstructed": 1482,
+   "uncertain": 166,
+   "words": 1907
+  },
+  "11Q21": {
+   "columns": 3,
+   "extant": 24,
+   "gaps": 21,
+   "lines": 15,
+   "reconstructed": 27,
+   "uncertain": 13,
+   "words": 51
+  },
+  "11Q22": {
+   "columns": 7,
+   "extant": 26,
+   "gaps": 26,
+   "lines": 13,
+   "reconstructed": 0,
+   "uncertain": 9,
+   "words": 26
+  },
+  "11Q23": {
+   "columns": 3,
+   "extant": 5,
+   "gaps": 12,
+   "lines": 6,
+   "reconstructed": 0,
+   "uncertain": 2,
+   "words": 5
+  },
+  "11Q25": {
+   "columns": 8,
+   "extant": 22,
+   "gaps": 26,
+   "lines": 16,
+   "reconstructed": 1,
+   "uncertain": 11,
+   "words": 23
+  },
+  "11Q26": {
+   "columns": 3,
+   "extant": 4,
+   "gaps": 10,
+   "lines": 5,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 4
+  },
+  "11Q27": {
+   "columns": 2,
+   "extant": 3,
+   "gaps": 4,
+   "lines": 2,
+   "reconstructed": 0,
+   "uncertain": 0,
+   "words": 3
+  },
+  "11Q29": {
+   "columns": 1,
+   "extant": 2,
+   "gaps": 3,
+   "lines": 3,
+   "reconstructed": 13,
+   "uncertain": 5,
+   "words": 15
+  },
+  "11Q30": {
+   "columns": 19,
+   "extant": 35,
+   "gaps": 60,
+   "lines": 32,
+   "reconstructed": 3,
+   "uncertain": 19,
+   "words": 38
+  },
+  "11Q5": {
+   "columns": 8,
+   "extant": 800,
+   "gaps": 5,
+   "lines": 100,
+   "reconstructed": 37,
+   "uncertain": 23,
+   "words": 837
+  },
+  "11Q6": {
+   "columns": 2,
+   "extant": 28,
+   "gaps": 6,
+   "lines": 18,
+   "reconstructed": 105,
+   "uncertain": 9,
+   "words": 133
+  },
+  "1Q14": {
+   "columns": 14,
+   "extant": 64,
+   "gaps": 82,
+   "lines": 55,
+   "reconstructed": 142,
+   "uncertain": 58,
+   "words": 206
+  },
+  "1Q15": {
+   "columns": 1,
+   "extant": 11,
+   "gaps": 2,
+   "lines": 7,
+   "reconstructed": 44,
+   "uncertain": 10,
+   "words": 55
+  },
+  "1Q16": {
+   "columns": 13,
+   "extant": 48,
+   "gaps": 57,
+   "lines": 30,
+   "reconstructed": 39,
+   "uncertain": 26,
+   "words": 87
+  },
+  "1Q17": {
+   "columns": 1,
+   "extant": 13,
+   "gaps": 3,
+   "lines": 6,
+   "reconstructed": 42,
+   "uncertain": 9,
+   "words": 55
+  },
+  "1Q18": {
+   "columns": 4,
+   "extant": 24,
+   "gaps": 14,
+   "lines": 10,
+   "reconstructed": 31,
+   "uncertain": 10,
+   "words": 55
+  },
+  "1Q19": {
+   "columns": 19,
+   "extant": 74,
+   "gaps": 86,
+   "lines": 42,
+   "reconstructed": 20,
+   "uncertain": 32,
+   "words": 94
+  },
+  "1Q19bis": {
+   "columns": 1,
+   "extant": 4,
+   "gaps": 12,
+   "lines": 6,
+   "reconstructed": 14,
+   "uncertain": 5,
+   "words": 18
+  },
+  "1Q21": {
+   "columns": 61,
+   "extant": 163,
+   "gaps": 202,
+   "lines": 106,
+   "reconstructed": 40,
+   "uncertain": 53,
+   "words": 203
+  },
+  "1Q22": {
+   "columns": 17,
+   "extant": 207,
+   "gaps": 113,
+   "lines": 84,
+   "reconstructed": 348,
+   "uncertain": 147,
+   "words": 555
+  },
+  "1Q23": {
+   "columns": 27,
+   "extant": 96,
+   "gaps": 149,
+   "lines": 83,
+   "reconstructed": 16,
+   "uncertain": 68,
+   "words": 112
+  },
+  "1Q24": {
+   "columns": 8,
+   "extant": 43,
+   "gaps": 55,
+   "lines": 27,
+   "reconstructed": 5,
+   "uncertain": 30,
+   "words": 48
+  },
+  "1Q25": {
+   "columns": 14,
+   "extant": 61,
+   "gaps": 93,
+   "lines": 52,
+   "reconstructed": 16,
+   "uncertain": 34,
+   "words": 77
+  },
+  "1Q26": {
+   "columns": 5,
+   "extant": 52,
+   "gaps": 39,
+   "lines": 19,
+   "reconstructed": 8,
+   "uncertain": 24,
+   "words": 60
+  },
+  "1Q27": {
+   "columns": 13,
+   "extant": 228,
+   "gaps": 90,
+   "lines": 60,
+   "reconstructed": 17,
+   "uncertain": 40,
+   "words": 245
+  },
+  "1Q29": {
+   "columns": 12,
+   "extant": 70,
+   "gaps": 82,
+   "lines": 41,
+   "reconstructed": 21,
+   "uncertain": 30,
+   "words": 91
+  },
+  "1Q30": {
+   "columns": 11,
+   "extant": 33,
+   "gaps": 50,
+   "lines": 25,
+   "reconstructed": 7,
+   "uncertain": 12,
+   "words": 40
+  },
+  "1Q31": {
+   "columns": 2,
+   "extant": 10,
+   "gaps": 7,
+   "lines": 7,
+   "reconstructed": 3,
+   "uncertain": 5,
+   "words": 13
+  },
+  "1Q32": {
+   "columns": 19,
+   "extant": 37,
+   "gaps": 82,
+   "lines": 41,
+   "reconstructed": 10,
+   "uncertain": 19,
+   "words": 47
+  },
+  "1Q34bis": {
+   "columns": 3,
+   "extant": 113,
+   "gaps": 35,
+   "lines": 24,
+   "reconstructed": 30,
+   "uncertain": 35,
+   "words": 143
+  },
+  "1Q35": {
+   "columns": 2,
+   "extant": 27,
+   "gaps": 14,
+   "lines": 14,
+   "reconstructed": 2,
+   "uncertain": 10,
+   "words": 29
+  },
+  "1Q36": {
+   "columns": 24,
+   "extant": 100,
+   "gaps": 123,
+   "lines": 65,
+   "reconstructed": 14,
+   "uncertain": 42,
+   "words": 114
+  },
+  "1Q37": {
+   "columns": 2,
+   "extant": 16,
+   "gaps": 12,
+   "lines": 6,
+   "reconstructed": 1,
+   "uncertain": 3,
+   "words": 17
+  },
+  "1Q38": {
+   "columns": 5,
+   "extant": 23,
+   "gaps": 24,
+   "lines": 12,
+   "reconstructed": 7,
+   "uncertain": 12,
+   "words": 30
+  },
+  "1Q39": {
+   "columns": 2,
+   "extant": 17,
+   "gaps": 15,
+   "lines": 9,
+   "reconstructed": 2,
+   "uncertain": 8,
+   "words": 19
+  },
+  "1Q40": {
+   "columns": 5,
+   "extant": 17,
+   "gaps": 28,
+   "lines": 14,
+   "reconstructed": 4,
+   "uncertain": 6,
+   "words": 21
+  },
+  "1Q41": {
+   "columns": 2,
+   "extant": 7,
+   "gaps": 8,
+   "lines": 4,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 7
+  },
+  "1Q42": {
+   "columns": 3,
+   "extant": 7,
+   "gaps": 14,
+   "lines": 7,
+   "reconstructed": 1,
+   "uncertain": 4,
+   "words": 8
+  },
+  "1Q43": {
+   "columns": 1,
+   "extant": 1,
+   "gaps": 2,
+   "lines": 1,
+   "reconstructed": 2,
+   "uncertain": 2,
+   "words": 3
+  },
+  "1Q44": {
+   "columns": 1,
+   "extant": 2,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 1,
+   "uncertain": 1,
+   "words": 3
+  },
+  "1Q45": {
+   "columns": 4,
+   "extant": 6,
+   "gaps": 12,
+   "lines": 6,
+   "reconstructed": 1,
+   "uncertain": 2,
+   "words": 7
+  },
+  "1Q46": {
+   "columns": 6,
+   "extant": 11,
+   "gaps": 18,
+   "lines": 10,
+   "reconstructed": 1,
+   "uncertain": 4,
+   "words": 12
+  },
+  "1Q47": {
+   "columns": 2,
+   "extant": 5,
+   "gaps": 10,
+   "lines": 5,
+   "reconstructed": 0,
+   "uncertain": 2,
+   "words": 5
+  },
+  "1Q49": {
+   "columns": 2,
+   "extant": 4,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 4
+  },
+  "1Q50": {
+   "columns": 2,
+   "extant": 10,
+   "gaps": 13,
+   "lines": 9,
+   "reconstructed": 0,
+   "uncertain": 4,
+   "words": 10
+  },
+  "1Q51": {
+   "columns": 1,
+   "extant": 12,
+   "gaps": 8,
+   "lines": 4,
+   "reconstructed": 4,
+   "uncertain": 8,
+   "words": 16
+  },
+  "1Q52": {
+   "columns": 1,
+   "extant": 5,
+   "gaps": 4,
+   "lines": 2,
+   "reconstructed": 0,
+   "uncertain": 2,
+   "words": 5
+  },
+  "1Q53": {
+   "columns": 1,
+   "extant": 6,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 6
+  },
+  "1Q54": {
+   "columns": 1,
+   "extant": 3,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 1,
+   "uncertain": 3,
+   "words": 4
+  },
+  "1Q55": {
+   "columns": 1,
+   "extant": 7,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 2,
+   "words": 7
+  },
+  "1Q56": {
+   "columns": 1,
+   "extant": 1,
+   "gaps": 4,
+   "lines": 2,
+   "reconstructed": 0,
+   "uncertain": 0,
+   "words": 1
+  },
+  "1Q57": {
+   "columns": 1,
+   "extant": 2,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 1,
+   "uncertain": 1,
+   "words": 3
+  },
+  "1Q58": {
+   "columns": 2,
+   "extant": 3,
+   "gaps": 10,
+   "lines": 5,
+   "reconstructed": 1,
+   "uncertain": 1,
+   "words": 4
+  },
+  "1Q62": {
+   "columns": 1,
+   "extant": 2,
+   "gaps": 2,
+   "lines": 1,
+   "reconstructed": 0,
+   "uncertain": 0,
+   "words": 2
+  },
+  "1Q63": {
+   "columns": 1,
+   "extant": 3,
+   "gaps": 8,
+   "lines": 4,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 3
+  },
+  "1Q64": {
+   "columns": 1,
+   "extant": 3,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 3
+  },
+  "1Q65": {
+   "columns": 1,
+   "extant": 4,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 1,
+   "uncertain": 2,
+   "words": 5
+  },
+  "1Q66": {
+   "columns": 2,
+   "extant": 5,
+   "gaps": 10,
+   "lines": 5,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 5
+  },
+  "1Q67": {
+   "columns": 2,
+   "extant": 7,
+   "gaps": 9,
+   "lines": 6,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 7
+  },
+  "1Q68": {
+   "columns": 7,
+   "extant": 18,
+   "gaps": 28,
+   "lines": 14,
+   "reconstructed": 1,
+   "uncertain": 7,
+   "words": 19
+  },
+  "1Q69": {
+   "columns": 17,
+   "extant": 25,
+   "gaps": 43,
+   "lines": 24,
+   "reconstructed": 1,
+   "uncertain": 6,
+   "words": 26
+  },
+  "1Q70": {
+   "columns": 21,
+   "extant": 33,
+   "gaps": 64,
+   "lines": 32,
+   "reconstructed": 0,
+   "uncertain": 14,
+   "words": 33
+  },
+  "1Q70bis": {
+   "columns": 1,
+   "extant": 10,
+   "gaps": 14,
+   "lines": 7,
+   "reconstructed": 0,
+   "uncertain": 2,
+   "words": 10
+  },
+  "1QSa": {
+   "columns": 2,
+   "extant": 420,
+   "gaps": 0,
+   "lines": 51,
+   "reconstructed": 112,
+   "uncertain": 50,
+   "words": 532
+  },
+  "1QSb": {
+   "columns": 15,
+   "extant": 362,
+   "gaps": 135,
+   "lines": 101,
+   "reconstructed": 175,
+   "uncertain": 124,
+   "words": 537
+  },
+  "1QpHab": {
+   "columns": 13,
+   "extant": 1122,
+   "gaps": 29,
+   "lines": 206,
+   "reconstructed": 245,
+   "uncertain": 92,
+   "words": 1367
+  },
+  "2Q18": {
+   "columns": 2,
+   "extant": 5,
+   "gaps": 4,
+   "lines": 15,
+   "reconstructed": 80,
+   "uncertain": 2,
+   "words": 85
+  },
+  "2Q19": {
+   "columns": 1,
+   "extant": 9,
+   "gaps": 3,
+   "lines": 5,
+   "reconstructed": 36,
+   "uncertain": 1,
+   "words": 45
+  },
+  "2Q20": {
+   "columns": 3,
+   "extant": 17,
+   "gaps": 13,
+   "lines": 11,
+   "reconstructed": 36,
+   "uncertain": 7,
+   "words": 53
+  },
+  "2Q21": {
+   "columns": 2,
+   "extant": 18,
+   "gaps": 16,
+   "lines": 8,
+   "reconstructed": 20,
+   "uncertain": 7,
+   "words": 38
+  },
+  "2Q22": {
+   "columns": 2,
+   "extant": 23,
+   "gaps": 12,
+   "lines": 8,
+   "reconstructed": 15,
+   "uncertain": 3,
+   "words": 38
+  },
+  "2Q23": {
+   "columns": 6,
+   "extant": 56,
+   "gaps": 51,
+   "lines": 31,
+   "reconstructed": 10,
+   "uncertain": 23,
+   "words": 66
+  },
+  "2Q24": {
+   "columns": 10,
+   "extant": 127,
+   "gaps": 83,
+   "lines": 56,
+   "reconstructed": 85,
+   "uncertain": 32,
+   "words": 212
+  },
+  "2Q25": {
+   "columns": 3,
+   "extant": 14,
+   "gaps": 20,
+   "lines": 10,
+   "reconstructed": 4,
+   "uncertain": 5,
+   "words": 18
+  },
+  "2Q26": {
+   "columns": 1,
+   "extant": 15,
+   "gaps": 8,
+   "lines": 4,
+   "reconstructed": 2,
+   "uncertain": 8,
+   "words": 17
+  },
+  "2Q27": {
+   "columns": 1,
+   "extant": 14,
+   "gaps": 10,
+   "lines": 5,
+   "reconstructed": 1,
+   "uncertain": 5,
+   "words": 15
+  },
+  "2Q28": {
+   "columns": 3,
+   "extant": 21,
+   "gaps": 18,
+   "lines": 12,
+   "reconstructed": 1,
+   "uncertain": 11,
+   "words": 22
+  },
+  "2Q29": {
+   "columns": 4,
+   "extant": 14,
+   "gaps": 20,
+   "lines": 11,
+   "reconstructed": 0,
+   "uncertain": 7,
+   "words": 14
+  },
+  "2Q30": {
+   "columns": 2,
+   "extant": 5,
+   "gaps": 6,
+   "lines": 4,
+   "reconstructed": 0,
+   "uncertain": 2,
+   "words": 5
+  },
+  "2Q31": {
+   "columns": 2,
+   "extant": 3,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 0,
+   "words": 3
+  },
+  "2Q32": {
+   "columns": 2,
+   "extant": 2,
+   "gaps": 4,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 2
+  },
+  "2Q33": {
+   "columns": 10,
+   "extant": 30,
+   "gaps": 45,
+   "lines": 24,
+   "reconstructed": 1,
+   "uncertain": 10,
+   "words": 31
+  },
+  "3Q10": {
+   "columns": 4,
+   "extant": 8,
+   "gaps": 14,
+   "lines": 7,
+   "reconstructed": 2,
+   "uncertain": 1,
+   "words": 10
+  },
+  "3Q11": {
+   "columns": 2,
+   "extant": 14,
+   "gaps": 16,
+   "lines": 8,
+   "reconstructed": 1,
+   "uncertain": 2,
+   "words": 15
+  },
+  "3Q12": {
+   "columns": 2,
+   "extant": 7,
+   "gaps": 8,
+   "lines": 6,
+   "reconstructed": 1,
+   "uncertain": 6,
+   "words": 8
+  },
+  "3Q13": {
+   "columns": 5,
+   "extant": 12,
+   "gaps": 24,
+   "lines": 12,
+   "reconstructed": 0,
+   "uncertain": 5,
+   "words": 12
+  },
+  "3Q14": {
+   "columns": 21,
+   "extant": 58,
+   "gaps": 101,
+   "lines": 57,
+   "reconstructed": 6,
+   "uncertain": 28,
+   "words": 64
+  },
+  "3Q15": {
+   "columns": 12,
+   "extant": 712,
+   "gaps": 2,
+   "lines": 181,
+   "reconstructed": 35,
+   "uncertain": 58,
+   "words": 747
+  },
+  "3Q4": {
+   "columns": 1,
+   "extant": 10,
+   "gaps": 8,
+   "lines": 7,
+   "reconstructed": 18,
+   "uncertain": 4,
+   "words": 28
+  },
+  "3Q5": {
+   "columns": 9,
+   "extant": 39,
+   "gaps": 32,
+   "lines": 21,
+   "reconstructed": 10,
+   "uncertain": 19,
+   "words": 49
+  },
+  "3Q6": {
+   "columns": 2,
+   "extant": 6,
+   "gaps": 9,
+   "lines": 6,
+   "reconstructed": 4,
+   "uncertain": 2,
+   "words": 10
+  },
+  "3Q7": {
+   "columns": 6,
+   "extant": 22,
+   "gaps": 29,
+   "lines": 18,
+   "reconstructed": 0,
+   "uncertain": 11,
+   "words": 22
+  },
+  "3Q8": {
+   "columns": 2,
+   "extant": 7,
+   "gaps": 8,
+   "lines": 4,
+   "reconstructed": 1,
+   "uncertain": 2,
+   "words": 8
+  },
+  "3Q9": {
+   "columns": 3,
+   "extant": 13,
+   "gaps": 20,
+   "lines": 11,
+   "reconstructed": 2,
+   "uncertain": 7,
+   "words": 15
+  },
+  "4Q123": {
+   "columns": 4,
+   "extant": 26,
+   "gaps": 28,
+   "lines": 14,
+   "reconstructed": 3,
+   "uncertain": 21,
+   "words": 29
+  },
+  "4Q124": {
+   "columns": 24,
+   "extant": 116,
+   "gaps": 186,
+   "lines": 106,
+   "reconstructed": 0,
+   "uncertain": 85,
+   "words": 116
+  },
+  "4Q125": {
+   "columns": 1,
+   "extant": 2,
+   "gaps": 8,
+   "lines": 4,
+   "reconstructed": 0,
+   "uncertain": 0,
+   "words": 2
+  },
+  "4Q156": {
+   "columns": 2,
+   "extant": 25,
+   "gaps": 10,
+   "lines": 14,
+   "reconstructed": 69,
+   "uncertain": 31,
+   "words": 94
+  },
+  "4Q157": {
+   "columns": 2,
+   "extant": 18,
+   "gaps": 16,
+   "lines": 15,
+   "reconstructed": 11,
+   "uncertain": 18,
+   "words": 29
+  },
+  "4Q158": {
+   "columns": 12,
+   "extant": 325,
+   "gaps": 134,
+   "lines": 94,
+   "reconstructed": 103,
+   "uncertain": 87,
+   "words": 428
+  },
+  "4Q159": {
+   "columns": 8,
+   "extant": 185,
+   "gaps": 71,
+   "lines": 44,
+   "reconstructed": 36,
+   "uncertain": 43,
+   "words": 221
+  },
+  "4Q160": {
+   "columns": 8,
+   "extant": 107,
+   "gaps": 49,
+   "lines": 27,
+   "reconstructed": 18,
+   "uncertain": 29,
+   "words": 125
+  },
+  "4Q161": {
+   "columns": 5,
+   "extant": 144,
+   "gaps": 73,
+   "lines": 53,
+   "reconstructed": 180,
+   "uncertain": 62,
+   "words": 324
+  },
+  "4Q162": {
+   "columns": 3,
+   "extant": 132,
+   "gaps": 16,
+   "lines": 25,
+   "reconstructed": 31,
+   "uncertain": 6,
+   "words": 163
+  },
+  "4Q163": {
+   "columns": 53,
+   "extant": 445,
+   "gaps": 340,
+   "lines": 257,
+   "reconstructed": 474,
+   "uncertain": 222,
+   "words": 919
+  },
+  "4Q164": {
+   "columns": 3,
+   "extant": 48,
+   "gaps": 19,
+   "lines": 13,
+   "reconstructed": 9,
+   "uncertain": 6,
+   "words": 57
+  },
+  "4Q165": {
+   "columns": 9,
+   "extant": 71,
+   "gaps": 46,
+   "lines": 36,
+   "reconstructed": 138,
+   "uncertain": 34,
+   "words": 209
+  },
+  "4Q166": {
+   "columns": 2,
+   "extant": 116,
+   "gaps": 23,
+   "lines": 34,
+   "reconstructed": 37,
+   "uncertain": 18,
+   "words": 153
+  },
+  "4Q167": {
+   "columns": 34,
+   "extant": 134,
+   "gaps": 145,
+   "lines": 97,
+   "reconstructed": 97,
+   "uncertain": 66,
+   "words": 231
+  },
+  "4Q168": {
+   "columns": 4,
+   "extant": 6,
+   "gaps": 4,
+   "lines": 9,
+   "reconstructed": 52,
+   "uncertain": 8,
+   "words": 58
+  },
+  "4Q169": {
+   "columns": 6,
+   "extant": 422,
+   "gaps": 49,
+   "lines": 61,
+   "reconstructed": 129,
+   "uncertain": 68,
+   "words": 551
+  },
+  "4Q170": {
+   "columns": 1,
+   "extant": 6,
+   "gaps": 6,
+   "lines": 2,
+   "reconstructed": 7,
+   "uncertain": 4,
+   "words": 13
+  },
+  "4Q171": {
+   "columns": 7,
+   "extant": 467,
+   "gaps": 65,
+   "lines": 102,
+   "reconstructed": 212,
+   "uncertain": 126,
+   "words": 679
+  },
+  "4Q172": {
+   "columns": 14,
+   "extant": 55,
+   "gaps": 70,
+   "lines": 35,
+   "reconstructed": 5,
+   "uncertain": 31,
+   "words": 60
+  },
+  "4Q173": {
+   "columns": 5,
+   "extant": 25,
+   "gaps": 37,
+   "lines": 21,
+   "reconstructed": 66,
+   "uncertain": 25,
+   "words": 91
+  },
+  "4Q174": {
+   "columns": 23,
+   "extant": 347,
+   "gaps": 143,
+   "lines": 97,
+   "reconstructed": 141,
+   "uncertain": 85,
+   "words": 488
+  },
+  "4Q175": {
+   "columns": 1,
+   "extant": 227,
+   "gaps": 3,
+   "lines": 30,
+   "reconstructed": 12,
+   "uncertain": 2,
+   "words": 239
+  },
+  "4Q177": {
+   "columns": 25,
+   "extant": 457,
+   "gaps": 284,
+   "lines": 140,
+   "reconstructed": 155,
+   "uncertain": 156,
+   "words": 612
+  },
+  "4Q178": {
+   "columns": 13,
+   "extant": 59,
+   "gaps": 84,
+   "lines": 46,
+   "reconstructed": 6,
+   "uncertain": 17,
+   "words": 65
+  },
+  "4Q179": {
+   "columns": 6,
+   "extant": 158,
+   "gaps": 64,
+   "lines": 44,
+   "reconstructed": 18,
+   "uncertain": 43,
+   "words": 176
+  },
+  "4Q180": {
+   "columns": 4,
+   "extant": 102,
+   "gaps": 55,
+   "lines": 34,
+   "reconstructed": 10,
+   "uncertain": 44,
+   "words": 112
+  },
+  "4Q181": {
+   "columns": 3,
+   "extant": 84,
+   "gaps": 18,
+   "lines": 17,
+   "reconstructed": 9,
+   "uncertain": 19,
+   "words": 93
+  },
+  "4Q182": {
+   "columns": 2,
+   "extant": 22,
+   "gaps": 14,
+   "lines": 7,
+   "reconstructed": 4,
+   "uncertain": 9,
+   "words": 26
+  },
+  "4Q183": {
+   "columns": 4,
+   "extant": 36,
+   "gaps": 20,
+   "lines": 15,
+   "reconstructed": 4,
+   "uncertain": 6,
+   "words": 40
+  },
+  "4Q184": {
+   "columns": 6,
+   "extant": 206,
+   "gaps": 54,
+   "lines": 41,
+   "reconstructed": 41,
+   "uncertain": 58,
+   "words": 247
+  },
+  "4Q185": {
+   "columns": 8,
+   "extant": 253,
+   "gaps": 78,
+   "lines": 58,
+   "reconstructed": 18,
+   "uncertain": 86,
+   "words": 271
+  },
+  "4Q186": {
+   "columns": 7,
+   "extant": 128,
+   "gaps": 37,
+   "lines": 41,
+   "reconstructed": 15,
+   "uncertain": 22,
+   "words": 143
+  },
+  "4Q196": {
+   "columns": 51,
+   "extant": 325,
+   "gaps": 252,
+   "lines": 166,
+   "reconstructed": 374,
+   "uncertain": 214,
+   "words": 699
+  },
+  "4Q197": {
+   "columns": 9,
+   "extant": 274,
+   "gaps": 93,
+   "lines": 76,
+   "reconstructed": 250,
+   "uncertain": 144,
+   "words": 524
+  },
+  "4Q198": {
+   "columns": 2,
+   "extant": 35,
+   "gaps": 23,
+   "lines": 19,
+   "reconstructed": 41,
+   "uncertain": 21,
+   "words": 76
+  },
+  "4Q199": {
+   "columns": 2,
+   "extant": 6,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 5,
+   "uncertain": 3,
+   "words": 11
+  },
+  "4Q200": {
+   "columns": 11,
+   "extant": 194,
+   "gaps": 77,
+   "lines": 65,
+   "reconstructed": 147,
+   "uncertain": 103,
+   "words": 341
+  },
+  "4Q201": {
+   "columns": 13,
+   "extant": 219,
+   "gaps": 48,
+   "lines": 93,
+   "reconstructed": 551,
+   "uncertain": 152,
+   "words": 770
+  },
+  "4Q202": {
+   "columns": 5,
+   "extant": 68,
+   "gaps": 11,
+   "lines": 57,
+   "reconstructed": 495,
+   "uncertain": 95,
+   "words": 563
+  },
+  "4Q203": {
+   "columns": 17,
+   "extant": 141,
+   "gaps": 115,
+   "lines": 81,
+   "reconstructed": 61,
+   "uncertain": 97,
+   "words": 202
+  },
+  "4Q204": {
+   "columns": 11,
+   "extant": 320,
+   "gaps": 27,
+   "lines": 126,
+   "reconstructed": 1145,
+   "uncertain": 229,
+   "words": 1465
+  },
+  "4Q205": {
+   "columns": 5,
+   "extant": 58,
+   "gaps": 10,
+   "lines": 31,
+   "reconstructed": 285,
+   "uncertain": 65,
+   "words": 343
+  },
+  "4Q206": {
+   "columns": 12,
+   "extant": 201,
+   "gaps": 41,
+   "lines": 86,
+   "reconstructed": 410,
+   "uncertain": 105,
+   "words": 611
+  },
+  "4Q207": {
+   "columns": 1,
+   "extant": 9,
+   "gaps": 1,
+   "lines": 6,
+   "reconstructed": 52,
+   "uncertain": 9,
+   "words": 61
+  },
+  "4Q208": {
+   "columns": 38,
+   "extant": 140,
+   "gaps": 177,
+   "lines": 124,
+   "reconstructed": 232,
+   "uncertain": 123,
+   "words": 372
+  },
+  "4Q209": {
+   "columns": 46,
+   "extant": 587,
+   "gaps": 176,
+   "lines": 171,
+   "reconstructed": 848,
+   "uncertain": 216,
+   "words": 1435
+  },
+  "4Q210": {
+   "columns": 2,
+   "extant": 101,
+   "gaps": 13,
+   "lines": 25,
+   "reconstructed": 207,
+   "uncertain": 32,
+   "words": 308
+  },
+  "4Q211": {
+   "columns": 3,
+   "extant": 59,
+   "gaps": 16,
+   "lines": 16,
+   "reconstructed": 27,
+   "uncertain": 26,
+   "words": 86
+  },
+  "4Q212": {
+   "columns": 5,
+   "extant": 182,
+   "gaps": 17,
+   "lines": 55,
+   "reconstructed": 282,
+   "uncertain": 80,
+   "words": 464
+  },
+  "4Q213": {
+   "columns": 6,
+   "extant": 182,
+   "gaps": 51,
+   "lines": 57,
+   "reconstructed": 127,
+   "uncertain": 87,
+   "words": 309
+  },
+  "4Q213a": {
+   "columns": 6,
+   "extant": 122,
+   "gaps": 39,
+   "lines": 44,
+   "reconstructed": 42,
+   "uncertain": 36,
+   "words": 164
+  },
+  "4Q213b": {
+   "columns": 1,
+   "extant": 23,
+   "gaps": 4,
+   "lines": 6,
+   "reconstructed": 52,
+   "uncertain": 10,
+   "words": 75
+  },
+  "4Q214": {
+   "columns": 5,
+   "extant": 48,
+   "gaps": 45,
+   "lines": 33,
+   "reconstructed": 57,
+   "uncertain": 34,
+   "words": 105
+  },
+  "4Q214a": {
+   "columns": 3,
+   "extant": 21,
+   "gaps": 11,
+   "lines": 17,
+   "reconstructed": 51,
+   "uncertain": 21,
+   "words": 72
+  },
+  "4Q214b": {
+   "columns": 5,
+   "extant": 41,
+   "gaps": 23,
+   "lines": 23,
+   "reconstructed": 70,
+   "uncertain": 42,
+   "words": 111
+  },
+  "4Q215": {
+   "columns": 1,
+   "extant": 97,
+   "gaps": 13,
+   "lines": 11,
+   "reconstructed": 5,
+   "uncertain": 19,
+   "words": 102
+  },
+  "4Q215a": {
+   "columns": 5,
+   "extant": 107,
+   "gaps": 45,
+   "lines": 36,
+   "reconstructed": 18,
+   "uncertain": 62,
+   "words": 125
+  },
+  "4Q216": {
+   "columns": 6,
+   "extant": 170,
+   "gaps": 7,
+   "lines": 85,
+   "reconstructed": 738,
+   "uncertain": 131,
+   "words": 908
+  },
+  "4Q217": {
+   "columns": 12,
+   "extant": 53,
+   "gaps": 74,
+   "lines": 41,
+   "reconstructed": 8,
+   "uncertain": 42,
+   "words": 61
+  },
+  "4Q218": {
+   "columns": 1,
+   "extant": 13,
+   "gaps": 0,
+   "lines": 4,
+   "reconstructed": 23,
+   "uncertain": 13,
+   "words": 36
+  },
+  "4Q219": {
+   "columns": 2,
+   "extant": 93,
+   "gaps": 12,
+   "lines": 45,
+   "reconstructed": 276,
+   "uncertain": 65,
+   "words": 369
+  },
+  "4Q220": {
+   "columns": 1,
+   "extant": 54,
+   "gaps": 1,
+   "lines": 11,
+   "reconstructed": 71,
+   "uncertain": 29,
+   "words": 125
+  },
+  "4Q221": {
+   "columns": 19,
+   "extant": 131,
+   "gaps": 71,
+   "lines": 84,
+   "reconstructed": 385,
+   "uncertain": 95,
+   "words": 516
+  },
+  "4Q222": {
+   "columns": 6,
+   "extant": 44,
+   "gaps": 15,
+   "lines": 18,
+   "reconstructed": 84,
+   "uncertain": 30,
+   "words": 128
+  },
+  "4Q223_224": {
+   "columns": 34,
+   "extant": 285,
+   "gaps": 122,
+   "lines": 193,
+   "reconstructed": 1426,
+   "uncertain": 267,
+   "words": 1711
+  },
+  "4Q225": {
+   "columns": 5,
+   "extant": 175,
+   "gaps": 47,
+   "lines": 49,
+   "reconstructed": 108,
+   "uncertain": 84,
+   "words": 283
+  },
+  "4Q226": {
+   "columns": 15,
+   "extant": 106,
+   "gaps": 119,
+   "lines": 68,
+   "reconstructed": 47,
+   "uncertain": 53,
+   "words": 153
+  },
+  "4Q227": {
+   "columns": 2,
+   "extant": 36,
+   "gaps": 20,
+   "lines": 12,
+   "reconstructed": 5,
+   "uncertain": 12,
+   "words": 41
+  },
+  "4Q228": {
+   "columns": 6,
+   "extant": 64,
+   "gaps": 36,
+   "lines": 25,
+   "reconstructed": 9,
+   "uncertain": 36,
+   "words": 73
+  },
+  "4Q230": {
+   "columns": 13,
+   "extant": 57,
+   "gaps": 92,
+   "lines": 46,
+   "reconstructed": 6,
+   "uncertain": 28,
+   "words": 63
+  },
+  "4Q234": {
+   "columns": 3,
+   "extant": 5,
+   "gaps": 7,
+   "lines": 5,
+   "reconstructed": 5,
+   "uncertain": 0,
+   "words": 10
+  },
+  "4Q235": {
+   "columns": 1,
+   "extant": 10,
+   "gaps": 10,
+   "lines": 4,
+   "reconstructed": 0,
+   "uncertain": 4,
+   "words": 10
+  },
+  "4Q238": {
+   "columns": 1,
+   "extant": 12,
+   "gaps": 12,
+   "lines": 6,
+   "reconstructed": 3,
+   "uncertain": 6,
+   "words": 15
+  },
+  "4Q242": {
+   "columns": 2,
+   "extant": 61,
+   "gaps": 13,
+   "lines": 14,
+   "reconstructed": 45,
+   "uncertain": 18,
+   "words": 106
+  },
+  "4Q243": {
+   "columns": 43,
+   "extant": 170,
+   "gaps": 224,
+   "lines": 128,
+   "reconstructed": 52,
+   "uncertain": 95,
+   "words": 222
+  },
+  "4Q244": {
+   "columns": 13,
+   "extant": 63,
+   "gaps": 60,
+   "lines": 35,
+   "reconstructed": 8,
+   "uncertain": 30,
+   "words": 71
+  },
+  "4Q245": {
+   "columns": 5,
+   "extant": 28,
+   "gaps": 30,
+   "lines": 25,
+   "reconstructed": 9,
+   "uncertain": 23,
+   "words": 37
+  },
+  "4Q246": {
+   "columns": 2,
+   "extant": 99,
+   "gaps": 9,
+   "lines": 18,
+   "reconstructed": 9,
+   "uncertain": 17,
+   "words": 108
+  },
+  "4Q247": {
+   "columns": 1,
+   "extant": 11,
+   "gaps": 14,
+   "lines": 7,
+   "reconstructed": 19,
+   "uncertain": 9,
+   "words": 30
+  },
+  "4Q248": {
+   "columns": 1,
+   "extant": 25,
+   "gaps": 5,
+   "lines": 10,
+   "reconstructed": 26,
+   "uncertain": 18,
+   "words": 51
+  },
+  "4Q249a": {
+   "columns": 2,
+   "extant": 4,
+   "gaps": 6,
+   "lines": 9,
+   "reconstructed": 38,
+   "uncertain": 12,
+   "words": 42
+  },
+  "4Q249b": {
+   "columns": 1,
+   "extant": 0,
+   "gaps": 1,
+   "lines": 3,
+   "reconstructed": 17,
+   "uncertain": 3,
+   "words": 17
+  },
+  "4Q249c": {
+   "columns": 1,
+   "extant": 1,
+   "gaps": 2,
+   "lines": 7,
+   "reconstructed": 35,
+   "uncertain": 7,
+   "words": 36
+  },
+  "4Q249d": {
+   "columns": 1,
+   "extant": 1,
+   "gaps": 0,
+   "lines": 6,
+   "reconstructed": 41,
+   "uncertain": 7,
+   "words": 42
+  },
+  "4Q249e": {
+   "columns": 2,
+   "extant": 9,
+   "gaps": 5,
+   "lines": 16,
+   "reconstructed": 81,
+   "uncertain": 26,
+   "words": 90
+  },
+  "4Q249f": {
+   "columns": 1,
+   "extant": 2,
+   "gaps": 0,
+   "lines": 9,
+   "reconstructed": 63,
+   "uncertain": 13,
+   "words": 65
+  },
+  "4Q249g": {
+   "columns": 2,
+   "extant": 1,
+   "gaps": 0,
+   "lines": 26,
+   "reconstructed": 197,
+   "uncertain": 23,
+   "words": 198
+  },
+  "4Q249h": {
+   "columns": 2,
+   "extant": 3,
+   "gaps": 2,
+   "lines": 8,
+   "reconstructed": 58,
+   "uncertain": 9,
+   "words": 61
+  },
+  "4Q249i": {
+   "columns": 2,
+   "extant": 4,
+   "gaps": 10,
+   "lines": 10,
+   "reconstructed": 34,
+   "uncertain": 9,
+   "words": 38
+  },
+  "4Q249j": {
+   "columns": 1,
+   "extant": 1,
+   "gaps": 0,
+   "lines": 6,
+   "reconstructed": 41,
+   "uncertain": 8,
+   "words": 42
+  },
+  "4Q249k": {
+   "columns": 1,
+   "extant": 2,
+   "gaps": 5,
+   "lines": 5,
+   "reconstructed": 24,
+   "uncertain": 5,
+   "words": 26
+  },
+  "4Q249l": {
+   "columns": 1,
+   "extant": 4,
+   "gaps": 10,
+   "lines": 7,
+   "reconstructed": 27,
+   "uncertain": 7,
+   "words": 31
+  },
+  "4Q249m": {
+   "columns": 1,
+   "extant": 11,
+   "gaps": 13,
+   "lines": 10,
+   "reconstructed": 0,
+   "uncertain": 6,
+   "words": 11
+  },
+  "4Q249n": {
+   "columns": 2,
+   "extant": 5,
+   "gaps": 14,
+   "lines": 7,
+   "reconstructed": 2,
+   "uncertain": 6,
+   "words": 7
+  },
+  "4Q249o": {
+   "columns": 1,
+   "extant": 2,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 2,
+   "words": 2
+  },
+  "4Q249p": {
+   "columns": 1,
+   "extant": 9,
+   "gaps": 22,
+   "lines": 11,
+   "reconstructed": 6,
+   "uncertain": 9,
+   "words": 15
+  },
+  "4Q249q": {
+   "columns": 1,
+   "extant": 7,
+   "gaps": 8,
+   "lines": 4,
+   "reconstructed": 0,
+   "uncertain": 5,
+   "words": 7
+  },
+  "4Q249r": {
+   "columns": 2,
+   "extant": 7,
+   "gaps": 10,
+   "lines": 5,
+   "reconstructed": 0,
+   "uncertain": 5,
+   "words": 7
+  },
+  "4Q249s": {
+   "columns": 2,
+   "extant": 7,
+   "gaps": 20,
+   "lines": 10,
+   "reconstructed": 0,
+   "uncertain": 5,
+   "words": 7
+  },
+  "4Q249t": {
+   "columns": 1,
+   "extant": 3,
+   "gaps": 4,
+   "lines": 2,
+   "reconstructed": 0,
+   "uncertain": 2,
+   "words": 3
+  },
+  "4Q249u": {
+   "columns": 1,
+   "extant": 3,
+   "gaps": 4,
+   "lines": 2,
+   "reconstructed": 0,
+   "uncertain": 3,
+   "words": 3
+  },
+  "4Q249v": {
+   "columns": 1,
+   "extant": 2,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 2
+  },
+  "4Q249w": {
+   "columns": 1,
+   "extant": 6,
+   "gaps": 10,
+   "lines": 5,
+   "reconstructed": 0,
+   "uncertain": 5,
+   "words": 6
+  },
+  "4Q249x": {
+   "columns": 1,
+   "extant": 4,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 2,
+   "words": 4
+  },
+  "4Q249y": {
+   "columns": 2,
+   "extant": 4,
+   "gaps": 8,
+   "lines": 5,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 4
+  },
+  "4Q250": {
+   "columns": 1,
+   "extant": 12,
+   "gaps": 18,
+   "lines": 9,
+   "reconstructed": 1,
+   "uncertain": 8,
+   "words": 13
+  },
+  "4Q250a": {
+   "columns": 3,
+   "extant": 8,
+   "gaps": 16,
+   "lines": 8,
+   "reconstructed": 0,
+   "uncertain": 6,
+   "words": 8
+  },
+  "4Q250b": {
+   "columns": 1,
+   "extant": 3,
+   "gaps": 3,
+   "lines": 2,
+   "reconstructed": 1,
+   "uncertain": 2,
+   "words": 4
+  },
+  "4Q250c": {
+   "columns": 2,
+   "extant": 2,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 2
+  },
+  "4Q250d": {
+   "columns": 2,
+   "extant": 4,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 4
+  },
+  "4Q250e": {
+   "columns": 2,
+   "extant": 2,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 2,
+   "words": 2
+  },
+  "4Q250f": {
+   "columns": 2,
+   "extant": 2,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 2
+  },
+  "4Q250g": {
+   "columns": 2,
+   "extant": 3,
+   "gaps": 4,
+   "lines": 2,
+   "reconstructed": 0,
+   "uncertain": 0,
+   "words": 3
+  },
+  "4Q250h": {
+   "columns": 1,
+   "extant": 2,
+   "gaps": 3,
+   "lines": 2,
+   "reconstructed": 0,
+   "uncertain": 2,
+   "words": 2
+  },
+  "4Q250i": {
+   "columns": 2,
+   "extant": 3,
+   "gaps": 10,
+   "lines": 5,
+   "reconstructed": 0,
+   "uncertain": 2,
+   "words": 3
+  },
+  "4Q250j": {
+   "columns": 6,
+   "extant": 9,
+   "gaps": 28,
+   "lines": 14,
+   "reconstructed": 0,
+   "uncertain": 5,
+   "words": 9
+  },
+  "4Q251": {
+   "columns": 24,
+   "extant": 244,
+   "gaps": 131,
+   "lines": 95,
+   "reconstructed": 225,
+   "uncertain": 130,
+   "words": 469
+  },
+  "4Q252": {
+   "columns": 6,
+   "extant": 446,
+   "gaps": 33,
+   "lines": 67,
+   "reconstructed": 71,
+   "uncertain": 69,
+   "words": 517
+  },
+  "4Q253": {
+   "columns": 3,
+   "extant": 23,
+   "gaps": 19,
+   "lines": 12,
+   "reconstructed": 4,
+   "uncertain": 7,
+   "words": 27
+  },
+  "4Q253a": {
+   "columns": 2,
+   "extant": 19,
+   "gaps": 8,
+   "lines": 9,
+   "reconstructed": 41,
+   "uncertain": 1,
+   "words": 60
+  },
+  "4Q254": {
+   "columns": 16,
+   "extant": 88,
+   "gaps": 112,
+   "lines": 65,
+   "reconstructed": 45,
+   "uncertain": 52,
+   "words": 133
+  },
+  "4Q254a": {
+   "columns": 2,
+   "extant": 32,
+   "gaps": 12,
+   "lines": 10,
+   "reconstructed": 12,
+   "uncertain": 12,
+   "words": 44
+  },
+  "4Q255": {
+   "columns": 4,
+   "extant": 60,
+   "gaps": 13,
+   "lines": 25,
+   "reconstructed": 53,
+   "uncertain": 51,
+   "words": 113
+  },
+  "4Q256": {
+   "columns": 9,
+   "extant": 178,
+   "gaps": 24,
+   "lines": 59,
+   "reconstructed": 414,
+   "uncertain": 107,
+   "words": 592
+  },
+  "4Q257": {
+   "columns": 7,
+   "extant": 71,
+   "gaps": 12,
+   "lines": 44,
+   "reconstructed": 319,
+   "uncertain": 100,
+   "words": 390
+  },
+  "4Q258": {
+   "columns": 11,
+   "extant": 497,
+   "gaps": 25,
+   "lines": 86,
+   "reconstructed": 509,
+   "uncertain": 80,
+   "words": 1006
+  },
+  "4Q259": {
+   "columns": 4,
+   "extant": 179,
+   "gaps": 1,
+   "lines": 54,
+   "reconstructed": 328,
+   "uncertain": 140,
+   "words": 507
+  },
+  "4Q260": {
+   "columns": 5,
+   "extant": 94,
+   "gaps": 2,
+   "lines": 27,
+   "reconstructed": 135,
+   "uncertain": 71,
+   "words": 229
+  },
+  "4Q261": {
+   "columns": 9,
+   "extant": 36,
+   "gaps": 23,
+   "lines": 43,
+   "reconstructed": 256,
+   "uncertain": 80,
+   "words": 292
+  },
+  "4Q262": {
+   "columns": 3,
+   "extant": 26,
+   "gaps": 15,
+   "lines": 13,
+   "reconstructed": 23,
+   "uncertain": 19,
+   "words": 49
+  },
+  "4Q263": {
+   "columns": 1,
+   "extant": 11,
+   "gaps": 0,
+   "lines": 5,
+   "reconstructed": 50,
+   "uncertain": 12,
+   "words": 61
+  },
+  "4Q264": {
+   "columns": 1,
+   "extant": 37,
+   "gaps": 0,
+   "lines": 10,
+   "reconstructed": 83,
+   "uncertain": 22,
+   "words": 120
+  },
+  "4Q264a": {
+   "columns": 2,
+   "extant": 48,
+   "gaps": 19,
+   "lines": 16,
+   "reconstructed": 37,
+   "uncertain": 20,
+   "words": 85
+  },
+  "4Q265": {
+   "columns": 23,
+   "extant": 267,
+   "gaps": 104,
+   "lines": 94,
+   "reconstructed": 230,
+   "uncertain": 105,
+   "words": 497
+  },
+  "4Q267": {
+   "columns": 25,
+   "extant": 253,
+   "gaps": 147,
+   "lines": 162,
+   "reconstructed": 492,
+   "uncertain": 254,
+   "words": 745
+  },
+  "4Q268": {
+   "columns": 3,
+   "extant": 65,
+   "gaps": 17,
+   "lines": 23,
+   "reconstructed": 96,
+   "uncertain": 40,
+   "words": 161
+  },
+  "4Q269": {
+   "columns": 19,
+   "extant": 98,
+   "gaps": 47,
+   "lines": 112,
+   "reconstructed": 791,
+   "uncertain": 129,
+   "words": 889
+  },
+  "4Q270": {
+   "columns": 23,
+   "extant": 574,
+   "gaps": 151,
+   "lines": 194,
+   "reconstructed": 882,
+   "uncertain": 373,
+   "words": 1456
+  },
+  "4Q271": {
+   "columns": 7,
+   "extant": 441,
+   "gaps": 54,
+   "lines": 90,
+   "reconstructed": 367,
+   "uncertain": 168,
+   "words": 808
+  },
+  "4Q272": {
+   "columns": 4,
+   "extant": 94,
+   "gaps": 49,
+   "lines": 45,
+   "reconstructed": 155,
+   "uncertain": 62,
+   "words": 249
+  },
+  "4Q273": {
+   "columns": 10,
+   "extant": 77,
+   "gaps": 58,
+   "lines": 37,
+   "reconstructed": 43,
+   "uncertain": 44,
+   "words": 120
+  },
+  "4Q274": {
+   "columns": 6,
+   "extant": 282,
+   "gaps": 31,
+   "lines": 53,
+   "reconstructed": 90,
+   "uncertain": 98,
+   "words": 372
+  },
+  "4Q275": {
+   "columns": 3,
+   "extant": 44,
+   "gaps": 37,
+   "lines": 22,
+   "reconstructed": 18,
+   "uncertain": 26,
+   "words": 62
+  },
+  "4Q276": {
+   "columns": 1,
+   "extant": 31,
+   "gaps": 5,
+   "lines": 9,
+   "reconstructed": 18,
+   "uncertain": 18,
+   "words": 49
+  },
+  "4Q277": {
+   "columns": 3,
+   "extant": 74,
+   "gaps": 18,
+   "lines": 22,
+   "reconstructed": 74,
+   "uncertain": 66,
+   "words": 148
+  },
+  "4Q278": {
+   "columns": 1,
+   "extant": 14,
+   "gaps": 9,
+   "lines": 9,
+   "reconstructed": 6,
+   "uncertain": 8,
+   "words": 20
+  },
+  "4Q279": {
+   "columns": 5,
+   "extant": 29,
+   "gaps": 38,
+   "lines": 19,
+   "reconstructed": 17,
+   "uncertain": 21,
+   "words": 46
+  },
+  "4Q280": {
+   "columns": 3,
+   "extant": 46,
+   "gaps": 11,
+   "lines": 12,
+   "reconstructed": 35,
+   "uncertain": 22,
+   "words": 81
+  },
+  "4Q281a": {
+   "columns": 1,
+   "extant": 19,
+   "gaps": 10,
+   "lines": 5,
+   "reconstructed": 0,
+   "uncertain": 13,
+   "words": 19
+  },
+  "4Q281b": {
+   "columns": 1,
+   "extant": 5,
+   "gaps": 5,
+   "lines": 2,
+   "reconstructed": 0,
+   "uncertain": 2,
+   "words": 5
+  },
+  "4Q281c": {
+   "columns": 1,
+   "extant": 12,
+   "gaps": 14,
+   "lines": 7,
+   "reconstructed": 0,
+   "uncertain": 7,
+   "words": 12
+  },
+  "4Q281d": {
+   "columns": 1,
+   "extant": 6,
+   "gaps": 8,
+   "lines": 4,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 6
+  },
+  "4Q281e": {
+   "columns": 1,
+   "extant": 7,
+   "gaps": 10,
+   "lines": 5,
+   "reconstructed": 2,
+   "uncertain": 8,
+   "words": 9
+  },
+  "4Q281f": {
+   "columns": 1,
+   "extant": 9,
+   "gaps": 5,
+   "lines": 2,
+   "reconstructed": 2,
+   "uncertain": 4,
+   "words": 11
+  },
+  "4Q282a": {
+   "columns": 1,
+   "extant": 5,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 1,
+   "uncertain": 3,
+   "words": 6
+  },
+  "4Q282b": {
+   "columns": 1,
+   "extant": 6,
+   "gaps": 10,
+   "lines": 5,
+   "reconstructed": 0,
+   "uncertain": 3,
+   "words": 6
+  },
+  "4Q282c": {
+   "columns": 1,
+   "extant": 7,
+   "gaps": 9,
+   "lines": 9,
+   "reconstructed": 1,
+   "uncertain": 1,
+   "words": 8
+  },
+  "4Q282d": {
+   "columns": 1,
+   "extant": 6,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 5,
+   "words": 6
+  },
+  "4Q282e": {
+   "columns": 2,
+   "extant": 18,
+   "gaps": 21,
+   "lines": 17,
+   "reconstructed": 0,
+   "uncertain": 10,
+   "words": 18
+  },
+  "4Q282f": {
+   "columns": 1,
+   "extant": 5,
+   "gaps": 6,
+   "lines": 5,
+   "reconstructed": 0,
+   "uncertain": 3,
+   "words": 5
+  },
+  "4Q282g": {
+   "columns": 1,
+   "extant": 8,
+   "gaps": 6,
+   "lines": 5,
+   "reconstructed": 0,
+   "uncertain": 6,
+   "words": 8
+  },
+  "4Q282h": {
+   "columns": 1,
+   "extant": 7,
+   "gaps": 10,
+   "lines": 5,
+   "reconstructed": 0,
+   "uncertain": 2,
+   "words": 7
+  },
+  "4Q282i": {
+   "columns": 1,
+   "extant": 7,
+   "gaps": 8,
+   "lines": 4,
+   "reconstructed": 0,
+   "uncertain": 4,
+   "words": 7
+  },
+  "4Q282j": {
+   "columns": 1,
+   "extant": 10,
+   "gaps": 10,
+   "lines": 10,
+   "reconstructed": 1,
+   "uncertain": 4,
+   "words": 11
+  },
+  "4Q282k": {
+   "columns": 1,
+   "extant": 11,
+   "gaps": 9,
+   "lines": 7,
+   "reconstructed": 1,
+   "uncertain": 6,
+   "words": 12
+  },
+  "4Q282l": {
+   "columns": 1,
+   "extant": 2,
+   "gaps": 2,
+   "lines": 2,
+   "reconstructed": 0,
+   "uncertain": 2,
+   "words": 2
+  },
+  "4Q282m": {
+   "columns": 1,
+   "extant": 5,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 5
+  },
+  "4Q282n": {
+   "columns": 1,
+   "extant": 3,
+   "gaps": 4,
+   "lines": 2,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 3
+  },
+  "4Q282o": {
+   "columns": 1,
+   "extant": 8,
+   "gaps": 8,
+   "lines": 4,
+   "reconstructed": 2,
+   "uncertain": 4,
+   "words": 10
+  },
+  "4Q282p": {
+   "columns": 1,
+   "extant": 5,
+   "gaps": 4,
+   "lines": 4,
+   "reconstructed": 0,
+   "uncertain": 5,
+   "words": 5
+  },
+  "4Q282q": {
+   "columns": 1,
+   "extant": 7,
+   "gaps": 5,
+   "lines": 4,
+   "reconstructed": 0,
+   "uncertain": 5,
+   "words": 7
+  },
+  "4Q282r": {
+   "columns": 1,
+   "extant": 2,
+   "gaps": 2,
+   "lines": 2,
+   "reconstructed": 0,
+   "uncertain": 2,
+   "words": 2
+  },
+  "4Q282s": {
+   "columns": 1,
+   "extant": 3,
+   "gaps": 2,
+   "lines": 2,
+   "reconstructed": 1,
+   "uncertain": 3,
+   "words": 4
+  },
+  "4Q282t": {
+   "columns": 1,
+   "extant": 2,
+   "gaps": 2,
+   "lines": 2,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 2
+  },
+  "4Q284": {
+   "columns": 11,
+   "extant": 98,
+   "gaps": 65,
+   "lines": 46,
+   "reconstructed": 38,
+   "uncertain": 68,
+   "words": 136
+  },
+  "4Q284a": {
+   "columns": 4,
+   "extant": 40,
+   "gaps": 27,
+   "lines": 20,
+   "reconstructed": 32,
+   "uncertain": 22,
+   "words": 72
+  },
+  "4Q285": {
+   "columns": 10,
+   "extant": 121,
+   "gaps": 95,
+   "lines": 61,
+   "reconstructed": 141,
+   "uncertain": 88,
+   "words": 262
+  },
+  "4Q286": {
+   "columns": 23,
+   "extant": 324,
+   "gaps": 162,
+   "lines": 119,
+   "reconstructed": 178,
+   "uncertain": 177,
+   "words": 502
+  },
+  "4Q287": {
+   "columns": 10,
+   "extant": 105,
+   "gaps": 85,
+   "lines": 54,
+   "reconstructed": 168,
+   "uncertain": 57,
+   "words": 273
+  },
+  "4Q288": {
+   "columns": 3,
+   "extant": 25,
+   "gaps": 28,
+   "lines": 14,
+   "reconstructed": 14,
+   "uncertain": 12,
+   "words": 39
+  },
+  "4Q289": {
+   "columns": 3,
+   "extant": 30,
+   "gaps": 28,
+   "lines": 13,
+   "reconstructed": 16,
+   "uncertain": 23,
+   "words": 46
+  },
+  "4Q290": {
+   "columns": 1,
+   "extant": 5,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 4,
+   "uncertain": 2,
+   "words": 9
+  },
+  "4Q291": {
+   "columns": 3,
+   "extant": 38,
+   "gaps": 31,
+   "lines": 16,
+   "reconstructed": 7,
+   "uncertain": 27,
+   "words": 45
+  },
+  "4Q292": {
+   "columns": 2,
+   "extant": 22,
+   "gaps": 13,
+   "lines": 10,
+   "reconstructed": 3,
+   "uncertain": 9,
+   "words": 25
+  },
+  "4Q293": {
+   "columns": 3,
+   "extant": 14,
+   "gaps": 16,
+   "lines": 8,
+   "reconstructed": 4,
+   "uncertain": 9,
+   "words": 18
+  },
+  "4Q294": {
+   "columns": 1,
+   "extant": 7,
+   "gaps": 10,
+   "lines": 5,
+   "reconstructed": 1,
+   "uncertain": 3,
+   "words": 8
+  },
+  "4Q298": {
+   "columns": 10,
+   "extant": 92,
+   "gaps": 47,
+   "lines": 48,
+   "reconstructed": 41,
+   "uncertain": 60,
+   "words": 133
+  },
+  "4Q300": {
+   "columns": 16,
+   "extant": 187,
+   "gaps": 107,
+   "lines": 66,
+   "reconstructed": 102,
+   "uncertain": 80,
+   "words": 289
+  },
+  "4Q301": {
+   "columns": 11,
+   "extant": 145,
+   "gaps": 96,
+   "lines": 50,
+   "reconstructed": 39,
+   "uncertain": 64,
+   "words": 184
+  },
+  "4Q302": {
+   "columns": 29,
+   "extant": 186,
+   "gaps": 153,
+   "lines": 120,
+   "reconstructed": 8,
+   "uncertain": 84,
+   "words": 194
+  },
+  "4Q303": {
+   "columns": 1,
+   "extant": 40,
+   "gaps": 28,
+   "lines": 14,
+   "reconstructed": 8,
+   "uncertain": 5,
+   "words": 48
+  },
+  "4Q304": {
+   "columns": 1,
+   "extant": 7,
+   "gaps": 3,
+   "lines": 3,
+   "reconstructed": 2,
+   "uncertain": 0,
+   "words": 9
+  },
+  "4Q305": {
+   "columns": 2,
+   "extant": 13,
+   "gaps": 12,
+   "lines": 8,
+   "reconstructed": 1,
+   "uncertain": 3,
+   "words": 14
+  },
+  "4Q306": {
+   "columns": 3,
+   "extant": 55,
+   "gaps": 29,
+   "lines": 21,
+   "reconstructed": 16,
+   "uncertain": 24,
+   "words": 71
+  },
+  "4Q307": {
+   "columns": 9,
+   "extant": 40,
+   "gaps": 62,
+   "lines": 32,
+   "reconstructed": 5,
+   "uncertain": 8,
+   "words": 45
+  },
+  "4Q313": {
+   "columns": 2,
+   "extant": 1,
+   "gaps": 8,
+   "lines": 4,
+   "reconstructed": 22,
+   "uncertain": 5,
+   "words": 23
+  },
+  "4Q313a": {
+   "columns": 1,
+   "extant": 2,
+   "gaps": 3,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 2
+  },
+  "4Q313b": {
+   "columns": 1,
+   "extant": 2,
+   "gaps": 4,
+   "lines": 2,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 2
+  },
+  "4Q318": {
+   "columns": 8,
+   "extant": 110,
+   "gaps": 22,
+   "lines": 31,
+   "reconstructed": 61,
+   "uncertain": 20,
+   "words": 171
+  },
+  "4Q319": {
+   "columns": 58,
+   "extant": 261,
+   "gaps": 252,
+   "lines": 201,
+   "reconstructed": 407,
+   "uncertain": 196,
+   "words": 668
+  },
+  "4Q320": {
+   "columns": 18,
+   "extant": 253,
+   "gaps": 41,
+   "lines": 129,
+   "reconstructed": 161,
+   "uncertain": 109,
+   "words": 414
+  },
+  "4Q321": {
+   "columns": 7,
+   "extant": 247,
+   "gaps": 0,
+   "lines": 57,
+   "reconstructed": 521,
+   "uncertain": 227,
+   "words": 768
+  },
+  "4Q321a": {
+   "columns": 5,
+   "extant": 51,
+   "gaps": 3,
+   "lines": 65,
+   "reconstructed": 460,
+   "uncertain": 49,
+   "words": 511
+  },
+  "4Q322": {
+   "columns": 2,
+   "extant": 15,
+   "gaps": 20,
+   "lines": 10,
+   "reconstructed": 16,
+   "uncertain": 14,
+   "words": 31
+  },
+  "4Q322a": {
+   "columns": 3,
+   "extant": 22,
+   "gaps": 43,
+   "lines": 21,
+   "reconstructed": 3,
+   "uncertain": 15,
+   "words": 25
+  },
+  "4Q323": {
+   "columns": 1,
+   "extant": 5,
+   "gaps": 4,
+   "lines": 5,
+   "reconstructed": 23,
+   "uncertain": 8,
+   "words": 28
+  },
+  "4Q324": {
+   "columns": 2,
+   "extant": 19,
+   "gaps": 7,
+   "lines": 9,
+   "reconstructed": 44,
+   "uncertain": 11,
+   "words": 63
+  },
+  "4Q324a": {
+   "columns": 8,
+   "extant": 25,
+   "gaps": 24,
+   "lines": 20,
+   "reconstructed": 19,
+   "uncertain": 28,
+   "words": 44
+  },
+  "4Q324b": {
+   "columns": 5,
+   "extant": 5,
+   "gaps": 22,
+   "lines": 13,
+   "reconstructed": 8,
+   "uncertain": 8,
+   "words": 13
+  },
+  "4Q324c": {
+   "columns": 2,
+   "extant": 5,
+   "gaps": 12,
+   "lines": 6,
+   "reconstructed": 6,
+   "uncertain": 4,
+   "words": 11
+  },
+  "4Q324d": {
+   "columns": 15,
+   "extant": 42,
+   "gaps": 70,
+   "lines": 40,
+   "reconstructed": 32,
+   "uncertain": 37,
+   "words": 74
+  },
+  "4Q324e": {
+   "columns": 14,
+   "extant": 21,
+   "gaps": 60,
+   "lines": 31,
+   "reconstructed": 9,
+   "uncertain": 15,
+   "words": 30
+  },
+  "4Q324f": {
+   "columns": 4,
+   "extant": 6,
+   "gaps": 14,
+   "lines": 7,
+   "reconstructed": 0,
+   "uncertain": 0,
+   "words": 6
+  },
+  "4Q324g": {
+   "columns": 2,
+   "extant": 2,
+   "gaps": 4,
+   "lines": 2,
+   "reconstructed": 0,
+   "uncertain": 0,
+   "words": 2
+  },
+  "4Q324h": {
+   "columns": 12,
+   "extant": 7,
+   "gaps": 30,
+   "lines": 15,
+   "reconstructed": 0,
+   "uncertain": 3,
+   "words": 7
+  },
+  "4Q324i": {
+   "columns": 4,
+   "extant": 2,
+   "gaps": 16,
+   "lines": 8,
+   "reconstructed": 4,
+   "uncertain": 5,
+   "words": 6
+  },
+  "4Q325": {
+   "columns": 3,
+   "extant": 55,
+   "gaps": 15,
+   "lines": 19,
+   "reconstructed": 87,
+   "uncertain": 20,
+   "words": 142
+  },
+  "4Q326": {
+   "columns": 1,
+   "extant": 12,
+   "gaps": 0,
+   "lines": 5,
+   "reconstructed": 32,
+   "uncertain": 7,
+   "words": 44
+  },
+  "4Q328": {
+   "columns": 1,
+   "extant": 12,
+   "gaps": 0,
+   "lines": 6,
+   "reconstructed": 23,
+   "uncertain": 7,
+   "words": 35
+  },
+  "4Q329": {
+   "columns": 2,
+   "extant": 11,
+   "gaps": 2,
+   "lines": 9,
+   "reconstructed": 52,
+   "uncertain": 14,
+   "words": 63
+  },
+  "4Q329a": {
+   "columns": 1,
+   "extant": 7,
+   "gaps": 1,
+   "lines": 6,
+   "reconstructed": 22,
+   "uncertain": 7,
+   "words": 29
+  },
+  "4Q330": {
+   "columns": 4,
+   "extant": 15,
+   "gaps": 19,
+   "lines": 12,
+   "reconstructed": 11,
+   "uncertain": 15,
+   "words": 26
+  },
+  "4Q331": {
+   "columns": 11,
+   "extant": 39,
+   "gaps": 67,
+   "lines": 40,
+   "reconstructed": 4,
+   "uncertain": 20,
+   "words": 43
+  },
+  "4Q332": {
+   "columns": 3,
+   "extant": 32,
+   "gaps": 32,
+   "lines": 17,
+   "reconstructed": 20,
+   "uncertain": 23,
+   "words": 52
+  },
+  "4Q332a": {
+   "columns": 1,
+   "extant": 1,
+   "gaps": 2,
+   "lines": 1,
+   "reconstructed": 1,
+   "uncertain": 1,
+   "words": 2
+  },
+  "4Q333": {
+   "columns": 2,
+   "extant": 11,
+   "gaps": 10,
+   "lines": 9,
+   "reconstructed": 4,
+   "uncertain": 8,
+   "words": 15
+  },
+  "4Q334": {
+   "columns": 6,
+   "extant": 21,
+   "gaps": 31,
+   "lines": 22,
+   "reconstructed": 60,
+   "uncertain": 30,
+   "words": 81
+  },
+  "4Q337": {
+   "columns": 1,
+   "extant": 2,
+   "gaps": 4,
+   "lines": 4,
+   "reconstructed": 2,
+   "uncertain": 2,
+   "words": 4
+  },
+  "4Q338": {
+   "columns": 2,
+   "extant": 1,
+   "gaps": 3,
+   "lines": 2,
+   "reconstructed": 1,
+   "uncertain": 0,
+   "words": 2
+  },
+  "4Q339": {
+   "columns": 1,
+   "extant": 9,
+   "gaps": 0,
+   "lines": 9,
+   "reconstructed": 19,
+   "uncertain": 14,
+   "words": 28
+  },
+  "4Q340": {
+   "columns": 1,
+   "extant": 8,
+   "gaps": 0,
+   "lines": 6,
+   "reconstructed": 3,
+   "uncertain": 4,
+   "words": 11
+  },
+  "4Q341": {
+   "columns": 1,
+   "extant": 31,
+   "gaps": 0,
+   "lines": 13,
+   "reconstructed": 0,
+   "uncertain": 5,
+   "words": 31
+  },
+  "4Q342": {
+   "columns": 1,
+   "extant": 10,
+   "gaps": 8,
+   "lines": 4,
+   "reconstructed": 1,
+   "uncertain": 4,
+   "words": 11
+  },
+  "4Q343": {
+   "columns": 2,
+   "extant": 37,
+   "gaps": 18,
+   "lines": 15,
+   "reconstructed": 1,
+   "uncertain": 23,
+   "words": 38
+  },
+  "4Q344": {
+   "columns": 1,
+   "extant": 22,
+   "gaps": 13,
+   "lines": 8,
+   "reconstructed": 5,
+   "uncertain": 12,
+   "words": 27
+  },
+  "4Q345": {
+   "columns": 2,
+   "extant": 25,
+   "gaps": 19,
+   "lines": 21,
+   "reconstructed": 6,
+   "uncertain": 14,
+   "words": 31
+  },
+  "4Q346": {
+   "columns": 5,
+   "extant": 19,
+   "gaps": 18,
+   "lines": 11,
+   "reconstructed": 10,
+   "uncertain": 3,
+   "words": 29
+  },
+  "4Q346a": {
+   "columns": 1,
+   "extant": 3,
+   "gaps": 0,
+   "lines": 1,
+   "reconstructed": 0,
+   "uncertain": 2,
+   "words": 3
+  },
+  "4Q347": {
+   "columns": 1,
+   "extant": 6,
+   "gaps": 8,
+   "lines": 4,
+   "reconstructed": 1,
+   "uncertain": 6,
+   "words": 7
+  },
+  "4Q348": {
+   "columns": 1,
+   "extant": 44,
+   "gaps": 43,
+   "lines": 18,
+   "reconstructed": 9,
+   "uncertain": 19,
+   "words": 53
+  },
+  "4Q351": {
+   "columns": 2,
+   "extant": 3,
+   "gaps": 4,
+   "lines": 4,
+   "reconstructed": 1,
+   "uncertain": 0,
+   "words": 4
+  },
+  "4Q352": {
+   "columns": 3,
+   "extant": 11,
+   "gaps": 22,
+   "lines": 15,
+   "reconstructed": 0,
+   "uncertain": 0,
+   "words": 11
+  },
+  "4Q352a": {
+   "columns": 5,
+   "extant": 0,
+   "gaps": 11,
+   "lines": 8,
+   "reconstructed": 0,
+   "uncertain": 0,
+   "words": 0
+  },
+  "4Q353": {
+   "columns": 1,
+   "extant": 1,
+   "gaps": 1,
+   "lines": 1,
+   "reconstructed": 0,
+   "uncertain": 0,
+   "words": 1
+  },
+  "4Q354": {
+   "columns": 1,
+   "extant": 0,
+   "gaps": 1,
+   "lines": 1,
+   "reconstructed": 0,
+   "uncertain": 0,
+   "words": 0
+  },
+  "4Q356": {
+   "columns": 1,
+   "extant": 4,
+   "gaps": 4,
+   "lines": 2,
+   "reconstructed": 0,
+   "uncertain": 2,
+   "words": 4
+  },
+  "4Q357": {
+   "columns": 1,
+   "extant": 1,
+   "gaps": 4,
+   "lines": 2,
+   "reconstructed": 0,
+   "uncertain": 0,
+   "words": 1
+  },
+  "4Q358": {
+   "columns": 1,
+   "extant": 1,
+   "gaps": 8,
+   "lines": 4,
+   "reconstructed": 0,
+   "uncertain": 0,
+   "words": 1
+  },
+  "4Q359": {
+   "columns": 2,
+   "extant": 5,
+   "gaps": 5,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 5
+  },
+  "4Q360": {
+   "columns": 3,
+   "extant": 10,
+   "gaps": 7,
+   "lines": 8,
+   "reconstructed": 2,
+   "uncertain": 0,
+   "words": 12
+  },
+  "4Q360a": {
+   "columns": 15,
+   "extant": 17,
+   "gaps": 41,
+   "lines": 21,
+   "reconstructed": 0,
+   "uncertain": 5,
+   "words": 17
+  },
+  "4Q365": {
+   "columns": 69,
+   "extant": 940,
+   "gaps": 206,
+   "lines": 321,
+   "reconstructed": 1851,
+   "uncertain": 608,
+   "words": 2791
+  },
+  "4Q365a": {
+   "columns": 7,
+   "extant": 204,
+   "gaps": 64,
+   "lines": 53,
+   "reconstructed": 26,
+   "uncertain": 68,
+   "words": 230
+  },
+  "4Q366": {
+   "columns": 6,
+   "extant": 109,
+   "gaps": 9,
+   "lines": 49,
+   "reconstructed": 353,
+   "uncertain": 65,
+   "words": 462
+  },
+  "4Q367": {
+   "columns": 4,
+   "extant": 96,
+   "gaps": 16,
+   "lines": 45,
+   "reconstructed": 260,
+   "uncertain": 61,
+   "words": 356
+  },
+  "4Q368": {
+   "columns": 11,
+   "extant": 178,
+   "gaps": 91,
+   "lines": 75,
+   "reconstructed": 176,
+   "uncertain": 115,
+   "words": 354
+  },
+  "4Q369": {
+   "columns": 10,
+   "extant": 137,
+   "gaps": 84,
+   "lines": 50,
+   "reconstructed": 32,
+   "uncertain": 49,
+   "words": 169
+  },
+  "4Q370": {
+   "columns": 2,
+   "extant": 105,
+   "gaps": 20,
+   "lines": 19,
+   "reconstructed": 41,
+   "uncertain": 39,
+   "words": 146
+  },
+  "4Q371": {
+   "columns": 10,
+   "extant": 68,
+   "gaps": 76,
+   "lines": 43,
+   "reconstructed": 84,
+   "uncertain": 31,
+   "words": 152
+  },
+  "4Q372": {
+   "columns": 26,
+   "extant": 532,
+   "gaps": 234,
+   "lines": 141,
+   "reconstructed": 107,
+   "uncertain": 156,
+   "words": 639
+  },
+  "4Q373": {
+   "columns": 2,
+   "extant": 33,
+   "gaps": 14,
+   "lines": 10,
+   "reconstructed": 14,
+   "uncertain": 3,
+   "words": 47
+  },
+  "4Q373a": {
+   "columns": 1,
+   "extant": 10,
+   "gaps": 5,
+   "lines": 6,
+   "reconstructed": 46,
+   "uncertain": 10,
+   "words": 56
+  },
+  "4Q374": {
+   "columns": 18,
+   "extant": 123,
+   "gaps": 119,
+   "lines": 68,
+   "reconstructed": 15,
+   "uncertain": 51,
+   "words": 138
+  },
+  "4Q375": {
+   "columns": 2,
+   "extant": 79,
+   "gaps": 7,
+   "lines": 16,
+   "reconstructed": 48,
+   "uncertain": 32,
+   "words": 127
+  },
+  "4Q376": {
+   "columns": 4,
+   "extant": 68,
+   "gaps": 18,
+   "lines": 12,
+   "reconstructed": 7,
+   "uncertain": 30,
+   "words": 75
+  },
+  "4Q377": {
+   "columns": 7,
+   "extant": 186,
+   "gaps": 72,
+   "lines": 44,
+   "reconstructed": 31,
+   "uncertain": 98,
+   "words": 217
+  },
+  "4Q378": {
+   "columns": 36,
+   "extant": 326,
+   "gaps": 218,
+   "lines": 155,
+   "reconstructed": 78,
+   "uncertain": 122,
+   "words": 404
+  },
+  "4Q379": {
+   "columns": 44,
+   "extant": 388,
+   "gaps": 304,
+   "lines": 187,
+   "reconstructed": 75,
+   "uncertain": 199,
+   "words": 463
+  },
+  "4Q380": {
+   "columns": 9,
+   "extant": 106,
+   "gaps": 55,
+   "lines": 47,
+   "reconstructed": 28,
+   "uncertain": 41,
+   "words": 134
+  },
+  "4Q381": {
+   "columns": 107,
+   "extant": 1075,
+   "gaps": 680,
+   "lines": 371,
+   "reconstructed": 163,
+   "uncertain": 395,
+   "words": 1238
+  },
+  "4Q382": {
+   "columns": 154,
+   "extant": 582,
+   "gaps": 880,
+   "lines": 452,
+   "reconstructed": 89,
+   "uncertain": 401,
+   "words": 671
+  },
+  "4Q383": {
+   "columns": 9,
+   "extant": 60,
+   "gaps": 51,
+   "lines": 30,
+   "reconstructed": 13,
+   "uncertain": 28,
+   "words": 73
+  },
+  "4Q384": {
+   "columns": 31,
+   "extant": 107,
+   "gaps": 142,
+   "lines": 81,
+   "reconstructed": 14,
+   "uncertain": 73,
+   "words": 121
+  },
+  "4Q385": {
+   "columns": 6,
+   "extant": 204,
+   "gaps": 39,
+   "lines": 44,
+   "reconstructed": 74,
+   "uncertain": 43,
+   "words": 278
+  },
+  "4Q385a": {
+   "columns": 36,
+   "extant": 336,
+   "gaps": 209,
+   "lines": 167,
+   "reconstructed": 197,
+   "uncertain": 156,
+   "words": 533
+  },
+  "4Q385b": {
+   "columns": 1,
+   "extant": 26,
+   "gaps": 8,
+   "lines": 7,
+   "reconstructed": 16,
+   "uncertain": 15,
+   "words": 42
+  },
+  "4Q385c": {
+   "columns": 7,
+   "extant": 29,
+   "gaps": 35,
+   "lines": 20,
+   "reconstructed": 3,
+   "uncertain": 15,
+   "words": 32
+  },
+  "4Q386": {
+   "columns": 5,
+   "extant": 119,
+   "gaps": 29,
+   "lines": 36,
+   "reconstructed": 78,
+   "uncertain": 19,
+   "words": 197
+  },
+  "4Q387": {
+   "columns": 8,
+   "extant": 185,
+   "gaps": 60,
+   "lines": 54,
+   "reconstructed": 118,
+   "uncertain": 81,
+   "words": 303
+  },
+  "4Q387a": {
+   "columns": 9,
+   "extant": 46,
+   "gaps": 63,
+   "lines": 33,
+   "reconstructed": 6,
+   "uncertain": 19,
+   "words": 52
+  },
+  "4Q388": {
+   "columns": 8,
+   "extant": 45,
+   "gaps": 63,
+   "lines": 38,
+   "reconstructed": 48,
+   "uncertain": 26,
+   "words": 93
+  },
+  "4Q388a": {
+   "columns": 17,
+   "extant": 103,
+   "gaps": 98,
+   "lines": 67,
+   "reconstructed": 81,
+   "uncertain": 52,
+   "words": 184
+  },
+  "4Q389": {
+   "columns": 15,
+   "extant": 154,
+   "gaps": 84,
+   "lines": 56,
+   "reconstructed": 95,
+   "uncertain": 56,
+   "words": 249
+  },
+  "4Q390": {
+   "columns": 9,
+   "extant": 191,
+   "gaps": 58,
+   "lines": 51,
+   "reconstructed": 56,
+   "uncertain": 53,
+   "words": 247
+  },
+  "4Q391": {
+   "columns": 78,
+   "extant": 326,
+   "gaps": 386,
+   "lines": 200,
+   "reconstructed": 18,
+   "uncertain": 180,
+   "words": 344
+  },
+  "4Q392": {
+   "columns": 8,
+   "extant": 141,
+   "gaps": 65,
+   "lines": 40,
+   "reconstructed": 44,
+   "uncertain": 99,
+   "words": 185
+  },
+  "4Q393": {
+   "columns": 9,
+   "extant": 145,
+   "gaps": 65,
+   "lines": 51,
+   "reconstructed": 45,
+   "uncertain": 86,
+   "words": 190
+  },
+  "4Q394": {
+   "columns": 12,
+   "extant": 237,
+   "gaps": 37,
+   "lines": 146,
+   "reconstructed": 300,
+   "uncertain": 167,
+   "words": 537
+  },
+  "4Q395": {
+   "columns": 1,
+   "extant": 16,
+   "gaps": 7,
+   "lines": 12,
+   "reconstructed": 68,
+   "uncertain": 17,
+   "words": 84
+  },
+  "4Q396": {
+   "columns": 4,
+   "extant": 166,
+   "gaps": 6,
+   "lines": 39,
+   "reconstructed": 126,
+   "uncertain": 74,
+   "words": 292
+  },
+  "4Q397": {
+   "columns": 8,
+   "extant": 108,
+   "gaps": 62,
+   "lines": 55,
+   "reconstructed": 318,
+   "uncertain": 142,
+   "words": 426
+  },
+  "4Q398": {
+   "columns": 11,
+   "extant": 149,
+   "gaps": 46,
+   "lines": 43,
+   "reconstructed": 74,
+   "uncertain": 96,
+   "words": 223
+  },
+  "4Q399": {
+   "columns": 2,
+   "extant": 12,
+   "gaps": 0,
+   "lines": 8,
+   "reconstructed": 43,
+   "uncertain": 8,
+   "words": 55
+  },
+  "4Q400": {
+   "columns": 9,
+   "extant": 269,
+   "gaps": 110,
+   "lines": 93,
+   "reconstructed": 52,
+   "uncertain": 66,
+   "words": 321
+  },
+  "4Q401": {
+   "columns": 38,
+   "extant": 181,
+   "gaps": 211,
+   "lines": 126,
+   "reconstructed": 71,
+   "uncertain": 105,
+   "words": 252
+  },
+  "4Q402": {
+   "columns": 13,
+   "extant": 107,
+   "gaps": 119,
+   "lines": 78,
+   "reconstructed": 81,
+   "uncertain": 61,
+   "words": 188
+  },
+  "4Q403": {
+   "columns": 4,
+   "extant": 540,
+   "gaps": 76,
+   "lines": 103,
+   "reconstructed": 366,
+   "uncertain": 259,
+   "words": 906
+  },
+  "4Q404": {
+   "columns": 25,
+   "extant": 115,
+   "gaps": 156,
+   "lines": 86,
+   "reconstructed": 49,
+   "uncertain": 76,
+   "words": 164
+  },
+  "4Q405": {
+   "columns": 91,
+   "extant": 918,
+   "gaps": 561,
+   "lines": 346,
+   "reconstructed": 367,
+   "uncertain": 472,
+   "words": 1285
+  },
+  "4Q406": {
+   "columns": 5,
+   "extant": 29,
+   "gaps": 34,
+   "lines": 18,
+   "reconstructed": 1,
+   "uncertain": 12,
+   "words": 30
+  },
+  "4Q407": {
+   "columns": 2,
+   "extant": 8,
+   "gaps": 13,
+   "lines": 9,
+   "reconstructed": 2,
+   "uncertain": 5,
+   "words": 10
+  },
+  "4Q408": {
+   "columns": 17,
+   "extant": 103,
+   "gaps": 108,
+   "lines": 59,
+   "reconstructed": 79,
+   "uncertain": 82,
+   "words": 182
+  },
+  "4Q409": {
+   "columns": 5,
+   "extant": 37,
+   "gaps": 24,
+   "lines": 26,
+   "reconstructed": 37,
+   "uncertain": 14,
+   "words": 74
+  },
+  "4Q410": {
+   "columns": 4,
+   "extant": 53,
+   "gaps": 33,
+   "lines": 19,
+   "reconstructed": 19,
+   "uncertain": 23,
+   "words": 72
+  },
+  "4Q411": {
+   "columns": 2,
+   "extant": 31,
+   "gaps": 18,
+   "lines": 18,
+   "reconstructed": 9,
+   "uncertain": 17,
+   "words": 40
+  },
+  "4Q412": {
+   "columns": 4,
+   "extant": 56,
+   "gaps": 37,
+   "lines": 23,
+   "reconstructed": 21,
+   "uncertain": 39,
+   "words": 77
+  },
+  "4Q413": {
+   "columns": 1,
+   "extant": 35,
+   "gaps": 3,
+   "lines": 5,
+   "reconstructed": 10,
+   "uncertain": 10,
+   "words": 45
+  },
+  "4Q414": {
+   "columns": 36,
+   "extant": 168,
+   "gaps": 166,
+   "lines": 124,
+   "reconstructed": 109,
+   "uncertain": 67,
+   "words": 277
+  },
+  "4Q415": {
+   "columns": 33,
+   "extant": 243,
+   "gaps": 189,
+   "lines": 126,
+   "reconstructed": 56,
+   "uncertain": 139,
+   "words": 299
+  },
+  "4Q416": {
+   "columns": 23,
+   "extant": 657,
+   "gaps": 155,
+   "lines": 137,
+   "reconstructed": 173,
+   "uncertain": 226,
+   "words": 830
+  },
+  "4Q417": {
+   "columns": 31,
+   "extant": 641,
+   "gaps": 260,
+   "lines": 197,
+   "reconstructed": 204,
+   "uncertain": 339,
+   "words": 845
+  },
+  "4Q418": {
+   "columns": 306,
+   "extant": 2273,
+   "gaps": 1794,
+   "lines": 1064,
+   "reconstructed": 921,
+   "uncertain": 1205,
+   "words": 3194
+  },
+  "4Q418a": {
+   "columns": 25,
+   "extant": 121,
+   "gaps": 147,
+   "lines": 86,
+   "reconstructed": 39,
+   "uncertain": 90,
+   "words": 160
+  },
+  "4Q418b": {
+   "columns": 2,
+   "extant": 14,
+   "gaps": 11,
+   "lines": 7,
+   "reconstructed": 7,
+   "uncertain": 9,
+   "words": 21
+  },
+  "4Q418c": {
+   "columns": 1,
+   "extant": 19,
+   "gaps": 20,
+   "lines": 10,
+   "reconstructed": 8,
+   "uncertain": 13,
+   "words": 27
+  },
+  "4Q419": {
+   "columns": 12,
+   "extant": 116,
+   "gaps": 92,
+   "lines": 59,
+   "reconstructed": 20,
+   "uncertain": 59,
+   "words": 136
+  },
+  "4Q420": {
+   "columns": 8,
+   "extant": 70,
+   "gaps": 52,
+   "lines": 32,
+   "reconstructed": 36,
+   "uncertain": 41,
+   "words": 106
+  },
+  "4Q421": {
+   "columns": 14,
+   "extant": 155,
+   "gaps": 108,
+   "lines": 66,
+   "reconstructed": 83,
+   "uncertain": 92,
+   "words": 238
+  },
+  "4Q422": {
+   "columns": 26,
+   "extant": 214,
+   "gaps": 164,
+   "lines": 88,
+   "reconstructed": 152,
+   "uncertain": 120,
+   "words": 366
+  },
+  "4Q423": {
+   "columns": 26,
+   "extant": 254,
+   "gaps": 170,
+   "lines": 100,
+   "reconstructed": 155,
+   "uncertain": 151,
+   "words": 409
+  },
+  "4Q424": {
+   "columns": 5,
+   "extant": 218,
+   "gaps": 47,
+   "lines": 36,
+   "reconstructed": 27,
+   "uncertain": 43,
+   "words": 245
+  },
+  "4Q425": {
+   "columns": 5,
+   "extant": 76,
+   "gaps": 72,
+   "lines": 39,
+   "reconstructed": 17,
+   "uncertain": 49,
+   "words": 93
+  },
+  "4Q426": {
+   "columns": 15,
+   "extant": 136,
+   "gaps": 117,
+   "lines": 71,
+   "reconstructed": 28,
+   "uncertain": 74,
+   "words": 164
+  },
+  "4Q427": {
+   "columns": 25,
+   "extant": 372,
+   "gaps": 151,
+   "lines": 137,
+   "reconstructed": 472,
+   "uncertain": 168,
+   "words": 844
+  },
+  "4Q428": {
+   "columns": 66,
+   "extant": 247,
+   "gaps": 214,
+   "lines": 189,
+   "reconstructed": 522,
+   "uncertain": 179,
+   "words": 769
+  },
+  "4Q429": {
+   "columns": 8,
+   "extant": 90,
+   "gaps": 16,
+   "lines": 58,
+   "reconstructed": 310,
+   "uncertain": 69,
+   "words": 400
+  },
+  "4Q430": {
+   "columns": 1,
+   "extant": 13,
+   "gaps": 0,
+   "lines": 7,
+   "reconstructed": 57,
+   "uncertain": 15,
+   "words": 70
+  },
+  "4Q431": {
+   "columns": 2,
+   "extant": 70,
+   "gaps": 14,
+   "lines": 18,
+   "reconstructed": 62,
+   "uncertain": 25,
+   "words": 132
+  },
+  "4Q432": {
+   "columns": 24,
+   "extant": 75,
+   "gaps": 51,
+   "lines": 60,
+   "reconstructed": 285,
+   "uncertain": 95,
+   "words": 360
+  },
+  "4Q433": {
+   "columns": 3,
+   "extant": 38,
+   "gaps": 34,
+   "lines": 17,
+   "reconstructed": 9,
+   "uncertain": 22,
+   "words": 47
+  },
+  "4Q433a": {
+   "columns": 4,
+   "extant": 97,
+   "gaps": 54,
+   "lines": 32,
+   "reconstructed": 15,
+   "uncertain": 45,
+   "words": 112
+  },
+  "4Q434": {
+   "columns": 15,
+   "extant": 294,
+   "gaps": 86,
+   "lines": 66,
+   "reconstructed": 47,
+   "uncertain": 95,
+   "words": 341
+  },
+  "4Q435": {
+   "columns": 6,
+   "extant": 31,
+   "gaps": 25,
+   "lines": 29,
+   "reconstructed": 134,
+   "uncertain": 25,
+   "words": 165
+  },
+  "4Q436": {
+   "columns": 3,
+   "extant": 121,
+   "gaps": 15,
+   "lines": 19,
+   "reconstructed": 34,
+   "uncertain": 25,
+   "words": 155
+  },
+  "4Q437": {
+   "columns": 11,
+   "extant": 156,
+   "gaps": 69,
+   "lines": 48,
+   "reconstructed": 114,
+   "uncertain": 71,
+   "words": 270
+  },
+  "4Q438": {
+   "columns": 12,
+   "extant": 103,
+   "gaps": 67,
+   "lines": 39,
+   "reconstructed": 19,
+   "uncertain": 63,
+   "words": 122
+  },
+  "4Q439": {
+   "columns": 2,
+   "extant": 33,
+   "gaps": 13,
+   "lines": 11,
+   "reconstructed": 9,
+   "uncertain": 14,
+   "words": 42
+  },
+  "4Q440": {
+   "columns": 4,
+   "extant": 57,
+   "gaps": 39,
+   "lines": 25,
+   "reconstructed": 17,
+   "uncertain": 24,
+   "words": 74
+  },
+  "4Q440a": {
+   "columns": 1,
+   "extant": 19,
+   "gaps": 15,
+   "lines": 7,
+   "reconstructed": 1,
+   "uncertain": 13,
+   "words": 20
+  },
+  "4Q440b": {
+   "columns": 1,
+   "extant": 8,
+   "gaps": 8,
+   "lines": 4,
+   "reconstructed": 2,
+   "uncertain": 9,
+   "words": 10
+  },
+  "4Q441": {
+   "columns": 1,
+   "extant": 9,
+   "gaps": 14,
+   "lines": 9,
+   "reconstructed": 1,
+   "uncertain": 6,
+   "words": 10
+  },
+  "4Q442": {
+   "columns": 1,
+   "extant": 8,
+   "gaps": 4,
+   "lines": 4,
+   "reconstructed": 2,
+   "uncertain": 3,
+   "words": 10
+  },
+  "4Q443": {
+   "columns": 15,
+   "extant": 110,
+   "gaps": 127,
+   "lines": 73,
+   "reconstructed": 12,
+   "uncertain": 60,
+   "words": 122
+  },
+  "4Q444": {
+   "columns": 3,
+   "extant": 57,
+   "gaps": 27,
+   "lines": 18,
+   "reconstructed": 10,
+   "uncertain": 33,
+   "words": 67
+  },
+  "4Q445": {
+   "columns": 8,
+   "extant": 38,
+   "gaps": 56,
+   "lines": 28,
+   "reconstructed": 5,
+   "uncertain": 28,
+   "words": 43
+  },
+  "4Q446": {
+   "columns": 3,
+   "extant": 38,
+   "gaps": 30,
+   "lines": 14,
+   "reconstructed": 5,
+   "uncertain": 25,
+   "words": 43
+  },
+  "4Q447": {
+   "columns": 1,
+   "extant": 3,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 3,
+   "words": 3
+  },
+  "4Q448": {
+   "columns": 3,
+   "extant": 57,
+   "gaps": 15,
+   "lines": 28,
+   "reconstructed": 33,
+   "uncertain": 27,
+   "words": 90
+  },
+  "4Q449": {
+   "columns": 3,
+   "extant": 32,
+   "gaps": 24,
+   "lines": 12,
+   "reconstructed": 1,
+   "uncertain": 15,
+   "words": 33
+  },
+  "4Q450": {
+   "columns": 2,
+   "extant": 13,
+   "gaps": 14,
+   "lines": 7,
+   "reconstructed": 1,
+   "uncertain": 8,
+   "words": 14
+  },
+  "4Q451": {
+   "columns": 1,
+   "extant": 8,
+   "gaps": 8,
+   "lines": 4,
+   "reconstructed": 4,
+   "uncertain": 5,
+   "words": 12
+  },
+  "4Q452": {
+   "columns": 1,
+   "extant": 7,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 3,
+   "words": 7
+  },
+  "4Q453": {
+   "columns": 1,
+   "extant": 2,
+   "gaps": 3,
+   "lines": 2,
+   "reconstructed": 0,
+   "uncertain": 2,
+   "words": 2
+  },
+  "4Q454": {
+   "columns": 1,
+   "extant": 11,
+   "gaps": 13,
+   "lines": 8,
+   "reconstructed": 1,
+   "uncertain": 9,
+   "words": 12
+  },
+  "4Q455": {
+   "columns": 1,
+   "extant": 10,
+   "gaps": 8,
+   "lines": 4,
+   "reconstructed": 0,
+   "uncertain": 6,
+   "words": 10
+  },
+  "4Q456": {
+   "columns": 2,
+   "extant": 10,
+   "gaps": 9,
+   "lines": 7,
+   "reconstructed": 1,
+   "uncertain": 8,
+   "words": 11
+  },
+  "4Q457a": {
+   "columns": 2,
+   "extant": 22,
+   "gaps": 25,
+   "lines": 21,
+   "reconstructed": 0,
+   "uncertain": 19,
+   "words": 22
+  },
+  "4Q457b": {
+   "columns": 2,
+   "extant": 36,
+   "gaps": 18,
+   "lines": 17,
+   "reconstructed": 2,
+   "uncertain": 11,
+   "words": 38
+  },
+  "4Q458": {
+   "columns": 20,
+   "extant": 112,
+   "gaps": 108,
+   "lines": 64,
+   "reconstructed": 8,
+   "uncertain": 52,
+   "words": 120
+  },
+  "4Q459": {
+   "columns": 2,
+   "extant": 15,
+   "gaps": 7,
+   "lines": 6,
+   "reconstructed": 1,
+   "uncertain": 5,
+   "words": 16
+  },
+  "4Q460": {
+   "columns": 11,
+   "extant": 140,
+   "gaps": 96,
+   "lines": 53,
+   "reconstructed": 25,
+   "uncertain": 52,
+   "words": 165
+  },
+  "4Q461": {
+   "columns": 6,
+   "extant": 49,
+   "gaps": 43,
+   "lines": 23,
+   "reconstructed": 5,
+   "uncertain": 23,
+   "words": 54
+  },
+  "4Q462": {
+   "columns": 7,
+   "extant": 111,
+   "gaps": 57,
+   "lines": 29,
+   "reconstructed": 14,
+   "uncertain": 26,
+   "words": 125
+  },
+  "4Q463": {
+   "columns": 4,
+   "extant": 38,
+   "gaps": 27,
+   "lines": 17,
+   "reconstructed": 17,
+   "uncertain": 17,
+   "words": 55
+  },
+  "4Q464": {
+   "columns": 13,
+   "extant": 106,
+   "gaps": 98,
+   "lines": 67,
+   "reconstructed": 35,
+   "uncertain": 45,
+   "words": 141
+  },
+  "4Q464a": {
+   "columns": 1,
+   "extant": 12,
+   "gaps": 12,
+   "lines": 6,
+   "reconstructed": 1,
+   "uncertain": 8,
+   "words": 13
+  },
+  "4Q464b": {
+   "columns": 2,
+   "extant": 4,
+   "gaps": 8,
+   "lines": 4,
+   "reconstructed": 1,
+   "uncertain": 4,
+   "words": 5
+  },
+  "4Q465": {
+   "columns": 1,
+   "extant": 6,
+   "gaps": 14,
+   "lines": 7,
+   "reconstructed": 3,
+   "uncertain": 5,
+   "words": 9
+  },
+  "4Q466": {
+   "columns": 1,
+   "extant": 8,
+   "gaps": 10,
+   "lines": 5,
+   "reconstructed": 2,
+   "uncertain": 3,
+   "words": 10
+  },
+  "4Q467": {
+   "columns": 1,
+   "extant": 13,
+   "gaps": 10,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 3,
+   "words": 13
+  },
+  "4Q468a": {
+   "columns": 1,
+   "extant": 13,
+   "gaps": 10,
+   "lines": 5,
+   "reconstructed": 2,
+   "uncertain": 2,
+   "words": 15
+  },
+  "4Q468aa": {
+   "columns": 1,
+   "extant": 4,
+   "gaps": 8,
+   "lines": 4,
+   "reconstructed": 0,
+   "uncertain": 2,
+   "words": 4
+  },
+  "4Q468b": {
+   "columns": 1,
+   "extant": 17,
+   "gaps": 14,
+   "lines": 7,
+   "reconstructed": 7,
+   "uncertain": 4,
+   "words": 24
+  },
+  "4Q468bb": {
+   "columns": 1,
+   "extant": 4,
+   "gaps": 4,
+   "lines": 2,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 4
+  },
+  "4Q468c": {
+   "columns": 1,
+   "extant": 18,
+   "gaps": 12,
+   "lines": 12,
+   "reconstructed": 2,
+   "uncertain": 4,
+   "words": 20
+  },
+  "4Q468cc": {
+   "columns": 1,
+   "extant": 25,
+   "gaps": 17,
+   "lines": 8,
+   "reconstructed": 0,
+   "uncertain": 11,
+   "words": 25
+  },
+  "4Q468dd": {
+   "columns": 1,
+   "extant": 9,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 4,
+   "uncertain": 9,
+   "words": 13
+  },
+  "4Q468e": {
+   "columns": 1,
+   "extant": 6,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 2,
+   "uncertain": 3,
+   "words": 8
+  },
+  "4Q468f": {
+   "columns": 1,
+   "extant": 9,
+   "gaps": 6,
+   "lines": 6,
+   "reconstructed": 0,
+   "uncertain": 3,
+   "words": 9
+  },
+  "4Q468g": {
+   "columns": 1,
+   "extant": 15,
+   "gaps": 7,
+   "lines": 6,
+   "reconstructed": 1,
+   "uncertain": 6,
+   "words": 16
+  },
+  "4Q468i": {
+   "columns": 1,
+   "extant": 18,
+   "gaps": 7,
+   "lines": 6,
+   "reconstructed": 1,
+   "uncertain": 8,
+   "words": 19
+  },
+  "4Q468j": {
+   "columns": 5,
+   "extant": 4,
+   "gaps": 12,
+   "lines": 6,
+   "reconstructed": 0,
+   "uncertain": 3,
+   "words": 4
+  },
+  "4Q468k": {
+   "columns": 1,
+   "extant": 9,
+   "gaps": 12,
+   "lines": 6,
+   "reconstructed": 1,
+   "uncertain": 7,
+   "words": 10
+  },
+  "4Q468l": {
+   "columns": 1,
+   "extant": 6,
+   "gaps": 4,
+   "lines": 2,
+   "reconstructed": 2,
+   "uncertain": 6,
+   "words": 8
+  },
+  "4Q468m": {
+   "columns": 1,
+   "extant": 3,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 2,
+   "words": 3
+  },
+  "4Q468n": {
+   "columns": 1,
+   "extant": 7,
+   "gaps": 8,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 4,
+   "words": 7
+  },
+  "4Q468o": {
+   "columns": 1,
+   "extant": 3,
+   "gaps": 4,
+   "lines": 2,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 3
+  },
+  "4Q468p": {
+   "columns": 2,
+   "extant": 6,
+   "gaps": 7,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 2,
+   "words": 6
+  },
+  "4Q468q": {
+   "columns": 1,
+   "extant": 3,
+   "gaps": 4,
+   "lines": 2,
+   "reconstructed": 0,
+   "uncertain": 3,
+   "words": 3
+  },
+  "4Q468r": {
+   "columns": 2,
+   "extant": 5,
+   "gaps": 8,
+   "lines": 4,
+   "reconstructed": 0,
+   "uncertain": 3,
+   "words": 5
+  },
+  "4Q468s": {
+   "columns": 1,
+   "extant": 1,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 1
+  },
+  "4Q468t": {
+   "columns": 1,
+   "extant": 1,
+   "gaps": 4,
+   "lines": 2,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 1
+  },
+  "4Q468u": {
+   "columns": 1,
+   "extant": 1,
+   "gaps": 2,
+   "lines": 1,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 1
+  },
+  "4Q468v": {
+   "columns": 1,
+   "extant": 1,
+   "gaps": 2,
+   "lines": 1,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 1
+  },
+  "4Q468w": {
+   "columns": 1,
+   "extant": 1,
+   "gaps": 4,
+   "lines": 2,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 1
+  },
+  "4Q468x": {
+   "columns": 1,
+   "extant": 0,
+   "gaps": 4,
+   "lines": 2,
+   "reconstructed": 1,
+   "uncertain": 1,
+   "words": 1
+  },
+  "4Q468y": {
+   "columns": 1,
+   "extant": 4,
+   "gaps": 8,
+   "lines": 4,
+   "reconstructed": 1,
+   "uncertain": 2,
+   "words": 5
+  },
+  "4Q468z": {
+   "columns": 1,
+   "extant": 2,
+   "gaps": 3,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 2
+  },
+  "4Q469": {
+   "columns": 10,
+   "extant": 39,
+   "gaps": 58,
+   "lines": 31,
+   "reconstructed": 6,
+   "uncertain": 27,
+   "words": 45
+  },
+  "4Q470": {
+   "columns": 3,
+   "extant": 41,
+   "gaps": 32,
+   "lines": 18,
+   "reconstructed": 16,
+   "uncertain": 17,
+   "words": 57
+  },
+  "4Q471": {
+   "columns": 3,
+   "extant": 47,
+   "gaps": 38,
+   "lines": 24,
+   "reconstructed": 50,
+   "uncertain": 37,
+   "words": 97
+  },
+  "4Q471a": {
+   "columns": 1,
+   "extant": 30,
+   "gaps": 9,
+   "lines": 8,
+   "reconstructed": 2,
+   "uncertain": 4,
+   "words": 32
+  },
+  "4Q471b": {
+   "columns": 1,
+   "extant": 24,
+   "gaps": 4,
+   "lines": 10,
+   "reconstructed": 53,
+   "uncertain": 17,
+   "words": 77
+  },
+  "4Q471c": {
+   "columns": 2,
+   "extant": 15,
+   "gaps": 16,
+   "lines": 8,
+   "reconstructed": 3,
+   "uncertain": 3,
+   "words": 18
+  },
+  "4Q472": {
+   "columns": 2,
+   "extant": 32,
+   "gaps": 20,
+   "lines": 15,
+   "reconstructed": 11,
+   "uncertain": 19,
+   "words": 43
+  },
+  "4Q472a": {
+   "columns": 1,
+   "extant": 12,
+   "gaps": 10,
+   "lines": 5,
+   "reconstructed": 1,
+   "uncertain": 12,
+   "words": 13
+  },
+  "4Q473": {
+   "columns": 2,
+   "extant": 23,
+   "gaps": 12,
+   "lines": 12,
+   "reconstructed": 29,
+   "uncertain": 12,
+   "words": 52
+  },
+  "4Q474": {
+   "columns": 1,
+   "extant": 41,
+   "gaps": 31,
+   "lines": 15,
+   "reconstructed": 22,
+   "uncertain": 40,
+   "words": 63
+  },
+  "4Q475": {
+   "columns": 1,
+   "extant": 37,
+   "gaps": 11,
+   "lines": 9,
+   "reconstructed": 20,
+   "uncertain": 20,
+   "words": 57
+  },
+  "4Q476": {
+   "columns": 4,
+   "extant": 27,
+   "gaps": 32,
+   "lines": 24,
+   "reconstructed": 14,
+   "uncertain": 18,
+   "words": 41
+  },
+  "4Q476a": {
+   "columns": 2,
+   "extant": 7,
+   "gaps": 10,
+   "lines": 5,
+   "reconstructed": 2,
+   "uncertain": 4,
+   "words": 9
+  },
+  "4Q477": {
+   "columns": 4,
+   "extant": 63,
+   "gaps": 38,
+   "lines": 18,
+   "reconstructed": 25,
+   "uncertain": 15,
+   "words": 88
+  },
+  "4Q478": {
+   "columns": 1,
+   "extant": 8,
+   "gaps": 10,
+   "lines": 5,
+   "reconstructed": 0,
+   "uncertain": 3,
+   "words": 8
+  },
+  "4Q479": {
+   "columns": 3,
+   "extant": 21,
+   "gaps": 21,
+   "lines": 17,
+   "reconstructed": 1,
+   "uncertain": 9,
+   "words": 22
+  },
+  "4Q480": {
+   "columns": 2,
+   "extant": 10,
+   "gaps": 12,
+   "lines": 10,
+   "reconstructed": 2,
+   "uncertain": 8,
+   "words": 12
+  },
+  "4Q481": {
+   "columns": 2,
+   "extant": 12,
+   "gaps": 12,
+   "lines": 6,
+   "reconstructed": 0,
+   "uncertain": 4,
+   "words": 12
+  },
+  "4Q481a": {
+   "columns": 3,
+   "extant": 21,
+   "gaps": 13,
+   "lines": 14,
+   "reconstructed": 40,
+   "uncertain": 11,
+   "words": 61
+  },
+  "4Q481b": {
+   "columns": 1,
+   "extant": 13,
+   "gaps": 7,
+   "lines": 6,
+   "reconstructed": 2,
+   "uncertain": 6,
+   "words": 15
+  },
+  "4Q481c": {
+   "columns": 1,
+   "extant": 30,
+   "gaps": 20,
+   "lines": 10,
+   "reconstructed": 1,
+   "uncertain": 4,
+   "words": 31
+  },
+  "4Q481d": {
+   "columns": 8,
+   "extant": 38,
+   "gaps": 49,
+   "lines": 29,
+   "reconstructed": 1,
+   "uncertain": 18,
+   "words": 39
+  },
+  "4Q481e": {
+   "columns": 1,
+   "extant": 8,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 4,
+   "uncertain": 4,
+   "words": 12
+  },
+  "4Q482": {
+   "columns": 8,
+   "extant": 30,
+   "gaps": 50,
+   "lines": 25,
+   "reconstructed": 8,
+   "uncertain": 18,
+   "words": 38
+  },
+  "4Q483": {
+   "columns": 2,
+   "extant": 2,
+   "gaps": 10,
+   "lines": 5,
+   "reconstructed": 2,
+   "uncertain": 3,
+   "words": 4
+  },
+  "4Q484": {
+   "columns": 20,
+   "extant": 27,
+   "gaps": 55,
+   "lines": 28,
+   "reconstructed": 0,
+   "uncertain": 25,
+   "words": 27
+  },
+  "4Q485": {
+   "columns": 5,
+   "extant": 29,
+   "gaps": 32,
+   "lines": 16,
+   "reconstructed": 0,
+   "uncertain": 19,
+   "words": 29
+  },
+  "4Q486": {
+   "columns": 1,
+   "extant": 8,
+   "gaps": 9,
+   "lines": 9,
+   "reconstructed": 0,
+   "uncertain": 6,
+   "words": 8
+  },
+  "4Q487": {
+   "columns": 54,
+   "extant": 258,
+   "gaps": 349,
+   "lines": 184,
+   "reconstructed": 8,
+   "uncertain": 118,
+   "words": 266
+  },
+  "4Q488": {
+   "columns": 6,
+   "extant": 11,
+   "gaps": 18,
+   "lines": 9,
+   "reconstructed": 0,
+   "uncertain": 8,
+   "words": 11
+  },
+  "4Q489": {
+   "columns": 8,
+   "extant": 13,
+   "gaps": 23,
+   "lines": 12,
+   "reconstructed": 0,
+   "uncertain": 12,
+   "words": 13
+  },
+  "4Q490": {
+   "columns": 16,
+   "extant": 18,
+   "gaps": 36,
+   "lines": 18,
+   "reconstructed": 0,
+   "uncertain": 12,
+   "words": 18
+  },
+  "4Q491": {
+   "columns": 33,
+   "extant": 729,
+   "gaps": 318,
+   "lines": 196,
+   "reconstructed": 577,
+   "uncertain": 399,
+   "words": 1306
+  },
+  "4Q492": {
+   "columns": 3,
+   "extant": 67,
+   "gaps": 16,
+   "lines": 19,
+   "reconstructed": 102,
+   "uncertain": 41,
+   "words": 169
+  },
+  "4Q493": {
+   "columns": 1,
+   "extant": 76,
+   "gaps": 6,
+   "lines": 14,
+   "reconstructed": 33,
+   "uncertain": 41,
+   "words": 109
+  },
+  "4Q494": {
+   "columns": 1,
+   "extant": 12,
+   "gaps": 3,
+   "lines": 6,
+   "reconstructed": 45,
+   "uncertain": 6,
+   "words": 57
+  },
+  "4Q495": {
+   "columns": 2,
+   "extant": 8,
+   "gaps": 2,
+   "lines": 6,
+   "reconstructed": 47,
+   "uncertain": 9,
+   "words": 55
+  },
+  "4Q496": {
+   "columns": 99,
+   "extant": 224,
+   "gaps": 514,
+   "lines": 268,
+   "reconstructed": 141,
+   "uncertain": 236,
+   "words": 365
+  },
+  "4Q497": {
+   "columns": 48,
+   "extant": 121,
+   "gaps": 262,
+   "lines": 138,
+   "reconstructed": 3,
+   "uncertain": 82,
+   "words": 124
+  },
+  "4Q498": {
+   "columns": 17,
+   "extant": 40,
+   "gaps": 55,
+   "lines": 32,
+   "reconstructed": 2,
+   "uncertain": 25,
+   "words": 42
+  },
+  "4Q499": {
+   "columns": 52,
+   "extant": 153,
+   "gaps": 301,
+   "lines": 152,
+   "reconstructed": 3,
+   "uncertain": 116,
+   "words": 156
+  },
+  "4Q500": {
+   "columns": 7,
+   "extant": 25,
+   "gaps": 38,
+   "lines": 19,
+   "reconstructed": 2,
+   "uncertain": 14,
+   "words": 27
+  },
+  "4Q501": {
+   "columns": 1,
+   "extant": 65,
+   "gaps": 6,
+   "lines": 9,
+   "reconstructed": 12,
+   "uncertain": 7,
+   "words": 77
+  },
+  "4Q502": {
+   "columns": 335,
+   "extant": 902,
+   "gaps": 1559,
+   "lines": 793,
+   "reconstructed": 177,
+   "uncertain": 584,
+   "words": 1079
+  },
+  "4Q503": {
+   "columns": 190,
+   "extant": 814,
+   "gaps": 1149,
+   "lines": 657,
+   "reconstructed": 646,
+   "uncertain": 511,
+   "words": 1460
+  },
+  "4Q504": {
+   "columns": 57,
+   "extant": 950,
+   "gaps": 487,
+   "lines": 363,
+   "reconstructed": 211,
+   "uncertain": 418,
+   "words": 1161
+  },
+  "4Q505": {
+   "columns": 10,
+   "extant": 42,
+   "gaps": 63,
+   "lines": 32,
+   "reconstructed": 22,
+   "uncertain": 37,
+   "words": 64
+  },
+  "4Q506": {
+   "columns": 47,
+   "extant": 110,
+   "gaps": 232,
+   "lines": 127,
+   "reconstructed": 63,
+   "uncertain": 101,
+   "words": 173
+  },
+  "4Q507": {
+   "columns": 3,
+   "extant": 22,
+   "gaps": 17,
+   "lines": 10,
+   "reconstructed": 8,
+   "uncertain": 15,
+   "words": 30
+  },
+  "4Q508": {
+   "columns": 41,
+   "extant": 167,
+   "gaps": 185,
+   "lines": 100,
+   "reconstructed": 55,
+   "uncertain": 116,
+   "words": 222
+  },
+  "4Q509": {
+   "columns": 302,
+   "extant": 943,
+   "gaps": 1498,
+   "lines": 822,
+   "reconstructed": 173,
+   "uncertain": 732,
+   "words": 1116
+  },
+  "4Q510": {
+   "columns": 12,
+   "extant": 112,
+   "gaps": 49,
+   "lines": 33,
+   "reconstructed": 17,
+   "uncertain": 29,
+   "words": 129
+  },
+  "4Q511": {
+   "columns": 205,
+   "extant": 1196,
+   "gaps": 1120,
+   "lines": 671,
+   "reconstructed": 257,
+   "uncertain": 694,
+   "words": 1453
+  },
+  "4Q512": {
+   "columns": 181,
+   "extant": 667,
+   "gaps": 953,
+   "lines": 530,
+   "reconstructed": 208,
+   "uncertain": 459,
+   "words": 875
+  },
+  "4Q513": {
+   "columns": 45,
+   "extant": 234,
+   "gaps": 252,
+   "lines": 144,
+   "reconstructed": 56,
+   "uncertain": 129,
+   "words": 290
+  },
+  "4Q514": {
+   "columns": 4,
+   "extant": 81,
+   "gaps": 26,
+   "lines": 23,
+   "reconstructed": 24,
+   "uncertain": 36,
+   "words": 105
+  },
+  "4Q515": {
+   "columns": 24,
+   "extant": 39,
+   "gaps": 60,
+   "lines": 32,
+   "reconstructed": 0,
+   "uncertain": 30,
+   "words": 39
+  },
+  "4Q516": {
+   "columns": 9,
+   "extant": 14,
+   "gaps": 22,
+   "lines": 12,
+   "reconstructed": 0,
+   "uncertain": 8,
+   "words": 14
+  },
+  "4Q517": {
+   "columns": 87,
+   "extant": 147,
+   "gaps": 231,
+   "lines": 122,
+   "reconstructed": 0,
+   "uncertain": 106,
+   "words": 147
+  },
+  "4Q518": {
+   "columns": 36,
+   "extant": 62,
+   "gaps": 113,
+   "lines": 57,
+   "reconstructed": 0,
+   "uncertain": 48,
+   "words": 62
+  },
+  "4Q519": {
+   "columns": 46,
+   "extant": 70,
+   "gaps": 124,
+   "lines": 65,
+   "reconstructed": 2,
+   "uncertain": 55,
+   "words": 72
+  },
+  "4Q520": {
+   "columns": 40,
+   "extant": 76,
+   "gaps": 127,
+   "lines": 67,
+   "reconstructed": 0,
+   "uncertain": 51,
+   "words": 76
+  },
+  "4Q521": {
+   "columns": 16,
+   "extant": 213,
+   "gaps": 111,
+   "lines": 103,
+   "reconstructed": 79,
+   "uncertain": 92,
+   "words": 292
+  },
+  "4Q522": {
+   "columns": 22,
+   "extant": 219,
+   "gaps": 135,
+   "lines": 90,
+   "reconstructed": 185,
+   "uncertain": 129,
+   "words": 404
+  },
+  "4Q523": {
+   "columns": 4,
+   "extant": 29,
+   "gaps": 37,
+   "lines": 20,
+   "reconstructed": 6,
+   "uncertain": 18,
+   "words": 35
+  },
+  "4Q524": {
+   "columns": 25,
+   "extant": 106,
+   "gaps": 80,
+   "lines": 78,
+   "reconstructed": 645,
+   "uncertain": 82,
+   "words": 751
+  },
+  "4Q525": {
+   "columns": 54,
+   "extant": 638,
+   "gaps": 458,
+   "lines": 295,
+   "reconstructed": 215,
+   "uncertain": 312,
+   "words": 853
+  },
+  "4Q526": {
+   "columns": 1,
+   "extant": 7,
+   "gaps": 4,
+   "lines": 2,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 7
+  },
+  "4Q527": {
+   "columns": 1,
+   "extant": 9,
+   "gaps": 5,
+   "lines": 3,
+   "reconstructed": 1,
+   "uncertain": 4,
+   "words": 10
+  },
+  "4Q528": {
+   "columns": 1,
+   "extant": 14,
+   "gaps": 13,
+   "lines": 6,
+   "reconstructed": 9,
+   "uncertain": 17,
+   "words": 23
+  },
+  "4Q529": {
+   "columns": 3,
+   "extant": 88,
+   "gaps": 18,
+   "lines": 19,
+   "reconstructed": 43,
+   "uncertain": 25,
+   "words": 131
+  },
+  "4Q530": {
+   "columns": 15,
+   "extant": 265,
+   "gaps": 66,
+   "lines": 74,
+   "reconstructed": 188,
+   "uncertain": 129,
+   "words": 453
+  },
+  "4Q531": {
+   "columns": 50,
+   "extant": 364,
+   "gaps": 356,
+   "lines": 195,
+   "reconstructed": 127,
+   "uncertain": 242,
+   "words": 491
+  },
+  "4Q532": {
+   "columns": 3,
+   "extant": 56,
+   "gaps": 50,
+   "lines": 36,
+   "reconstructed": 15,
+   "uncertain": 38,
+   "words": 71
+  },
+  "4Q533": {
+   "columns": 9,
+   "extant": 45,
+   "gaps": 45,
+   "lines": 26,
+   "reconstructed": 9,
+   "uncertain": 35,
+   "words": 54
+  },
+  "4Q534": {
+   "columns": 7,
+   "extant": 138,
+   "gaps": 51,
+   "lines": 51,
+   "reconstructed": 99,
+   "uncertain": 98,
+   "words": 237
+  },
+  "4Q535": {
+   "columns": 3,
+   "extant": 29,
+   "gaps": 22,
+   "lines": 12,
+   "reconstructed": 20,
+   "uncertain": 23,
+   "words": 49
+  },
+  "4Q536": {
+   "columns": 4,
+   "extant": 91,
+   "gaps": 30,
+   "lines": 25,
+   "reconstructed": 38,
+   "uncertain": 30,
+   "words": 129
+  },
+  "4Q537": {
+   "columns": 23,
+   "extant": 156,
+   "gaps": 101,
+   "lines": 62,
+   "reconstructed": 97,
+   "uncertain": 88,
+   "words": 253
+  },
+  "4Q538": {
+   "columns": 3,
+   "extant": 46,
+   "gaps": 18,
+   "lines": 14,
+   "reconstructed": 50,
+   "uncertain": 5,
+   "words": 96
+  },
+  "4Q539": {
+   "columns": 4,
+   "extant": 34,
+   "gaps": 26,
+   "lines": 19,
+   "reconstructed": 64,
+   "uncertain": 24,
+   "words": 98
+  },
+  "4Q540": {
+   "columns": 3,
+   "extant": 33,
+   "gaps": 18,
+   "lines": 9,
+   "reconstructed": 13,
+   "uncertain": 13,
+   "words": 46
+  },
+  "4Q541": {
+   "columns": 31,
+   "extant": 267,
+   "gaps": 175,
+   "lines": 118,
+   "reconstructed": 82,
+   "uncertain": 136,
+   "words": 349
+  },
+  "4Q542": {
+   "columns": 5,
+   "extant": 217,
+   "gaps": 28,
+   "lines": 39,
+   "reconstructed": 51,
+   "uncertain": 35,
+   "words": 268
+  },
+  "4Q543": {
+   "columns": 42,
+   "extant": 171,
+   "gaps": 196,
+   "lines": 123,
+   "reconstructed": 194,
+   "uncertain": 114,
+   "words": 365
+  },
+  "4Q544": {
+   "columns": 3,
+   "extant": 123,
+   "gaps": 20,
+   "lines": 24,
+   "reconstructed": 192,
+   "uncertain": 41,
+   "words": 315
+  },
+  "4Q545": {
+   "columns": 13,
+   "extant": 172,
+   "gaps": 82,
+   "lines": 76,
+   "reconstructed": 152,
+   "uncertain": 125,
+   "words": 324
+  },
+  "4Q546": {
+   "columns": 27,
+   "extant": 160,
+   "gaps": 180,
+   "lines": 103,
+   "reconstructed": 118,
+   "uncertain": 155,
+   "words": 278
+  },
+  "4Q547": {
+   "columns": 9,
+   "extant": 105,
+   "gaps": 99,
+   "lines": 60,
+   "reconstructed": 173,
+   "uncertain": 71,
+   "words": 278
+  },
+  "4Q548": {
+   "columns": 3,
+   "extant": 68,
+   "gaps": 28,
+   "lines": 23,
+   "reconstructed": 68,
+   "uncertain": 40,
+   "words": 136
+  },
+  "4Q549": {
+   "columns": 2,
+   "extant": 32,
+   "gaps": 14,
+   "lines": 14,
+   "reconstructed": 39,
+   "uncertain": 15,
+   "words": 71
+  },
+  "4Q550": {
+   "columns": 11,
+   "extant": 240,
+   "gaps": 63,
+   "lines": 59,
+   "reconstructed": 302,
+   "uncertain": 157,
+   "words": 542
+  },
+  "4Q551": {
+   "columns": 4,
+   "extant": 45,
+   "gaps": 27,
+   "lines": 18,
+   "reconstructed": 9,
+   "uncertain": 31,
+   "words": 54
+  },
+  "4Q552": {
+   "columns": 6,
+   "extant": 103,
+   "gaps": 34,
+   "lines": 41,
+   "reconstructed": 88,
+   "uncertain": 49,
+   "words": 191
+  },
+  "4Q553": {
+   "columns": 4,
+   "extant": 63,
+   "gaps": 17,
+   "lines": 21,
+   "reconstructed": 58,
+   "uncertain": 26,
+   "words": 121
+  },
+  "4Q553a": {
+   "columns": 13,
+   "extant": 49,
+   "gaps": 54,
+   "lines": 38,
+   "reconstructed": 13,
+   "uncertain": 34,
+   "words": 62
+  },
+  "4Q554": {
+   "columns": 17,
+   "extant": 343,
+   "gaps": 66,
+   "lines": 106,
+   "reconstructed": 426,
+   "uncertain": 129,
+   "words": 769
+  },
+  "4Q554a": {
+   "columns": 1,
+   "extant": 56,
+   "gaps": 3,
+   "lines": 14,
+   "reconstructed": 105,
+   "uncertain": 19,
+   "words": 161
+  },
+  "4Q555": {
+   "columns": 6,
+   "extant": 25,
+   "gaps": 32,
+   "lines": 21,
+   "reconstructed": 10,
+   "uncertain": 18,
+   "words": 35
+  },
+  "4Q556": {
+   "columns": 1,
+   "extant": 39,
+   "gaps": 20,
+   "lines": 10,
+   "reconstructed": 6,
+   "uncertain": 16,
+   "words": 45
+  },
+  "4Q556a": {
+   "columns": 13,
+   "extant": 105,
+   "gaps": 108,
+   "lines": 68,
+   "reconstructed": 39,
+   "uncertain": 84,
+   "words": 144
+  },
+  "4Q557": {
+   "columns": 2,
+   "extant": 27,
+   "gaps": 26,
+   "lines": 13,
+   "reconstructed": 3,
+   "uncertain": 18,
+   "words": 30
+  },
+  "4Q558": {
+   "columns": 145,
+   "extant": 427,
+   "gaps": 638,
+   "lines": 343,
+   "reconstructed": 87,
+   "uncertain": 319,
+   "words": 514
+  },
+  "4Q558a": {
+   "columns": 7,
+   "extant": 16,
+   "gaps": 30,
+   "lines": 15,
+   "reconstructed": 2,
+   "uncertain": 12,
+   "words": 18
+  },
+  "4Q559": {
+   "columns": 13,
+   "extant": 38,
+   "gaps": 36,
+   "lines": 46,
+   "reconstructed": 189,
+   "uncertain": 41,
+   "words": 227
+  },
+  "4Q560": {
+   "columns": 3,
+   "extant": 48,
+   "gaps": 23,
+   "lines": 16,
+   "reconstructed": 11,
+   "uncertain": 27,
+   "words": 59
+  },
+  "4Q561": {
+   "columns": 9,
+   "extant": 59,
+   "gaps": 48,
+   "lines": 41,
+   "reconstructed": 68,
+   "uncertain": 57,
+   "words": 127
+  },
+  "4Q562": {
+   "columns": 11,
+   "extant": 79,
+   "gaps": 63,
+   "lines": 37,
+   "reconstructed": 27,
+   "uncertain": 66,
+   "words": 106
+  },
+  "4Q563": {
+   "columns": 3,
+   "extant": 33,
+   "gaps": 26,
+   "lines": 13,
+   "reconstructed": 15,
+   "uncertain": 27,
+   "words": 48
+  },
+  "4Q564": {
+   "columns": 2,
+   "extant": 14,
+   "gaps": 5,
+   "lines": 5,
+   "reconstructed": 1,
+   "uncertain": 9,
+   "words": 15
+  },
+  "4Q565": {
+   "columns": 1,
+   "extant": 15,
+   "gaps": 14,
+   "lines": 7,
+   "reconstructed": 1,
+   "uncertain": 13,
+   "words": 16
+  },
+  "4Q566": {
+   "columns": 2,
+   "extant": 17,
+   "gaps": 13,
+   "lines": 9,
+   "reconstructed": 2,
+   "uncertain": 12,
+   "words": 19
+  },
+  "4Q567": {
+   "columns": 1,
+   "extant": 3,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 4,
+   "uncertain": 5,
+   "words": 7
+  },
+  "4Q568": {
+   "columns": 1,
+   "extant": 15,
+   "gaps": 5,
+   "lines": 2,
+   "reconstructed": 3,
+   "uncertain": 6,
+   "words": 18
+  },
+  "4Q569": {
+   "columns": 2,
+   "extant": 29,
+   "gaps": 18,
+   "lines": 18,
+   "reconstructed": 61,
+   "uncertain": 28,
+   "words": 90
+  },
+  "4Q570": {
+   "columns": 47,
+   "extant": 206,
+   "gaps": 319,
+   "lines": 169,
+   "reconstructed": 58,
+   "uncertain": 178,
+   "words": 264
+  },
+  "4Q571": {
+   "columns": 1,
+   "extant": 19,
+   "gaps": 3,
+   "lines": 5,
+   "reconstructed": 21,
+   "uncertain": 10,
+   "words": 40
+  },
+  "4Q572": {
+   "columns": 1,
+   "extant": 7,
+   "gaps": 8,
+   "lines": 4,
+   "reconstructed": 2,
+   "uncertain": 5,
+   "words": 9
+  },
+  "4Q573": {
+   "columns": 1,
+   "extant": 11,
+   "gaps": 9,
+   "lines": 9,
+   "reconstructed": 1,
+   "uncertain": 4,
+   "words": 12
+  },
+  "4Q574": {
+   "columns": 1,
+   "extant": 17,
+   "gaps": 9,
+   "lines": 9,
+   "reconstructed": 0,
+   "uncertain": 13,
+   "words": 17
+  },
+  "4Q575": {
+   "columns": 1,
+   "extant": 13,
+   "gaps": 16,
+   "lines": 8,
+   "reconstructed": 5,
+   "uncertain": 11,
+   "words": 18
+  },
+  "4Q575a": {
+   "columns": 1,
+   "extant": 5,
+   "gaps": 11,
+   "lines": 6,
+   "reconstructed": 2,
+   "uncertain": 6,
+   "words": 7
+  },
+  "4Q577": {
+   "columns": 8,
+   "extant": 36,
+   "gaps": 57,
+   "lines": 31,
+   "reconstructed": 14,
+   "uncertain": 25,
+   "words": 50
+  },
+  "4Q578": {
+   "columns": 1,
+   "extant": 6,
+   "gaps": 9,
+   "lines": 5,
+   "reconstructed": 2,
+   "uncertain": 6,
+   "words": 8
+  },
+  "4Q579": {
+   "columns": 3,
+   "extant": 15,
+   "gaps": 16,
+   "lines": 8,
+   "reconstructed": 1,
+   "uncertain": 11,
+   "words": 16
+  },
+  "4Q580": {
+   "columns": 19,
+   "extant": 116,
+   "gaps": 122,
+   "lines": 81,
+   "reconstructed": 27,
+   "uncertain": 72,
+   "words": 143
+  },
+  "4Q581": {
+   "columns": 2,
+   "extant": 31,
+   "gaps": 32,
+   "lines": 18,
+   "reconstructed": 33,
+   "uncertain": 31,
+   "words": 64
+  },
+  "4Q582": {
+   "columns": 5,
+   "extant": 26,
+   "gaps": 39,
+   "lines": 21,
+   "reconstructed": 12,
+   "uncertain": 27,
+   "words": 38
+  },
+  "4Q583": {
+   "columns": 1,
+   "extant": 20,
+   "gaps": 3,
+   "lines": 4,
+   "reconstructed": 13,
+   "uncertain": 5,
+   "words": 33
+  },
+  "4Q584": {
+   "columns": 28,
+   "extant": 112,
+   "gaps": 135,
+   "lines": 82,
+   "reconstructed": 34,
+   "uncertain": 98,
+   "words": 146
+  },
+  "4Q585": {
+   "columns": 30,
+   "extant": 57,
+   "gaps": 115,
+   "lines": 58,
+   "reconstructed": 9,
+   "uncertain": 45,
+   "words": 66
+  },
+  "4Q586": {
+   "columns": 14,
+   "extant": 52,
+   "gaps": 68,
+   "lines": 37,
+   "reconstructed": 9,
+   "uncertain": 37,
+   "words": 61
+  },
+  "4Q587": {
+   "columns": 2,
+   "extant": 13,
+   "gaps": 16,
+   "lines": 8,
+   "reconstructed": 4,
+   "uncertain": 10,
+   "words": 17
+  },
+  "4Q88": {
+   "columns": 4,
+   "extant": 117,
+   "gaps": 7,
+   "lines": 47,
+   "reconstructed": 63,
+   "uncertain": 56,
+   "words": 180
+  },
+  "5Q10": {
+   "columns": 3,
+   "extant": 14,
+   "gaps": 18,
+   "lines": 9,
+   "reconstructed": 9,
+   "uncertain": 9,
+   "words": 23
+  },
+  "5Q11": {
+   "columns": 2,
+   "extant": 5,
+   "gaps": 12,
+   "lines": 12,
+   "reconstructed": 8,
+   "uncertain": 9,
+   "words": 13
+  },
+  "5Q12": {
+   "columns": 1,
+   "extant": 12,
+   "gaps": 5,
+   "lines": 5,
+   "reconstructed": 4,
+   "uncertain": 8,
+   "words": 16
+  },
+  "5Q13": {
+   "columns": 19,
+   "extant": 110,
+   "gaps": 128,
+   "lines": 70,
+   "reconstructed": 18,
+   "uncertain": 54,
+   "words": 128
+  },
+  "5Q14": {
+   "columns": 1,
+   "extant": 20,
+   "gaps": 10,
+   "lines": 5,
+   "reconstructed": 0,
+   "uncertain": 9,
+   "words": 20
+  },
+  "5Q15": {
+   "columns": 17,
+   "extant": 243,
+   "gaps": 89,
+   "lines": 71,
+   "reconstructed": 306,
+   "uncertain": 162,
+   "words": 549
+  },
+  "5Q16": {
+   "columns": 6,
+   "extant": 44,
+   "gaps": 48,
+   "lines": 25,
+   "reconstructed": 2,
+   "uncertain": 20,
+   "words": 46
+  },
+  "5Q17": {
+   "columns": 6,
+   "extant": 22,
+   "gaps": 37,
+   "lines": 19,
+   "reconstructed": 2,
+   "uncertain": 11,
+   "words": 24
+  },
+  "5Q18": {
+   "columns": 4,
+   "extant": 13,
+   "gaps": 31,
+   "lines": 15,
+   "reconstructed": 0,
+   "uncertain": 8,
+   "words": 13
+  },
+  "5Q19": {
+   "columns": 4,
+   "extant": 12,
+   "gaps": 18,
+   "lines": 9,
+   "reconstructed": 3,
+   "uncertain": 9,
+   "words": 15
+  },
+  "5Q20": {
+   "columns": 3,
+   "extant": 9,
+   "gaps": 14,
+   "lines": 7,
+   "reconstructed": 0,
+   "uncertain": 4,
+   "words": 9
+  },
+  "5Q22": {
+   "columns": 1,
+   "extant": 6,
+   "gaps": 5,
+   "lines": 5,
+   "reconstructed": 1,
+   "uncertain": 2,
+   "words": 7
+  },
+  "5Q23": {
+   "columns": 1,
+   "extant": 2,
+   "gaps": 2,
+   "lines": 1,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 2
+  },
+  "5Q24": {
+   "columns": 1,
+   "extant": 3,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 0,
+   "words": 3
+  },
+  "5Q25": {
+   "columns": 12,
+   "extant": 27,
+   "gaps": 38,
+   "lines": 21,
+   "reconstructed": 0,
+   "uncertain": 12,
+   "words": 27
+  },
+  "5Q9": {
+   "columns": 7,
+   "extant": 31,
+   "gaps": 39,
+   "lines": 19,
+   "reconstructed": 4,
+   "uncertain": 23,
+   "words": 35
+  },
+  "6Q10": {
+   "columns": 27,
+   "extant": 52,
+   "gaps": 103,
+   "lines": 63,
+   "reconstructed": 5,
+   "uncertain": 25,
+   "words": 57
+  },
+  "6Q11": {
+   "columns": 1,
+   "extant": 13,
+   "gaps": 12,
+   "lines": 6,
+   "reconstructed": 5,
+   "uncertain": 5,
+   "words": 18
+  },
+  "6Q12": {
+   "columns": 1,
+   "extant": 7,
+   "gaps": 10,
+   "lines": 5,
+   "reconstructed": 6,
+   "uncertain": 3,
+   "words": 13
+  },
+  "6Q13": {
+   "columns": 1,
+   "extant": 12,
+   "gaps": 14,
+   "lines": 9,
+   "reconstructed": 7,
+   "uncertain": 5,
+   "words": 19
+  },
+  "6Q14": {
+   "columns": 2,
+   "extant": 25,
+   "gaps": 24,
+   "lines": 12,
+   "reconstructed": 3,
+   "uncertain": 11,
+   "words": 28
+  },
+  "6Q15": {
+   "columns": 5,
+   "extant": 21,
+   "gaps": 16,
+   "lines": 21,
+   "reconstructed": 117,
+   "uncertain": 15,
+   "words": 138
+  },
+  "6Q16": {
+   "columns": 5,
+   "extant": 14,
+   "gaps": 26,
+   "lines": 13,
+   "reconstructed": 5,
+   "uncertain": 6,
+   "words": 19
+  },
+  "6Q17": {
+   "columns": 1,
+   "extant": 4,
+   "gaps": 3,
+   "lines": 3,
+   "reconstructed": 3,
+   "uncertain": 1,
+   "words": 7
+  },
+  "6Q18": {
+   "columns": 27,
+   "extant": 103,
+   "gaps": 149,
+   "lines": 78,
+   "reconstructed": 17,
+   "uncertain": 36,
+   "words": 120
+  },
+  "6Q19": {
+   "columns": 1,
+   "extant": 5,
+   "gaps": 4,
+   "lines": 4,
+   "reconstructed": 2,
+   "uncertain": 1,
+   "words": 7
+  },
+  "6Q20": {
+   "columns": 1,
+   "extant": 10,
+   "gaps": 11,
+   "lines": 11,
+   "reconstructed": 4,
+   "uncertain": 7,
+   "words": 14
+  },
+  "6Q21": {
+   "columns": 1,
+   "extant": 5,
+   "gaps": 3,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 3,
+   "words": 5
+  },
+  "6Q22": {
+   "columns": 1,
+   "extant": 5,
+   "gaps": 8,
+   "lines": 4,
+   "reconstructed": 1,
+   "uncertain": 2,
+   "words": 6
+  },
+  "6Q23": {
+   "columns": 4,
+   "extant": 11,
+   "gaps": 13,
+   "lines": 8,
+   "reconstructed": 0,
+   "uncertain": 7,
+   "words": 11
+  },
+  "6Q24": {
+   "columns": 5,
+   "extant": 7,
+   "gaps": 8,
+   "lines": 7,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 7
+  },
+  "6Q26": {
+   "columns": 9,
+   "extant": 21,
+   "gaps": 49,
+   "lines": 27,
+   "reconstructed": 1,
+   "uncertain": 14,
+   "words": 22
+  },
+  "6Q27": {
+   "columns": 7,
+   "extant": 9,
+   "gaps": 22,
+   "lines": 11,
+   "reconstructed": 0,
+   "uncertain": 6,
+   "words": 9
+  },
+  "6Q28": {
+   "columns": 5,
+   "extant": 8,
+   "gaps": 12,
+   "lines": 6,
+   "reconstructed": 0,
+   "uncertain": 5,
+   "words": 8
+  },
+  "6Q29": {
+   "columns": 2,
+   "extant": 2,
+   "gaps": 4,
+   "lines": 2,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 2
+  },
+  "6Q30": {
+   "columns": 1,
+   "extant": 6,
+   "gaps": 12,
+   "lines": 6,
+   "reconstructed": 2,
+   "uncertain": 5,
+   "words": 8
+  },
+  "6Q31": {
+   "columns": 18,
+   "extant": 22,
+   "gaps": 47,
+   "lines": 25,
+   "reconstructed": 0,
+   "uncertain": 13,
+   "words": 22
+  },
+  "6Q8": {
+   "columns": 33,
+   "extant": 91,
+   "gaps": 120,
+   "lines": 68,
+   "reconstructed": 20,
+   "uncertain": 56,
+   "words": 111
+  },
+  "6Q9": {
+   "columns": 68,
+   "extant": 157,
+   "gaps": 282,
+   "lines": 151,
+   "reconstructed": 22,
+   "uncertain": 76,
+   "words": 179
+  },
+  "8Q5": {
+   "columns": 2,
+   "extant": 30,
+   "gaps": 20,
+   "lines": 10,
+   "reconstructed": 5,
+   "uncertain": 14,
+   "words": 35
+  },
+  "9Q1": {
+   "columns": 1,
+   "extant": 4,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 2,
+   "words": 4
+  },
+  "KhQ1": {
+   "columns": 1,
+   "extant": 30,
+   "gaps": 15,
+   "lines": 15,
+   "reconstructed": 6,
+   "uncertain": 15,
+   "words": 36
+  },
+  "KhQ2": {
+   "columns": 1,
+   "extant": 7,
+   "gaps": 5,
+   "lines": 4,
+   "reconstructed": 2,
+   "uncertain": 3,
+   "words": 9
+  },
+  "KhQ3": {
+   "columns": 1,
+   "extant": 26,
+   "gaps": 1,
+   "lines": 4,
+   "reconstructed": 1,
+   "uncertain": 0,
+   "words": 27
+  },
+  "PAM43660": {
+   "columns": 2,
+   "extant": 4,
+   "gaps": 10,
+   "lines": 5,
+   "reconstructed": 1,
+   "uncertain": 3,
+   "words": 5
+  },
+  "PAM43661": {
+   "columns": 7,
+   "extant": 16,
+   "gaps": 26,
+   "lines": 13,
+   "reconstructed": 0,
+   "uncertain": 11,
+   "words": 16
+  },
+  "PAM43663": {
+   "columns": 11,
+   "extant": 23,
+   "gaps": 45,
+   "lines": 24,
+   "reconstructed": 2,
+   "uncertain": 16,
+   "words": 25
+  },
+  "PAM43664": {
+   "columns": 8,
+   "extant": 13,
+   "gaps": 27,
+   "lines": 14,
+   "reconstructed": 0,
+   "uncertain": 6,
+   "words": 13
+  },
+  "PAM43665": {
+   "columns": 5,
+   "extant": 9,
+   "gaps": 18,
+   "lines": 9,
+   "reconstructed": 0,
+   "uncertain": 5,
+   "words": 9
+  },
+  "PAM43666": {
+   "columns": 6,
+   "extant": 9,
+   "gaps": 18,
+   "lines": 9,
+   "reconstructed": 1,
+   "uncertain": 5,
+   "words": 10
+  },
+  "PAM43667": {
+   "columns": 2,
+   "extant": 2,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 1,
+   "words": 2
+  },
+  "PAM43668": {
+   "columns": 10,
+   "extant": 26,
+   "gaps": 39,
+   "lines": 25,
+   "reconstructed": 1,
+   "uncertain": 12,
+   "words": 27
+  },
+  "PAM43669": {
+   "columns": 3,
+   "extant": 5,
+   "gaps": 9,
+   "lines": 5,
+   "reconstructed": 0,
+   "uncertain": 2,
+   "words": 5
+  },
+  "PAM43670": {
+   "columns": 14,
+   "extant": 21,
+   "gaps": 44,
+   "lines": 23,
+   "reconstructed": 0,
+   "uncertain": 8,
+   "words": 21
+  },
+  "PAM43671": {
+   "columns": 3,
+   "extant": 5,
+   "gaps": 10,
+   "lines": 6,
+   "reconstructed": 0,
+   "uncertain": 3,
+   "words": 5
+  },
+  "PAM43672": {
+   "columns": 11,
+   "extant": 21,
+   "gaps": 31,
+   "lines": 19,
+   "reconstructed": 2,
+   "uncertain": 16,
+   "words": 23
+  },
+  "PAM43673": {
+   "columns": 15,
+   "extant": 34,
+   "gaps": 54,
+   "lines": 28,
+   "reconstructed": 1,
+   "uncertain": 18,
+   "words": 35
+  },
+  "PAM43674": {
+   "columns": 20,
+   "extant": 48,
+   "gaps": 72,
+   "lines": 42,
+   "reconstructed": 0,
+   "uncertain": 13,
+   "words": 48
+  },
+  "PAM43675": {
+   "columns": 12,
+   "extant": 35,
+   "gaps": 64,
+   "lines": 36,
+   "reconstructed": 1,
+   "uncertain": 18,
+   "words": 36
+  },
+  "PAM43676": {
+   "columns": 27,
+   "extant": 83,
+   "gaps": 116,
+   "lines": 60,
+   "reconstructed": 3,
+   "uncertain": 42,
+   "words": 86
+  },
+  "PAM43677": {
+   "columns": 22,
+   "extant": 87,
+   "gaps": 116,
+   "lines": 60,
+   "reconstructed": 2,
+   "uncertain": 40,
+   "words": 89
+  },
+  "PAM43678": {
+   "columns": 43,
+   "extant": 90,
+   "gaps": 167,
+   "lines": 87,
+   "reconstructed": 6,
+   "uncertain": 53,
+   "words": 96
+  },
+  "PAM43679": {
+   "columns": 12,
+   "extant": 61,
+   "gaps": 78,
+   "lines": 42,
+   "reconstructed": 3,
+   "uncertain": 31,
+   "words": 64
+  },
+  "PAM43680": {
+   "columns": 23,
+   "extant": 85,
+   "gaps": 125,
+   "lines": 66,
+   "reconstructed": 5,
+   "uncertain": 44,
+   "words": 90
+  },
+  "PAM43682": {
+   "columns": 26,
+   "extant": 66,
+   "gaps": 111,
+   "lines": 66,
+   "reconstructed": 5,
+   "uncertain": 37,
+   "words": 71
+  },
+  "PAM43683": {
+   "columns": 11,
+   "extant": 19,
+   "gaps": 33,
+   "lines": 18,
+   "reconstructed": 0,
+   "uncertain": 14,
+   "words": 19
+  },
+  "PAM43684": {
+   "columns": 11,
+   "extant": 29,
+   "gaps": 44,
+   "lines": 22,
+   "reconstructed": 3,
+   "uncertain": 15,
+   "words": 32
+  },
+  "PAM43685": {
+   "columns": 22,
+   "extant": 42,
+   "gaps": 77,
+   "lines": 42,
+   "reconstructed": 4,
+   "uncertain": 28,
+   "words": 46
+  },
+  "PAM43686": {
+   "columns": 15,
+   "extant": 39,
+   "gaps": 60,
+   "lines": 33,
+   "reconstructed": 3,
+   "uncertain": 26,
+   "words": 42
+  },
+  "PAM43688": {
+   "columns": 16,
+   "extant": 36,
+   "gaps": 57,
+   "lines": 29,
+   "reconstructed": 3,
+   "uncertain": 28,
+   "words": 39
+  },
+  "PAM43689": {
+   "columns": 12,
+   "extant": 22,
+   "gaps": 40,
+   "lines": 20,
+   "reconstructed": 1,
+   "uncertain": 13,
+   "words": 23
+  },
+  "PAM43690": {
+   "columns": 12,
+   "extant": 23,
+   "gaps": 38,
+   "lines": 20,
+   "reconstructed": 1,
+   "uncertain": 15,
+   "words": 24
+  },
+  "PAM43691": {
+   "columns": 14,
+   "extant": 38,
+   "gaps": 63,
+   "lines": 33,
+   "reconstructed": 6,
+   "uncertain": 27,
+   "words": 44
+  },
+  "PAM43692": {
+   "columns": 27,
+   "extant": 71,
+   "gaps": 98,
+   "lines": 49,
+   "reconstructed": 3,
+   "uncertain": 45,
+   "words": 74
+  },
+  "PAM43693": {
+   "columns": 11,
+   "extant": 17,
+   "gaps": 38,
+   "lines": 19,
+   "reconstructed": 1,
+   "uncertain": 13,
+   "words": 18
+  },
+  "PAM43694": {
+   "columns": 9,
+   "extant": 15,
+   "gaps": 30,
+   "lines": 16,
+   "reconstructed": 1,
+   "uncertain": 11,
+   "words": 16
+  },
+  "PAM43695": {
+   "columns": 8,
+   "extant": 12,
+   "gaps": 24,
+   "lines": 12,
+   "reconstructed": 2,
+   "uncertain": 4,
+   "words": 14
+  },
+  "PAM43696": {
+   "columns": 15,
+   "extant": 30,
+   "gaps": 47,
+   "lines": 25,
+   "reconstructed": 1,
+   "uncertain": 16,
+   "words": 31
+  },
+  "PAM43697": {
+   "columns": 9,
+   "extant": 34,
+   "gaps": 44,
+   "lines": 23,
+   "reconstructed": 1,
+   "uncertain": 14,
+   "words": 35
+  },
+  "PAM43698": {
+   "columns": 24,
+   "extant": 63,
+   "gaps": 95,
+   "lines": 49,
+   "reconstructed": 8,
+   "uncertain": 42,
+   "words": 71
+  },
+  "PAM43699": {
+   "columns": 18,
+   "extant": 30,
+   "gaps": 50,
+   "lines": 25,
+   "reconstructed": 4,
+   "uncertain": 18,
+   "words": 34
+  },
+  "PAM43700": {
+   "columns": 14,
+   "extant": 37,
+   "gaps": 53,
+   "lines": 28,
+   "reconstructed": 4,
+   "uncertain": 19,
+   "words": 41
+  },
+  "PAM43701": {
+   "columns": 3,
+   "extant": 5,
+   "gaps": 6,
+   "lines": 3,
+   "reconstructed": 0,
+   "uncertain": 3,
+   "words": 5
+  },
+  "PAM44102": {
+   "columns": 26,
+   "extant": 73,
+   "gaps": 101,
+   "lines": 56,
+   "reconstructed": 2,
+   "uncertain": 29,
+   "words": 75
+  },
+  "XQ6": {
+   "columns": 1,
+   "extant": 9,
+   "gaps": 10,
+   "lines": 5,
+   "reconstructed": 0,
+   "uncertain": 6,
+   "words": 9
+  },
+  "XQ7": {
+   "columns": 1,
+   "extant": 10,
+   "gaps": 6,
+   "lines": 6,
+   "reconstructed": 1,
+   "uncertain": 5,
+   "words": 11
+  },
+  "XQ8": {
+   "columns": 1,
+   "extant": 13,
+   "gaps": 0,
+   "lines": 5,
+   "reconstructed": 40,
+   "uncertain": 5,
+   "words": 53
+  }
+ },
+ "total": {
+  "columns": 8025,
+  "extant": 63797,
+  "gaps": 43535,
+  "lines": 30275,
+  "reconstructed": 45239,
+  "uncertain": 32179,
+  "words": 109036
+ }
+}

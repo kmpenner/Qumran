@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q164</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q164.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>ך כול ישראל כפיך בעוך.   ו<unclear cert="low">י</unclear>סדתיך בספי<supplied reason="lost">רים <gap reason="lost" extent="unknown"/>.   פשרו</supplied>
+      <lb n="2"/><supplied reason="lost">אש]ר יסדו את עצת היחד <supplied reason="lost">ה</supplied>כוהנים והע[ם</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="3"/>עדת בחירו כאבן הספיר בתוך האבנים<gap reason="lost" extent="unknown"/><supplied reason="lost">.   ושמתי כדכד</supplied>
+      <lb n="4"/>כול שמשותיך.   פשרו על שנים עשר<gap reason="lost" extent="unknown"/>
+      <lb n="5"/>מאירים כמשפט האורים והתומים<gap reason="lost" extent="unknown"/>
+      <lb n="6"/>הנעדרות מהמה כשמש<del rend="dots">{ל</del>} בכול אורו.   וכ<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      <lb n="7"/>פשרו על ראשי שבטי ישראל ל<unclear cert="low">א</unclear><supplied reason="lost">חרית הימים</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="8"/><unclear cert="low">ג</unclear>ו<unclear cert="high">ר</unclear>לו מעמדי<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> <unclear cert="high">ו</unclear>כולם <add place="above">ה</add>לוא<gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>ע<unclear cert="low">מו</unclear>ד כיא אל כול <gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/>ל<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f3">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>לם<gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>ע<unclear cert="low">ת</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

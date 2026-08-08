@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q544</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q544.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/>קהת תמן למקם ולמעמרא ולמ<unclear cert="high">ב</unclear><supplied reason="lost">נא קבריא די אבהתנא <gap reason="lost" extent="unknown"/> וסלקו עמנא גברין שגי<supplied reason="omitted">אין</supplied> מן בני דדי כחדא <gap reason="lost" extent="unknown"/> כול</supplied>
+      <lb n="2"/>גבר ומן עבדתנא שגי לחד<unclear cert="high">א</unclear> עד <unclear cert="low">י</unclear><supplied reason="lost">תקברון מתין.   <del rend="erasure"> </del> בשנת רישי ברשו<supplied reason="omitted">תי</supplied> כדי הות שמועת קרב מבהלה תאבה חבורתנא לארע מצרין וסלקת למקבר להון</supplied>
+      <lb n="3"/>לעובע ולה בנו קבריא די <unclear cert="low">א</unclear>בהתהון<supplied reason="lost">.   ושבקוני אבי קהת ואנתי יוכבד למקם ולמבנה ולמסב להון כול צרכיהון מן ארע כנען.   ועמרנא בחברון</supplied>
+      <lb n="4"/>עד אנחנא בנין.   <del rend="erasure"> </del> וקרבא הוא בין<supplied reason="lost"> פלשת למצרין ונצחו פלשת וכנען על מצרין <gap reason="lost" extent="unknown"/>.   </supplied>
+      <lb n="5"/>ואחידו ג<supplied reason="lost">בולי] מצרין ולא איתי אפשר[ לאנתתי יוכבד די תאתה מן מצרין לכנען</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="6"/>שנין <unclear cert="high">א</unclear>רבעין וחדא.   ולא הוינה יכלין <unclear cert="low">ל</unclear><supplied reason="lost">מתב למצרין <gap reason="lost" extent="unknown"/> על כן לא <gap reason="lost" extent="unknown"/> קרבא</supplied>
+      <lb n="7"/>בין מצרין לכנען ולפלשת.   ו<supplied reason="lost">בכו</supplied>ל דן <supplied reason="lost">יוכבד </supplied><unclear cert="low">א</unclear><unclear cert="high">נ</unclear><supplied reason="lost">תתי הות רחיקה מני בארע מצרין <gap reason="lost" extent="unknown"/> מטרתי <gap reason="lost" extent="unknown"/> די עמי</supplied>
+      <lb n="8"/>לא הות.   <del rend="erasure"> </del> <supplied reason="lost">ו</supplied><unclear cert="high">א</unclear>נה אנתה א<unclear cert="high">ח</unclear><supplied reason="lost">רי לי לא</supplied> <unclear cert="high">נ</unclear>ס<unclear cert="low">בת</unclear>.   <del rend="erasure"> </del> <unclear cert="high">ונ</unclear>ש<supplied reason="lost">ין</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="9"/>כולא די אתוב למצרין ב<unclear cert="high">ש</unclear>לם ואחזה אנפי אנתתי <gap reason="lost" extent="unknown"/><supplied reason="lost">ומשתכל הוית במלאכין די חזית</supplied>
+      <lb n="10"/>בחז<unclear cert="high">וי</unclear> חזוה די חלמא.   <del rend="erasure"> </del> והא תרין דאנין עלי ו<unclear cert="high">אמ</unclear>רין<gap reason="lost" extent="unknown"/><supplied reason="lost">דילוהי</supplied>
+      <lb n="11"/>ואחדין <unclear cert="high">ע</unclear>לי תגר רב.   ושאלת אנון אנתון מן די כדן מש<supplied reason="lost">לטין עלי <gap reason="lost" extent="unknown"/> ואמרין לי אנחנה</supplied>
+      <lb n="12"/><supplied reason="lost">כן ש</supplied><unclear cert="high">ל</unclear><unclear cert="low">י</unclear>טין ושליטין על <unclear cert="high">כו</unclear>ל בנ<unclear cert="high">י</unclear> אדם.   ואמרו לי במן מננ<unclear cert="high">א</unclear> <unclear cert="high">א</unclear><unclear cert="low">נ</unclear><unclear cert="high">ת</unclear><supplied reason="lost">ה בעה לאשתלטה והא נטלת עיני וחזית</supplied>
+      <lb n="13"/><supplied reason="lost">וחד</supplied> מנהון חזוה <unclear cert="high">חשל</unclear><supplied reason="lost"> כפ</supplied>תן <supplied reason="lost">וכול </supplied>ל<supplied reason="lost">ב</supplied><unclear cert="low">ו</unclear>שה צבענין וחשיך חשו<unclear cert="low">ך</unclear><supplied reason="lost"> אנפוהי <gap reason="lost" extent="unknown"/>.   <del rend="erasure"> </del> </supplied>
+      <lb n="14"/><supplied reason="lost">ואחרנא חזית </supplied><unclear cert="low">והא</unclear> <gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> </supplied><unclear cert="high">ל</unclear><gap reason="lost" extent="unknown"/> בחזוה <unclear cert="high">ו</unclear>אנפיוה העכן <unclear cert="low">ו</unclear><supplied reason="lost">מכסה בלבוש</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="15"/><supplied reason="lost">לחדה ומעל עינוהי</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f2">
+      <lb n="11"/><gap reason="lost" extent="unknown"/><supplied reason="lost">מ</supplied><unclear cert="high">ש</unclear><unclear cert="low">ל</unclear>ט עליך<gap reason="lost" extent="unknown"/>
+      <lb n="12"/><gap reason="lost" extent="unknown"/><supplied reason="lost">וענית ואמרת לה עירא</supplied> <unclear cert="high">ד</unclear>ן מן הוא.   ואמר לי הדן <unclear cert="low">מ</unclear><supplied reason="lost">תקרא בתלתה שמהן</supplied>.
+      <lb n="13"/><supplied reason="lost">ואנון תלתה שמהתה בליעל ושר חשוכה </supplied><unclear cert="high">ו</unclear>מלכי רשע.   <del rend="erasure"> </del> ואמרת מראי מא ש<unclear cert="low">ל</unclear><supplied reason="lost">טן לעירא דן.   וענה</supplied>
+      <lb n="14"/><supplied reason="lost">ואמר לי שלטנה הוא חשוכא וכול ארחה חש</supplied><unclear cert="low">י</unclear>כה וכל עבדה ח<supplied reason="lost">ש</supplied><unclear cert="high">י</unclear>ך ובחשוכה הוא <unclear cert="high">ד</unclear><supplied reason="lost">בר כול הוי</supplied>
+      <lb n="15"/><supplied reason="lost">עדבה מן הויא דיניא עד ארעיא כדי אנ</supplied><unclear cert="low">ת</unclear>ה חזה.   והוא משלט על כול חשוכה ואנה<supplied reason="lost"> דבר כול הוי</supplied>
+      <lb n="16"/><supplied reason="lost">עדבי בנהורא וכול עדבי נהיר מן מ</supplied><unclear cert="low">צ</unclear>ליא עד ארעיא אנה שליט על כול נהורא וכ<unclear cert="low">ו</unclear><supplied reason="lost">ל ארחי בנהורא</supplied>.
+      </div>
+      <div type="column" n="f3">
+      <lb n="1"/><supplied reason="lost">בנהורא ואנה על כול בני נהו</supplied>רא אשלטת ושאלת<unclear cert="low">ה</unclear><supplied reason="lost"> ואמרת לה מא אנתה מתקרא</supplied>
+      <lb n="2"/><supplied reason="lost">ומא אנון שמהתך והוא ענה וא</supplied><unclear cert="low">מר</unclear> לי תלתה שמה[ן די ל<unclear cert="high">י</unclear>.   ואנון מיכאל ושר]
+      <lb n="3"/><supplied reason="lost">נהורא ומלכי צדק</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

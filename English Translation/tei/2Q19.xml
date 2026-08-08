@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>2Q19</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 2Q19.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ויקברוהו אל מערת המ</supplied>כפלה א<supplied reason="lost">צל שרה אשתו בניו</supplied>
+      <lb n="2"/><supplied reason="lost">יצחק וישמעאל.   ויבכוהו </supplied>ארבעים יום כול אנש<supplied reason="lost">י ביתו ויצחק וישמעאל וכול בניהם וכול</supplied>
+      <lb n="3"/><supplied reason="lost">בני קטורה במקומותם.   </supplied><del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><supplied reason="lost">ויתמו ימי בכי אבר</supplied>הם.   שלושה יובלים חיה ואר<supplied reason="lost">בעה שבועי שנים מאה ושבעים וחמש</supplied>
+      <lb n="5"/><supplied reason="lost">שנים ויתם את ימי חייו </supplied><unclear cert="high">ז</unclear>קן ושבע ימים <gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

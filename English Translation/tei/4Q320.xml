@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q320</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q320.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1i">
+      <lb n="1"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/><unclear cert="high">ל</unclear>הראותה מן המז<unclear cert="high">ר</unclear>ח
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">^</supplied><unclear cert="low">ל</unclear><supplied reason="lost">א</supplied><unclear cert="low">י</unclear><unclear cert="high">רה</unclear>^ <supplied reason="lost">ב</supplied><unclear cert="high">מ</unclear>ח<unclear cert="high">צ</unclear>ית השמים ביסוד
+      <lb n="3"/><supplied reason="lost">הבריא</supplied><unclear cert="high">ה</unclear> מערב <unclear cert="high">ע</unclear>ד בוקר ב4 בשבת
+      <lb n="4"/><supplied reason="lost">ג</supplied><unclear cert="low">מ</unclear><unclear cert="high">ול</unclear> לחודש הרישון בשנה
+      <lb n="5"/><supplied reason="lost">הרישו</supplied><unclear cert="low">נה</unclear>.   <del rend="erasure"> </del>
+      <lb n="6"/><supplied reason="lost">ב5 בידע</supplied><unclear cert="low">יה</unclear> ל29 <unclear cert="high">ב</unclear>3̇0̇ בו.
+      <lb n="7"/><supplied reason="lost">שבת ה</supplied>קוץ ל30 ב30 בשני.
+      <lb n="8"/><supplied reason="lost">ב1 באלי</supplied>שיב ל2̇9 ב29 בשלשי.
+      <lb n="9"/><supplied reason="lost">ב3 בבלג</supplied>ה ל30 ב28 ברביעי.
+      <lb n="10"/><supplied reason="lost">ב4 בפת</supplied><unclear cert="high">חי</unclear>ה ל29 ב27 בחמשי.
+      <lb n="11"/><supplied reason="lost">ב6 בדליה</supplied> <unclear cert="high">ל</unclear>3̇0̇ ב27 בששי.
+      <lb n="12"/><supplied reason="lost">שבת בשעורי</supplied>ם ל2̇9 ב25 בשביעי.
+      <lb n="13"/><supplied reason="lost">ב2 באביה ל30</supplied> ב25̇[ בשמיני.
+      <lb n="14"/><supplied reason="lost">ב3 ביקים ל9</supplied>2̇ ב24 בתשיעי.
+      </div>
+      <div type="column" n="f1ii">
+      <lb n="1"/>ב5 <add place="above">באמר</add> ל30 ב23 בעשירי.
+      <lb n="2"/>ב6 ביחזקאל ל29 ב2̇2 <unclear cert="high">בעשת</unclear>י <supplied reason="lost">ע</supplied><unclear cert="high">שר</unclear>.
+      <lb n="3"/>ב1 בייריב ל30 ב22 בשנים עשר החדש.
+      <lb n="4"/>השנה השנית.   <del rend="erasure"> </del>
+      <lb n="5"/>ב2 במלכיה ל29 ב20 ברישון.
+      <lb n="6"/>ב4 בישוע ל30 ב20 בשני.
+      <lb n="7"/>ב5 בחופא ל29 ב19<supplied reason="lost"> בשלשי</supplied>.
+      <lb n="8"/>שבת בפצצ ל30 ב18 <unclear cert="high">בר</unclear><supplied reason="lost">ביעי</supplied>.
+      <lb n="9"/>ב1 <unclear cert="high">בג</unclear>מ<unclear cert="high">ול</unclear><supplied reason="lost"> </supplied><unclear cert="low">ל</unclear><supplied reason="lost">29 ב17 בחמשי</supplied>.
+      <lb n="10"/>ב3 בידעיה <unclear cert="high">ל</unclear>0̇<supplied reason="lost">3 ב17 בששי</supplied>.
+      <lb n="11"/>ב4 במימן <unclear cert="high">ל</unclear>9̇<supplied reason="lost">2 ב15 בשביעי</supplied>.
+      <lb n="12"/><unclear cert="low">ב</unclear>6 בשכ<unclear cert="high">נ</unclear>יה <unclear cert="high">ל</unclear>0̇<supplied reason="lost">3 ב15 בשמיני</supplied>.
+      <lb n="13"/><unclear cert="high">ש</unclear>בת בבל<supplied reason="lost">גה ל29 ב14 בתשיעי</supplied>.
+      <lb n="14"/><supplied reason="lost">ב22 בפתחיה ל30 ב13 בעשירי</supplied>.
+      </div>
+      <div type="column" n="f2">
+      <lb n="9"/>ב1 <unclear cert="high">ב</unclear><unclear cert="low">י</unclear><supplied reason="lost">שוע ל29 ב5 בשביעי</supplied>.
+      <lb n="10"/>ב3 בחופא <unclear cert="low">ל</unclear>30 <unclear cert="high">ב</unclear>5 <unclear cert="high">בשמ</unclear><unclear cert="low">י</unclear>נ<unclear cert="low">י</unclear>.
+      <lb n="11"/>ב4 בחזיר ל29 ב4 בתשיעי.
+      <lb n="12"/>ב6 ביכין ל30 ב3 בעשירי.
+      <lb n="13"/>שבת בידעיה ל29 ב2 בעשתי עשר <unclear cert="low">החד</unclear><unclear cert="high">ש</unclear>.
+      <lb n="14"/><unclear cert="low">ב</unclear>2̇ <supplied reason="lost">במימ</supplied><unclear cert="low">ן</unclear> ל30 <unclear cert="high">ב</unclear>י<unclear cert="high">ום</unclear> שנים <unclear cert="low">ב</unclear><unclear cert="high">שנ</unclear>ים עשר ה<unclear cert="high">ח</unclear><unclear cert="low">דש</unclear>.
+      </div>
+      <div type="column" n="f3i">
+      <lb n="9"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> שני הקדש
+      <lb n="10"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ה</supplied><unclear cert="high">ב</unclear>ריאה קדש
+      <lb n="11"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ב</supplied>4ּ̇ <unclear cert="high">ב</unclear>שבת
+      <lb n="12"/><gap reason="lost" extent="unknown"/><supplied reason="lost">גמו</supplied><unclear cert="low">ל</unclear> <unclear cert="low">ר</unclear><supplied reason="lost">ו</supplied>ש כל השנים
+      <lb n="13"/><gap reason="lost" extent="unknown"/><supplied reason="lost">את</supplied><unclear cert="low">ות</unclear> היובל השני
+      <lb n="14"/><gap reason="lost" extent="unknown"/><supplied reason="lost">17 אתו</supplied><unclear cert="low">ת</unclear> <del rend="erasure"> </del>.
+      </div>
+      <div type="column" n="f3ii">
+      <lb n="8"/><unclear cert="high">מ</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="9"/>בזבח<unclear cert="high">י</unclear><supplied reason="lost">ם</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="10"/>ימים <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="11"/>קדש <supplied reason="lost">הרישון 30 גמול</supplied>.
+      <lb n="12"/>השני 30 <supplied reason="lost">ידעיה</supplied>.
+      <lb n="13"/>השלשי 1<supplied reason="lost">3 הקוץ</supplied>.
+      <lb n="14"/>הרבעי 30 <supplied reason="lost">אלישיב</supplied>.
+      </div>
+      <div type="column" n="f4i">
+      <lb n="11"/><supplied reason="lost">התשיעי 31 </supplied><unclear cert="low">יירי</unclear><supplied reason="lost">ב</supplied>.
+      <lb n="12"/><supplied reason="lost">העשירי 30</supplied> מלכיה.
+      <lb n="13"/><supplied reason="lost">העשתי עשר 30 י</supplied>שוע.
+      <lb n="14"/><supplied reason="lost">השנים עשר 31 </supplied><unclear cert="low">י</unclear>שבאב.
+      </div>
+      <div type="column" n="f4ii">
+      <lb n="10"/>הימים ולש<unclear cert="high">ב</unclear>תת
+      <lb n="11"/>לחדשים
+      <lb n="12"/><supplied reason="lost">ול</supplied><unclear cert="low">ש</unclear>נים ולשמטים
+      <lb n="13"/>וליוב<unclear cert="high">ל</unclear>ות.   ב4
+      <lb n="14"/>בשבת בני גמול.
+      </div>
+      <div type="column" n="f4iii">
+      <lb n="1"/>השנה הרישונה מועדיה.
+      <lb n="2"/>ב3 ב<unclear cert="high">ש</unclear>בת בני מעוזיה הפס<unclear cert="high">ח</unclear>.
+      <lb n="3"/><unclear cert="high">ב</unclear>1֯ <supplied reason="lost">ב</supplied><unclear cert="low">י</unclear><unclear cert="high">ד</unclear><unclear cert="low">ע</unclear><supplied reason="lost">יה</supplied> הנף ה<supplied reason="lost">עמר</supplied>.
+      <lb n="4"/>ב5 בשערים הפס<unclear cert="low">ח</unclear><supplied reason="lost"> השני</supplied>.
+      <lb n="5"/>ב1 בישוע חג השבועים.
+      <lb n="6"/><unclear cert="low">ב</unclear>4 במעוזי<unclear cert="high">ה</unclear> יום הזכרון.
+      <lb n="7"/><supplied reason="lost">ב</supplied>6̇ בייריב יום הכפורים.
+      <lb n="8"/><supplied reason="lost">בעשרה ב</supplied><unclear cert="high">ש</unclear>ביעי.   <del rend="erasure"> </del>
+      <lb n="9"/><supplied reason="lost">ב4 ביד</supplied><unclear cert="low">ע</unclear><unclear cert="high">י</unclear>ה חג הסכות.
+      <lb n="10"/>〚 <supplied reason="lost"> 〛</supplied>
+      <lb n="11"/>השנית מו<unclear cert="low">ע</unclear>ד<unclear cert="high">י</unclear><unclear cert="low">ה</unclear>.
+      <lb n="12"/><supplied reason="lost">ב30</supplied> <unclear cert="high">בש</unclear>ערים הפ<unclear cert="high">ס</unclear><supplied reason="lost">ח</supplied>.
+      <lb n="13"/><supplied reason="lost">ב1</supplied> במ<unclear cert="high">י</unclear><supplied reason="lost">מ</supplied><unclear cert="low">ן</unclear> הנף <unclear cert="high">ה</unclear><supplied reason="lost">עמר.   </supplied>
+      <lb n="14"/>[ב5 <unclear cert="high">ב</unclear>]<unclear cert="high">אב</unclear>יה <supplied reason="lost">הפסח השני</supplied>.
+      </div>
+      <div type="column" n="f4iv">
+      <lb n="1"/>ב1 <unclear cert="low">ב</unclear><supplied reason="lost">חפ</supplied><unclear cert="low">א</unclear> <supplied reason="lost">חג הש</supplied><unclear cert="high">ב</unclear><unclear cert="low">ו</unclear>עים.
+      <lb n="2"/>ב4 בשערים יום ^<supplied reason="lost">הז</supplied><unclear cert="low">כרו</unclear><supplied reason="lost">ן</supplied>^.
+      <lb n="3"/>ב6̇ ב<unclear cert="high">מל</unclear>כי<supplied reason="lost">ה</supplied> יום הכ<unclear cert="low">פ</unclear><supplied reason="lost">ורי</supplied><unclear cert="low">ם</unclear>.
+      <lb n="4"/>ב<supplied reason="lost">4 ב</supplied>מימן חג הסכות.
+      <lb n="5"/><del rend="erasure"> </del>
+      <lb n="6"/><unclear cert="high">ה</unclear>שלישית מועדיה.
+      <lb n="7"/>ב3 באביה הפסח.
+      <lb n="8"/>ב1 בשכניה הנף ה<unclear cert="high">ע</unclear>מר.
+      <lb n="9"/>ב5 בי<unclear cert="low">ק</unclear><supplied reason="lost">י</supplied><unclear cert="low">ם</unclear> <unclear cert="high">ה</unclear>פסח <unclear cert="low">ה</unclear><supplied reason="lost">שני</supplied>.
+      <lb n="10"/><supplied reason="lost"><del rend="erasure"> </del> ב1</supplied> <unclear cert="low">ב</unclear>חזיר <supplied reason="lost">חג השבועים</supplied>.
+      <lb n="11"/><supplied reason="lost">ב4 באביה יום הזכרון</supplied>.
+      <lb n="12"/><supplied reason="lost">ב6 בישוע יום הכפורים</supplied>.
+      <lb n="13"/><supplied reason="lost">ב4 בשכניה חג הס</supplied>כות.
+      <lb n="14"/><supplied reason="lost">הרביעית מועדיה</supplied>.
+      </div>
+      <div type="column" n="f4v">
+      <lb n="1"/><supplied reason="lost">ב3 בשבת בני יקי</supplied><unclear cert="high">ם</unclear> הפסח.
+      <lb n="2"/>ב1̇ [בי<unclear cert="low">ש</unclear>]<unclear cert="low">בא</unclear>ב הנף העמר.
+      <lb n="3"/>ב5̇<supplied reason="lost"> בא</supplied>מר הפסח השני.
+      <lb n="4"/><supplied reason="lost">ב1 ביכ</supplied><unclear cert="high">ין</unclear><supplied reason="lost"> חג</supplied> השבו<unclear cert="high">ע</unclear>ים.
+      <lb n="5"/><supplied reason="lost">ב4</supplied> ביקים יום ה<unclear cert="high">ז</unclear><unclear cert="low">כ</unclear>רון.
+      <lb n="6"/><supplied reason="lost">ב6</supplied> בחפא יום הכפורים.
+      <lb n="7"/><supplied reason="lost">ב4 </supplied><unclear cert="low">ב</unclear>ישבאב חג הסכות.
+      <lb n="8"/><supplied reason="lost">〚 </supplied> 〛
+      <lb n="9"/><supplied reason="lost">החמשית </supplied>מועדיה.
+      <lb n="10"/><unclear cert="high">ב</unclear>3̇ <unclear cert="high">בא</unclear>מר הפסח.
+      <lb n="11"/><supplied reason="lost">ב</supplied>1̇ <unclear cert="low">בפצ</unclear>צ הנף העמר.
+      <lb n="12"/><supplied reason="lost">ב</supplied>5 ביחזקאל הפסח השני.
+      <lb n="13"/><supplied reason="lost">ב1 בייר</supplied><unclear cert="high">י</unclear>ב <unclear cert="high">חג</unclear> ה<supplied reason="lost">שבועים</supplied>.
+      <lb n="14"/><supplied reason="lost">ב4 באמר יום הזכרון</supplied>.
+      </div>
+      <div type="column" n="f4vi">
+      <lb n="1"/>ב6 בחזיר יום הכפורים.
+      <lb n="2"/>ב4 בפצצ חג הסכ<unclear cert="low">ו</unclear><supplied reason="lost">ת</supplied>.
+      <lb n="3"/><del rend="erasure"> </del>
+      <lb n="4"/><del rend="erasure"> </del>
+      <lb n="5"/>הששית מועדיה.
+      <lb n="6"/>ב3 ביחזקאל הפס[<unclear cert="low">ח</unclear>].
+      <lb n="7"/><unclear cert="high">ב</unclear>1 בגמול הנף העמר.
+      <lb n="8"/><supplied reason="lost">ב5</supplied> במעזיה הפסח ה<supplied reason="lost">שני</supplied>.
+      <lb n="9"/><supplied reason="lost">ב</supplied>1 במלכיה <unclear cert="low">חג</unclear> <unclear cert="low">ה</unclear><supplied reason="lost">שבועים</supplied>.
+      <lb n="10"/><supplied reason="lost">ב</supplied>4̇ ביחזק<unclear cert="high">א</unclear><supplied reason="lost">ל יום הזכרון</supplied>.
+      <lb n="11"/><supplied reason="lost">ב</supplied>6 <unclear cert="high">ביכי</unclear>ן <unclear cert="low">י</unclear><supplied reason="lost">ום הכפורים</supplied>.
+      <lb n="12"/><supplied reason="lost">ב</supplied>4 <supplied reason="lost">בגמול חג הסכות</supplied>.
+      </div>
+      <div type="column" n="f5">
+      <lb n="1"/><supplied reason="lost">ה</supplied><unclear cert="high">ח</unclear>דשים<gap reason="lost" extent="unknown"/>
+      <lb n="2"/>אתות 40<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f6">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="4"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/> 150 ימ<supplied reason="lost">י</supplied>ם <gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="high">ע</unclear>ת אלפים ושש<supplied reason="lost"> מאות</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><unclear cert="high">אל</unclear>פי<unclear cert="high">ם</unclear> ושמ<unclear cert="low">נ</unclear><supplied reason="lost">ה מאות</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f7i">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ימי</supplied>ם 12
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">.   א</supplied><unclear cert="low">ת</unclear>ות
+      </div>
+      <div type="column" n="f7ii">
+      <lb n="2"/><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="illegible" unit="character" quantity="1"/> <gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f8">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>ם<gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>ל<gap reason="illegible" unit="character" quantity="1"/> ימים<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f9">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>130 ה<gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>חשבון <gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f10">
+      <lb n="1"/><gap reason="lost" extent="unknown"/> הרישון <gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="high">ל</unclear><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

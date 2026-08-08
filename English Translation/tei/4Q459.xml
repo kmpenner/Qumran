@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q459</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q459.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/>לבנון ל<unclear cert="low">ב</unclear><supplied reason="lost"> </supplied> הגביהו רצו<unclear cert="high">ן</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/>ידעו את אדני אלהי<supplied reason="lost">הם</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="3"/>נתן למלאכים ואת<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/>ף לא <unclear cert="low">ד</unclear>א<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><unclear cert="low">א</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/>וה<unclear cert="high">י</unclear>ו<gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

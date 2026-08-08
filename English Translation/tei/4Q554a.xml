@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q554a</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q554a.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><unclear cert="low">ע</unclear>ל<unclear cert="low">ו</unclear><supplied reason="lost">הי פתי</supplied><unclear cert="low">ה</unclear><supplied reason="lost"> וארכה </supplied><unclear cert="low">א</unclear><unclear cert="high">מין</unclear><supplied reason="lost"> שת בשת מרבע</supplied> ודרגא ד<unclear cert="high">י</unclear><supplied reason="lost"> סלק לידה</supplied> פתיה אמין ארבע וסחר
+      <lb n="2"/><supplied reason="lost">וסלק רום קנין תרין עד</supplied> <unclear cert="low">ט</unclear><supplied reason="lost">לולא.   </supplied><del rend="erasure"> </del>
+      <lb n="3"/><supplied reason="lost">ואעלני לגו פרזיתא ואחזיני בה <add place="above">בתין</add> מן תרע</supplied> לתרע חמשת עשר תמניה בחדה רוח עד זויתא
+      <lb n="4"/><supplied reason="lost">ושבעה מן זויתא עד תרעא אחרנא.   פת</supplied><unclear cert="low">י</unclear>הון ארך בתיא קנין תלתה ארכין 21 ופתיהון
+      <lb n="5"/><supplied reason="lost">קנין תרין אמין 14 וכדן כל תוניא ו</supplied><unclear cert="high">ר</unclear>ומהון קנין תרין אמין 14 ותרעהון במצעתא
+      <lb n="6"/><supplied reason="lost">פתי קנין 2 א 14.   ומשח פתי מצ<supplied reason="omitted">י</supplied>עת ביתא אמין </supplied><unclear cert="high">א</unclear>רבע ארך ורום קנה חד אמין שבע.
+      <lb n="7"/><supplied reason="lost"><del rend="erasure"> </del> ואחזיני משחת בתי מזגא דכא אמין 19 </supplied><unclear cert="high">א</unclear>ר<unclear cert="high">כ</unclear>הון ופתיהון אמין 12.   בית
+      <lb n="8"/><supplied reason="lost">עשרין ותרתין ערשין וחדה עשרה כוין אטימן עלא מן ערשין ו</supplied>לי<unclear cert="high">ד</unclear>ה אמה ב<unclear cert="high">ר</unclear>יתא.
+      <lb n="9"/><supplied reason="lost">ומשח עובי כותא רומה אמין תרתין פתיה אמה חדה ועובי פתי כת</supplied><unclear cert="high">ל</unclear>א ק<unclear cert="low">ד</unclear>מיתא אמין
+      <lb n="10"/><supplied reason="lost">2 ואחרנתא במשחה.   ומשח תח<supplied reason="omitted">ו</supplied>מי דוכניא ארכהון אמין תשע עש</supplied><unclear cert="low">ר</unclear>א ופתיהון אמין
+      <lb n="11"/><supplied reason="lost">12 ואחזיני משחת בתיה ורומהון ופתי דכן פתיחן בשוקא </supplied>קנין תרין אמין ארבע
+      <lb n="12"/><supplied reason="lost">עשרה ופתיהון אמין תלת וארכין עשר ופתי דשיה א</supplied>מה ח<unclear cert="low">ד</unclear><unclear cert="high">ה</unclear> ופלג ורומה? גו
+      <lb n="13"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ומשח ית פתי <gap reason="lost" extent="unknown"/> אמין תרת</supplied><unclear cert="low">ין</unclear> <unclear cert="low">ורו</unclear><unclear cert="high">ם</unclear> <unclear cert="high">כו</unclear>תא <unclear cert="low">ו</unclear><supplied reason="lost">י</supplied><unclear cert="high">ת</unclear> טלולא די עליהון
+      <lb n="14"/><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

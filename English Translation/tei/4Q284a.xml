@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q284a</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q284a.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>טנ<supplied reason="lost">ה <gap reason="lost" extent="unknown"/> וא</supplied><unclear cert="low">ל</unclear> ילקטו<unclear cert="high">ם</unclear> <supplied reason="lost">כול טמא וכול</supplied>
+      <lb n="3"/><supplied reason="lost">אשר</supplied> איננו נוגע במשקי הרבים כי א<unclear cert="low">לה</unclear> <supplied reason="lost">יטמאו</supplied>
+      <lb n="4"/><supplied reason="lost">את ה</supplied>טנה ואת ה<unclear cert="high">ת</unclear>אני<unclear cert="low">ם</unclear> {{ואת הר<unclear cert="low">מנ</unclear>אים}} <supplied reason="lost">אם</supplied>
+      <lb n="5"/><supplied reason="lost">משק</supplied>יהם יוצא כ<unclear cert="low">א</unclear><supplied reason="lost">שר ימ</supplied><unclear cert="high">ע</unclear>כ כולם ולקט<unclear cert="low">ם</unclear>
+      <lb n="6"/><supplied reason="lost">איש</supplied> אשר לוא הוב<supplied reason="lost">א בב</supplied><unclear cert="low">ר</unclear>ית.   ואם ילאצו <supplied reason="lost">זיתים</supplied>
+      <lb n="7"/><supplied reason="lost">בב</supplied><unclear cert="low">ד</unclear> אל יגאלם בכ<supplied reason="lost">ול מו</supplied><unclear cert="low">ד</unclear>ו <add place="above">לגלעמ</add> עד אשר יער<supplied reason="lost">ם לבד</supplied>.
+      <lb n="8"/><supplied reason="lost">ויסח</supplied>טו בטהרה ונ<supplied reason="lost">גמר</supplied>ה עבודתם וי<unclear cert="low">א</unclear><unclear cert="high">כ</unclear><supplied reason="lost">לו בטהרה</supplied>.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">מא</unclear><gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> </supplied><unclear cert="low">ם</unclear> לכ<unclear cert="low">ו</unclear><supplied reason="lost">ל</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="low">ם</unclear> ילקוטו בטה<unclear cert="high">ר</unclear><supplied reason="lost">ה</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="low">ו</unclear>טל ולקטם אי<supplied reason="lost">ש</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><unclear cert="low">אי</unclear>ש מא<supplied reason="lost">נשי</supplied> הי<unclear cert="low">ח</unclear><supplied reason="lost">ד</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ט</supplied>הר<unclear cert="low">ת</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/> נקיאים <gap reason="lost" extent="unknown"/>
+      <lb n="7"/><gap reason="lost" extent="unknown"/>כי אם <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f3">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>נ<gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>צע<gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/>ונ<gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f4">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>א<unclear cert="low">י</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>בא<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

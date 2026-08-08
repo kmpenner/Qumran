@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q248</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q248.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ומשל ב</supplied><unclear cert="low">מצ</unclear><unclear cert="high">ר</unclear>ים ו<unclear cert="low">ב</unclear><unclear cert="high">י</unclear>ון.   ו<supplied reason="lost">על אל</supplied>
+      <lb n="3"/><supplied reason="lost">אלי</supplied><unclear cert="high">ם</unclear> <unclear cert="high">ה</unclear>גד<unclear cert="low">י</unclear><supplied reason="lost">ל.   ו</supplied><unclear cert="low">ב</unclear>כן יאכלו<supplied reason="lost"> את</supplied>
+      <lb n="4"/><supplied reason="lost">בשר בנ</supplied><unclear cert="low">י</unclear><unclear cert="high">ה</unclear>ם ובנ<unclear cert="high">ו</unclear>ת<unclear cert="high">י</unclear><supplied reason="lost">ה</supplied>ם במצור ב<supplied reason="lost">נא אמון</supplied>.
+      <lb n="5"/><supplied reason="lost">וה</supplied><unclear cert="low">ע</unclear>ביר יייי רוח<supplied reason="lost"> ב</supplied><unclear cert="low">א</unclear><unclear cert="high">צ</unclear>רותיהם ו<unclear cert="low">ש</unclear><supplied reason="lost">ב מנא</supplied>
+      <lb n="6"/><supplied reason="lost">ו</supplied><unclear cert="low">ב</unclear>א למצרים ומכר את עפרה ואת<supplied reason="lost">ה</supplied>
+      <lb n="7"/>אל עיר המקדש ותפשה עם כ<supplied reason="lost">ל אוצרותיה</supplied>
+      <lb n="8"/><unclear cert="high">וה</unclear>פך בארצות גוים ושב למצ<unclear cert="high">ר</unclear><unclear cert="low">י</unclear><supplied reason="lost">ם.   וככלות</supplied>
+      <lb n="9"/><unclear cert="low">נ</unclear>פצ יד עם ה<unclear cert="high">ק</unclear><supplied reason="lost">דש <gap reason="lost" extent="unknown"/> תכלינה</supplied>
+      <lb n="10"/>כל א<unclear cert="high">ל</unclear><unclear cert="low">ה</unclear> <unclear cert="low">י</unclear><unclear cert="high">ש</unclear><unclear cert="low">ובו</unclear> <unclear cert="low">בני</unclear><supplied reason="lost"> ישראל</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

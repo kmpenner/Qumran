@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q262</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q262.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><supplied reason="lost">בכפורי</supplied><unclear cert="high">ם</unclear> ולא יטהר ב<supplied reason="lost">מי נדה ולא</supplied>
+      <lb n="2"/><supplied reason="lost">יתקד</supplied><unclear cert="low">ש</unclear> בימים ונהר<unclear cert="high">ו</unclear>ת<supplied reason="lost"> ולא יטהר</supplied>
+      <lb n="3"/><supplied reason="lost">בכל מי </supplied>רחיצה.   טמ<supplied reason="lost">א טמא יהיה כל</supplied>
+      <lb n="4"/><supplied reason="lost">ימי </supplied><unclear cert="low">מ</unclear><unclear cert="high">ו</unclear><unclear cert="low">א</unclear><supplied reason="lost">סו במשפטי אל לבלתי</supplied>.
+      </div>
+      <div type="column" n="fA">
+      <lb n="1"/><unclear cert="high">נ</unclear><unclear cert="low">כ</unclear><unclear cert="high">ס</unclear>ו לכ<unclear cert="high">ו</unclear>ל ק<unclear cert="low">ד</unclear><supplied reason="lost">ושי</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/>רום נו<unclear cert="high">ש</unclear>ים<gap reason="lost" extent="unknown"/>
+      <lb n="3"/><unclear cert="low">ב</unclear><unclear cert="high">מ</unclear>פצ אב<supplied reason="lost">ן</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="fB">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">ת</unclear>חת דליתו ישתו ע<unclear cert="low">ד</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>שחקים ודליותו ע<unclear cert="low">ד</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">בה</supplied><unclear cert="low">ר</unclear>י מרום ינובב פ<unclear cert="low">רי</unclear><supplied reason="lost">ו</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><unclear cert="low">ם</unclear> שבעה בזוהר <unclear cert="low">ה</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><supplied reason="lost">כ</supplied><unclear cert="low">ש</unclear>מ<unclear cert="high">י</unclear> טוהר <unclear cert="low">ב</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/>מלקו<unclear cert="low">ש</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

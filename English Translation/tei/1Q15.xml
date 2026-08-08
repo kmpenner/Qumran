@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>1Q15</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 1Q15.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><supplied reason="lost">ביום עברת יהוה ובאש קנ</supplied><unclear cert="high">א</unclear>תו ת<unclear cert="high">א</unclear>כ<supplied reason="lost">ל כל הארץ כי כלה אך</supplied>
+      <lb n="2"/><supplied reason="lost">נבהלה יעשה את כל יוש</supplied><unclear cert="high">ב</unclear>י ה<supplied reason="lost">א</supplied><unclear cert="high">ר</unclear>ץ.   התקו<supplied reason="lost">ששו וקו</supplied>ש<supplied reason="lost">ו</supplied> <gap reason="illegible" unit="character" quantity="1"/>
+      <lb n="2a"/><gap reason="lost" extent="unknown"/><supplied reason="lost">בטרם לדת חק </supplied><unclear cert="low">כ</unclear>מוץ עבר <supplied reason="lost">י</supplied>ום <gap reason="illegible" unit="character" quantity="2"/>
+      <lb n="3"/><supplied reason="lost">הגוי לא נכסף בטרם לא יבוא עליכ</supplied>ם חרון אף <unclear cert="high">י</unclear><supplied reason="lost">הוה</supplied>
+      <lb n="4"/><supplied reason="lost">בטרם לא יבוא עליכם יום א</supplied><unclear cert="high">ף</unclear> יהוה.   פשר
+      <lb n="5"/><supplied reason="lost">הדבר על כול יושבי</supplied> ארץ יהודה א<unclear cert="low">ף</unclear> <supplied reason="lost">יהוה</supplied>
+      <lb n="6"/><supplied reason="lost">יבוא עליהם </supplied><unclear cert="low">ו</unclear>היו ל<gap reason="illegible" unit="character" quantity="1"/><unclear cert="low">ת</unclear><gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

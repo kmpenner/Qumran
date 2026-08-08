@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q246</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q246.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1i">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ע</supplied>לוהי שרת נפל קדם כרסיא.
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">מ</supplied>לכא <del rend="dots">{ל</del>}<corr>&lt;ב</corr>&gt;עלמא אתה רגז ושניך
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="low">ר</unclear>א חזוך וכלא אתה עד עלמא.
+      <lb n="4"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ר</supplied><unclear cert="low">ב</unclear>רבין עקה תתא על ארעא.
+      <lb n="5"/><gap reason="lost" extent="unknown"/>ונחשיר<unclear cert="high">י</unclear>ן רב <unclear cert="low">במ</unclear>דינתא
+      <lb n="6"/><gap reason="lost" extent="unknown"/>מלך אתור<supplied reason="lost"> ומ</supplied>צרין
+      <lb n="7"/><gap reason="lost" extent="unknown"/> רב להוה ע<unclear cert="high">ל</unclear> <unclear cert="low">א</unclear>רעא
+      <lb n="8"/><gap reason="lost" extent="unknown"/><supplied reason="lost">י</supplied><unclear cert="low">ע</unclear>בדון וכלא יש<unclear cert="low">מ</unclear>שון
+      <lb n="9"/><gap reason="lost" extent="unknown"/><supplied reason="lost">.   ר</supplied><unclear cert="low">ב</unclear>א יתקרא ובשמה יתכנה.
+      </div>
+      <div type="column" n="f1ii">
+      <lb n="1"/>ברה די אל יתאמר ובר עליון יקרונה.   כזיקיא
+      <lb n="2"/>די חז<unclear cert="high">ו</unclear>תא כן מלכותהן תהוה.   שני<supplied reason="lost">ן</supplied> ימלכון על
+      <lb n="3"/>ארעא וכלא ידשון עם לעם ידוש ומדינה למד<unclear cert="low">י</unclear><supplied reason="lost">נ</supplied>ה.
+      <lb n="4"/><del rend="erasure"> </del> עד יק<unclear cert="high">ו</unclear>ם עם אל וכלא ינ<unclear cert="high">ו</unclear>ח מן חרב.
+      <lb n="5"/>מלכותה מלכות עלם וכל ארחתה בקשוט.   יד<unclear cert="low">י</unclear><supplied reason="lost">ן</supplied>
+      <lb n="6"/>ארעא בק<unclear cert="high">ש</unclear>ט וכלא יעבד שלם.   חרב מן ארעא <unclear cert="high">י</unclear>סף
+      <lb n="7"/>וכל מדינתא לה יסגדון.   אל רבא באילה
+      <lb n="8"/>הוא <unclear cert="high">ו</unclear>עבד לה קרב עממין ינתן בידה וכלהן
+      <lb n="9"/>ירמה קדמוהי.   שלטנה שלטן עלם וכל תהומי.
+      </div>
+    </body>
+  </text>
+</TEI>

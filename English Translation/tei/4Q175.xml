@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q175</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q175.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="1">
+      <lb n="1"/>וידבר יייי אל מושה לאמור שמעת את קול דברי
+      <lb n="2"/>העם הזה אשר דברו אליכה היטיבו כול אשר דברו.
+      <lb n="3"/>מי ינתן ויהיה לבבם <add place="above">זה</add> להם לירא אותי ולשמור את כול
+      <lb n="4"/>מצותי כול היומים למעאן יטב להמ ולבניהם לעולם.
+      <lb n="5"/>נבי אקים לאהםה מקרב אחיהםה כמוכה ונתתי דברי
+      <lb n="6"/>בפיהו וידבר אליהםה את כול אשר אצונו.   והיה <add place="above">ה</add>איש
+      <lb n="7"/>אשר לוא ישמע אל דברי אשר ידבר הנבי בשמי אנוכי
+      <lb n="8"/>אדרוש מעמו.   <del rend="erasure"> </del>
+      <lb n="9"/>וישא משלו ויאמר נאום בלעם בנבעור ונאם הגבר
+      <lb n="10"/>שהתם העין.   נואם שומע אמרי אל וידע דעת עליון אשר
+      <lb n="11"/>מחזה שדי יחזה נופל וגלו עין.   אראנו ולוא עתהא
+      <lb n="12"/>אשורנו ולוא קרוב.   דרך כוכב מיעקוב <add place="above">ויקומ</add> שבט מישראל ומחץ
+      <lb n="13"/>פאתי מואב וקרקר את כול בני שית.
+      <lb n="14"/>וללוי אמר הבו ללוי תמיך ואורך לאיש חסידך אשר
+      <lb n="15"/>נסיתו במסה ותרבהו על מי מריבה.   <add place="above">ה</add>אמר לאביו <del rend="dots">{לוא</del>}
+      <lb n="16"/>{{<gap reason="illegible" unit="character" quantity="3"/>}} ולאמו ל<del rend="dots">{א</del>}<corr>&lt;י</corr>&gt;ד<add place="above">ע</add>תיכהו ואת אחיו לוא הכיר ואת בנו לוא
+      <lb n="17"/>ידע.   כי שמר אמרתכה ובריתך ינצר.   <add place="above">ויאירו</add> משפטיך ליעקוב
+      <lb n="18"/>תורתכה לישראל יש<add place="above">י</add>םו קטורה באפך וכל<add place="above">י</add>ל על מזבחך.
+      <lb n="19"/>ברך יייי חילו ופעל ידו תרצה מחץ <add place="above">מתנים</add> קמו ומשנאו
+      <lb n="20"/>בל יקומו.   <del rend="erasure"> </del>
+      <lb n="21"/><del rend="erasure"> </del> בעת אשר כלה ישוע להלל ולהודות בתהלותיהו
+      <lb n="22"/>ויאמר ארור היש אשר יבנה את העיר הזות.   בבכורו
+      <lb n="23"/>ייסדנה ובצעירו יציב דלתיה.   ואנה <add place="above">איש</add> ארור אחד בליעל
+      <lb n="24"/>עומד להיות פ<supplied reason="lost">ח י</supplied>קוש לעמו ומחתה לכול שכניו.   ועמד
+      <lb n="25"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>מ<gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> לה</supplied>יות שניהמה כלי חמס ושבו ובנו את
+      <lb n="26"/><supplied reason="lost">העיר הזות.   ויצ</supplied><unclear cert="high">י</unclear>בו לה חומה ומגדלים לעשות לעוז רשע
+      <lb n="27"/><supplied reason="lost">ורעה גדלה </supplied>בישראל ושערוריה באפרים וביהודה.
+      <lb n="28"/><gap reason="lost" extent="unknown"/><supplied reason="lost">וע</supplied>שו חנופה בארץ ונצה גדולה בבני
+      <lb n="29"/><supplied reason="lost">יעקוב ושפכו ד</supplied>ם כמים על חל בת ציון ובחוק
+      <lb n="30"/><gap reason="lost" extent="unknown"/><del rend="erasure"></del> <unclear cert="low">יר</unclear>ושלמ.
+      </div>
+    </body>
+  </text>
+</TEI>

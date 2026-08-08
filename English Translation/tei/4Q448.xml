@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q448</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q448.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="1">
+      <lb n="1"/>הללויה מז<unclear cert="low">מו</unclear><supplied reason="lost">ר</supplied> <unclear cert="low">שיר</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/>א<unclear cert="low">ה</unclear>בת <unclear cert="low">כא</unclear><supplied reason="lost">ב</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="3"/>ס<unclear cert="low">ר</unclear>ות על <gap reason="lost" extent="unknown"/><supplied reason="lost">.   </supplied>
+      <lb n="4"/><del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="5"/>ויראו מס<unclear cert="low">נ</unclear><supplied reason="lost">איך <gap reason="lost" extent="unknown"/> בקהל</supplied>
+      <lb n="6"/>רבים השמ<unclear cert="low">י</unclear><supplied reason="lost">עו תפארתו חברו טובים נפשתכם</supplied>
+      <lb n="7"/>ולת<unclear cert="low">מי</unclear>מים <supplied reason="lost">לפאר עליון.   הנה עיני יהוה על טובים תחמל</supplied>
+      <lb n="8"/>ועל מפארו <unclear cert="low">י</unclear><supplied reason="lost">גדיל חסדו.   מעת רעה יציל נפשם גואל</supplied>
+      <lb n="9"/>עני מיד צרי<unclear cert="low">ם</unclear><supplied reason="lost"> ומציל תמימים מיד רשעים.   אוה</supplied>
+      <lb n="10"/>משכנו בציון <unclear cert="low">ב</unclear><supplied reason="lost">וחר לנצח בירושלים</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="2">
+      <lb n="1"/>עור קדש
+      <lb n="2"/>על י<unclear cert="high">ו</unclear>נתן המלכ
+      <lb n="3"/>וכל קהל עמכ
+      <lb n="4"/>יש<unclear cert="high">רא</unclear>ל
+      <lb n="5"/>אשר ב<unclear cert="high">ארב</unclear>ע
+      <lb n="6"/>רוחות שמים.
+      <lb n="7"/>יה<unclear cert="high">ו</unclear> שלום כלם
+      <lb n="8"/><unclear cert="high">וע</unclear>ל ממלכתכ
+      <lb n="9"/><unclear cert="high">ית</unclear>ברכ שמכ.
+      </div>
+      <div type="column" n="3">
+      <lb n="1"/>באהבתכ אתיס<gap reason="lost" extent="unknown"/>
+      <lb n="2"/>ביום <unclear cert="high">ועד</unclear> ערב <unclear cert="high">מ</unclear><gap reason="illegible" unit="character" quantity="3"/><gap reason="lost" extent="unknown"/>
+      <lb n="3"/>לקרוב להיות <unclear cert="low">ב</unclear><gap reason="lost" extent="unknown"/>.
+      <lb n="4"/>פקדם <add place="above">ל</add>ברכה<add place="above">ל</add><gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>
+      <lb n="5"/>על שמכ שנקרא<gap reason="lost" extent="unknown"/>
+      <lb n="6"/>ממלכה להב<unclear cert="high">רכ</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="7"/><unclear cert="low">ע</unclear>ל <unclear cert="low">י</unclear>ום מלחמה <unclear cert="high">ו</unclear><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="8"/>לי<unclear cert="high">ו</unclear>נתן המ<unclear cert="high">ל</unclear><supplied reason="lost">ך</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="9"/><unclear cert="high">מת</unclear><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

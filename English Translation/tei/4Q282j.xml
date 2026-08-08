@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q282j</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q282j.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="high">ז</unclear>כר
+      <lb n="3"/><gap reason="lost" extent="unknown"/><del rend="erasure"> </del>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><unclear cert="high">ז</unclear>ר
+      <lb n="5"/><gap reason="lost" extent="unknown"/><unclear cert="high">ו</unclear>פה
+      <lb n="6"/><gap reason="lost" extent="unknown"/>וכל
+      <lb n="7"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><unclear cert="high">י</unclear>נות הע<gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> </supplied>
+      <lb n="8"/><gap reason="lost" extent="unknown"/> מים
+      <lb n="9"/><gap reason="lost" extent="unknown"/><supplied reason="lost">י</supplied>חר אף
+      <lb n="10"/><gap reason="lost" extent="unknown"/>ל<gap reason="illegible" unit="character" quantity="1"/> ע<gap reason="illegible" unit="character" quantity="3"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

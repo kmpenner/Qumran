@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q169</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q169.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1_2">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">בסופה ובשערה דרכו ו</supplied><unclear cert="low">ע</unclear><unclear cert="high">נן</unclear> <unclear cert="high">א</unclear><supplied reason="lost">בק רגליו.   פשרו</supplied>
+      <lb n="2"/><unclear cert="high">ה</unclear><supplied reason="lost">סופות והשערו</supplied>ת ר<supplied reason="lost">קי</supplied>עי שמיו וארצו אשר ב<unclear cert="low">ר</unclear><supplied reason="lost">אם <gap reason="lost" extent="unknown"/>.   </supplied>
+      <lb n="3"/>גו<unclear cert="low">ע</unclear><supplied reason="lost">ר</supplied> בים ויוב<supplied reason="lost">ישהו.   פ</supplied>שרו הים הם כל ה<unclear cert="low">כ</unclear><supplied reason="lost">תיים</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/>לעש<supplied reason="lost">ות</supplied> <unclear cert="low">ב</unclear>הם משפט ולכלותם מעל פני <supplied reason="lost">הארץ.</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="5a"/>עם <gap reason="lost" extent="unknown"/><supplied reason="lost">מוש</supplied><unclear cert="high">ל</unclear>יהם אשר תתם ממשלתם <gap reason="lost" extent="unknown"/><supplied reason="lost">.   </supplied>
+      <lb n="5"/><supplied reason="lost">אמלל בשן ו]כרמל ופרח לבנן אמלל.   [פשרו</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><supplied reason="lost">יאב</supplied><unclear cert="low">דו</unclear> בו רבים רום רשעה כי הב<gap reason="lost" extent="unknown"/>
+      <lb n="7"/><supplied reason="lost">כר</supplied><unclear cert="low">מ</unclear>ל ולמושליו לבנון.   ופר<unclear cert="low">ח</unclear> לבנון היא<gap reason="lost" extent="unknown"/>
+      <lb n="8"/><supplied reason="lost">אנשי עצ</supplied>תם ואבדו מלפני<gap reason="lost" extent="unknown"/> בחיר<supplied reason="lost">י</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="9"/><supplied reason="lost"></supplied><gap reason="illegible" unit="character" quantity="1"/>ל יושבי תבל.   <del rend="erasure"> </del> <unclear cert="low">הר</unclear><supplied reason="lost">ים רעשו ממנו פשרו</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="10"/><gap reason="lost" extent="unknown"/>הארץ ממנו ומלפ<unclear cert="high">נ</unclear><unclear cert="low">י</unclear><gap reason="lost" extent="unknown"/>ל<supplied reason="lost">פני זעמו מי יעמוד ומי</supplied>
+      <lb n="11"/><supplied reason="lost">יקום </supplied><unclear cert="high">ב</unclear>חרון אפו <unclear cert="low">פ</unclear><supplied reason="lost">שרו</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f3_4i">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>מדור לרשעי גוים.   אשר הלך ארי לביא שם גור ארי
+      <lb n="2"/><supplied reason="lost">ואין מחריד.   פשרו על דמי</supplied>טרוס מלך יון אשר בקש לבוא ירושלים בעצת דורשי החלקות
+      <lb n="3"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>יד מלכי יון מאנתיכוס עד עמוד מושלי כתיים ואחר תרמס
+      <lb n="4"/><gap reason="lost" extent="unknown"/><supplied reason="lost">.   </supplied> ארי טורף בדי גוריו ומחנק ללביותיו טרף.
+      <lb n="5"/><gap reason="lost" extent="unknown"/><supplied reason="lost">פשרו </supplied>על כפיר החרון אשר יכה בגדוליו ואנשי עצתו
+      <lb n="6"/><gap reason="lost" extent="unknown"/><supplied reason="lost">וימלא טרף</supplied> <unclear cert="low">ח</unclear>ירה ומעונתו טרפה.   פשרו על כפיר החרון
+      <lb n="7"/><gap reason="lost" extent="unknown"/><supplied reason="lost">נק</supplied>מות בדורשי החלקות אשר יתלה אנשים חיים
+      <lb n="8"/><gap reason="lost" extent="unknown"/>בישראל מלפנים כי לתלוי חי <unclear cert="high">ע</unclear>ל <unclear cert="low">העץ</unclear> <supplied reason="lost">יק</supplied>רא הנני אלי<supplied reason="lost">כה</supplied>
+      <lb n="9"/>נ<unclear cert="high">א</unclear><supplied reason="lost">ם יהוה צבאות.   והבערתי בעשן רובכ</supplied><unclear cert="high">ה</unclear> וכפיריכה תאכל חרב והכר<supplied reason="lost">תי מארץ ט</supplied>רפה.
+      <lb n="10"/>ולא י<supplied reason="lost">שמע עוד קול מלאככה.   פש</supplied><unclear cert="low">ר</unclear>ו רובכה הם גדודי חילו <unclear cert="low">א</unclear><supplied reason="lost">שר בירושלי</supplied><unclear cert="low">ם</unclear> וכפיריו הם
+      <lb n="11"/>גדוליו<gap reason="lost" extent="unknown"/><unclear cert="high">וטר</unclear>פו הוא <unclear cert="high">ה</unclear><unclear cert="low">הו</unclear>ן אשר ק<unclear cert="low">ב</unclear><supplied reason="lost">צו כוה</supplied><unclear cert="low">נ</unclear>י ירושלים אשר
+      <lb n="12"/><supplied reason="lost">י</supplied>תנוהו ע<gap reason="lost" extent="unknown"/><supplied reason="lost">א</supplied>פרים ינתן ישראל <unclear cert="low">ל</unclear><gap reason="lost" extent="unknown"/>
+      </div>
+      <div type="column" n="f3_4ii">
+      <lb n="1"/>ומלאכיו הם צירו אשר לא ישמע קולם עוד בגוים.   הוי עיר הדמים כולה <supplied reason="lost">כחש פר</supplied><unclear cert="low">ק</unclear> מ<unclear cert="low">ל</unclear>אה.
+      <lb n="2"/>פשרו היא עיר אפרים דורשי החלקות לאחרית הימים אשר בכחש ושק<unclear cert="high">ר</unclear><supplied reason="lost">ים י</supplied>תהלכו.
+      <lb n="3"/>לא ימוש טרף וקול שוט וקול רעש אופן וסוס דהר ומרכבה מרקדה פ<unclear cert="high">ר</unclear><unclear cert="low">ש</unclear> <unclear cert="high">מ</unclear>עלה להוב
+      <lb n="4"/>וברק חנית ורוב חלל וכבוד פגר ואין קץ לגויה וכשלו וגויתם.   פשרו על ממשלת דורשי החלקות
+      <lb n="5"/>אשר לא ימוש מקרב עדתם חרב גוים שבי ובז וחרחור בינותם וגלות מפחד אויב.   ורוב
+      <lb n="6"/>פגרי אשמה יפולו בימיה<unclear cert="low">ם</unclear> ואין קץ לכלל חלליהם ואף בגוית בשרם יכשולו בעצת אשמתם.
+      <lb n="7"/>מרוב זנוני זונה טובת חן בעלת כשפים הממכרת גוים בזנותה ומשפחות ב<supplied reason="lost">כש</supplied>פיה.
+      <lb n="8"/>פשר<supplied reason="lost">ו ע</supplied>ל מתעי אפרים אשר בתלמוד שקרם ולשון כזביהם ושפת מרמה יתעו רבים
+      <lb n="9"/>מלכי<unclear cert="high">ם</unclear> שרים כוהנים ועם עם גר נלוה.  ערים ומשפחות יובדו בעצתם נ<supplied reason="lost">כ</supplied><unclear cert="low">ב</unclear>דים ומוש<supplied reason="lost">לים</supplied>
+      <lb n="10"/>יפולו <supplied reason="lost">מ</supplied>עם לשונם.   <del rend="erasure"> </del> הנני אליך נאם יהוה צ<supplied reason="lost">באו</supplied>ת וגלית
+      <lb n="11"/>שולי<supplied reason="lost">ך</supplied> על פניך והרא<unclear cert="low">ת</unclear> <unclear cert="low">ג</unclear>וים מע<unclear cert="high">ר</unclear><supplied reason="lost">ך</supplied> וממלכות {{<gap reason="illegible" unit="character" quantity="3"/>}} קלונ<unclear cert="low">ך</unclear>.   פשרו <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">ה</unclear> <gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>
+      <lb n="12"/><gap reason="lost" extent="unknown"/>ערי המזרח כי השו<unclear cert="low">ל</unclear><supplied reason="lost">י</supplied><unclear cert="low">ם</unclear><gap reason="lost" extent="unknown"/>
+      </div>
+      <div type="column" n="f3_4iii">
+      <lb n="1"/>הגוים בנותם<gap reason="lost" extent="unknown"/><supplied reason="lost">ש</supplied><unclear cert="low">ק</unclear>וצי תועבותיהם.   והשלכתי עליך שקוצים <supplied reason="lost">ונ</supplied>בלתיך ושמתיך
+      <lb n="2"/>כאורה.   והיה כול רואיך ידודו ממך.   <del rend="erasure"> </del>
+      <lb n="3"/>פשרו על דורשי החלקות אשר באחרית הקץ יגלו מעשיהם הרעים לכול ישראל
+      <lb n="4"/>ורבים יבינו בעוונם ושנאום וכארום על זדון אשמתם ובה<supplied reason="lost">ג</supplied>לו<unclear cert="high">ת</unclear> כבוד יהודה
+      <lb n="5"/>ידודו פתאי אפרים מתוך קהלם ועזבו את מתעיהם ונלוו על ישראל.   ואמרו
+      <lb n="6"/>שודדה נינוה מי ינוד לה.   מאין אבקשה מנחמים לך.   <del rend="erasure"> </del> פ<unclear cert="low">שרו</unclear> <supplied reason="lost">על</supplied> <unclear cert="low">דו</unclear><unclear cert="high">ר</unclear>שי
+      <lb n="7"/>החלקות אשר תובד עצתם ונפרדה כנסתם ולא יוסי<unclear cert="low">פ</unclear>ו עוד לתעות <supplied reason="lost">ה</supplied>קהל ופת<supplied reason="lost">אים</supplied>
+      <lb n="8"/>לא יחזקו עוד את עצתם.   <del rend="erasure"> </del> התיטיבי מני <unclear cert="high">א</unclear><unclear cert="low">מ</unclear><supplied reason="lost">ון הישבה ב</supplied>יארים.
+      <lb n="9"/>פשרו אמון הם מנשה והיארים הם גד<supplied reason="lost">ו</supplied>לי מנשה נכבדי ה<gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>ים את מ<supplied reason="lost"> </supplied>.
+      <lb n="10"/>מים סביב לה אשר חילה ים ומים ח<supplied reason="lost">ו</supplied>מותיה.   <del rend="erasure"> </del>
+      <lb n="11"/><supplied reason="lost">פ</supplied><unclear cert="low">שר</unclear>ו הם אנשי <supplied reason="lost">ח</supplied><unclear cert="low">י</unclear>לה גבור<supplied reason="lost">י מ</supplied>לחמתה.   {{<unclear cert="low">ע</unclear>}} <unclear cert="high">כ</unclear><unclear cert="low">ו</unclear>ש עוצמ<unclear cert="high">ה</unclear><supplied reason="lost"> ומצרים ואין קצה</supplied>
+      <lb n="12"/><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="3"/><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> <unclear cert="high">ה</unclear><unclear cert="low">מד</unclear><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><unclear cert="high">מ</unclear><gap reason="lost" extent="unknown"/><supplied reason="lost">פוט ולובים היו בעזרתך</supplied>.
+      </div>
+      <div type="column" n="f3_4iv">
+      <lb n="1"/>פשרו הם רש<unclear cert="high">ע</unclear><supplied reason="lost">י חיל</supplied><unclear cert="high">ה</unclear> בית פלג הנלוים על מנשה.   גם היא בגולה ה<supplied reason="lost">לכה בשבי גם</supplied>
+      <lb n="2"/>עילוליה ירוטשו בראש כל חוצות.   ועל נכבדיה יורו גורל וכול ג<supplied reason="lost">דו</supplied><unclear cert="high">ל</unclear><supplied reason="lost">יה רותקו</supplied>
+      <lb n="3"/>בזקים.   פשר<add place="above">ו</add> על מנשה לקץ האחרון אשר תשפל מלכותו בי<unclear cert="low">ש</unclear><supplied reason="lost">ראל</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/>נשיו עילוליו וטפו ילכו בשבי גבוריו ונכבדיו בחר<unclear cert="low">ב</unclear><gap reason="lost" extent="unknown"/><supplied reason="lost">.   גם את תשכרי</supplied>
+      <lb n="5"/>ותהי נעלמה.   <del rend="erasure"> </del> פשרו על רשעי <unclear cert="low">א</unclear><supplied reason="lost">פרים</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="6"/>אשר תבוא כוסם אחר מנשה<gap reason="lost" extent="unknown"/>ל<gap reason="lost" extent="unknown"/><supplied reason="lost">.   גם את תבקשי</supplied>
+      <lb n="7"/>מעוז בעיר מאויב.   פש<supplied reason="lost">רו ע</supplied>ל<gap reason="lost" extent="unknown"/>
+      <lb n="8"/>אויביהם בעי<unclear cert="low">ר</unclear><gap reason="lost" extent="unknown"/><supplied reason="lost">.   כול מבצריך</supplied>
+      <lb n="9"/>ת<unclear cert="low">אני</unclear>ם עם<supplied reason="lost"> בכורים</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="10"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f5">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>ים <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="low">כ</unclear>ול גבול ישרא<supplied reason="lost">ל</supplied> <unclear cert="high">ל</unclear><unclear cert="low">י</unclear>ם<gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><supplied reason="lost">חזקי מבצ</supplied><unclear cert="low">ר</unclear><unclear cert="high">י</unclear><unclear cert="low">ך</unclear> <unclear cert="low">בו</unclear><unclear cert="high">א</unclear>י בט<unclear cert="low">י</unclear><supplied reason="lost">ט</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

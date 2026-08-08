@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q476</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q476.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="3"/> <gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><unclear cert="low">כו</unclear>לכם תהיו בשלום <gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><supplied reason="lost">לק</supplied><unclear cert="low">ד</unclear><unclear cert="high">ש</unclear> מנוח שב<unclear cert="high">ת</unclear><supplied reason="lost"> ביו</supplied><unclear cert="high">ם</unclear><supplied reason="lost"> השביעי</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>ם אהל<unclear cert="low">ו</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">כו</unclear><supplied reason="lost">ל</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><unclear cert="high">ל</unclear>ת מל<unclear cert="high">ך</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="low">ק</unclear><supplied reason="lost">ר</supplied><unclear cert="low">ו</unclear>בי אל ל<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="4"/><supplied reason="lost">ו</supplied>כול מרוחקי מלך <unclear cert="high">מ</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="5"/>הם מאוסי אלוהי<supplied reason="lost">ם</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="6"/>כבוד לפני מלך ל<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f3i">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">אלו</supplied><unclear cert="high">הי</unclear>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">אל</supplied>והים
+      <lb n="3"/><gap reason="lost" extent="unknown"/><unclear cert="high">ל</unclear><supplied reason="lost"> </supplied>ו <unclear cert="low">ה</unclear>וד
+      <lb n="4"/><gap reason="lost" extent="unknown"/><supplied reason="lost">א</supplied>ו<unclear cert="high">ר</unclear>
+      <lb n="5"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>ו
+      <lb n="6"/><gap reason="lost" extent="unknown"/>יחד.
+      </div>
+      <div type="column" n="f3ii">
+      <lb n="2"/><gap reason="illegible" unit="character" quantity="3"/><gap reason="lost" extent="unknown"/>
+      <lb n="3"/>בכול ת<unclear cert="low">ב</unclear><supplied reason="lost">ל</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/>וצה<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="5"/>הכ<unclear cert="low">ב</unclear><supplied reason="lost">וד</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="6"/>קו<unclear cert="low">ד</unclear><supplied reason="lost">ש</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="7"/><unclear cert="low">ה</unclear>פ<unclear cert="high">ר</unclear><unclear cert="low">ו</unclear><supplied reason="lost">כת</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

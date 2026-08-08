@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>2Q18</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 2Q18.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><supplied reason="lost">אוהב אמונה אוהב</supplied> ת<supplied reason="lost">קוף <del rend="erasure"> </del> ומוצאו מצא הון</supplied>
+      <lb n="2"/><supplied reason="lost">לאוהב <del rend="erasure"> </del> אמונ</supplied><unclear cert="high">ה</unclear> א<unclear cert="low">ין</unclear><supplied reason="lost"> מחיר <del rend="erasure"> </del> ואין משקל לטובתו</supplied>.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">עקובה היא לאויל <del rend="erasure"> </del> ולא יכלכלנה חסר ל</supplied>ב.
+      <lb n="2"/><supplied reason="lost">כאבן משא תהיה עליו <del rend="erasure"> </del> ולא יאחר להשליכה</supplied>.
+      <lb n="3"/><supplied reason="lost">כי המוסר כשמה כן הוא <del rend="erasure"> </del> ולא לרבים היא נ</supplied>כח.
+      <lb n="4"/><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><supplied reason="lost">הט שכמך ושאה <del rend="erasure"> </del> ואל תקץ בתחבולתיה</supplied>.
+      <lb n="7"/><supplied reason="lost">בכל נפשך קרב אליה <del rend="erasure"> </del> ובכל מאדך שמר דרכי</supplied>ה.
+      <lb n="8"/><supplied reason="lost">דרש וחקר בקש ומצא <del rend="erasure"> </del> והתחזקתה ואל תר</supplied>פה.
+      <lb n="9"/><supplied reason="lost">כי לאחור תמצא מנוחתה <del rend="erasure"> </del> ונהפך לך לת</supplied>ענג.
+      <lb n="10"/><supplied reason="lost">והיתה לך רשתה מכון עז <del rend="erasure"> </del> וחבלתה </supplied>בגדי כתם.
+      <lb n="11"/><supplied reason="lost">עלי זהב עולה <del rend="erasure"> </del> ומוסרתיה פתיל תכ</supplied>לת.
+      <lb n="12"/><supplied reason="lost">בגדי כבוד תלבשנה <del rend="erasure"> </del> ועטר</supplied>ת תפארת תעטרנה.
+      <lb n="13"/><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>KhQ1</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of KhQ1.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="1">
+      <lb n="1"/>בשנת שתים <unclear cert="high">ל</unclear><gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" extent="unknown"/>
+      <lb n="2"/>בירחו נתן חני ב<supplied reason="lost">ן</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="3"/>לאלעזר בן נח<unclear cert="low">מ</unclear>ני<gap reason="lost" extent="unknown"/>
+      <lb n="4"/>את חסדי מח<unclear cert="high">ו</unclear>לנ<gap reason="lost" extent="unknown"/>
+      <lb n="5"/>מ<unclear cert="low">ה</unclear>יום ה<unclear cert="low">ז</unclear>ה ל<corr>ע</corr><unclear cert="high">ו</unclear><unclear cert="low">ל</unclear><supplied reason="lost">ם</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="6"/>וא<corr>ת</corr> תחומ<unclear cert="low">י</unclear> הבית ו<gap reason="lost" extent="unknown"/>
+      <lb n="7"/>והתאנים הז<unclear cert="high">י</unclear><supplied reason="lost">תים</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="8"/>וכ<unclear cert="low">מ</unclear>לותו ל<unclear cert="high">יחד</unclear><gap reason="lost" extent="unknown"/><supplied reason="lost">.   </supplied>
+      <lb n="9"/><unclear cert="low">וחני</unclear> <gap reason="lost" extent="unknown"/>
+      <lb n="10"/>לו את <unclear cert="low">חס</unclear><supplied reason="lost">די</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="11"/>ואת <gap reason="illegible" unit="character" quantity="3"/><gap reason="lost" extent="unknown"/>
+      <lb n="12"/>וביד<gap reason="illegible" unit="character" quantity="3"/>ה<gap reason="lost" extent="unknown"/>
+      <lb n="13"/>ל<unclear cert="low">ג</unclear><gap reason="illegible" unit="character" quantity="1"/>נן <gap reason="lost" extent="unknown"/>
+      <lb n="14"/>חסד<unclear cert="low">י</unclear> עבד <unclear cert="low">ח</unclear><supplied reason="lost">ני <gap reason="lost" extent="unknown"/> מן</supplied>
+      <lb n="15"/>חלון <gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

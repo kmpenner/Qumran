@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q475</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q475.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ציו</supplied><unclear cert="low">ן</unclear><supplied reason="lost"> ? י</supplied><unclear cert="low">ב</unclear><unclear cert="high">ח</unclear>ר <unclear cert="low">ו</unclear>בח<unclear cert="high">י</unclear><unclear cert="low">י</unclear> צ<unclear cert="low">דק</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><supplied reason="lost">חוקותיו ? </supplied><unclear cert="low">ש</unclear>כחום ולוא ידורשום ו<unclear cert="low">א</unclear>ר<unclear cert="high">ץ</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><supplied reason="lost">והוא שלח ? י</supplied>דים בתוכם והגיד להמה את כו<unclear cert="low">ל</unclear> <unclear cert="low">ה</unclear><supplied reason="lost">משפטים ? </supplied>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><supplied reason="lost">כ</supplied><unclear cert="low">ו</unclear>ל תבל ולוא יהיה עוד אשמות בארץ ולוא י<unclear cert="low">ה</unclear><supplied reason="lost">יה עוד ? </supplied>.
+      <lb n="5"/><supplied reason="lost">והיו ? מש</supplied><unclear cert="low">ח</unclear>ית וכול משטם והיתה כול תבל כעדן <unclear cert="low">ו</unclear><unclear cert="high">כ</unclear>ו<unclear cert="high">ל</unclear> <unclear cert="low">י</unclear><unclear cert="high">ש</unclear><supplied reason="lost">בי בה</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="6"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ו</supplied><unclear cert="high">ש</unclear>קטה הארץ לעולמים וי<unclear cert="low">דרשו</unclear> ? <supplied reason="lost"> </supplied><unclear cert="low">י</unclear><unclear cert="high">ו</unclear>ש<unclear cert="high">ב</unclear><supplied reason="lost">יה</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="7"/><supplied reason="lost">וישראל יהיה לו ? </supplied><unclear cert="low">ל</unclear><unclear cert="high">ב</unclear>ן אהוב ו<unclear cert="high">י</unclear><unclear cert="low">ד</unclear>רישו את כולה ו<unclear cert="high">צ</unclear><supplied reason="lost">דקה ? </supplied>
+      <lb n="8"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>ה כיא ה<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="9"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><unclear cert="low">ל</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q549</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q549.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><unclear cert="low">ל</unclear> וק<unclear cert="high">ב</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/> למצרי<unclear cert="low">ן</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/>ש<unclear cert="high">מע</unclear> <gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><supplied reason="lost">ח</supplied><unclear cert="low">ו</unclear>ר ואכל הוא ובנ<unclear cert="high">ו</unclear><unclear cert="low">ה</unclear><supplied reason="lost">י <gap reason="lost" extent="unknown"/> ויוכבד אנתתה כדי</supplied>
+      <lb n="2"/><supplied reason="lost">א</supplied><unclear cert="low">ת</unclear><unclear cert="high">ת</unclear> להא שנת עלמה<gap reason="lost" extent="unknown"/><supplied reason="lost">אתו</supplied>
+      <lb n="3"/><unclear cert="high">ע</unclear>לוהי ואשכחו<unclear cert="high">ה</unclear><supplied reason="lost">י</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="4"/>בנוהי ובני אחו<unclear cert="low">ה</unclear><supplied reason="lost">י</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="5"/><unclear cert="high">ו</unclear>תבו בר שעתהון<gap reason="lost" extent="unknown"/><supplied reason="lost">.   באתר דנה עמרם</supplied>
+      <lb n="6"/>פטר לבית עלמה<supplied reason="lost"> כדי <supplied reason="omitted">את</supplied></supplied><unclear cert="low">כ</unclear>ת<unclear cert="low">ב</unclear><supplied reason="lost"> בכתב מלי חזותא</supplied>.
+      <lb n="7"/><del rend="erasure"> </del> ומ<supplied reason="lost">ן משתותה די עוזיאל הווא חודשין</supplied>
+      <lb n="8"/>עשרא ואולד מן מריאם ע<unclear cert="high">מ</unclear><unclear cert="low">א</unclear><supplied reason="lost"> בנין תלתא למישאל ולאליצפן </supplied>
+      <lb n="9"/>ולסתרי.   <del rend="erasure"> </del> ונסב חור <supplied reason="lost">לאנתתה <gap reason="lost" extent="unknown"/> ברת</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="10"/>ואולד מנה לאור ואה<unclear cert="low">רו</unclear><supplied reason="lost">ן נסב לה לאנתתה אלישבע ואולד</supplied>
+      <lb n="11"/>מנה ארבע<unclear cert="high">א</unclear> ? בנין <supplied reason="lost">לנדב ולאביהוא ולאלעזר ולאיתמר</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q538</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q538.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1_2">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">א</supplied>דין חשל ע<supplied reason="lost">ל ]א[חוהי</supplied><gap reason="lost" extent="unknown"/>ש<gap reason="lost" extent="unknown"/>ן<gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ע</supplied>לי ואן איתי בל<supplied reason="lost">ב</supplied>בהון עלי<supplied reason="lost"> רוח באישה.   </supplied><del rend="erasure"> </del> כדי או<supplied reason="lost">בי</supplied>לת ואעלת
+      <lb n="3"/><supplied reason="lost">קדמוהי אקר</supplied>בו כחדא עלי ט<supplied reason="lost">וענ</supplied>יהון ב<supplied reason="lost">מתנתהון וכספא ב</supplied>רא<supplied reason="lost">שי</supplied>הון וקדם יוסף
+      <lb n="4"/><supplied reason="lost">נפלו כלהון ולה </supplied>סגדו.   אדין ידע די לא אית<supplied reason="lost">י בלבבהון ר</supplied>וח באישה ולא יכל עוד
+      <lb n="5"/><supplied reason="lost">חשד באיש בלב</supplied>ב<supplied reason="lost">הו</supplied>ן מנה ולא עוד יכל לא<supplied reason="lost">תאפקה.   ושר</supplied>ו רבה איתי על אחוהי
+      <lb n="6"/><supplied reason="lost">אדין יוסף אתחכם להון.   ונ</supplied>פ<supplied reason="lost">ל ע</supplied>ל צורי ועפקני בכ<supplied reason="lost">ה שגיא כולקבל די הוית </supplied>דחל
+      <lb n="7"/><supplied reason="lost">די אבי ימות ולא יכל יחזה ע]וד יוסף.   וכול א[חוהי</supplied><gap reason="lost" extent="unknown"/>ולא
+      <lb n="8"/><gap reason="lost" extent="unknown"/>תעמ<supplied reason="lost">רון בארעא די גשן</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f3">
+      <lb n="1"/>אל<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/>טב<unclear cert="high">א</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="3"/>הוא א<unclear cert="low">ל</unclear> <unclear cert="low">ט</unclear>ב <gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><supplied reason="lost">תק</supplied>פונא באתר מו<unclear cert="low">ת</unclear><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f4">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>א די <unclear cert="low">ת</unclear><supplied reason="lost">ר</supplied>שעון <gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>למללה מן <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

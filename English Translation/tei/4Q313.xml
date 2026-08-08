@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q313</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q313.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="f1">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">וירושלים מחנה הי</supplied><unclear cert="low">א</unclear> וחו<supplied reason="lost">צה למחנה הוא חוצה ירושלים</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="f2">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ו</supplied>א<unclear cert="high">ף</unclear> <unclear cert="low">המ</unclear><unclear cert="high">ט</unclear>ע<unclear cert="high">ת</unclear><supplied reason="lost"> לעצי המאכל הנטע בארץ ישראל</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">כרא</supplied><unclear cert="low">ש</unclear>י<unclear cert="low">ת</unclear> <unclear cert="low">ה</unclear>ו<supplied reason="lost">א לכוהנים ומעשר הבקר והצאן לכוהנים הוא</supplied><gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

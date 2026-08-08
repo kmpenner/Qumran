@@ -1,0 +1,68 @@
+name: Release corpus bundle
+
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Tag to build a draft release for"
+        required: false
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Build every derived format
+        run: |
+          set -euo pipefail
+          python3 "English Translation/scripts/build_tei.py"
+          python3 "English Translation/scripts/corpus_stats.py"
+          python3 "English Translation/scripts/build_site.py" --out site
+
+      - name: Assemble TSV
+        run: |
+          python3 - <<'PY'
+          import csv, os, re
+          LINE = re.compile(r"^(\S+) ([^:\s]+):(\S+)(?:\s+(.*))?$")
+          src = "English Translation/original/scroll"
+          os.makedirs("dist", exist_ok=True)
+          with open("dist/qumran-transcriptions.tsv", "w", encoding="utf-8", newline="") as fh:
+              w = csv.writer(fh, delimiter="\t", lineterminator="\n")
+              w.writerow(["siglum", "column", "line", "text"])
+              n = 0
+              for name in sorted(os.listdir(src)):
+                  if not name.endswith(".txt"):
+                      continue
+                  for raw in open(os.path.join(src, name), encoding="utf-8"):
+                      m = LINE.match(raw.rstrip("\n"))
+                      if m:
+                          w.writerow([m.group(1), m.group(2), m.group(3), m.group(4) or ""])
+                          n += 1
+          print(f"{n} lines written to dist/qumran-transcriptions.tsv")
+          PY
+
+      - name: Bundle
+        run: |
+          set -euo pipefail
+          mkdir -p dist
+          tar -czf dist/qumran-tei.tar.gz -C "English Translation" tei
+          tar -czf dist/qumran-transcriptions.tar.gz -C "English Translation/original" scroll
+          tar -czf dist/qumran-reading-edition.tar.gz site
+          cp "English Translation/STATS.md" dist/
+          ls -lh dist
+
+      - name: Publish
+        uses: softprops/action-gh-release@v2
+        with:
+          draft: true
+          generate_release_notes: true
+          files: dist/*

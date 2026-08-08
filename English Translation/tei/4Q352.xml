@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>4Q352</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 4Q352.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="fa">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>12<gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>4 כ<gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/>2 כ<gap reason="lost" extent="unknown"/>
+      <lb n="4"/><gap reason="lost" extent="unknown"/><supplied reason="lost">2 </supplied> כ 1
+      <lb n="5"/><gap reason="lost" extent="unknown"/><supplied reason="lost">1+</supplied>1 כ 1
+      <lb n="6"/><gap reason="lost" extent="unknown"/><supplied reason="lost">1+</supplied>1 כ 1
+      <lb n="7"/><gap reason="lost" extent="unknown"/><supplied reason="lost">1+</supplied>1 כ 1
+      <lb n="8"/><gap reason="lost" extent="unknown"/><supplied reason="lost">2</supplied> כ 1
+      <lb n="9"/><gap reason="lost" extent="unknown"/><supplied reason="lost">2 </supplied> כ 1.
+      </div>
+      <div type="column" n="fb">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>1 כ<gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>1 כ 1
+      <lb n="3"/><gap reason="lost" extent="unknown"/> כ 1.
+      </div>
+      <div type="column" n="fc">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> 10<gap reason="lost" extent="unknown"/>
+      <lb n="3"/><gap reason="lost" extent="unknown"/> 10<gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>
