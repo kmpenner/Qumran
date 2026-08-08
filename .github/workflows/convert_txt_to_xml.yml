@@ -3,7 +3,8 @@ name: Convert TXT to XML
 on:
   push:
     paths:
-      - "English Translation/original/scroll/*.txt"  # Trigger when any .txt file in original/scroll changes
+      - "English Translation/original/scroll/*.txt"
+  workflow_dispatch:        # allow a manual full run
 
 jobs:
   convert-txt-to-xml:
@@ -12,38 +13,48 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0    # need history: the default shallow clone makes
+                            # github.event.before a "bad object"
 
       - name: Set Up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
-      - name: Get Modified File
-        id: get-file
+      - name: Convert every changed scroll
         run: |
-          FILE=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | grep '^English Translation/original/scroll/.*\.txt$' | head -n 1)
-          if [[ -z "$FILE" ]]; then
-            echo "No changed TXT file found."
-            exit 1
-          fi
-          echo "Modified file: $FILE"
-          echo "TXT_FILE=$FILE" >> $GITHUB_ENV
-          echo "XML_FILE=${FILE%.txt}.xml" >> $GITHUB_ENV
-
-      - name: Run Script to Convert TXT to XML
-        run: |
-          python3 "English Translation/scripts/txt_to_s_xml.py" "$TXT_FILE"
-
-      - name: Commit and Push XML File
-        run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'actions@github.com'
-
-          if [[ -f "$XML_FILE" ]]; then
-            git add "$XML_FILE"
-            git commit -m "Auto-converted $TXT_FILE to XML"
-            git push
+          set -euo pipefail
+          BEFORE='${{ github.event.before }}'
+          # On a manual run, or when `before` is unknown/empty tree, do them all.
+          if [ -z "$BEFORE" ] || ! git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+            echo "No usable base commit - converting all scrolls."
+            find "English Translation/original/scroll" -name '*.txt' -print0 > changed.z
           else
-            echo "No XML file generated, skipping commit."
+            git diff --name-only -z "$BEFORE" '${{ github.event.after }}' \
+              -- "English Translation/original/scroll/*.txt" > changed.z
           fi
-        continue-on-error: true  # Prevent errors if no new changes exist
+
+          count=0
+          while IFS= read -r -d '' f; do
+            [ -f "$f" ] || continue          # skip deletions
+            python3 "English Translation/scripts/txt_to_s_xml.py" "$f"
+            count=$((count+1))
+          done < changed.z
+          rm -f changed.z
+          echo "Converted $count file(s)."
+          echo "CONVERTED=$count" >> "$GITHUB_ENV"
+
+      - name: Commit and Push XML
+        if: env.CONVERTED != '0'
+        run: |
+          set -euo pipefail
+          git config user.name  'github-actions'
+          git config user.email 'actions@github.com'
+          git add -- "English Translation/original/scroll/*.xml"
+          if git diff --cached --quiet; then
+            echo "No XML changes to commit."
+            exit 0
+          fi
+          git commit -m "Auto-convert ${CONVERTED} scroll TXT file(s) to XML"
+          git push
