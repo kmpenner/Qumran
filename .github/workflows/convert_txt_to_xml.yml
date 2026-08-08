@@ -3,7 +3,7 @@ name: Convert TXT to XML
 on:
   push:
     paths:
-      - "original/scroll/*.txt"  # Trigger when any .txt file in original/scroll changes
+      - "English Translation/original/scroll/*.txt"  # Trigger when any .txt file in original/scroll changes
 
 jobs:
   convert-txt-to-xml:
@@ -21,7 +21,7 @@ jobs:
       - name: Get Modified File
         id: get-file
         run: |
-          FILE=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | grep '^original/scroll/.*\.txt$' | head -n 1)
+          FILE=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | grep '^English Translation/original/scroll/.*\.txt$' | head -n 1)
           if [[ -z "$FILE" ]]; then
             echo "No changed TXT file found."
             exit 1
@@ -32,7 +32,7 @@ jobs:
 
       - name: Run Script to Convert TXT to XML
         run: |
-          python3 scripts/txt_to_s_xml.py $TXT_FILE
+          python3 "English Translation/scripts/txt_to_s_xml.py" "$TXT_FILE"
 
       - name: Commit and Push XML File
         run: |
