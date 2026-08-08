@@ -5,13 +5,12 @@ TEI, a reading edition, and release bundles.
 
 | Folder | Contents |
 |---|---|
-| `English Translation/original/` | `dss.txt`, and `scroll/*.txt` split out of it — the source transcriptions |
-| `English Translation/scripts/` | The pipeline |
-| `English Translation/tei/` | Generated TEI P5, one file per scroll |
-| `English Translation/STATS.md` | Generated corpus statistics |
+| `original/` | `dss.txt`, and `scroll/*.txt` split out of it — the source transcriptions |
+| `scripts/` | The pipeline |
+| `tei/` | Generated TEI P5, one file per scroll |
+| `STATS.md` | Generated corpus statistics |
 
-The English translation of the scrolls is **not** here; it lives in the private
-`LexhamEnglishDSS` repository.
+Reading edition: **https://kmpenner.github.io/Qumran/**
 
 ## Transcription format
 
@@ -28,7 +27,7 @@ Markup alphabet, taken from a census of the corpus:
 |---|---|---|
 | `[word]` | reconstructed | `<supplied reason="lost">` |
 | `--` | lacuna | `<gap reason="lost">` |
-| `ẋ` (U+0307) | probable letter | `<unclear cert="high">` |
+| `ẋ` (U+0307) | probable letter | `<unclear cert="high">` |
 | `x֯` (U+05AF) | possible letter | `<unclear cert="low">` |
 | `◌` | unreadable letter | `<gap reason="illegible">` |
 | `〚word〛` | scribal erasure | `<del rend="erasure">` |
@@ -44,10 +43,10 @@ original/dss.txt  ◄──────────┐
       │                      │  sync-dss.yml, both directions
       └──────────────────────┘
                   │
-original/scroll/*.txt ──► lint.yml   fails on malformed lines
-      │                              and unbalanced brackets
+   original/scroll/*.txt ──► lint.yml   fails on malformed lines
+      │                                 and unbalanced brackets
       ├──► build-tei.yml ──► tei/*.xml + STATS.md
-      ├──► pages.yml     ──► reading edition + concordance on GitHub Pages
+      ├──► pages.yml     ──► reading edition on GitHub Pages
       └──► release.yml   ──► TEI, TSV, transcription and site bundles (on a v* tag)
 ```
 
@@ -62,34 +61,25 @@ ranges of changed scrolls are replaced, so untouched blocks keep their exact
 bytes and a one-line edit stays a one-line diff.
 
 ```bash
-python3 "English Translation/scripts/sync_dss.py" check      # report drift
-python3 "English Translation/scripts/sync_dss.py" from-dss   # dss.txt wins
-python3 "English Translation/scripts/sync_dss.py" to-dss     # scroll files win
+python3 scripts/sync_dss.py check      # report drift
+python3 scripts/sync_dss.py from-dss   # dss.txt wins
+python3 scripts/sync_dss.py to-dss     # scroll files win
 ```
 
 `convert_txt_to_xml.yml` is the older, shallower converter — it emits `<cb>`,
 `<lb>` and `<s>` only, and drops the reconstruction markup. `build_tei.py`
 supersedes it; retire it once nothing depends on its output.
 
-`splitdss.yml` has been removed. It only ever split one way and would have
-fought `sync-dss.yml` for the same files.
-
 All the workflows that commit share the `commit-to-main` concurrency group, so
 they queue instead of racing each other to push.
-
-## Enabling the reading edition
-
-GitHub Pages has to be switched on once by hand:
-**Settings → Pages → Build and deployment → Source: GitHub Actions.**
-Until then `pages.yml` fails at "Configure Pages".
 
 ## Running the pipeline locally
 
 ```bash
-python3 "English Translation/scripts/lint_transcriptions.py"
-python3 "English Translation/scripts/build_tei.py"
-python3 "English Translation/scripts/corpus_stats.py"
-python3 "English Translation/scripts/build_site.py" --out site
+python3 scripts/lint_transcriptions.py
+python3 scripts/build_tei.py
+python3 scripts/corpus_stats.py
+python3 scripts/build_site.py --out site
 python3 -m http.server -d site
 ```
 

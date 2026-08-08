@@ -3,9 +3,9 @@ name: Build TEI and statistics
 on:
   push:
     paths:
-      - "English Translation/original/scroll/*.txt"
-      - "English Translation/scripts/build_tei.py"
-      - "English Translation/scripts/corpus_stats.py"
+      - "original/scroll/*.txt"
+      - "scripts/build_tei.py"
+      - "scripts/corpus_stats.py"
       - ".github/workflows/build-tei.yml"
   workflow_dispatch:
 
@@ -29,7 +29,7 @@ jobs:
         run: pip install --quiet lxml
 
       - name: Build TEI
-        run: python3 "English Translation/scripts/build_tei.py"
+        run: python3 scripts/build_tei.py
 
       - name: Validate TEI is well-formed and uses only the expected elements
         run: |
@@ -43,7 +43,7 @@ jobs:
               "sourceDesc","p","text","body","div","lb","gap","supplied",
               "unclear","del","add","corr",
           }
-          src = "English Translation/tei"
+          src = "tei"
           seen, bad = collections.Counter(), []
           for name in sorted(os.listdir(src)):
               if not name.endswith(".xml"):
@@ -66,15 +66,15 @@ jobs:
           PY
 
       - name: Corpus statistics
-        run: python3 "English Translation/scripts/corpus_stats.py"
+        run: python3 scripts/corpus_stats.py
 
       - name: Commit
         run: |
           set -euo pipefail
           git config user.name  'github-actions'
           git config user.email 'actions@github.com'
-          git add -- "English Translation/tei" "English Translation/STATS.md" \
-                     "English Translation/derived"
+          git add -- "tei" "STATS.md" \
+                     "derived"
           if git diff --cached --quiet; then
             echo "No change to TEI or statistics."
             exit 0

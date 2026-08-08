@@ -75,9 +75,9 @@ def measure(path: str) -> dict:
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--src", default="English Translation/original/scroll")
-    ap.add_argument("--out", default="English Translation/STATS.md")
-    ap.add_argument("--json", default="English Translation/derived/corpus-stats.json")
+    ap.add_argument("--src", default="original/scroll")
+    ap.add_argument("--out", default="STATS.md")
+    ap.add_argument("--json", default="derived/corpus-stats.json")
     args = ap.parse_args()
 
     if not os.path.isdir(args.src):

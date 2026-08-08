@@ -157,8 +157,8 @@ def build_scroll_page(path: str, concordance: dict[str, list[str]]) -> tuple[str
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--tei", default="English Translation/tei")
-    ap.add_argument("--stats", default="English Translation/derived/corpus-stats.json")
+    ap.add_argument("--tei", default="tei")
+    ap.add_argument("--stats", default="derived/corpus-stats.json")
     ap.add_argument("--out", default="site")
     args = ap.parse_args()
 

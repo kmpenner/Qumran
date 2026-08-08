@@ -101,7 +101,7 @@ def lint_file(path: str) -> list[tuple[int, str, str]]:
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("directory", nargs="?", default="English Translation/original/scroll")
+    ap.add_argument("directory", nargs="?", default="original/scroll")
     ap.add_argument("--quiet", action="store_true", help="only print failures")
     args = ap.parse_args()
 

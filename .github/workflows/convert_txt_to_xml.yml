@@ -3,7 +3,7 @@ name: Convert TXT to XML
 on:
   push:
     paths:
-      - "English Translation/original/scroll/*.txt"
+      - "original/scroll/*.txt"
   workflow_dispatch:        # allow a manual full run
 
 concurrency:
@@ -33,16 +33,16 @@ jobs:
           # On a manual run, or when `before` is unknown/empty tree, do them all.
           if [ -z "$BEFORE" ] || ! git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
             echo "No usable base commit - converting all scrolls."
-            find "English Translation/original/scroll" -name '*.txt' -print0 > changed.z
+            find "original/scroll" -name '*.txt' -print0 > changed.z
           else
             git diff --name-only -z "$BEFORE" '${{ github.event.after }}' \
-              -- "English Translation/original/scroll/*.txt" > changed.z
+              -- "original/scroll/*.txt" > changed.z
           fi
 
           count=0
           while IFS= read -r -d '' f; do
             [ -f "$f" ] || continue          # skip deletions
-            python3 "English Translation/scripts/txt_to_s_xml.py" "$f"
+            python3 scripts/txt_to_s_xml.py "$f"
             count=$((count+1))
           done < changed.z
           rm -f changed.z
@@ -55,7 +55,7 @@ jobs:
           set -euo pipefail
           git config user.name  'github-actions'
           git config user.email 'actions@github.com'
-          git add -- "English Translation/original/scroll/*.xml"
+          git add -- "original/scroll/*.xml"
           if git diff --cached --quiet; then
             echo "No XML changes to commit."
             exit 0

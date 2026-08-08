@@ -9,8 +9,8 @@ name: Sync dss.txt and scroll files
 on:
   push:
     paths:
-      - "English Translation/original/dss.txt"
-      - "English Translation/original/scroll/*.txt"
+      - "original/dss.txt"
+      - "original/scroll/*.txt"
   workflow_dispatch:
     inputs:
       direction:
@@ -57,8 +57,8 @@ jobs:
           fi
 
           CHANGED=$(git diff --name-only "$BEFORE" '${{ github.event.after }}')
-          DSS=$(echo "$CHANGED" | grep -c '^English Translation/original/dss\.txt$' || true)
-          SCR=$(echo "$CHANGED" | grep -c '^English Translation/original/scroll/.*\.txt$' || true)
+          DSS=$(echo "$CHANGED" | grep -c '^original/dss\.txt$' || true)
+          SCR=$(echo "$CHANGED" | grep -c '^original/scroll/.*\.txt$' || true)
           echo "dss.txt changed: $DSS | scroll files changed: $SCR"
 
           if [ "$DSS" -gt 0 ] && [ "$SCR" -gt 0 ]; then
@@ -77,12 +77,12 @@ jobs:
       - name: Sync
         if: steps.decide.outputs.direction != 'none'
         run: |
-          python3 "English Translation/scripts/sync_dss.py" \
+          python3 scripts/sync_dss.py \
             "${{ steps.decide.outputs.direction }}"
 
       - name: Verify both sides now agree
         if: steps.decide.outputs.direction != 'none'
-        run: python3 "English Translation/scripts/sync_dss.py" check
+        run: python3 scripts/sync_dss.py check
 
       - name: Commit
         if: steps.decide.outputs.direction != 'none'
@@ -90,7 +90,7 @@ jobs:
           set -euo pipefail
           git config user.name  'github-actions'
           git config user.email 'actions@github.com'
-          git add -- "English Translation/original"
+          git add -- "original"
           if git diff --cached --quiet; then
             echo "Already in sync."
             exit 0

@@ -24,16 +24,16 @@ jobs:
       - name: Build every derived format
         run: |
           set -euo pipefail
-          python3 "English Translation/scripts/build_tei.py"
-          python3 "English Translation/scripts/corpus_stats.py"
-          python3 "English Translation/scripts/build_site.py" --out site
+          python3 scripts/build_tei.py
+          python3 scripts/corpus_stats.py
+          python3 scripts/build_site.py --out site
 
       - name: Assemble TSV
         run: |
           python3 - <<'PY'
           import csv, os, re
           LINE = re.compile(r"^(\S+) ([^:\s]+):(\S+)(?:\s+(.*))?$")
-          src = "English Translation/original/scroll"
+          src = "original/scroll"
           os.makedirs("dist", exist_ok=True)
           with open("dist/qumran-transcriptions.tsv", "w", encoding="utf-8", newline="") as fh:
               w = csv.writer(fh, delimiter="\t", lineterminator="\n")
@@ -54,10 +54,10 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p dist
-          tar -czf dist/qumran-tei.tar.gz -C "English Translation" tei
-          tar -czf dist/qumran-transcriptions.tar.gz -C "English Translation/original" scroll
+          tar -czf dist/qumran-tei.tar.gz tei
+          tar -czf dist/qumran-transcriptions.tar.gz -C "original" scroll
           tar -czf dist/qumran-reading-edition.tar.gz site
-          cp "English Translation/STATS.md" dist/
+          cp "STATS.md" dist/
           ls -lh dist
 
       - name: Publish

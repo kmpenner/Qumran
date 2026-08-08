@@ -30,8 +30,8 @@ import os
 import re
 import sys
 
-DSS = "English Translation/original/dss.txt"
-SCROLL_DIR = "English Translation/original/scroll"
+DSS = "original/dss.txt"
+SCROLL_DIR = "original/scroll"
 DEFAULT_SEPARATOR = "\n" * 10
 
 

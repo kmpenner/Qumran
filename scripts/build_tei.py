@@ -148,8 +148,8 @@ def build_scroll(path: str) -> str | None:
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--src", default="English Translation/original/scroll")
-    ap.add_argument("--out", default="English Translation/tei")
+    ap.add_argument("--src", default="original/scroll")
+    ap.add_argument("--out", default="tei")
     args = ap.parse_args()
 
     if not os.path.isdir(args.src):
