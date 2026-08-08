@@ -40,19 +40,39 @@ Markup alphabet, taken from a census of the corpus:
 ## Pipeline
 
 ```
-original/dss.txt
-      │  splitdss.yml
-      ▼
-original/scroll/*.txt ──► lint.yml            fails the build on malformed
-      │                                        lines and unbalanced brackets
+original/dss.txt  ◄──────────┐
+      │                      │  sync-dss.yml, both directions
+      └──────────────────────┘
+                  │
+original/scroll/*.txt ──► lint.yml   fails on malformed lines
+      │                              and unbalanced brackets
       ├──► build-tei.yml ──► tei/*.xml + STATS.md
       ├──► pages.yml     ──► reading edition + concordance on GitHub Pages
       └──► release.yml   ──► TEI, TSV, transcription and site bundles (on a v* tag)
 ```
 
+### Keeping the two shapes in step
+
+`dss.txt` and `original/scroll/*.txt` hold the same content, and an edit can
+land on either side. `sync-dss.yml` works out which side changed and propagates
+it. If both changed in one push it fails rather than guessing which wins.
+
+Writing back into `dss.txt` is a splice, not a regeneration: only the byte
+ranges of changed scrolls are replaced, so untouched blocks keep their exact
+bytes and a one-line edit stays a one-line diff.
+
+```bash
+python3 "English Translation/scripts/sync_dss.py" check      # report drift
+python3 "English Translation/scripts/sync_dss.py" from-dss   # dss.txt wins
+python3 "English Translation/scripts/sync_dss.py" to-dss     # scroll files win
+```
+
 `convert_txt_to_xml.yml` is the older, shallower converter — it emits `<cb>`,
 `<lb>` and `<s>` only, and drops the reconstruction markup. `build_tei.py`
 supersedes it; retire it once nothing depends on its output.
+
+`splitdss.yml` has been removed. It only ever split one way and would have
+fought `sync-dss.yml` for the same files.
 
 All the workflows that commit share the `commit-to-main` concurrency group, so
 they queue instead of racing each other to push.
@@ -75,12 +95,18 @@ python3 -m http.server -d site
 
 ## Known issues
 
-- `4Q320.txt` line 13 has unbalanced brackets (2 open, 1 close); `lint.yml`
-  fails on it until it is fixed.
-- 14 scrolls named in `dss.txt` have no file in `original/scroll/` — `1QS`,
-  `1QM`, `1QHa`, `CD`, `11Q19`, `1Q20`, `11Q10`, `4Q176`, `4Q249`, `4Q249z`,
-  `4Q266`, `4Q299`, `4Q317`, `4Q364`. They are the long scrolls, handled
-  elsewhere as multi-part files; confirm whether that is deliberate.
-- `dss.txt` and `scroll/*.txt` are both committed, and the second is generated
-  from the first. Editing a scroll file directly will be overwritten the next
-  time `dss.txt` changes. Pick one as the source of truth.
+`lint.yml` fails on six unbalanced-bracket defects. All six are real: a bracket
+is opened and never closed, or closed without being opened, which corrupts the
+`<supplied>` nesting in the generated TEI.
+
+| File | Line | Brackets |
+|---|---|---|
+| `4Q320.txt` | 13 | 2 open, 1 close |
+| `11Q19.txt` | 180 | 7 open, 8 close |
+| `11Q19.txt` | 443 | 2 open, 1 close |
+| `11Q19.txt` | 976 | 13 open, 14 close |
+| `1QHa.txt` | 360 | 2 open, 0 close |
+| `1QHa.txt` | 909 | 3 open, 2 close |
+
+Five of the six are in `11Q19` and `1QHa`, which only entered `scroll/` when
+the sync was first run — they had been sitting unchecked inside `dss.txt`.

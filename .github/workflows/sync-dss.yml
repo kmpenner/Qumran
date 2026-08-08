@@ -1,0 +1,99 @@
+name: Sync dss.txt and scroll files
+
+# dss.txt and original/scroll/*.txt hold the same content in two shapes, and an
+# edit can land on either side. This propagates it to the other.
+#
+# Replaces the old splitdss.yml, which only ever went one way and would fight
+# this workflow for the same files.
+
+on:
+  push:
+    paths:
+      - "English Translation/original/dss.txt"
+      - "English Translation/original/scroll/*.txt"
+  workflow_dispatch:
+    inputs:
+      direction:
+        description: "Force a direction (from-dss, to-dss) or leave blank to detect"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: commit-to-main
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    # Without this the workflow's own commit retriggers it. The second run
+    # would find nothing to do and stop, but the guard is cheaper.
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Decide which way to sync
+        id: decide
+        run: |
+          set -euo pipefail
+          FORCED='${{ github.event.inputs.direction }}'
+          if [ -n "$FORCED" ]; then
+            echo "direction=$FORCED" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          BEFORE='${{ github.event.before }}'
+          if [ -z "$BEFORE" ] || ! git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+            echo "No usable base commit; treating dss.txt as authoritative."
+            echo "direction=from-dss" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          CHANGED=$(git diff --name-only "$BEFORE" '${{ github.event.after }}')
+          DSS=$(echo "$CHANGED" | grep -c '^English Translation/original/dss\.txt$' || true)
+          SCR=$(echo "$CHANGED" | grep -c '^English Translation/original/scroll/.*\.txt$' || true)
+          echo "dss.txt changed: $DSS | scroll files changed: $SCR"
+
+          if [ "$DSS" -gt 0 ] && [ "$SCR" -gt 0 ]; then
+            echo "::error::Both dss.txt and scroll files changed in the same push."
+            echo "Refusing to guess which side wins. Re-push with the edit on one"
+            echo "side only, or run this workflow manually with an explicit direction."
+            exit 1
+          elif [ "$DSS" -gt 0 ]; then
+            echo "direction=from-dss" >> "$GITHUB_OUTPUT"
+          elif [ "$SCR" -gt 0 ]; then
+            echo "direction=to-dss" >> "$GITHUB_OUTPUT"
+          else
+            echo "direction=none" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Sync
+        if: steps.decide.outputs.direction != 'none'
+        run: |
+          python3 "English Translation/scripts/sync_dss.py" \
+            "${{ steps.decide.outputs.direction }}"
+
+      - name: Verify both sides now agree
+        if: steps.decide.outputs.direction != 'none'
+        run: python3 "English Translation/scripts/sync_dss.py" check
+
+      - name: Commit
+        if: steps.decide.outputs.direction != 'none'
+        run: |
+          set -euo pipefail
+          git config user.name  'github-actions'
+          git config user.email 'actions@github.com'
+          git add -- "English Translation/original"
+          if git diff --cached --quiet; then
+            echo "Already in sync."
+            exit 0
+          fi
+          git commit -m "Sync dss.txt and scroll files (${{ steps.decide.outputs.direction }})"
+          git push

@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>1QM</title></titleStmt>
+      <publicationStmt><p>Generated from the transcription by build_tei.py.</p></publicationStmt>
+      <sourceDesc><p>Transcription of 1QM.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="column" n="1">
+      <lb n="1"/><unclear cert="low">וז</unclear><supplied reason="lost">ה ספר סרך</supplied> המלחמה.   ראשית משלוח יד בני אור להחל בגורל בני חושך בחיל בליעל בגדוד אדום ומואב ובני עמון
+      <lb n="2"/>ו<unclear cert="high">ח</unclear><unclear cert="low">י</unclear><supplied reason="lost">ל יושבי</supplied> פלשת ובגדודי כתיי אשור.   ועמהם בעזר מרשיעי ברית.   בני לוי ובני יהודה ובני בנימין גולת המדבר ילחמו בם
+      <lb n="3"/><unclear cert="low">ב</unclear><supplied reason="lost"> </supplied> לכול גדודיהם בשוב גולת בני אור ממדבר העמים לחנות במדבר ירושלים.   ואחר המלחמה יעלו משם
+      <lb n="4"/><unclear cert="low">ו</unclear><supplied reason="lost">בא מלך</supplied> הכתיים במצרים.   ובקצו יצא בחמה גדולה להלחם במלכי הצפון ואפו להשמיד ולהכרית את קרן
+      <lb n="5"/><unclear cert="low">י</unclear><supplied reason="lost">שראל.   והי</supplied>אה עת ישועה לעם אל וקץ ממשל לכול אנשי גורלו וכלת עולמים לכול גורל בליעל.   והיתה מהומה
+      <lb n="6"/>ג<supplied reason="lost">דולה ב</supplied>בני יפת.   ונפל אשור ואין עוזר לו.   וסרה ממשלת כתיים לה<unclear cert="high">כ</unclear>ני<supplied reason="lost">ע</supplied> רשעה לאין שארית.   ופלטה לוא תהיה
+      <lb n="7"/><unclear cert="high">ל</unclear><supplied reason="lost">כול בנ</supplied>י חושך.   <del rend="erasure"> </del>
+      <lb n="8"/><unclear cert="high">ו</unclear><supplied reason="lost">בני צ</supplied><unclear cert="low">ד</unclear>ק יאירו לכול קצוות תבל הלוך ואור עד תום כול מועדי חושך.   ובמועד אל יאיר רום גודלו לכול קצי
+      <lb n="9"/><unclear cert="low">ע</unclear><supplied reason="lost">ולמים</supplied> לשלום וברכה כבוד ושמחה ואורך ימים לכול בני אור.   וביום נפול בו כתיים קרב ונחשיר חזק לפני אל
+      <lb n="10"/>ישראל כיא הואה יום יעוד לו מאז למלחמת כלה לבני חושך.   בו יתקרבו לנחשיר גדול עדת אלים וקהלת
+      <lb n="11"/>אנשים.   בני אור וגורל חושך נלחמים יחד לגבורת אל בקול המון גדול ותרועת אלים ואנשים ליום הווה.   והיאה עת
+      <lb n="12"/>צרה ע<supplied reason="lost">ל כו</supplied>ל עם פדות אל.   ובכול צרותמה לוא נהיתה כמוה מחושה עד תומה לפדות עולמים.   וביום מלחמתם בכתיים
+      <lb n="13"/>יצ<supplied reason="lost">או </supplied><unclear cert="low">לנ</unclear><unclear cert="high">ח</unclear>שיר במלחמה.   שלושה גורלות יחזקו בני אור לנגוף רשעה.   ושלושה יתאזרו חיל בליעל למשוב גורל
+      <lb n="14"/><supplied reason="lost">אור.   </supplied><unclear cert="low">ודג</unclear>לי הבנים יהיו להמס לבב וגבורת אל מאמ<unclear cert="high">צ</unclear><unclear cert="low">ת</unclear> ל<unclear cert="low">ב</unclear><supplied reason="lost">ב בני או</supplied><unclear cert="low">ר</unclear>.   <unclear cert="low">ו</unclear>בגורל השביעי יד אל הגדולה מכנעת
+      <lb n="15"/><supplied reason="lost">בליעל וכו</supplied>ל מלאכי ממשלתו ולכול אנשי<supplied reason="lost"> גורלו.   </supplied><del rend="erasure"> </del>
+      <lb n="16"/><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="1"/> קדושים יופיע בעזר<unclear cert="low">ת</unclear><gap reason="lost" extent="unknown"/><unclear cert="low">ה</unclear>אמת לכלת בני חושך <unclear cert="high">א</unclear><unclear cert="low">ז</unclear><gap reason="lost" extent="unknown"/>
+      <lb n="17"/><supplied reason="lost"> קו</supplied><unclear cert="high">ל</unclear><supplied reason="lost"> ה</supplied><unclear cert="low">מ</unclear>ון גדול <unclear cert="high">ות</unclear><unclear cert="low">ר</unclear><supplied reason="lost">ועת</supplied><gap reason="lost" extent="unknown"/><unclear cert="high">י</unclear>ם יתנו יד בכל<supplied reason="lost">י המלחמה <gap reason="lost" extent="unknown"/>.   </supplied>
+      <lb n="18"/><gap reason="lost" extent="unknown"/>
+      <lb n="19"/><supplied reason="lost">ראשי השבטים <gap reason="lost" extent="unknown"/> והכוהנים</supplied>
+      <lb n="20"/><supplied reason="lost">והלויים וראשי השבטים ואבות העדה <gap reason="lost" extent="unknown"/> הכוהנים וכן ללויים ומשמרות ראשי</supplied>
+      </div>
+      <div type="column" n="2">
+      <lb n="1"/>אבות העדה שנים וחמשים.   ואת ראשי הכוהנים יסרוכו אחר כוהן הראש ומשנהו ראשים שנים עשר להיות משרתים
+      <lb n="2"/>בתמיד לפני אל.   וראשי המשמרות ששה ועשרים במשמרותם ישרתו.   ואחריהם ראשי הלויים לשרת תמיד שנים עשר אחד
+      <lb n="3"/>לשבט.   וראשי משמרותם איש במעמדו ישרתו.   וראשי השבטים ואבות העדה אחריהם להתיצב תמיד בשערי המקדש.
+      <lb n="4"/>וראשי משמרותם עם פקודיהם יתיצבו למועדיהם לחודשיהם ולשבתות ולכול ימי השנה מבן חמשים שנה ומעלה.
+      <lb n="5"/>אלה יתיצבו על העולות ועל הזבחים לערוך מקטרת ניחוח לרצון אל לכפר בעד כול עדתו ולהדשן לפניו תמיד
+      <lb n="6"/>בשולחן כבוד.   את כול <add place="above">אלה</add> יסרוכו במועד שנת השמטה.   ובשלוש ושלושים שני המלחמה הנותרות יהיו אנשי השם
+      <lb n="7"/>קריאי המועד וכול ראשי אבות העדה בחרים להם אנשי מלחמה לכול ארצות הגוי<add place="above">י</add>ם.   מכול שבטי ישראל יחלוצו
+      <lb n="8"/>להם אנשי חיל לצאת לצבא כפי תעודות המלחמה שנה בשנה.   ובשני השמטים לוא יחלוצו לצאת לצבא כיא שבת
+      <lb n="9"/>מנוח היאה לישראל.   בחמש ושלושים שני העבודה תערך המלחמה שש שנים ועורכיה כול העדה יחד.
+      <lb n="10"/>ומלחמת המחלקות ב<del rend="dots">{ע</del>}תש<corr>ע</corr> ועשרים הנותרות.   בשנה הראישונה ילחמו בארם נהרים.   ובשנית בבני לוד.   בשלישית
+      <lb n="11"/>ילחמו בשאר בני ארם בעוץ וחול תוגר ומשא אשר בעבר פורת.   ברביעית ובחמישית ילחמו בבני ארפכשד.
+      <lb n="12"/>בששית ובשביעית ילחמו בכול בני אשור ופרס והקדמוני עד המדבר הגדול.   בשנה השמינית ילחמו בבני
+      <lb n="13"/>עילם.   בתשיעית ילחמו בבני ישמעאל וקטורה.   ובעשר השנים אשר אחריהם תחלק המלחמה על כול בני חם
+      <lb n="14"/>ל<unclear cert="low">מ</unclear><supplied reason="lost">שפחותם במו</supplied><unclear cert="low">שב</unclear>ותם.   ובעשר השנים הנותרות תחלק המלחמה על כול <supplied reason="lost">בני יפ</supplied><unclear cert="low">ת</unclear> <unclear cert="low">במ</unclear>ושבותיהם.
+      <lb n="15"/><gap reason="lost" extent="unknown"/><del rend="erasure"> </del><gap reason="lost" extent="unknown"/><del rend="erasure"> </del>
+      <lb n="16"/><supplied reason="lost">סרך החצוצרות חצוצר</supplied><unclear cert="high">ו</unclear>ת התרועה לכול עבודתם ל<gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> לפקודיהם
+      <lb n="17"/><supplied reason="lost">לרבואות ואלפים ומאיות וחמשים</supplied> ועושרות <unclear cert="high">ע</unclear>ל <unclear cert="low">ח</unclear><supplied reason="lost">צוצרות <gap reason="lost" extent="unknown"/>.   </supplied><del rend="erasure"> </del>
+      <lb n="18"/><gap reason="lost" extent="unknown"/>
+      <lb n="19"/><gap reason="lost" extent="unknown"/><supplied reason="lost">אשר בר <gap reason="lost" extent="unknown"/> </supplied>
+      <lb n="20"/><gap reason="lost" extent="unknown"/><supplied reason="lost">יכתובו ת <gap reason="lost" extent="unknown"/> חצוצרות</supplied>
+      </div>
+      <div type="column" n="3">
+      <lb n="1"/><del rend="dots">{סדרי המלחמה וחצוצרות</del>} <add place="above">סדרי המלחמה וחצוצרות</add> מקראם בהפתח שערי המלחמה לצאת אנשי הבנים וחצוצרות תרועות החללים וחצוצרות
+      <lb n="2"/>המארב וחצוצרות המרדף בהנגף אויב וחצו<add place="above">צ</add>רות המאסף בשוב המלחמה.   על חצוצרות מקרא העדה יכתובו קריאי אל.
+      <lb n="3"/>ועל חצוצרות מקרא ה<del rend="dots">{ס</del>}שרים יכתובו נשיאי אל.   ועל חצוצרות המסורות יכתובו סרך אל.   ועל חצוצרות אנשי
+      <lb n="4"/>השם <del rend="dots">{יכתובו</del>} ראשי אבות העדה בהאספם לבית מועד יכתובו תעודות אל לעצת קודש.   ועל חצוצרות המחנות
+      <lb n="5"/>יכתובו שלום אל במחני קדושיו.   ועל חצוצרות מסעיהם יכתובו גבורות אל להפיץ אויב ולהניס כול משנאי
+      <lb n="6"/>צדק ומשוב חסדים במשנאי אל.   ועל חצוצרות סדרי המלחמה יכתובו סדרי דגלי אל לנקמת אפו בכול בני חושך.
+      <lb n="7"/>ועל חצוצרות מקרא אנשי הבנים בהפתח שערי המלחמה לצאת למערכת האויב יכתובו זכרון נקם במועד
+      <lb n="8"/>אל.   ועל חצוצרות החללים יכתובו יד גבורת אל במלחמה להפיל כול חללי מעל.   ועל חצוצרות המארב יכתובו
+      <lb n="9"/>רזי אל לשחת רשעה.   ועל חצוצרות המרדף יכתובו נגף אל כול בני חושך לוא ישיב אפו עד כלותם.
+      <lb n="10"/>ובשובם מן המלחמה לבוא המערכה יכתובו על חצוצרות המשוב אסף אל.   ועל חצוצרות דרך המשוב
+      <lb n="11"/>ממלחמת האויב לבוא אל העדה ירושלים יכתובו גילות אל במשוב שלום.   <del rend="erasure"> </del>
+      <lb n="12"/><del rend="erasure"> </del>
+      <lb n="13"/>סרך אותות כול העדה למסורותם.   על האות הגדולה אשר בראש כול העם יכתובו עם אל ואת שם ישראל
+      <lb n="14"/>ואהרון ושמות שנים עשר ש<unclear cert="low">ב</unclear><supplied reason="lost">טי ישר</supplied><unclear cert="low">א</unclear>ל כתולדותם.   על אותות ראשי המחנות אשר לשלושת השבטים
+      <lb n="15"/>יכתובו בר<unclear cert="low">וח</unclear><supplied reason="lost"> אל ואת שמות שלושת השבטים.   <gap reason="lost" extent="unknown"/> ע</supplied>ל <unclear cert="low">א</unclear>ות השבט יכתובו נס אל ואת שם נשי ה<unclear cert="low">ש</unclear><supplied reason="lost">בט</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="16"/>מש<unclear cert="low">פח</unclear><supplied reason="lost">ותיו.   <gap reason="lost" extent="unknown"/> וא</supplied><unclear cert="low">ת</unclear> שם הנשיא הרבוא ואת שמות ש<unclear cert="low">ר</unclear><supplied reason="lost">י</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="17"/><gap reason="lost" extent="unknown"/><unclear cert="low">מאיותיו</unclear>.   ועל א<unclear cert="low">ות</unclear><gap reason="lost" extent="unknown"/>.
+      <lb n="18"/><gap reason="lost" extent="unknown"/>
+      <lb n="19"/><gap reason="lost" extent="unknown"/>
+      <lb n="20"/><gap reason="lost" extent="unknown"/>
+      </div>
+      <div type="column" n="4">
+      <lb n="1"/>ועל אות מררי יכתובו תרומת אל ואת שם נשי מררי ואת שמות שרי אלפיו.   ועל אות הא<supplied reason="lost">ל</supplied><unclear cert="high">ף</unclear> יכתובו אף אל בעברה על
+      <lb n="2"/>בליעל ובכול אנשי גורלו לאין שארית ואת שם שר האלף ואת שמות שרי מאיותיו.   ועל אות המאה יכתובו מאת
+      <lb n="3"/>אל יד מלחמה בכול בשר עול ואת שם שר המאה ואת שמות שרי עשרותיו.   ועל אות החמשים יכתובו חדל
+      <lb n="4"/>מעמד רשעים <supplied reason="lost">ב</supplied>גבורת אל ואת שם שר החמשים ואת שמות שרי עושרותיו.   על אות העשרה יכתובו רנות
+      <lb n="5"/>אל בנבל עשו<unclear cert="low">ר</unclear> ואת שם שר העשרה ואת שמות תשעת אנשי תעודתו.   <del rend="erasure"> </del>
+      <lb n="6"/>וב<del rend="dots">{ב</del>}לכתם למ<unclear cert="high">ל</unclear>חמה יכתובו על אותותם אמת אל צדק אל כבוד אל משפט אל ואחריהם כול סרך פרוש שמותם.
+      <lb n="7"/>ובגשתם למלחמה יכתובו על אותותם ימין אל מועד אל מהומת אל חללי אל ואחריהם כול פרוש שמותם.
+      <lb n="8"/>ובשובם מן המלחמה יכתובו על אותותם רומם אל גדל אל תשבוחת אל כבוד אל עם כול פרוש שמותם.   <del rend="erasure"> </del>
+      <lb n="9"/>סרך אותות העדה.   בצאתם למלחמה יכתבו על אות הראישונה עדת אל.   על אות השנית מחני אל.   על השלישית
+      <lb n="10"/>שבטי אל.   על הרביעית משפחות אל.   על החמישית דגלי אל.   על הששית קהל אל.   על השביעית קריאי
+      <lb n="11"/>אל.   על השמינית צבאות אל.   ופרוש שמותם יכתובו עם כול סרכם.   ובגשתם למלחמה יכתובו על אותותם
+      <lb n="12"/>מלחמת אל נקמת אל ריב אל גמול אל כוח אל שלומי אל גבורת אל כלת אל בכול גוי הבל.   ואת כול פרוש
+      <lb n="13"/>שמותם יכתובו עליהם.   ובשובם מן המלחמה יכתובו על אותותם ישועות אל נצח אל עזר אל משענת אל
+      <lb n="14"/><unclear cert="low">ש</unclear><unclear cert="high">מ</unclear>חת אל הודות אל תהלת אל שלום אל.   <del rend="erasure"> </del>
+      <lb n="15"/><supplied reason="lost">אורך הא</supplied><unclear cert="low">ו</unclear><unclear cert="high">ת</unclear>ות.   אות כול העדה אורך ארבע עשרה אמה.   אות <unclear cert="high">ש</unclear>ל<supplied reason="lost">ושת השבטים אורך שלוש </supplied><unclear cert="low">ע</unclear>שרה אמה.
+      <lb n="16"/><supplied reason="lost">אות השבט </supplied><unclear cert="high">ש</unclear>תים עשרה אמה.   <unclear cert="low">א</unclear><unclear cert="high">ות</unclear> <unclear cert="low">הרבו</unclear>א עשתי עש<supplied reason="lost">רה אמה.   אות האלף עשר אמות.   אות ^המ</supplied><unclear cert="low">א</unclear>ה^ <supplied reason="lost">ת</supplied>שע אמות.
+      <lb n="17"/><supplied reason="lost">אות החמישים שמ</supplied><unclear cert="low">ונה</unclear> אמות.   <unclear cert="high">א</unclear>ו<unclear cert="high">ת</unclear> העשרה ש<unclear cert="low">ב</unclear><supplied reason="lost">ע אמות <gap reason="lost" extent="unknown"/>.   </supplied><del rend="erasure"> </del>
+      <lb n="18"/><gap reason="lost" extent="unknown"/>
+      <lb n="19"/><gap reason="lost" extent="unknown"/>
+      <lb n="20"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="5">
+      <lb n="1"/>ועל <unclear cert="high">מ</unclear><supplied reason="lost">ג</supplied><unclear cert="low">ן</unclear> נשיא כול העדה יכתבו שמ<unclear cert="low">ו</unclear><supplied reason="lost"> ו</supplied>שם ישראל ולוי ואהרון ושמות שנים עשר שבטי ישראל כתול<unclear cert="low">ד</unclear>ותם
+      <lb n="2"/>ושמות שנים עשר שרי שבטיהם.   <del rend="erasure"> </del>
+      <lb n="3"/>סרך לסדר דגלי המלחמה.   בהמלא צבאם להשלים מ<add place="above">ער</add>כת פנים על אלף איש תאסר המערכה.   ושבעה סדרי
+      <lb n="4"/>פנים למערכה האחת סדו<del rend="dots">{כ</del>}<add place="above">ר</add>ים בסרך מעמד איש אחר איש.   וכולם מחזיקים מגני נחושת מרוקה כמעשה
+      <lb n="5"/>מראת פנים.   והמגן מוסב מעשי גדיל שפה וצורת מחברת מעשה חושב זהב וכסף ונחושת ממוזזים
+      <lb n="6"/>ואבני חפץ אבדני רוקמה מעשה חרש מחשבת.   אורך המגן אמתים וחצי ורוחבו אמה וחצי.   ובידם רמח
+      <lb n="7"/>וכידן.   אורך הרמח שבע אמות מזה הסגר והלוהב חצי האמה.   ובסגר שלושה <unclear cert="high">צ</unclear>מידים מפותחים כמעשי
+      <lb n="8"/>גדיל שפה בזהב וכסף ונחושת ממוזזים כמעשי צורת מחשבת.   ומחברת ה<unclear cert="high">צ</unclear><supplied reason="lost">ו</supplied>רה מזה ומזה לצמיד
+      <lb n="9"/>סביב אבני חפץ בדני רוקמה מעשי חרש מחשבת ושבולת.   והסגר מחורץ בין הצמידים כמעשי
+      <lb n="10"/>עמוד מחשבת.   והלוהב ברזל לבן מאיר מעשי חרש מחשבת.   ושבולת זהב טהור בתוך הלהב <unclear cert="high">ו</unclear>ש<unclear cert="low">פו</unclear>ד אל
+      <lb n="11"/>הראש.   והכידנים ברזל ברור טהור בכור ומלובן כמראת פנים מעשי חרש מ<unclear cert="low">ח</unclear>שבת.   ומראי שבול<unclear cert="high">ת</unclear>
+      <lb n="12"/>זהב טהור חוברת בו לשני עבריו.   וספות ישר אל הראוש שתים מזה ושתים מזה.   אורך הכידן אמה
+      <lb n="13"/>וחצי ורוחבו ארבע אצבעות.   והבטן ארבע גודלים וארבעה טפחים עד הבטן.   והבטן מרוגלת הנה
+      <lb n="14"/>והנה חמשה טפחים.   ויד הכידן קרן ברורה מעשה חושב צורת רוקמה בזהב ובכסף ואבני חפץ.
+      <lb n="15"/><del rend="erasure"> </del>
+      <lb n="16"/>ובעמוד ה<gap reason="lost" extent="unknown"/>יסדרו שבע המערכות מערכה אחר מערכה.
+      <lb n="17"/><unclear cert="low">ור</unclear><unclear cert="high">וח</unclear><gap reason="lost" extent="unknown"/><supplied reason="lost">ש</supplied>לושים באמה אשר יעמודו שם א<unclear cert="high">נ</unclear>ש<supplied reason="lost">י</supplied>
+      <lb n="18"/><supplied reason="lost">הבינים</supplied><gap reason="lost" extent="unknown"/>ל <gap reason="illegible" unit="character" quantity="3"/><unclear cert="high">י</unclear> הפנים <gap reason="illegible" unit="character" quantity="3"/>י <gap reason="illegible" unit="character" quantity="4"/><gap reason="lost" extent="unknown"/>.
+      <lb n="19"/><gap reason="lost" extent="unknown"/>
+      <lb n="20"/><gap reason="lost" extent="unknown"/>
+      </div>
+      <div type="column" n="6">
+      <lb n="1"/>שבע פעמים ושבו למעמדם.   ואחריהם יצאו שלושה דגלי בינים ועמדו בין המערכות.   הדגל הראישון ישלי<unclear cert="high">ך</unclear> <unclear cert="low">א</unclear>ל
+      <lb n="2"/>מערכת האויב שבעה זרקות מלחמה.   ועל לוהב הזרק יכתובו ברקת חנית לגבורת אל.   ועל השלט השני יכתובו
+      <lb n="3"/>זיקי דם להפיל חללים באף אל.   ועל הזרק השלישי יכתובו שלהובת חרב אוכלת חללי און במשפט אל.
+      <lb n="4"/>כול אלה יטילו שבע פעמים ושבו למעמדם.   ואחריהם יצאו שני דגלי בינים ועמדו בין שתי המערכות.   הדגל
+      <lb n="5"/>הראישון מחזיק חנית ומגן.   והדגל השני מחזיקי מגן וכידן להפיל חללים במשפט אל ולהכניע מ<add place="above">ער</add>כת
+      <lb n="6"/>אויב בגבורת אל לשלם גמול רעתם לכול גוי הבל.   והיתה לאל ישראל המלוכה ובקדושי עמו יעשה חיל.
+      <lb n="7"/><del rend="erasure"> </del>
+      <lb n="8"/>ושבעה סדרי פרשים יעמודו גם המה לימין המערכה ולשמאולה.   מזה ומזה יעמודו סדריהם שבע מאות
+      <lb n="9"/>פרשים לעבר האחד ושבע מאות לעבר השני.   מאתים פרשים יצאו עם אלף מערכת אנשי הבינים וכן
+      <lb n="10"/>יעמודו לכול <unclear cert="high">ע</unclear><supplied reason="lost">ב</supplied><unclear cert="high">ר</unclear><unclear cert="low">י</unclear> המחנה הכול שש מאות וארבעת אלפים.   ואלף וארבע מאות רכב לאנשי סרך המע<add place="above">ר</add>כות
+      <lb n="11"/>חמשים למער<unclear cert="high">כה</unclear> <supplied reason="lost">א</supplied>חת ויהיו הפרשים על רכב אנשי הסרך ששת אלפים חמש מאות לשבט.   כול הרכב היוצאים
+      <lb n="12"/>למלחמה עם אנ<unclear cert="low">ש</unclear><supplied reason="lost">י</supplied> הבנים סוסים זכרים קלי רגל ורכי פה וארוכי רוח ומלאים בתכון ימיהם מלומדי מלחמה
+      <lb n="13"/>ובעולים לשמוע <supplied reason="lost">ק</supplied>ולות ולכול מראי דמיונים.   והרוכבים עליהם אנשי חיל למלחמה מלומדי רכב ותכון
+      <lb n="14"/>ימיהם מבן של<unclear cert="high">וש</unclear>ים שנה עד בן חמש וארבעים.   ופרשי הסרך יהיו מבן ארבעים שנה ועד בן חמשים והמה
+      <lb n="15"/><gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>ל<gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><unclear cert="low">ח</unclear>ות ובתי ראשים ושוקים.   ומחזיקים בידם מגני עגלה ורמח ארוך <unclear cert="low">שמו</unclear><supplied reason="lost">נה אמות</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="16"/><gap reason="lost" extent="unknown"/>וקשת וחצים וזרקות מלחמה.   וכולם עתודים ב<unclear cert="low">ק</unclear><supplied reason="lost">רבם</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="17"/><gap reason="lost" extent="unknown"/>ל <unclear cert="high">ו</unclear>לשפוך דם חללי אשמתם.   אלה המה ה<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">.   </supplied>
+      <lb n="18"/><gap reason="lost" extent="unknown"/><del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="19"/><gap reason="lost" extent="unknown"/>
+      <lb n="20"/><gap reason="lost" extent="unknown"/>
+      </div>
+      <div type="column" n="7">
+      <lb n="1"/>ואנשי הסרך יהיו מבן ארבעים שנה ועד בן חמשים.   וסורכי המחנות יהיו מבן <del rend="dots">{ה</del>}חמ{{<gap reason="illegible" unit="character" quantity="1"/>}}<add place="above">ש</add>ים שנה ועד בן <del rend="dots">{חמ</del>}<add place="above">ש</add>שים.   והשוטרים
+      <lb n="2"/>יהיו גם הם מבן ארבעים שנה ועד בן חמשים.   וכול מפשיטי החללים ושוללי השלל ומטהרי הארץ ושומרי הכלים
+      <lb n="3"/>ועורך הצידה כולם יהיו מבן חמש ועשרים שנה ועד בן שלושים.   וכול נער זעטוט ואשה לוא יבואו למחנותם בצאתם
+      <lb n="4"/>מירושלים ללכת למלחמה עד שובם.   וכול פסח או עור או חגר או איש אשר מום עולם בבשרו או איש מנוגע בטמאת
+      <lb n="5"/>בשרו כול אלה לוא ילכו אתם למלחמה.   כולם יהיו אנשי נדבת מלחמה ותמימי רוח ובשר ועתודים ליום נקם.   וכול
+      <lb n="6"/>איש אשר לוא יהיה טהור ממקורו ביום המלחמה לוא ירד אתם כיא מלאכי קודש עם צבאותם יחד.   ורוח יהיה
+      <lb n="7"/>בין כול מחניהמה למקום היד כאלפים באמה.   וכול ערות דבר רע לוא יראה סביבות כול מחניהם.   <del rend="erasure"> </del>
+      <lb n="8"/><del rend="erasure"> </del>
+      <lb n="9"/>ובסדר מערכות המלחמה לקראת אויב מערכה לקראת מערכה ויצאו מן השער התיכון אל בין המערכות שבעה
+      <lb n="10"/>כוהנים מבני אהרון לובשים בגדי שש לבן כתונת בד ומכנסי בד וחוגרים באבנט בד שש משוזר תכלת
+      <lb n="11"/>וארגמן ותולעת שני וצורת רוקמה מעשה חושב ופרי מגבעות בראשיהם בגדי מלחמה ואל המקדש לוא
+      <lb n="12"/>יביאום.   הכוהן האחד יהיה מהלך על פני כול אנשי המערכה לחזק ידיהם במלחמה.   וביד הששה יהיו
+      <lb n="13"/>חצוצרות המקרא וחצוצרות הזכרון וחצוצרות התרועה וחצוצרות המרדף וחצוצרות המאסף.   ובצאת הכוהנים
+      <lb n="14"/>אל בין המערכות יצאו עמהמה שבעה לויים ובידם שבעת שופרות היובל.   ושלושה שוטרים מן הלויים לפני
+      <lb n="15"/>הכוהנים והלויים.   ותקעו הכוהנים בשתי חצוצרות המ<unclear cert="high">ק</unclear><unclear cert="low">ר</unclear><supplied reason="lost">א <gap reason="lost" extent="unknown"/> מ</supplied>לחמה על חמשים מגן.
+      <lb n="16"/>וחמשים אנשי בינים יצאו מן השער האחד <unclear cert="low">ו</unclear><gap reason="lost" extent="unknown"/><supplied reason="lost">ה</supplied>לויים שוטרים.   ועם
+      <lb n="17"/>כול מערכה ומערכה יצאו ככול הס<supplied reason="lost">רך הזה <gap reason="lost" extent="unknown"/> אנשי ה</supplied><unclear cert="low">ב</unclear>ינים מן השערים
+      <lb n="18"/><supplied reason="lost">ועמ</supplied><unclear cert="high">ד</unclear>ו בין שתי ה<unclear cert="high">מ</unclear><unclear cert="low">ערכו</unclear><unclear cert="high">ת</unclear> <unclear cert="low">ו</unclear><gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><unclear cert="high">י</unclear> המל<supplied reason="lost">חמה</supplied>.
+      <lb n="19"/><gap reason="lost" extent="unknown"/>
+      <lb n="20"/><gap reason="lost" extent="unknown"/>
+      </div>
+      <div type="column" n="8">
+      <lb n="1"/>החצוצרות תהיינה מריעות לנצח אנשי הקלע עד כלותם להשליך שבע
+      <lb n="2"/>פעמים.   ואחר יתקעו להם הכוהנים בחצוצרות המשוב ובאו ליד המערכה
+      <lb n="3"/>הראישונה להתיצב על מעמדם.   ותקעו הכוהנים בחצוצרות המקרא ויצאו
+      <lb n="4"/>שלושה דגלי בינים מן השערים ועמדו בין המערכות ולידם אנשי הרכב
+      <lb n="5"/>מימין ומשמאול.   ותקעו הכוהנים בחצוצרות קול מרודד ידי סדר מלחמה.
+      <lb n="6"/>והראשים יהיו נפשטים לסדריהם איש למעמדו.   ובעומדם שלושה סדרים
+      <lb n="7"/>יתקעו להם הכוהנים תרועה שנית קול נוח וסמוך ידי מפשע עד קורבם
+      <lb n="8"/>למערכת האויב ונטו ידם בכלי המלחמה.   והכוהנים יריעו בשש חצוצרות
+      <lb n="9"/>החללים קול חד טרוד לנצח מלחמה.   והלויים וכול עם השופרות יריעו
+      <lb n="10"/>קול אחד תרועת מלחמה גדולה להמס לב אויב.   ועם קול התרועה יצאו
+      <lb n="11"/>זרקות המלחמה להפיל חללים.   קול השופרות יחישו ובח<supplied reason="lost">צו</supplied><unclear cert="low">צ</unclear>רות יהיו
+      <lb n="12"/>הכוהנים מריעים קול חד טרוד לנצח ידי מלחמה עד השליכם למערכת
+      <lb n="13"/><del rend="erasure"> </del> האויב שבע פעמים.   ואחר יתקעו להם הכוהנים בחצוצרות המשוב
+      <lb n="14"/>קול נוח מרודד סמוך.   כסרך הזה יתקעו <unclear cert="high">ה</unclear><supplied reason="lost">כו</supplied><unclear cert="high">ה</unclear>נים לשלושת הדגלים.   ועם
+      <lb n="15"/>הטל הראישון יריעו ה<supplied reason="lost">כוהנים והלויים וכול עם השופ</supplied>רות קול תרועה
+      <lb n="16"/>גדולה לנצח מל<supplied reason="lost">חמה <gap reason="lost" extent="unknown"/>.   יתקעו</supplied> להם הכוהנים
+      <lb n="17"/>בחצוצ<supplied reason="lost">רות המשוב <gap reason="lost" extent="unknown"/> ועמ</supplied><unclear cert="low">ד</unclear>ו על מעמדם <unclear cert="high">ב</unclear>מערכה
+      <lb n="18"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> ועמד<supplied reason="lost">ו</supplied>
+      <lb n="19"/><gap reason="lost" extent="unknown"/><supplied reason="lost">הח</supplied>ללים.
+      <lb n="20"/><gap reason="lost" extent="unknown"/>
+      </div>
+      <div type="column" n="9">
+      <lb n="1"/>יחלו ידם להפיל בחללים וכול העם יחשו מקול התרועה.   והכוהנים יהיו מריעים בחצוצרות
+      <lb n="2"/>החללים לנצח המלחמה עד הנגף האויב והסבו עורפם.   והכוהנים מריעים לנצח מלחמה
+      <lb n="3"/>ובהנגפם לפניהם יתקעו הכוהנים בחצוצרות המקרא ויצאו אליהם כול אנשי הבינים מתוך
+      <lb n="4"/>מערכות הפנים.   ועמדו ששה דגלים והדגל המתקרב כולם שבע מערכות שמונה ועשרים אלף
+      <lb n="5"/>אנשי מלחמה והרוכבים ששת אלפים.   כול אלה ירדופו להשמיד אויב במלחמת אל לכלת
+      <lb n="6"/>עולמים.   ותקעו להמה הכוהנים בחצוצרות המרדוף ונחל<supplied reason="lost">קו</supplied> על כול האויב לרדף כלה.   והרכב
+      <lb n="7"/>משיבים על ידי המלחמה עד החרם.   ובנפול החללים יהיו ה<unclear cert="high">כ</unclear><supplied reason="lost">והנ</supplied>ים מריעים מרחוק ולוא יבואו
+      <lb n="8"/>אל תוך החללים להתגאל בדם טמאתם כיא קדושים המה.   <supplied reason="lost">לו</supplied>א יחלו שמן משיחת כהונתם בדם
+      <lb n="9"/>גוי הבל.   <del rend="erasure"> </del>
+      <lb n="10"/>סרך לשנות סדר דגלי המלחמה לערוך המעמד על ר<unclear cert="low">ב</unclear><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> </supplied>ל<supplied reason="lost">צא</supplied><unclear cert="low">ת</unclear> גליל כפים ומגדלות
+      <lb n="11"/>וקשת ומגדלות.   ועל דרוך מעט וראשים יוצאים וכנפי<unclear cert="high">ם</unclear> <supplied reason="lost">יוצאות</supplied> <unclear cert="low">מ</unclear><supplied reason="lost">ש</supplied><unclear cert="low">נ</unclear><unclear cert="high">י</unclear> עברי המערכה <supplied reason="lost">לה</supplied>מיס
+      <lb n="12"/>אויב.   ומגני המגדלות יהיו ארוכים שלוש אמות ורמחיה<unclear cert="high">ם</unclear> א<supplied reason="lost">ור</supplied>ך שמונה אמות.   והמג<supplied reason="lost">ד</supplied>לות
+      <lb n="13"/>יוצאים מן המערכה מאה מגן ומאה פני המגדל.   כ<unclear cert="high">ו</unclear><supplied reason="lost">לם י</supplied>סבו המגדל לשלושת רוחות הפנים
+      <lb n="14"/>מגנים שלוש מאות.   ושערים שנים למ<unclear cert="low">ג</unclear>דל <unclear cert="low">אחד</unclear> ל<supplied reason="lost">ימין ו</supplied><unclear cert="low">א</unclear>חד לשמאול.   ועל כול מגני המגדלות
+      <lb n="15"/>יכתובו על הראישון מי<supplied reason="lost">כא</supplied>ל<supplied reason="lost"> על השני גבריאל על השלישי</supplied> שריאל על הרביעי רפאל.
+      <lb n="16"/>מיכאל וגבריאל ל<unclear cert="low">י</unclear><supplied reason="lost">מין ושריאל ורפאל לשמאול.   </supplied><del rend="erasure"> </del>
+      <lb n="17"/><gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> </supplied> לאר<unclear cert="high">ב</unclear><unclear cert="low">ע</unclear><gap reason="lost" extent="unknown"/><supplied reason="lost">אם </supplied><unclear cert="low">א</unclear>ורב ישימ<supplied reason="lost">ו </supplied>ל<supplied reason="lost">מערכ</supplied><unclear cert="low">ת</unclear>
+      <lb n="18"/><unclear cert="high">ו</unclear><gap reason="lost" extent="unknown"/><supplied reason="lost">יפי</supplied>ל<supplied reason="lost">ו </supplied><unclear cert="low">ב</unclear>ח<supplied reason="lost">ללים.</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="19"/><gap reason="lost" extent="unknown"/>
+      <lb n="20"/><gap reason="lost" extent="unknown"/>
+      </div>
+      <div type="column" n="10">
+      <lb n="1"/>מחנינו ול<unclear cert="low">הש</unclear>מר מכול ערות דבר רע.   ואשר הגיד לנו כיא אתה בקרבנו אל גדול ונורא לשול את כול
+      <lb n="2"/>אויבינו ל<unclear cert="high">פ</unclear><supplied reason="lost">נינ</supplied><unclear cert="low">ו</unclear>.   וילמדנו מאז לדורותינו לאמור בקרבכם למלחמה ועמד הכוהן ודבר אל העם
+      <lb n="3"/>לאמו<unclear cert="high">ר</unclear> ש<unclear cert="high">מ</unclear><unclear cert="low">ע</unclear>ה ישראל אתמה קרבים היום למלחמה על אויביכמה.   אל תיראו ואל ירך לבבכמה.
+      <lb n="4"/>ואל תח<supplied reason="lost">פזו וא</supplied>ל תערוצו מפניהם כיא אלוהיכם הולך עמכם להלחם לכם עם אויביכם להושיע
+      <lb n="5"/>אתכמה.   ו<supplied reason="lost">ש</supplied>וטרינו ידברו לכול עתודי המלחמה נדיבי לב להחזיק בגבורת אל ולשוב כול
+      <lb n="6"/>מסי לבב ולחזיק יחד בכול גבורי חיל.   ואשר ד<supplied reason="lost">ברת</supplied>ה ביד מושה לאמור כיא תבוא מלחמה
+      <lb n="7"/>בארצכמה על הצר הצורר אתכמה והריעו<unclear cert="high">ת</unclear><supplied reason="lost">מה </supplied>בחצוצרות ונזכרתמה לפני אלוהיכם
+      <lb n="8"/>ונושעתם מאויביכם.   מיא כמוכה אל ישראל בש<supplied reason="lost">מי</supplied>ם ובארץ אשר יעשה כמעשיכה הגדולים
+      <lb n="9"/>וכגבורתכה החזקה.   ומיא כעמכה ישראל אשר בחרתה לכה מכול עמי הארצות.
+      <lb n="10"/>עם קדושי ברית ומלומדי חוק משכילי בי<unclear cert="low">נ</unclear><supplied reason="lost">ה</supplied><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> ושומעי קול נכבד ורואי
+      <lb n="11"/>מלאכי קודש מגולי אוזן ושומעי עמוקו<unclear cert="high">ת</unclear><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> </supplied> מפרש שחקים צבא מאורות
+      <lb n="12"/>ומשא רוחות וממשלת קדושים אוצרות כב<supplied reason="lost">וד</supplied><gap reason="lost" extent="unknown"/> עבים.   הבורא ארץ וחוקי מפלגיה
+      <lb n="13"/>למדבר וארץ ערבה וכול צאצאיה עם פר<gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>ה חוג ימים ומקוי נהרות ומבקע תה<add place="above">ו</add>מות
+      <lb n="14"/>מעשי חיה ובני כנף תבנית אדם ותול<supplied reason="lost">דות זר</supplied>עו בלת לשון ומפרד עמים מושב משפחות
+      <lb n="15"/>ונחלת ארצות<gap reason="lost" extent="unknown"/>מועדי קודש ותקופות שנים וקצי
+      <lb n="16"/>עד.   <gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>ה אלה ידענו מבינתכה אשר <gap reason="illegible" unit="character" quantity="3"/><supplied reason="lost"> </supplied>
+      <lb n="17"/><gap reason="lost" extent="unknown"/><supplied reason="lost">אוזני</supplied>כה אל שועתנו כיא <gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost"> </supplied>
+      <lb n="18"/><gap reason="lost" extent="unknown"/>ל<gap reason="illegible" unit="character" quantity="2"/> ביתו הכ<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">.   </supplied>
+      <lb n="19"/><gap reason="lost" extent="unknown"/>
+      <lb n="20"/><gap reason="lost" extent="unknown"/>
+      </div>
+      <div type="column" n="11">
+      <lb n="1"/>כיא אם לכה המלחמה.   ובכוח ידכה רוטשו פגריהם לאין קובר.   ואת גולית הגתי איש גבור חיל
+      <lb n="2"/>הסגר<unclear cert="low">ת</unclear>ה ביד דויד עבדכה כיא בטח בשמכה הגדול ולוא בחרב וחנית.   כיא לכה המלחמה.   ואת
+      <lb n="3"/>פלשתיים הכנ<supplied reason="lost">י</supplied><unclear cert="low">ע</unclear> <unclear cert="high">פ</unclear>עמים רבות בשם קודשכה.   וגם ביד מלכינו הושעתנו פעמים רבות
+      <lb n="4"/>בעבור רחמיכה ולוא כמעשינו אשר הרעונו ועלילות פשעינו.   לכה המלחמה ומאת<unclear cert="low">כ</unclear><unclear cert="high">ה</unclear> הגבורה
+      <lb n="5"/>ולוא לנו.   ולוא כוחנו ועצום ידינו עשה חיל כיא בכוחכה ובעוז חילכה הגדול.   כא<supplied reason="lost">ש</supplied><unclear cert="low">ר</unclear> הגדתה
+      <lb n="6"/>לנו מאז לאמור דרך כוכב מיעקוב קם שבט מישראל ומחץ פאתי מואב ו<del rend="dots">{מ</del>}קרקר כול בני שית.
+      <lb n="7"/>וירד מיעקוב והאביד שריד <unclear cert="low">מ</unclear>עיר והיה אויב ירשה וישראל <del rend="erasure"> </del> עשה חיל.   וביד משיחיכה
+      <lb n="8"/>חוזי תעודות הגדתה לנו ק<supplied reason="lost">צי</supplied> מלחמות ידיכה לה<del rend="dots">{לחם</del>}<add place="above">כבד</add> באויבינו להפיל גדודי בליעל שבעת
+      <lb n="9"/>גוי הבל ביד אביוני פדות<unclear cert="high">כה</unclear> <supplied reason="lost">בכו</supplied>ח ובשלום לגבורת פלא ולב נמס לפתח תקוה.   ותעש להמה כפרעוה
+      <lb n="10"/>וכשלישי מרכבותיו בים סו<supplied reason="lost">ף</supplied>.   ונכאי רוח ת<unclear cert="high">ב</unclear>עיר כלפיד אש בעמיר אוכלת רשעה לוא תשוב עד
+      <lb n="11"/>כלות אשמה.   ומאז השמ<unclear cert="low">ע</unclear><supplied reason="lost">תנו מ</supplied><unclear cert="low">ו</unclear>עד גבורת ידכה בכתיים לאמור ונפל אשור בחרב לוא איש וחרב
+      <lb n="12"/>לוא אדם תואכלנו.   <del rend="erasure"> </del>
+      <lb n="13"/>כיא ביד אביונים תסגיר<supplied reason="lost"> או</supplied>יבי כול הארצות וביד כורעי עפר להשפיל גבורי עמים להשיב גמול
+      <lb n="14"/>רשעים <unclear cert="high">ב</unclear><unclear cert="low">רא</unclear>ש א<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/> <unclear cert="low">ו</unclear>להצדיק משפט אמתכה בכול בני איש ולעשות לכה שם עולם בעם
+      <lb n="15"/><gap reason="lost" extent="unknown"/> המלחמות ולהתגדל ולהתקדש לעיני ש<unclear cert="low">א</unclear>ר ה<unclear cert="low">ג</unclear><unclear cert="high">ו</unclear>ים.   לדע<unclear cert="high">ת</unclear> <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="16"/><gap reason="lost" extent="unknown"/><supplied reason="lost">בע</supplied><unclear cert="low">ש</unclear>ותכה שפטים בגוג ובכול קהלו הנק<supplied reason="lost">ה]ל<supplied reason="lost">ים ע</supplied>ל[ינו</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="17"/><gap reason="lost" extent="unknown"/><unclear cert="high">כ</unclear>יא תלחם בם מן השמ<supplied reason="lost">ים </supplied><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="18"/><gap reason="lost" extent="unknown"/><unclear cert="low">ע</unclear>ליהם למהמה <gap reason="lost" extent="unknown"/><supplied reason="lost">.   </supplied>
+      <lb n="19"/><gap reason="lost" extent="unknown"/>
+      <lb n="20"/><gap reason="lost" extent="unknown"/>
+      </div>
+      <div type="column" n="12">
+      <lb n="1"/>כיא רוב קדושים <supplied reason="lost">ל</supplied><unclear cert="high">כ</unclear>ה בשמים וצבאות מלאכים בזבול קודשכה לה<supplied reason="lost">לל אמת</supplied><unclear cert="high">כ</unclear>ה.   ובחירי עם קודש
+      <lb n="2"/>שמתה לכה ב<unclear cert="high">י</unclear><supplied reason="lost">חד.   ו</supplied><unclear cert="low">ס</unclear>פר שמות כול צבאם אתכה במעון קודשכה ומ<supplied reason="lost">נין קדוש</supplied>ים בזבול כבודכה.
+      <lb n="3"/>וחסדי ברכ<unclear cert="high">ה</unclear><gap reason="lost" extent="unknown"/> וברית שלומכה חרתה למו בחרט חיים למלוך <unclear cert="low">ע</unclear><supplied reason="lost">ליהם </supplied><unclear cert="high">ב</unclear>כול מועדי עולמים
+      <lb n="4"/>ולפקוד צ<unclear cert="low">ב</unclear><supplied reason="lost">אות ב</supplied><unclear cert="low">ח</unclear>יריכה לאלפיהם ולרבואותם יחד עם קדושיכה <supplied reason="lost">ועם </supplied>מלאכיכה לרשות יד
+      <lb n="5"/>במלחמה <supplied reason="lost">להכניע </supplied>קמי ארץ בריב משפטיכה ועם בחירי שמים נ<unclear cert="high">וצ</unclear><supplied reason="lost">חים.   </supplied><del rend="erasure"> </del>
+      <lb n="6"/><del rend="erasure"> </del>
+      <lb n="7"/>ואתה אל נ<supplied reason="lost">ורא</supplied> בכבוד מלכותכה ועדת קדושיכה בתוכנו לעזר עולמי<supplied reason="lost">ם.   ונ</supplied><unclear cert="low">ת</unclear>נו <unclear cert="high">בו</unclear>ז למלכים לעג
+      <lb n="8"/>וקלס לגבו<unclear cert="high">ר</unclear>ים.   כיא קדוש אדוני ומלך הכבוד אתנו עם קדושים.   גב<unclear cert="high">ו</unclear><supplied reason="lost">רים ו</supplied>צבא מלאכים בפקודינו.
+      <lb n="9"/>וגבור המל<unclear cert="high">ח</unclear><supplied reason="lost">מה</supplied> בעדתנו וצבא רוחיו עם צעדינו.   ופרשינ<supplied reason="lost">ו כ</supplied><unclear cert="high">ע</unclear>ננים וכעבי <unclear cert="high">ט</unclear>ל לכסות ארץ
+      <lb n="10"/>וכזרם רביבים להשקות משפט לכול צאצאיה.   קומה גבור שבה שביכה איש כבוד ושול
+      <lb n="11"/>שללכה עושי חיל.   תן ידכה בעורף אויביכה ורגלכה על במותי חלל.   מחץ גוים צריכה וחרבכה
+      <lb n="12"/>תואכל בשר אשמה.   מלא ארצכה כבוד ונחלתכה ברכה.   המון מקנה בחלקותיכה <add place="above">כסף</add> וזהב ואבני
+      <lb n="13"/>חפץ בהיכל<supplied reason="lost">ו</supplied>תיכה.   ציון שמחי מאדה והופיעי ברנות ירושלים והגלנה כול ערי יהודה.   פתחי
+      <lb n="14"/>שע<unclear cert="low">ר</unclear><supplied reason="lost">י</supplied><unclear cert="low">ך</unclear> תמיד להביא אליך חיל גואים.   ומלכיהם ישרתוך והשתחוו לך כול מעניך ועפר
+      <lb n="15"/><supplied reason="lost">רגליך ילחכו.   בנו</supplied><unclear cert="low">ת</unclear> עמי צרחנה בקול רנה עדינה עדי כבוד ורדינה ב<unclear cert="low">מ</unclear>ל<supplied reason="lost">כות</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="16"/><gap reason="lost" extent="unknown"/><supplied reason="lost">וי</supplied>שראל למלוך עולמים.   <del rend="erasure"> </del><supplied reason="lost"> </supplied>
+      <lb n="17"/><gap reason="lost" extent="unknown"/>ל<supplied reason="lost"> </supplied><unclear cert="high">ה</unclear>ם גבורי המלחמה ירושל<unclear cert="high">ים</unclear> <gap reason="lost" extent="unknown"/>
+      <lb n="18"/><gap reason="lost" extent="unknown"/><supplied reason="lost">רו</supplied>ם על השמים אדוני <gap reason="lost" extent="unknown"/><supplied reason="lost">.   </supplied>
+      <lb n="19"/><gap reason="lost" extent="unknown"/>
+      <lb n="20"/><gap reason="lost" extent="unknown"/><supplied reason="lost">ועמד כוהן הראש</supplied>
+      </div>
+      <div type="column" n="13">
+      <lb n="1"/>ואחיו <unclear cert="high">ה</unclear><supplied reason="lost">כו</supplied><unclear cert="high">ה</unclear>נים והלויים וכול זקני הסרך עמו.   וברכו על עומדם את אל ישראל ואת כול מעשי אמתו ו<unclear cert="high">זע</unclear>מו
+      <lb n="2"/>שם <unclear cert="high">א</unclear>ת <unclear cert="low">ב</unclear><supplied reason="lost">לי</supplied>על ואת כול רוחי גורלו.   וענו ואמרו ברוך אל ישראל בכול מחשבת קודשו ומעשי אמתו וב<supplied reason="lost">ר</supplied><unclear cert="high">ו</unclear>כ<unclear cert="high">י</unclear>ם
+      <lb n="3"/>כול <unclear cert="low">משר</unclear>תיו בצדק יודעיו באמונה.   <del rend="erasure"> </del>
+      <lb n="4"/>וא<unclear cert="low">רו</unclear><unclear cert="high">ר</unclear> בליעל במחשבת משטמה וזעום הואה במשרת אשמתו.   וארורים כול רוחי גורלו במחשבת
+      <lb n="5"/><del rend="erasure"> </del> רשעם וזעומים המה בכול עבודת נדת טמאתם כיא המה גורל חושך וגורל אל לאור
+      <lb n="6"/><supplied reason="lost">עולמ</supplied>ים.   <del rend="erasure"> </del>
+      <lb n="7"/>ו<unclear cert="low">א</unclear><supplied reason="lost">ת</supplied><unclear cert="high">ה</unclear> אל אבותינו שמכה נברכה לעולמים.   ואנו עם <supplied reason="lost">עו</supplied>ל<supplied reason="lost">ם</supplied> וברית <supplied reason="lost">כ</supplied>רתה לאבותינו ותקימה לזרעם
+      <lb n="8"/>למוע<supplied reason="lost">ד</supplied>י עולמים.   ובכול תעודות כבודכה היה זכר <gap reason="lost" extent="unknown"/>כה בקרבנו לעזר שארית ומחיה לבריתכה
+      <lb n="9"/>ול<unclear cert="high">ס</unclear><supplied reason="lost">פר</supplied> מעשי אמתכה ומשפטי גבורות פלאכה.   את<unclear cert="low">ה</unclear><supplied reason="lost"> אל ב</supplied><unclear cert="low">ר</unclear>יתנו לכה עם עולמים ובגורל אור הפלתנו
+      <lb n="10"/>לאמתכה.   ושר מאור מאז פקדתה לעוזרנו וב<unclear cert="high">ג</unclear><supplied reason="lost">ורלו כול בני צד</supplied>ק וכול רוחי אמת בממשלתו.   ואתה
+      <lb n="11"/>עשיתה בליעל לשחת מלאך משטמה.   ובחו<unclear cert="low">ש</unclear><supplied reason="lost">ך ממשל</supplied>תו ובעצתו להרשיע ולהאשים.   וכול רוחי
+      <lb n="12"/>גורלו מלאכי חבל בחוקי חושך יתהלכו ואליו <supplied reason="lost">תשו</supplied>קתמה יחד.   ואנו <unclear cert="high">ב</unclear>גורל אמתכה נשמ  חה ביד
+      <lb n="13"/>גבורתכה ונשישה בישועתכה ונגילה בע<unclear cert="high">ז</unclear><supplied reason="lost">רתכה ובש</supplied>לומכה.   מיא כמוכה בכוח אל ישראל ועם
+      <lb n="14"/>אביונים יד גבורתכה.   ומיא מלאך ושר כעזרת פו<supplied reason="lost">עליכה.   כי</supplied>א מאז יעדתה לכה יום קרב ר<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><unclear cert="high">ה</unclear>
+      <lb n="15"/><gap reason="lost" extent="unknown"/>ל<supplied reason="lost">עז</supplied><unclear cert="low">ו</unclear>ר באמת ולהשמיד באשמה להשפיל חושך ולהגביר אור ול<gap reason="lost" extent="unknown"/>
+      <lb n="16"/><gap reason="lost" extent="unknown"/>ל למעמד עולמים לכלות כול בני חושך ושמחה ל<supplied reason="lost">כו]ל [בני אור.</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="17"/><gap reason="lost" extent="unknown"/><del rend="erasure"> </del><gap reason="lost" extent="unknown"/>
+      <lb n="18"/><gap reason="lost" extent="unknown"/><supplied reason="lost">כ</supplied><unclear cert="low">י</unclear>א אתה יעדתנו למ<gap reason="illegible" unit="character" quantity="1"/><supplied reason="lost">.</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="19"/><gap reason="lost" extent="unknown"/>
+      <lb n="20"/><gap reason="lost" extent="unknown"/>
+      </div>
+      <div type="column" n="14">
+      <lb n="1"/>כאש עברתו באלילי מצרים.   <del rend="erasure"> </del>
+      <lb n="2"/>ואחר העלותם מעל החללים לבוא המחנה ירננו כולם את תהלת המשוב.   ובבוקר יכבסו בגדיהם ורחצו
+      <lb n="3"/>מדם פגרי האשמה.   ושבו אל מקום עומדם אשר סדרו שם המערכה לפני נפול חללי האויב.   וברכו שם
+      <lb n="4"/>כולם את אל ישראל ורוממו שמו ביחד שמחה.   וענו ואמרו ברוך אל ישראל השומר חסד לבריתו ותעודות
+      <lb n="5"/>ישועה לעם פדותו.   ויקרא כושלים ל<supplied reason="lost">גבור</supplied><unclear cert="low">ו</unclear>ת פלא וקהל גויים אסף לכלה אין שארית ולהרים במשפט
+      <lb n="6"/>לב נמס ולפתוח פה לנאלמים לרנן בגבו<unclear cert="high">ר</unclear><supplied reason="lost">ת אל וידים</supplied> רפות ללמד מלחמה.   ונותן לנמוגי ברכים חזוק מעמד
+      <lb n="7"/>ואמוץ מתנים לשכם מכים.   ובענוי רו<unclear cert="high">ח</unclear><supplied reason="lost"> רשות</supplied><gap reason="lost" extent="unknown"/><unclear cert="high">ס</unclear>ם לבב קושי.   ובתמימי דרך יתמו כול גויי רשעה.
+      <lb n="8"/>ולכול גבוריהם אין מעמד.   ואנו שא<supplied reason="lost">רית עמכה.   ברוך</supplied> שמכה אל החסדים השומר ברית לאבותינו.   ועם
+      <lb n="9"/>כול דורותינו הפלתה חסדיכה לשא<unclear cert="low">ר</unclear><supplied reason="lost">ית עמכה</supplied> בממשלת בליעל.   ובכול רזי שטמתו לוא הדיחונ<supplied reason="lost">ו</supplied>
+      <lb n="10"/>מבריתכה.   ורוחי <supplied reason="lost">ח</supplied><unclear cert="low">ב</unclear>לו גערתה מ<unclear cert="low">מ</unclear><supplied reason="lost">נו ובהתרשע אנ</supplied>שי ממשלתו שמ<add place="above">ר</add>תה נפש פדותכה.   ואתה הקימותה
+      <lb n="11"/>נופלים בעוזכה ורמי קומה תגד<supplied reason="lost">ע להשפילם.   ו</supplied>לכול גבוריהם אין מציל ולקליהם אין מנוס.   ולנכבדיהם
+      <lb n="12"/>תשיב לבוז.   וכול יקום הבל<unclear cert="high">י</unclear><supplied reason="lost">הם יהיה כא</supplied><unclear cert="low">י</unclear>ן.   ואנו עם קודשכה במעשי אמתכה נהללה שמכה
+      <lb n="13"/>ובגבורותיכה נרוממה ת<unclear cert="low">פ</unclear><supplied reason="lost">ארתכה בכול</supplied> עתים ומועדי תעודות עולמים עם מ<supplied reason="lost">בו</supplied>א יומם ולילה
+      <lb n="14"/>ומוצאי ערב ובוקר.   כיא גדולה <unclear cert="low">מ</unclear><supplied reason="lost">חשבת כבו</supplied>דכה ורזי נפלאותיכה במרומ<unclear cert="high">י</unclear><supplied reason="lost">כה</supplied> ל<supplied reason="lost">הרי</supplied><unclear cert="high">ם</unclear> לכה מעפר
+      <lb n="15"/>ולהשפיל מאלים.   <del rend="erasure"> </del>
+      <lb n="16"/>רומה רומה אל אלים והנשא בע<unclear cert="low">ו</unclear><supplied reason="lost">ז מלך המלכים.   <gap reason="lost" extent="unknown"/> שמתה על <gap reason="lost" extent="unknown"/> מעליכה יפוצו</supplied>
+      <lb n="17"/><supplied reason="lost">כו</supplied>ל <supplied reason="lost">ב</supplied>ני חושך.   ואור גודלכה י<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">אלים ואנשים <gap reason="lost" extent="unknown"/>אש בוערת במחשכי אבדונים</supplied>
+      <lb n="18"/><supplied reason="lost">באבדוני ש</supplied><unclear cert="low">א</unclear><unclear cert="high">ו</unclear>ל תוקד לשר<unclear cert="high">פ</unclear><supplied reason="lost">ת עולמים <gap reason="lost" extent="unknown"/> פושעים <gap reason="lost" extent="unknown"/> בכול מועדי עולמים.   <del rend="erasure"> </del> </supplied>
+      <lb n="19"/><supplied reason="lost">כול הודות המלחמה יספרו שמה ואחר ישובו אל מחנותמה <gap reason="lost" extent="unknown"/> שמה לסרך</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="20"/><gap reason="lost" extent="unknown"/>
+      </div>
+      <div type="column" n="15">
+      <lb n="1"/>כיא היאה עת צרה ליש<unclear cert="high">ר</unclear><supplied reason="lost">אל ותעו</supplied>דת מלחמה <del rend="dots">{על</del>} <add place="above">ב</add>כול הגויים.   וגורל אל בפדות עולמים
+      <lb n="2"/>וכלה לכול גוי רשעה.   וכול ע<supplied reason="lost">תודי</supplied> המלחמה ילכו וחנו נגד מלך הכתיים ונגד כול חיל
+      <lb n="3"/>בליעל הנועדים עמו ליום <supplied reason="lost">נקם</supplied> בחרב אל.   <del rend="erasure"></del>
+      <lb n="4"/>ועמד כוהן הראש ואחיו ה<unclear cert="low">כ</unclear><supplied reason="lost">והנים</supplied> והלויים וכול אנשי הסרך עמו.   וקרא באוזניהם
+      <lb n="5"/>את תפלת מועד המל<unclear cert="high">ח</unclear><supplied reason="lost">מה ככתוב בס</supplied>פר סרך עתו עם כול דברי הודותם.   וסדר שם
+      <lb n="6"/>את כול המערכות ככ<unclear cert="low">ת</unclear><supplied reason="lost">וב בספר המלח</supplied><unclear cert="low">מ</unclear>ה.   והתהלך הכוהן החרוץ למועד נקם על פי
+      <lb n="7"/>כול אחיו וחזק א<unclear cert="low">ת</unclear><supplied reason="lost"> ידיהם במלחמ</supplied>ה.   וענה ואמר חזקו ואמצו והיו לבני חיל.
+      <lb n="8"/>אל תיראו ואל ת<unclear cert="high">ח</unclear><supplied reason="lost">תו ואל ירך לבבכ</supplied>מה.   ואל תחפזו ואל תערוצו מפניהם ואל
+      <lb n="9"/>תשובו אחור ואל <supplied reason="lost">תנוסו מפניהם</supplied>.   כיא <unclear cert="high">ה</unclear>מה עדת רשעה ובחושך כול מעשיהם
+      <lb n="10"/>ואליו תשוק<unclear cert="low">ת</unclear><supplied reason="lost">ם.</supplied><gap reason="lost" extent="unknown"/>מחסיהם וגבורתם כעשן נמלח וכול קהל
+      <lb n="11"/><supplied reason="lost">ה</supplied>מונם <supplied reason="lost"> כמוץ עובר <gap reason="lost" extent="unknown"/> ש</supplied>ממה לוא ימצא וכול יקום הוותם מהר ימלו
+      <lb n="12"/><supplied reason="lost">כצי]ץ בק[ציר</supplied><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> התחזקו למלחמת אל כיא {{<unclear cert="high">י</unclear><unclear cert="low">ו</unclear><unclear cert="high">ם</unclear>}} <add place="above">מועד</add> מלחמה היום הזה
+      <lb n="13"/><supplied reason="lost">ל</supplied><unclear cert="low">א</unclear>ל על כול <unclear cert="high">ה</unclear><unclear cert="low">ג</unclear><supplied reason="lost">ויים <gap reason="lost" extent="unknown"/> מש</supplied><unclear cert="low">פ</unclear><unclear cert="high">ט</unclear> על כול בשר.   אל ישראל מרים ידו ב<supplied reason="lost">גבור</supplied>ת פלאו
+      <lb n="14"/><supplied reason="lost">על</supplied> כול רוחי רש<supplied reason="lost">עה <gap reason="lost" extent="unknown"/> ג</supplied>בורי אלים מתאזרים למלחמ<supplied reason="lost">ה ו</supplied>סדר<supplied reason="lost">י קד</supplied>ושים
+      <lb n="15"/><supplied reason="lost">מתע</supplied><unclear cert="low">ת</unclear>דים ליום <supplied reason="lost">נקם</supplied><gap reason="lost" extent="unknown"/>ל<gap reason="lost" extent="unknown"/>ל<gap reason="lost" extent="unknown"/>ל<gap reason="illegible" unit="character" quantity="2"/>
+      <lb n="16"/>אל <unclear cert="low">י</unclear><supplied reason="lost">שרא</supplied>ל<gap reason="lost" extent="unknown"/>
+      <lb n="17"/>להסיר ב<unclear cert="low">ל</unclear><supplied reason="lost">יעל</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="18"/>באבדונו ח<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="19"/><gap reason="lost" extent="unknown"/>
+      <lb n="20"/><gap reason="lost" extent="unknown"/>.
+      </div>
+      <div type="column" n="16">
+      <lb n="1"/>עד תום כול מקור <gap reason="lost" extent="unknown"/><supplied reason="lost">כיא</supplied> אל ישראל קרא חרב על כול הגואים ובקדושי עמו יעשה גבורה.
+      <lb n="2"/><del rend="erasure"> </del><gap reason="lost" extent="unknown"/><del rend="erasure"> </del>
+      <lb n="3"/>את כול הסרך הזה יעשו<supplied reason="lost"> ביום ה</supplied>הואה על עומדם נגד מחני כתיים.   ואחר יתקעו להמה הכוהנים בחצוצרות
+      <lb n="4"/>הזכרון ופתחו שערי המ<supplied reason="lost">לחמה.   וי</supplied><unclear cert="high">צ</unclear>או אנשי הבינים ועמדו ראשים בין המערכות.   ותקעו להם הכוהנים
+      <lb n="5"/>תרועה סדר.   והראשי<unclear cert="low">ם</unclear> <supplied reason="lost">יהיו נפשט</supplied><unclear cert="high">י</unclear>ם לקול החצוצרות עד התיצבם איש על מעמדו.   ותקעו להם
+      <lb n="6"/>הכוהנים תרועה שנ<unclear cert="low">ית</unclear> <supplied reason="lost">ידי התק</supplied><unclear cert="low">ר</unclear>ב.   ובעומדם ליד מערכת כתיים כדי הטל ירימו איש ידו בכלי
+      <lb n="7"/>מלחמתו וששת <supplied reason="lost">הכוהנים יריעו בח</supplied>צוצרות החללים קול חד טרוד לנצח מלחמה.   והלוים וכול עם
+      <lb n="8"/>השופרות יריע<supplied reason="lost">ו תרוע</supplied><unclear cert="high">ת</unclear> <unclear cert="low">מ</unclear><supplied reason="lost">לחמה ב</supplied>קול גדול.   ועם צאת הקול יחלו ידם להפיל בחללי כתיים וכול
+      <lb n="9"/>העם יחשו קול <unclear cert="low">התרועה</unclear><supplied reason="lost">.   והכוהנ</supplied><unclear cert="high">י</unclear>ם יהיו מריעים בחצוצרות החללים והמלחמה מתנצחת בכתיים.
+      <lb n="10"/><del rend="erasure"> </del><gap reason="lost" extent="unknown"/><del rend="erasure"> </del>
+      <lb n="11"/>ובהתאזר <supplied reason="lost">בליעל</supplied> <unclear cert="high">ל</unclear>ע<unclear cert="low">ז</unclear><unclear cert="high">ר</unclear>ת בני <unclear cert="high">חו</unclear>שך וחללי הבינים יחלו לנפול ברזי אל ולבחון בם כול חרוצי המלחמה
+      <lb n="12"/>והכ<supplied reason="lost">ו</supplied>הנים ית<unclear cert="low">ק</unclear><supplied reason="lost">עו </supplied><unclear cert="low">ב</unclear><unclear cert="high">ח</unclear><supplied reason="lost">צו</supplied><unclear cert="low">צ</unclear><unclear cert="high">ר</unclear>ות המקרא לצאת מערכה אחרת חליפה למלחמה ועמדו בין המערכות.
+      <lb n="13"/>ולמתקרב<unclear cert="low">י</unclear><supplied reason="lost">ם למ</supplied>ל<unclear cert="low">חמה</unclear> <unclear cert="high">ית</unclear>קעו לשוב.   ונגש כוהן הרואש ועמד לפני המערכה וחזק את
+      <lb n="14"/>לבבם ב<supplied reason="lost">גבורות פלאו ואת </supplied><unclear cert="low">יד</unclear>יהם במלחמתו.   <del rend="erasure"> </del>
+      <lb n="15"/>וענה ואמ<unclear cert="high">ר</unclear> <supplied reason="lost">ברוך אל ו</supplied>ל<supplied reason="lost">ב</supplied>ב עמו יבחן ב<unclear cert="low">מצרף</unclear> <unclear cert="high">ו</unclear>לוא <supplied reason="lost">מ</supplied><gap reason="lost" extent="unknown"/><unclear cert="low">ח</unclear>לליכם כיא מאז שמעת<unclear cert="high">ם</unclear>
+      <lb n="16"/><unclear cert="high">בר</unclear>זי אל <supplied reason="lost">ואתם התחזקו ועמודו בפרץ.   ואל תיראו באמץ</supplied><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/>הם ליח<add place="above">ו</add><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>
+      <lb n="17"/>כג<gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>ל<gap reason="lost" extent="unknown"/><supplied reason="lost">.   </supplied>
+      <lb n="18"/><gap reason="lost" extent="unknown"/>
+      <lb n="19"/><gap reason="lost" extent="unknown"/>
+      <lb n="20"/><gap reason="lost" extent="unknown"/>
+      </div>
+      <div type="column" n="17">
+      <lb n="1"/>ושם שלומם בדלק <gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> בחוני מצרף.   ושנן כלי מלחמתה ולוא יכהו עד <supplied reason="lost">כלות כול גוי</supplied>
+      <lb n="2"/>רשע.   ואתמה זכורו משפ<unclear cert="low">ט</unclear><supplied reason="lost"> נדב ואבי</supplied><unclear cert="high">ה</unclear>וא בני אהרון אשר התקדש אל במשפטם לעיני <supplied reason="lost">כול העם.   ואלעזר</supplied>
+      <lb n="3"/>ואיתמר החזיק לו לברית <supplied reason="lost">כהונת </supplied><unclear cert="low">ע</unclear>ולמים.   <del rend="erasure"> </del><supplied reason="lost"></supplied>
+      <lb n="4"/>ואתם התחזקו ואל תיראום <gap reason="lost" extent="unknown"/><supplied reason="lost">כיא</supplied> המה לתהו ולבהו תשוקתם ומשענתם בלוא ח<supplied reason="lost">יל</supplied>.   <unclear cert="low">ו</unclear><unclear cert="high">ל</unclear>וא<gap reason="lost" extent="unknown"/>
+      <lb n="5"/>ישראל כול הו<unclear cert="high">י</unclear>ה ונהיה.   ו<gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>ל בכול נהיי עולמים.   היום מועדו להכניע ולהשפיל שר ממשלת
+      <lb n="6"/>רשעה.   וישלח עזר ע<unclear cert="high">ו</unclear>ל<unclear cert="high">מי</unclear>ם לגורל <supplied reason="lost">פ</supplied><unclear cert="high">ד</unclear>ותו בגבורת מלאך האדיר למשרת מיכאל באור עולמים.
+      <lb n="7"/>להאיר בשמחה ברית ישראל של<unclear cert="high">ו</unclear>ם וברכה לגורל אל.   להרים באלים משרת מיכאל וממשלת
+      <lb n="8"/>ישראל בכול בשר.   ישמח צדק <unclear cert="low">ב</unclear>מרומים וכול בני אמתו יגילו בדעת עולמים.   ואתם בני בריתו
+      <lb n="9"/>התחזקו במצרף אל עד יניף <unclear cert="high">י</unclear>דו <unclear cert="low">ו</unclear>מלא מצרפיו רזיו למעמדכם.   <del rend="erasure"> </del>
+      <lb n="10"/>ואחר הדברים האלה יתקעו <add place="above">הכוהנים</add> להם לסדר דגלי המערכה.   והראשים נפשטים לקול החצוצרות
+      <lb n="11"/>עד התיצ<supplied reason="lost">בם אי</supplied>ש על מעמד<supplied reason="lost">ו.   </supplied><unclear cert="low">ו</unclear><unclear cert="high">ת</unclear>קעו הכוהנים בחצוצרות תרועה שנית יידי התקרב.   ובהגיע
+      <lb n="12"/>אנשי <supplied reason="lost">הבינים ליד מע</supplied><unclear cert="low">ר</unclear>כת כתי<unclear cert="low">י</unclear><supplied reason="lost">ם </supplied><unclear cert="low">כ</unclear>די הטל ירימו איש ידו בכלי מלחמתו והכוהנים יריעו בחצוצרות
+      <lb n="13"/>החלל<unclear cert="high">ים</unclear><supplied reason="lost"> והלוים וכו</supplied>ל עם השופרות יריעו תרועת מלחמה.   ואנשי הבינים ישלחו ידם בחיל
+      <lb n="14"/>הכתיים <supplied reason="lost">ועם צאת קו</supplied>ל<supplied reason="lost"> הת</supplied><unclear cert="low">ר</unclear>ועה יחלו להפיל בחלליהם.   וכול העם יני<unclear cert="high">ח</unclear><supplied reason="lost">ו </supplied>קול התרועה.   והכוהנים
+      <lb n="15"/>יהיו מריעים <unclear cert="low">ב</unclear><supplied reason="lost">חצוצרות החללים</supplied> וה<unclear cert="high">מ</unclear>ל<supplied reason="lost">חמ</supplied>ה <unclear cert="high">מ</unclear><supplied reason="lost">תנצח</supplied><unclear cert="low">ת</unclear> <unclear cert="low">בכ</unclear><supplied reason="lost">תיים</supplied><gap reason="lost" extent="unknown"/>ל <unclear cert="low">נ</unclear>גפים לפניהם.
+      <lb n="16"/>ובגורל השל<supplied reason="lost">ישי</supplied><gap reason="lost" extent="unknown"/>ל<supplied reason="lost">נפ</supplied><unclear cert="high">ו</unclear>ל חללים
+      <lb n="17"/><supplied reason="lost"> </supplied><gap reason="illegible" unit="character" quantity="1"/>אל<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/>ל<gap reason="illegible" unit="character" quantity="1"/>.
+      <lb n="18"/><gap reason="lost" extent="unknown"/>
+      <lb n="19"/><gap reason="lost" extent="unknown"/>
+      <lb n="20"/><gap reason="lost" extent="unknown"/>
+      </div>
+      <div type="column" n="18">
+      <lb n="1"/><supplied reason="lost">ובגורל השביע</supplied><unclear cert="low">י</unclear> ב<unclear cert="high">ה</unclear><supplied reason="lost">נ</supplied>שא יד אל הגדולה על בליעל ועל כול <unclear cert="low">ח</unclear><supplied reason="lost">י</supplied>ל ממשלתו במגפת עולמים
+      <lb n="2"/><gap reason="lost" extent="unknown"/> ותרועת קדושים ברדף אשור.   ונפלו בני יפת לאין קום וכתיים יכתו לאין
+      <lb n="3"/><supplied reason="lost">שארית ופליטה.   והית</supplied><unclear cert="low">ה</unclear> משאת יד אל ישראל על כול המון בליעל.   בעת ההיאה יריעו הכוהנים
+      <lb n="4"/><supplied reason="lost">בשש חצוצר</supplied>ות הזכרון ונאספו אליהם כול מערכות המלחמה ונחלקו על כול מ<supplied reason="lost">חני הכ</supplied><unclear cert="low">ת</unclear>יים
+      <lb n="5"/>להחרי<unclear cert="high">מ</unclear>ם.   <supplied reason="lost">וב</supplied><unclear cert="high">א</unclear>וץ השמש לבוא ביום ההואה יעמוד כוהן הרואש והכוהנים והלוי<supplied reason="lost">י</supplied><unclear cert="low">ם</unclear> אשר
+      <lb n="6"/>אתו ורא<supplied reason="lost">שי המערכות ו</supplied>הסרך וברכו שם את אל ישראל.   וענו ואמרו ברוך שמכה אל אלים כיא
+      <lb n="7"/>הגדל<unclear cert="high">תה</unclear> עם עמ<unclear cert="high">כ</unclear><supplied reason="lost">ה</supplied> להפליא.   ובריתכה שמרתה לנו מאז ושערי ישועות פתחתה לנו פעמ<unclear cert="low">י</unclear>ם רבות
+      <lb n="8"/>למע<supplied reason="lost">ן </supplied><unclear cert="low">בר</unclear>יתכה.   ו<supplied reason="lost">תש</supplied>א ענינו כטו<unclear cert="low">ב</unclear>כה בנו ואתה אל ה<unclear cert="low">צ</unclear>דק עשיתה ל<unclear cert="low">מען</unclear> שמכה.   <del rend="erasure"> </del>
+      <lb n="9"/><del rend="erasure"> </del><gap reason="lost" extent="unknown"/><del rend="erasure"> </del>
+      <lb n="10"/><gap reason="lost" extent="unknown"/><supplied reason="lost">גבור</supplied><unclear cert="low">תכה</unclear> <unclear cert="low">הפ</unclear>לתה עמנו הפלא <unclear cert="low">ו</unclear>פלא ומאז לוא נהיתה כמוהה.   <del rend="dots">ואתה</del> &lt;<add place="above">כ</add>י<add place="above">א</add> אתה&gt; ידעתה למועדנו.   והיום הופיע
+      <lb n="11"/>ל<unclear cert="high">נ</unclear>ו כו<unclear cert="low">ח</unclear><supplied reason="lost">כה והראי</supplied>תנו יד חסדיכה עמנו בפדות עולמים.   להסיר מ<unclear cert="low">מ</unclear><supplied reason="lost">ש</supplied>ל<unclear cert="low">ת</unclear><supplied reason="lost"> </supplied><unclear cert="low">א</unclear>ויב לאין עוד ויד ג<unclear cert="high">בו</unclear>רתכה
+      <lb n="12"/>ובמ<unclear cert="low">ל</unclear><supplied reason="lost">חמה התגברת</supplied><unclear cert="low">ה</unclear> <supplied reason="lost">ע</supplied>ל אויבינו למגפת כלה.   ועתה היום אץ לנו <unclear cert="high">ל</unclear>רדוף המונם כיא אתה
+      <lb n="13"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/> ולב גבורים מגנתה לאין מעמד.   לכה הגב<unclear cert="high">ור</unclear>ה ובידכה המלחמה ואין
+      <lb n="14"/><supplied reason="lost">אל כמוכה</supplied><gap reason="lost" extent="unknown"/>ל<gap reason="lost" extent="unknown"/><unclear cert="low">ח</unclear>יכה ומועדים לר<unclear cert="high">צ</unclear>ונכה וג<unclear cert="high">מו</unclear>ל <supplied reason="lost">רשעים תשיב לאויב</supplied><unclear cert="high">י</unclear>כה ותבצור ממ<gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/>
+      <lb n="15"/><gap reason="lost" extent="unknown"/>ל<gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">.   </supplied>
+      <lb n="16"/><gap reason="lost" extent="unknown"/>
+      <lb n="17"/><gap reason="lost" extent="unknown"/>
+      <lb n="18"/><gap reason="lost" extent="unknown"/>
+      <lb n="19"/><gap reason="lost" extent="unknown"/>
+      <lb n="20"/><gap reason="lost" extent="unknown"/>
+      </div>
+      <div type="column" n="19">
+      <lb n="1"/><supplied reason="lost">לעג וקלס לג</supplied><unclear cert="high">ב</unclear>ורים.   כיא קדוש אדירנו ומלך הכבוד אתנו וצ<supplied reason="lost">בא רוחיו עם צעדינו ופרשינו</supplied>
+      <lb n="2"/><supplied reason="lost">כעננים וכעבי ט</supplied>ל ל<unclear cert="low">כ</unclear>סות ארץ וכזרם רביבים להשקות משפט ל<unclear cert="high">כ</unclear><supplied reason="lost">ול צאצאיה.   קומה גבור</supplied>
+      <lb n="3"/><supplied reason="lost">שבה שביכה איש כבוד ושו</supplied>ל שללכה עושי חיל.   תן ידכה בעורף אויביך <unclear cert="high">ורג</unclear><supplied reason="lost">ל</supplied><unclear cert="high">ך</unclear> <supplied reason="lost">על במותי</supplied>
+      <lb n="4"/><supplied reason="lost">חלל.   מחץ גוים צריכ</supplied><unclear cert="high">ה</unclear> וחרבך תואכל בשר.   מלא ארצכה כבוד ונחלתכה ברכה.   ה<supplied reason="lost">מון מקנה</supplied>
+      <lb n="5"/><supplied reason="lost">בחלקותיכה כסף וזהב </supplied><unclear cert="low">ב</unclear>היכלותיך.   ציון שמחי מואדה והגלנה כול ערי יהו<supplied reason="lost">דה.   פתחי</supplied>
+      <lb n="6"/><supplied reason="lost">שעריך תמיד להביא אליך</supplied> חיל גוים.   ומלכיהם ישרתוך והשתחוו לך <supplied reason="lost">כול מעני</supplied>ך
+      <lb n="7"/><supplied reason="lost">ועפר רגליך ילחכו.   ב</supplied><unclear cert="low">נות</unclear><supplied reason="lost"> ע</supplied>מי הבענה בקול רנה.   עדינה עדי כבוד ו<unclear cert="low">ר</unclear><supplied reason="lost">די</supplied>נה במלכות
+      <lb n="8"/><gap reason="lost" extent="unknown"/><supplied reason="lost">למחנ</supplied><unclear cert="low">י</unclear>כה וישראל למלכות <supplied reason="lost">ע</supplied><unclear cert="high">ו</unclear>למים.   <del rend="erasure"> </del><gap reason="lost" extent="unknown"/><del rend="erasure"> </del>
+      <lb n="9"/><supplied reason="lost">ואחר יאספו המח</supplied><unclear cert="low">נה</unclear> <supplied reason="lost">ב</supplied>ל<supplied reason="lost">י</supplied>לה ההוא למנוח עד הבוקר.   ובבוק<unclear cert="high">ר</unclear> יבואו <unclear cert="high">ע</unclear><unclear cert="low">ד</unclear> <unclear cert="low">מ</unclear><supplied reason="lost">ק</supplied><unclear cert="high">ו</unclear>ם המערכה
+      <lb n="10"/><supplied reason="lost">אשר נפלו שם ג</supplied><unclear cert="low">ב</unclear>ורי כתיים והמון אשור וחיל כול הגוים <unclear cert="low">ה</unclear>נקהלים א<unclear cert="high">ם</unclear><supplied reason="lost"> מתו ר</supplied><unclear cert="low">וב</unclear> חללים
+      <lb n="11"/><supplied reason="lost">לאין מקבר אשר</supplied> <unclear cert="high">נ</unclear>פלו שם בחרב אל.   ונגש שם כוהן הר<unclear cert="low">ו</unclear><supplied reason="lost">אש ומש</supplied>נהו <unclear cert="low">ו</unclear>אחיו <supplied reason="lost">הכוהנים</supplied>
+      <lb n="12"/><supplied reason="lost">והלוים עם נשיא ה</supplied><unclear cert="high">מ</unclear>לחמה וכול ראשי <unclear cert="low">ה</unclear>מערכות ופקו<unclear cert="high">ד</unclear><supplied reason="lost">יהם</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="13"/><gap reason="lost" extent="unknown"/><supplied reason="lost">יחד בעומדם ע</supplied>ל<supplied reason="lost"> ח</supplied>ללי <unclear cert="high">כ</unclear>ת<unclear cert="high">י</unclear><supplied reason="lost">ים.   וה</supplied>ללו שם <supplied reason="lost">א</supplied><unclear cert="high">ת</unclear> אל <supplied reason="lost">ישראל.   וענו ואמרו</supplied><gap reason="lost" extent="unknown"/>
+      <lb n="14"/>[ <gap reason="lost" extent="unknown"/> לאל עליון ול<gap reason="illegible" unit="character" quantity="2"/> <gap reason="lost" extent="unknown"/> ].
+      </div>
+      <div type="column" n="20">
+      <lb n="8"/>ל<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown"/><supplied reason="lost">.   </supplied>
+      </div>
+      <div type="column" n="f3">
+      <lb n="1"/><gap reason="lost" extent="unknown"/><gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">.   </supplied>
+      <lb n="2"/><gap reason="lost" extent="unknown"/>ים מכול ומ<gap reason="lost" extent="unknown"/><supplied reason="lost">.   </supplied>
+      </div>
+      <div type="column" n="f7">
+      <lb n="1"/><gap reason="lost" extent="unknown"/>הו<gap reason="lost" extent="unknown"/>.
+      </div>
+    </body>
+  </text>
+</TEI>

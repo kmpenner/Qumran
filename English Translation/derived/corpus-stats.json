@@ -9,6 +9,15 @@
    "uncertain": 0,
    "words": 1
   },
+  "11Q10": {
+   "columns": 59,
+   "extant": 1289,
+   "gaps": 482,
+   "lines": 429,
+   "reconstructed": 439,
+   "uncertain": 408,
+   "words": 1728
+  },
   "11Q11": {
    "columns": 11,
    "extant": 217,
@@ -80,6 +89,15 @@
    "reconstructed": 98,
    "uncertain": 173,
    "words": 648
+  },
+  "11Q19": {
+   "columns": 65,
+   "extant": 6594,
+   "gaps": 401,
+   "lines": 1096,
+   "reconstructed": 3259,
+   "uncertain": 1086,
+   "words": 9853
   },
   "11Q20": {
    "columns": 28,
@@ -242,6 +260,15 @@
    "reconstructed": 14,
    "uncertain": 5,
    "words": 18
+  },
+  "1Q20": {
+   "columns": 21,
+   "extant": 3200,
+   "gaps": 378,
+   "lines": 466,
+   "reconstructed": 227,
+   "uncertain": 801,
+   "words": 3427
   },
   "1Q21": {
    "columns": 61,
@@ -647,6 +674,33 @@
    "reconstructed": 0,
    "uncertain": 2,
    "words": 10
+  },
+  "1QHa": {
+   "columns": 43,
+   "extant": 6131,
+   "gaps": 786,
+   "lines": 933,
+   "reconstructed": 1382,
+   "uncertain": 1711,
+   "words": 7513
+  },
+  "1QM": {
+   "columns": 22,
+   "extant": 3566,
+   "gaps": 181,
+   "lines": 378,
+   "reconstructed": 531,
+   "uncertain": 303,
+   "words": 4097
+  },
+  "1QS": {
+   "columns": 11,
+   "extant": 3671,
+   "gaps": 5,
+   "lines": 283,
+   "reconstructed": 56,
+   "uncertain": 53,
+   "words": 3727
   },
   "1QSa": {
    "columns": 2,
@@ -1133,6 +1187,15 @@
    "reconstructed": 12,
    "uncertain": 2,
    "words": 239
+  },
+  "4Q176": {
+   "columns": 50,
+   "extant": 379,
+   "gaps": 277,
+   "lines": 182,
+   "reconstructed": 265,
+   "uncertain": 132,
+   "words": 644
   },
   "4Q177": {
    "columns": 25,
@@ -1656,6 +1719,15 @@
    "uncertain": 18,
    "words": 51
   },
+  "4Q249": {
+   "columns": 16,
+   "extant": 95,
+   "gaps": 150,
+   "lines": 83,
+   "reconstructed": 8,
+   "uncertain": 71,
+   "words": 103
+  },
   "4Q249a": {
    "columns": 2,
    "extant": 4,
@@ -1880,6 +1952,15 @@
    "reconstructed": 0,
    "uncertain": 1,
    "words": 4
+  },
+  "4Q249z": {
+   "columns": 182,
+   "extant": 301,
+   "gaps": 794,
+   "lines": 408,
+   "reconstructed": 6,
+   "uncertain": 252,
+   "words": 307
   },
   "4Q250": {
    "columns": 1,
@@ -2141,6 +2222,15 @@
    "reconstructed": 230,
    "uncertain": 105,
    "words": 497
+  },
+  "4Q266": {
+   "columns": 109,
+   "extant": 1263,
+   "gaps": 581,
+   "lines": 564,
+   "reconstructed": 1583,
+   "uncertain": 670,
+   "words": 2846
   },
   "4Q267": {
    "columns": 25,
@@ -2619,6 +2709,15 @@
    "uncertain": 60,
    "words": 133
   },
+  "4Q299": {
+   "columns": 109,
+   "extant": 802,
+   "gaps": 839,
+   "lines": 461,
+   "reconstructed": 190,
+   "uncertain": 417,
+   "words": 992
+  },
   "4Q300": {
    "columns": 16,
    "extant": 187,
@@ -2717,6 +2816,15 @@
    "reconstructed": 0,
    "uncertain": 1,
    "words": 2
+  },
+  "4Q317": {
+   "columns": 72,
+   "extant": 306,
+   "gaps": 509,
+   "lines": 355,
+   "reconstructed": 531,
+   "uncertain": 252,
+   "words": 837
   },
   "4Q318": {
    "columns": 8,
@@ -3194,6 +3302,15 @@
    "reconstructed": 0,
    "uncertain": 5,
    "words": 17
+  },
+  "4Q364": {
+   "columns": 79,
+   "extant": 550,
+   "gaps": 259,
+   "lines": 405,
+   "reconstructed": 2019,
+   "uncertain": 435,
+   "words": 2569
   },
   "4Q365": {
    "columns": 69,
@@ -6093,6 +6210,15 @@
    "uncertain": 2,
    "words": 4
   },
+  "CD": {
+   "columns": 18,
+   "extant": 3851,
+   "gaps": 28,
+   "lines": 414,
+   "reconstructed": 155,
+   "uncertain": 357,
+   "words": 4006
+  },
   "KhQ1": {
    "columns": 1,
    "extant": 30,
@@ -6509,12 +6635,12 @@
   }
  },
  "total": {
-  "columns": 8025,
-  "extant": 63797,
-  "gaps": 43535,
-  "lines": 30275,
-  "reconstructed": 45239,
-  "uncertain": 32179,
-  "words": 109036
+  "columns": 8881,
+  "extant": 95795,
+  "gaps": 49205,
+  "lines": 36732,
+  "reconstructed": 55890,
+  "uncertain": 39127,
+  "words": 151685
  }
 }
